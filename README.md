@@ -9,7 +9,7 @@ Til udvikling af Unghanekorets sangsamlingsapp!
 | `**Fed tekst**` | **Fed tekst** |
 | `***Fed og kursiv tekst***` | ***Fed og kursiv tekst*** |
 | `~~Gennemstreget tekst~~` | ~~Gennemstreget tekst~~ |
-| ``Kodeblok`` | `Kodeblok` |
+| ``\`Kodeblok\`` | `Kodeblok` |
 
 ## Overskrifter
 Brug "#" i starten af linjen for at angive, at linjen er en overskrift. Afslut med linjeskift.
