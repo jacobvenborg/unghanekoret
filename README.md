@@ -4,13 +4,22 @@ Til udvikling af Unghanekorets sangsamlingsapp!
 # Hjælp til markdown-format
 ## Tekst-effekter
 | Markdown-kode | Effekt |
-| :- | :- |
+| - | - |
 | `*Kursiv tekst*` | *Kursiv tekst* |
 | `**Fed tekst**` | **Fed tekst** |
 | `***Fed og kursiv tekst***` | ***Fed og kursiv tekst*** |
 | `~~Gennemstreget tekst~~` | ~~Gennemstreget tekst~~ |
 
 ## Overskrifter
+Brug "#" i starten af linjen for at angive, at linjen er en overskrift. F.eks.
+`# Overskrift 1`
+# Overskrift 1
+## Overskrift 2
+###  Overskrift 3
+####  Overskrift 4
+#####  Overskrift 5
+######  Overskrift 6
+
 | Markdown-kode | Effekt |
 | :- | :- |
 | <h1>Overskrift 1</h1> | `# Overskrift 1`|
@@ -21,6 +30,8 @@ Til udvikling af Unghanekorets sangsamlingsapp!
 | Markdown-kode | Effekt |
 | 1. Nummeret listepunkt 1 |
 2. Nummeret listepunkt  2
+
+ffs
 
 `1. Nummeret listepunkt  1`
 `2. Nummeret listepunkt  2`
