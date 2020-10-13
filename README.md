@@ -25,8 +25,7 @@ Brug "#" i starten af linjen for at angive, at linjen er en overskrift. Afslut m
 ## Lister og punkter
 | Markdown-kode | Effekt |
 | :- | :- |
-| `1. Nummeret listepunkt 1`| <ol><ul>1. Nummeret listepunkt 1</ul></ol> |
-| Markdown-kode | Effekt |
+| `1. Nummeret listepunkt 1`\`2. Nummeret listepunkt 2`| <ol><li>Nummeret listepunkt 1</li><li>Nummeret listepunkt 2</li></ol> |
 |  |
 2. Nummeret listepunkt  2
 
