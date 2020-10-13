@@ -4,7 +4,7 @@ Til udvikling af Unghanekorets sangsamlingsapp!
 # Hjælp til markdown-format
 ## Tekst-effekter
 | Markdown-kode | Effekt |
-| - | - |
+| :- | :- |
 | `*Kursiv tekst*` | *Kursiv tekst* |
 | `**Fed tekst**` | **Fed tekst** |
 | `***Fed og kursiv tekst***` | ***Fed og kursiv tekst*** |
@@ -24,7 +24,10 @@ Brug "#" i starten af linjen for at angive, at linjen er en overskrift. Afslut m
 
 ## Lister og punkter
 | Markdown-kode | Effekt |
-| 1. Nummeret listepunkt 1 |
+| :- | :- |
+| `1. Nummeret listepunkt 1`| <ol><ul>1. Nummeret listepunkt 1</ul></ol> |
+| Markdown-kode | Effekt |
+|  |
 2. Nummeret listepunkt  2
 
 ffs
