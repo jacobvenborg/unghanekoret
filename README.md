@@ -13,7 +13,7 @@ Til udvikling af Unghanekorets sangsamlingsapp!
 ## Overskrifter
 | Markdown-kode | Effekt |
 | :- | :- |
-| # Overskrift 1 | `# Overskrift 1`|
+| <h1>Overskrift 1</h1> | `# Overskrift 1`|
 | ## Overskrift 2 | `## Overskrift 2` |
 | ### Overskrift 3 | `### Overskrift 3` |
 
