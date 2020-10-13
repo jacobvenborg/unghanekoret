@@ -11,12 +11,12 @@ Til udvikling af Unghanekorets sangsamlingsapp!
 | `~~Gennemstreget tekst~~` | ~~Gennemstreget tekst~~ |
 | `` `Kodelinje` `` | `Kodelinje` |
 
-```
+~~~
 Man kan også lave en kodeblok ved at bruge
-```` ``` ````
-til at lave kodeblok
-```` ``` ````
 ```
+til at lave kodeblok
+```
+~~~
 
 ## Overskrifter
 Brug "#" i starten af linjen for at angive, at linjen er en overskrift. Afslut med linjeskift.
