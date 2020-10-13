@@ -11,11 +11,19 @@ Til udvikling af Unghanekorets sangsamlingsapp!
 | `~~Gennemstreget tekst~~` | ~~Gennemstreget tekst~~ |
 | `` `Kodelinje` `` | `Kodelinje` |
 
+**Kodeblok**
 ````
 ```
-Ved at indsætte 3 x backticks "`" på en linje over og under din tekst, får man en kodeblok.
+Brug 3 backticks på linjen over og under din tekst for kodeblok.
 ```
 ````
+```
+Brug 3 backticks på linjen over og under din tekst for kodeblok.
+```
+```
+> Brug ">" for at lave citater.
+```
+> Brug ">" for at lave citater.
 
 ## Overskrifter
 Brug "#" efterfulgt af mellemrum i starten af linjen for at angive, at linjen er en overskrift. Antal #'er angiver overskriftens størrelse. Afslut overskrift med linjeskift.
