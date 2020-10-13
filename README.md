@@ -11,24 +11,16 @@ Til udvikling af Unghanekorets sangsamlingsapp!
 | `~~Gennemstreget tekst~~` | ~~Gennemstreget tekst~~ |
 
 ## Overskrifter
-Brug "#" i starten af linjen for at angive, at linjen er en overskrift. F.eks.
-`# Overskrift 1`
-# Overskrift 1
-## Overskrift 2
-###  Overskrift 3
-####  Overskrift 4
-#####  Overskrift 5
-######  Overskrift 6
-####### Overskrift 7
+Brug "#" i starten af linjen for at angive, at linjen er en overskrift. Afslut med linjeskift.
 
 | Markdown-kode | Effekt |
 | :- | :- |
-| <h1>Overskrift 1</h1> | `# Overskrift 1`|
-| <h2>Overskrift 2</h2> | `## Overskrift 2` |
-| <h3>Overskrift 3</h3> | `### Overskrift 3` |
-| <h4>Overskrift 4</h4> | `####  Overskrift 4` |
-| <h5>Overskrift 5</h5> | `#####  Overskrift 5` |
-| <h6>Overskrift 6</h6> | `######  Overskrift 6` | 
+| `# Overskrift 1`| <h1>Overskrift 1</h1> |
+| `## Overskrift 2`| <h2>Overskrift 2</h2>  |
+| `### Overskrift 3`| <h3>Overskrift 3</h3>  |
+| `####  Overskrift 4`| <h4>Overskrift 4</h4>  |
+| `#####  Overskrift 5`| <h5>Overskrift 5</h5>  |
+| `######  Overskrift 6`| <h6>Overskrift 6</h6>  | 
 
 ## Lister og punkter
 | Markdown-kode | Effekt |
