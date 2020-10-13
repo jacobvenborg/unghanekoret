@@ -13,9 +13,9 @@ Til udvikling af Unghanekorets sangsamlingsapp!
 
 ```
 Man kan også lave en kodeblok ved at bruge
-'''
+```` ``` ````
 til at lave kodeblok
-'''
+```` ``` ````
 ```
 
 ## Overskrifter
