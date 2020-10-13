@@ -11,16 +11,9 @@ Til udvikling af Unghanekorets sangsamlingsapp!
 | `~~Gennemstreget tekst~~` | ~~Gennemstreget tekst~~ |
 | `` `Kodelinje` `` | `Kodelinje` |
 
-~~~
-Man kan også lave en kodeblok ved at bruge
-```
-til at lave kodeblok
-```
-~~~
-
 ````
 ```
-til at lave kodeblok
+Ved at indsætte 3 x backticks "`" på en linje over og under din tekst, får man en kodeblok.
 ```
 ````
 
