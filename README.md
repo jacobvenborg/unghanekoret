@@ -9,6 +9,7 @@ Til udvikling af Unghanekorets sangsamlingsapp!
 | `**Fed tekst**` | **Fed tekst** |
 | `***Fed og kursiv tekst***` | ***Fed og kursiv tekst*** |
 | `~~Gennemstreget tekst~~` | ~~Gennemstreget tekst~~ |
+| `> Citér tekst (enter efter citat)` | > Citér tekst |
 
 ## Overskrifter
 Brug "#" i starten af linjen for at angive, at linjen er en overskrift. Afslut med linjeskift.
@@ -26,21 +27,5 @@ Brug "#" i starten af linjen for at angive, at linjen er en overskrift. Afslut m
 | Markdown-kode | Effekt |
 | :- | :- |
 | `1. Nummeret listepunkt 1`<br>`2. Nummeret listepunkt 2`| <ol><li>Nummeret listepunkt 1</li><li>Nummeret listepunkt 2</li></ol> |
-|  |
-2. Nummeret listepunkt  2
+| `- Vilkårlig liste 1`<br>`- Vilkårlig liste 2`| <ul><li>Nummeret listepunkt 1</li><li>Nummeret listepunkt 2</li></ul> |
 
-ffs
-
-`1. Nummeret listepunkt  1`
-`2. Nummeret listepunkt  2`
-
-- Bullet liste 1
-- Bullet liste 2
- 
-
-`- Bullet liste 1`
-`- Bullet liste 2`
-
-> Citér tekst
-
-`> Citér tekst (enter efter citat)`
