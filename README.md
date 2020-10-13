@@ -13,10 +13,11 @@ Til udvikling af Unghanekorets sangsamlingsapp!
 
 ```
 Man kan også lave en kodeblok ved at bruge
-`````
+\`\`\`
 til at lave kodeblok
-`````
+\`\`\`
 ```
+
 ## Overskrifter
 Brug "#" i starten af linjen for at angive, at linjen er en overskrift. Afslut med linjeskift.
 
