@@ -19,10 +19,10 @@ til at lave kodeblok
 ~~~
 
 ```
-  ```
-til at lave kodeblok
-  ```
 ```
+til at lave kodeblok
+```
+ ```
 
 ## Overskrifter
 Brug "#" i starten af linjen for at angive, at linjen er en overskrift. Afslut med linjeskift.
