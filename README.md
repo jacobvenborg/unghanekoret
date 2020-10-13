@@ -18,7 +18,8 @@ Til udvikling af Unghanekorets sangsamlingsapp!
 | ### Overskrift 3 | `### Overskrift 3` |
 
 ## Lister og punkter
-1. Nummeret listepunkt 1
+| Markdown-kode | Effekt |
+| 1. Nummeret listepunkt 1 |
 2. Nummeret listepunkt  2
 
 `1. Nummeret listepunkt  1`
