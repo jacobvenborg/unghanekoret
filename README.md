@@ -18,7 +18,7 @@ Ved at indsætte 3 x backticks "`" på en linje over og under din tekst, får ma
 ````
 
 ## Overskrifter
-Brug "#" i starten af linjen for at angive, at linjen er en overskrift. Afslut med linjeskift.
+Brug "#" efterfulgt af mellemrum i starten af linjen for at angive, at linjen er en overskrift. Antal #'er angiver overskriftens størrelse. Afslut overskrift med linjeskift.
 
 | Markdown-kode | Effekt |
 | :- | :- |
