@@ -4,66 +4,66 @@ tekst: "Pete St. John, 1970’erne"
 melodi: "Ukendt"
 categories: "Irske sange"
 ---
-*Noter: F-dur, trestemmig i a capella omkvæd (TMB)* <br>
+*Noter: F-dur, trestemmig i a capella omkvæd (TMB)* \
 
 ***
 
 1\.\
-By a lonely prison wall,<br>
-I heard a young girl calling<br>
-Michael, they have taken you away,<br>
-For you stole Trevelyan's corn,<br>
-So the young might see the morn.<br>
-Now a prison ship lies waiting in the bay<br>
+By a lonely prison wall,\
+I heard a young girl calling\
+Michael, they have taken you away,\
+For you stole Trevelyan's corn,\
+So the young might see the morn.\
+Now a prison ship lies waiting in the bay\
 
-Omkvæd<br>
-Low lie the fields of Athenry<br>
-Where once we watched the small free birds fly<br>
-Our love was on the wing, we had dreams and songs to sing<br>
-It's so lonely 'round the fields of Athenry<br>
+Omkvæd\
+Low lie the fields of Athenry\
+Where once we watched the small free birds fly\
+Our love was on the wing, we had dreams and songs to sing\
+It's so lonely 'round the fields of Athenry\
 
 2\.\
-By a lonely prison wall,<br>
-I heard a young man calling<br>
-Nothing matters, Mary, when you're free<br>
-Against the famine and the Crown,<br>
-I rebelled, they put me down.<br>
-Now you must raise our child with dignity<br>
+By a lonely prison wall,\
+I heard a young man calling\
+Nothing matters, Mary, when you're free\
+Against the famine and the Crown,\
+I rebelled, they put me down.\
+Now you must raise our child with dignity\
 
-Omkvæd<br>
-Low lie the fields of Athenry<br>
-Where once we watched the small free birds fly<br>
-Our love was on the wing, we had dreams and songs to sing<br>
-It's so lonely 'round the fields of Athenry<br>
+Omkvæd\
+Low lie the fields of Athenry\
+Where once we watched the small free birds fly\
+Our love was on the wing, we had dreams and songs to sing\
+It's so lonely 'round the fields of Athenry\
 
 3\.\
-By a lonely harbor wall,<br>
-She watched the last star falling<br>
-As that prison ship sailed out against the sky<br>
-Sure she'll wait and hope and pray,<br>
-For her love in Botany Bay<br>
-It's so lonely 'round the fields of Athenry<br>
+By a lonely harbor wall,\
+She watched the last star falling\
+As that prison ship sailed out against the sky\
+Sure she'll wait and hope and pray,\
+For her love in Botany Bay\
+It's so lonely 'round the fields of Athenry\
 
-Omkvæd<br>
-Low lie the fields of Athenry<br>
-Where once we watched the small free birds fly<br>
-Our love was on the wing, we had dreams and songs to sing<br>
-It's so lonely 'round the fields of Athenry<br>
+Omkvæd\
+Low lie the fields of Athenry\
+Where once we watched the small free birds fly\
+Our love was on the wing, we had dreams and songs to sing\
+It's so lonely 'round the fields of Athenry\
 
-Omkvæd *(her kommer overstemmen på)*<br>
-Low lie the fields of Athenry<br>
-Where once we watched the small free birds fly<br>
-Our love was on the wing, we had dreams and songs to sing<br>
-It's so lonely 'round the fields of Athenry<br>
+Omkvæd *(her kommer overstemmen på)*\
+Low lie the fields of Athenry\
+Where once we watched the small free birds fly\
+Our love was on the wing, we had dreams and songs to sing\
+It's so lonely 'round the fields of Athenry\
 
-Omkvæd *(a capella)*<br>
-Low lie the fields of Athenry<br>
-Where once we watched the small free birds fly<br>
-Our love was on the wing, we had dreams and songs to sing<br>
-It's so lonely 'round the fields of Athenry<br>
+Omkvæd *(a capella)*\
+Low lie the fields of Athenry\
+Where once we watched the small free birds fly\
+Our love was on the wing, we had dreams and songs to sing\
+It's so lonely 'round the fields of Athenry\
 
-Omkvæd<br>
-Low lie the fields of Athenry<br>
-Where once we watched the small free birds fly<br>
-Our love was on the wing, we had dreams and songs to sing<br>
-It's so lonely 'round the fields of Athenry<br>
+Omkvæd\
+Low lie the fields of Athenry\
+Where once we watched the small free birds fly\
+Our love was on the wing, we had dreams and songs to sing\
+It's so lonely 'round the fields of Athenry\

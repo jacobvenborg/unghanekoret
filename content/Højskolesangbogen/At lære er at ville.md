@@ -6,41 +6,41 @@ nummer: "164"
 tema: "Sprog og ånd"
 ---
 1\.\
-At lære er at ville<br>
-befri sin ensomhed,<br>
-at stå ved åndens kilde<br>
-og ydmygt knæle ned,<br>
-at spejle sig i tider,<br>
-der sov på kildens bund,<br>
-mens nye bølger glider<br>
-som tegn mod hånd og mund.<br>
+At lære er at ville\
+befri sin ensomhed,\
+at stå ved åndens kilde\
+og ydmygt knæle ned,\
+at spejle sig i tider,\
+der sov på kildens bund,\
+mens nye bølger glider\
+som tegn mod hånd og mund.\
 
 2\.\
-At lære er at bøje<br>
-sig over livet selv<br>
-og fylde sind og øje<br>
-med tankens himmelhvælv,<br>
-at undres og betages,<br>
-når livet kommer nær,<br>
-at møde, når det dages,<br>
-en større sandhed dér.<br>
+At lære er at bøje\
+sig over livet selv\
+og fylde sind og øje\
+med tankens himmelhvælv,\
+at undres og betages,\
+når livet kommer nær,\
+at møde, når det dages,\
+en større sandhed dér.\
 
 3\.\
-At lære er at famle<br>
-i mørket, blind og stum,<br>
-at sprænge eller samle<br>
-sit eget verdensrum,<br>
-at vække det, der sover,<br>
-og gøre tanken fri,<br>
-at se en himmel over<br>
-hver drøm, man lever i.<br>
+At lære er at famle\
+i mørket, blind og stum,\
+at sprænge eller samle\
+sit eget verdensrum,\
+at vække det, der sover,\
+og gøre tanken fri,\
+at se en himmel over\
+hver drøm, man lever i.\
 
 4\.\
-Lad aldrig dine drømme<br>
-slå bro til vold og drab.<br>
-Lad åndens kilde strømme<br>
-mod fredens fællesskab.<br>
-At værge er at bære<br>
-sin brynje uden sværd,<br>
-først da vil drømmen<br>
-være den største tanke nær.<br>
+Lad aldrig dine drømme\
+slå bro til vold og drab.\
+Lad åndens kilde strømme\
+mod fredens fællesskab.\
+At værge er at bære\
+sin brynje uden sværd,\
+først da vil drømmen\
+være den største tanke nær.\

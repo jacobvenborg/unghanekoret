@@ -6,57 +6,57 @@ nummer: "303"
 tema: "Året - pinse"
 ---
 1\.\
-I al sin glans nu stråler solen,<br>
-livslyset over nådestolen,<br>
-nu kom vor pinseliljetid,<br>
-nu har vi sommer skær og blid,<br>
-nu spår os mer end englerøst<br>
-i Jesu navn en gylden høst.<br>
+I al sin glans nu stråler solen,\
+livslyset over nådestolen,\
+nu kom vor pinseliljetid,\
+nu har vi sommer skær og blid,\
+nu spår os mer end englerøst\
+i Jesu navn en gylden høst.\
 
 2\.\
-I sommernattens korte svale<br>
-slår højt fredskovens nattergale,<br>
-så alt, hvad herren kalder sit,<br>
-må slumre sødt og vågne blidt,<br>
-må drømme sødt om paradis<br>
-og vågne til Vorherres pris.<br>
+I sommernattens korte svale\
+slår højt fredskovens nattergale,\
+så alt, hvad herren kalder sit,\
+må slumre sødt og vågne blidt,\
+må drømme sødt om paradis\
+og vågne til Vorherres pris.\
 
 3\.\
-Det ånder himmelsk over støvet,<br>
-det vifter hjemlig gennem løvet,<br>
-det lufter liflig under sky<br>
-fra paradis, opladt på ny,<br>
-og yndig risler ved vor fod<br>
-i engen bæk af livets flod.<br>
+Det ånder himmelsk over støvet,\
+det vifter hjemlig gennem løvet,\
+det lufter liflig under sky\
+fra paradis, opladt på ny,\
+og yndig risler ved vor fod\
+i engen bæk af livets flod.\
 
 4\.\
-Det volder alt den ånd, som daler,<br>
-det virker alt den ånd, som taler<br>
-ej af sig selv, men os til trøst,<br>
-af kærlighed med sandheds røst,<br>
-i ordets navn, som her blev kød,<br>
-og fo'r til himmels, hvid og rød!<br>
+Det volder alt den ånd, som daler,\
+det virker alt den ånd, som taler\
+ej af sig selv, men os til trøst,\
+af kærlighed med sandheds røst,\
+i ordets navn, som her blev kød,\
+og fo'r til himmels, hvid og rød!\
 
 5\.\
-Opvågner alle dybe toner,<br>
-til pris for menneskets forsoner!<br>
-Forsamles alle tungemål<br>
-i takkesangens offerskål!<br>
-Istemmer over herrens bord<br>
-nu menighedens fulde kor!<br>
+Opvågner alle dybe toner,\
+til pris for menneskets forsoner!\
+Forsamles alle tungemål\
+i takkesangens offerskål!\
+Istemmer over herrens bord\
+nu menighedens fulde kor!\
 
 6\.\
-I Jesu navn da tungen gløder,<br>
-hos hedninger så vel som jøder,<br>
-i Jesus-navnets offerskål<br>
-hensmelter alle modersmål,<br>
-i Jesu navn udbryder da<br>
-det evige halleluja!<br>
+I Jesu navn da tungen gløder,\
+hos hedninger så vel som jøder,\
+i Jesus-navnets offerskål\
+hensmelter alle modersmål,\
+i Jesu navn udbryder da\
+det evige halleluja!\
 
 7\.\
-Vor Gud og fader uden lige!<br>
-Da blomstrer rosen i dit rige,<br>
-som sole vi går op og ned<br>
-i din enbårnes herlighed,<br>
-thi du for hjertet, vi gav dig,<br>
-gav os med ham dit himmerig!<br>
+Vor Gud og fader uden lige!\
+Da blomstrer rosen i dit rige,\
+som sole vi går op og ned\
+i din enbårnes herlighed,\
+thi du for hjertet, vi gav dig,\
+gav os med ham dit himmerig!\

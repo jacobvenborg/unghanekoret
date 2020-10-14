@@ -6,97 +6,97 @@ nummer: "277"
 tema: "Året - påske"
 ---
 1\.\
-Påskeblomst! hvad vil du her?<br>
-Bondeblomst fra landsbyhave<br>
-uden duft og pragt og skær!<br>
-hvem est du velkommen gave?<br>
-Hvem mon, tænker du, har lyst<br>
-dig at trykke ømt til bryst?<br>
-Mener du, en fugl tør vove<br>
-sang om dig i Danmarks skove?<br>
+Påskeblomst! hvad vil du her?\
+Bondeblomst fra landsbyhave\
+uden duft og pragt og skær!\
+hvem est du velkommen gave?\
+Hvem mon, tænker du, har lyst\
+dig at trykke ømt til bryst?\
+Mener du, en fugl tør vove\
+sang om dig i Danmarks skove?\
 
-~~Lever op i sind og hu,<br>
-stander op af eders grave,<br>
-barnedage! følger nu<br>
-med mig ud i faders have!<br>
-Lad mig under påskesang,<br>
-kirkeklokkens højtidsklang,<br>
-blomsten til mit hjerte trykke,<br>
-bryst og hoved med den smykke!<br>~~
+~~Lever op i sind og hu,\
+stander op af eders grave,\
+barnedage! følger nu\
+med mig ud i faders have!\
+Lad mig under påskesang,\
+kirkeklokkens højtidsklang,\
+blomsten til mit hjerte trykke,\
+bryst og hoved med den smykke!\~~
 
-~~Vinterblomst! du melder vår,<br>
-fold dig ud i stille kammer!<br>
-Ved Guds værk og egne kår<br>
-sig kun verdens dåre skammer.<br>
-Spottes end din ringe dragt<br>
-uden glans og farvepragt,<br>
-selv jeg dog på sorten tilje<br>
-ligned helst en påskelilje.<br>~~
+~~Vinterblomst! du melder vår,\
+fold dig ud i stille kammer!\
+Ved Guds værk og egne kår\
+sig kun verdens dåre skammer.\
+Spottes end din ringe dragt\
+uden glans og farvepragt,\
+selv jeg dog på sorten tilje\
+ligned helst en påskelilje.\~~
 
 2\.\
-Ej i liflig sommerluft<br>
-spired du på blomsterstade,<br>
-ej så fik du rosens duft,<br>
-ikke liljens sølverblade.<br>
-Under vinterstorm og regn<br>
-sprang du frem i golde egn,<br>
-ved dit syn kun den sig fryder,<br>
-som har kær, hvad du betyder.<br>
+Ej i liflig sommerluft\
+spired du på blomsterstade,\
+ej så fik du rosens duft,\
+ikke liljens sølverblade.\
+Under vinterstorm og regn\
+sprang du frem i golde egn,\
+ved dit syn kun den sig fryder,\
+som har kær, hvad du betyder.\
 
-~~Bondeblomst! men er det sandt:<br>
-Har du noget at betyde?<br>
-Er din prædiken ej tant?<br>
-Kan de døde graven bryde?<br>
-Stod han op, som ordet går?<br>
-Mon hans ord igen opstår?<br>
-Springer klart af gule lagen<br>
-livet frem med påskedagen?<br>~~
+~~Bondeblomst! men er det sandt:\
+Har du noget at betyde?\
+Er din prædiken ej tant?\
+Kan de døde graven bryde?\
+Stod han op, som ordet går?\
+Mon hans ord igen opstår?\
+Springer klart af gule lagen\
+livet frem med påskedagen?\~~
 
 3\.\
-Påskeblomst! men det er sandt:<br>
-Har vi nogetat betyde?<br>
-Er vor prædiken ej tant?<br>
-Kan de døde graven bryde?<br>
-Stod han op, som ordet går?<br>
-Men hans ord igen opstår?<br>
-Springer klart af gule lagen<br>
-livet frem med påskedagen?<br>
+Påskeblomst! men det er sandt:\
+Har vi nogetat betyde?\
+Er vor prædiken ej tant?\
+Kan de døde graven bryde?\
+Stod han op, som ordet går?\
+Men hans ord igen opstår?\
+Springer klart af gule lagen\
+livet frem med påskedagen?\
 
 4\.\
-Kan de døde ej opstå,<br>
-intet har vi at betyde,<br>
-visne må vi brat i vrå,<br>
-ingen have skal vi pryde,<br>
-glemmes skal vi under muld,<br>
-vil ej vokset underfuld<br>
-smelte, støbes i det dunkle<br>
-og som lys på graven funkle.<br>
+Kan de døde ej opstå,\
+intet har vi at betyde,\
+visne må vi brat i vrå,\
+ingen have skal vi pryde,\
+glemmes skal vi under muld,\
+vil ej vokset underfuld\
+smelte, støbes i det dunkle\
+og som lys på graven funkle.\
 
 5\.\
-Påskeblomst! En dråbe stærk<br>
-drak jeg af dit gule bæger,<br>
-og som ved et underværk<br>
-den mig hæver, vederkvæger:<br>
-Svanevinge, svanesang,<br>
-synes mig, af den udsprang.<br>
-Vågnende jeg ser de døde<br>
-i en påskemorgenrøde.<br>
+Påskeblomst! En dråbe stærk\
+drak jeg af dit gule bæger,\
+og som ved et underværk\
+den mig hæver, vederkvæger:\
+Svanevinge, svanesang,\
+synes mig, af den udsprang.\
+Vågnende jeg ser de døde\
+i en påskemorgenrøde.\
 
-~~O, hvor est du mig dog kær,<br>
-bondeblomst fra landsbyhave!<br>
-Mer end rosen est du værd,<br>
-påskeblomst på fædres grave!<br>
-Sandt dit budskab er om vår,<br>
-om et helligt jubelår,<br>
-som hver ædel blomst af døde<br>
-skal forklaret igenføde!<br>~~
+~~O, hvor est du mig dog kær,\
+bondeblomst fra landsbyhave!\
+Mer end rosen est du værd,\
+påskeblomst på fædres grave!\
+Sandt dit budskab er om vår,\
+om et helligt jubelår,\
+som hver ædel blomst af døde\
+skal forklaret igenføde!\~~
 
 6\.\
-Ja, jeg véd, du siger sandt:<br>
-frelseren stod op af døde!<br>
-Det er hver langfredags pant<br>
-på en påskemorgenrøde:<br>
-Hvad er segl og sværd og skjold<br>
-mod den herre kæk og bold?<br>
-Avner kun, når han vil ånde,<br>
-han, som svor os bod for vånde.<br>
+Ja, jeg véd, du siger sandt:\
+frelseren stod op af døde!\
+Det er hver langfredags pant\
+på en påskemorgenrøde:\
+Hvad er segl og sværd og skjold\
+mod den herre kæk og bold?\
+Avner kun, når han vil ånde,\
+han, som svor os bod for vånde.\

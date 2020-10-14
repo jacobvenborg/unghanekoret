@@ -6,61 +6,61 @@ nummer: "122"
 tema: "Liv"
 ---
 1\.\
-Med store undrende øjne går jeg,<br>
-hvor anemonerne lyser hvidt.<br>
-Og midt i forårets lysvæld går jeg<br>
-og ser mod himlen og spørger blidt<br>
+Med store undrende øjne går jeg,\
+hvor anemonerne lyser hvidt.\
+Og midt i forårets lysvæld går jeg\
+og ser mod himlen og spørger blidt\
 
 2\.\
-Hvem opfandt lærken og nattergalen?<br>
-Hvem satte knopper på birk og bøg?<br>
-og hvem bestemte, at netop svalen<br>
-sku’ være svale og gøgen gøg?<br>
+Hvem opfandt lærken og nattergalen?\
+Hvem satte knopper på birk og bøg?\
+og hvem bestemte, at netop svalen\
+sku’ være svale og gøgen gøg?\
 
 3\.\
-Hvad er det dog for en slags reflekser<br>
-der kalder pindsvin og tusser frem?<br>
-og hvem er det, der går rundt og hekser<br>
-i Hornbæk, Tarm og Jerusalem?<br>
+Hvad er det dog for en slags reflekser\
+der kalder pindsvin og tusser frem?\
+og hvem er det, der går rundt og hekser\
+i Hornbæk, Tarm og Jerusalem?\
 
 4\.\
-Thi alle steder er samme under<br>
-og samme kraft, som gør sjælen stum.<br>
-Og alle vegne går folk og grunder<br>
-på livets dybe mysterium.<br>
+Thi alle steder er samme under\
+og samme kraft, som gør sjælen stum.\
+Og alle vegne går folk og grunder\
+på livets dybe mysterium.\
 
 5\.\
-Men ingen svarer fra skjulte egne<br>
-og gi’r os grundig og god besked,<br>
-så jeg må svare på andres vegne<br>
-og formulere, hvad ingen ved<br>
+Men ingen svarer fra skjulte egne\
+og gi’r os grundig og god besked,\
+så jeg må svare på andres vegne\
+og formulere, hvad ingen ved\
 
 6\.\
-Jeg tror, der ligger et barn dybt inde<br>
-i alle levende ting der gror,<br>
-et barn, der er som en fuglevinge,<br>
-en lille Gud, der er evig stor.<br>
+Jeg tror, der ligger et barn dybt inde\
+i alle levende ting der gror,\
+et barn, der er som en fuglevinge,\
+en lille Gud, der er evig stor.\
 
 7\.\
-Jeg tror, han danser i altings hjerte.<br>
-Jeg tror, han hviler i altings vækst.<br>
-Og alle underes under er det,<br>
-at han er ordløs og altings tekst.<br>
+Jeg tror, han danser i altings hjerte.\
+Jeg tror, han hviler i altings vækst.\
+Og alle underes under er det,\
+at han er ordløs og altings tekst.\
 
 8\.\
-Han er i spurvenes sang i hækken,<br>
-i solsort fløjt og i hundeglam.<br>
-Og hvis de lytter til tudens kvækken<br>
-og lammets brægen så er det ham.<br>
+Han er i spurvenes sang i hækken,\
+i solsort fløjt og i hundeglam.\
+Og hvis de lytter til tudens kvækken\
+og lammets brægen så er det ham.\
 
 9\.\
-Han er i regn og hvor støv må tørste.<br>
-I vandets rislen. I træets saft.<br>
-I alt det mindste, i alt det størst.<br>
-Den mindste enhed. Den største kraft.<br>
+Han er i regn og hvor støv må tørste.\
+I vandets rislen. I træets saft.\
+I alt det mindste, i alt det størst.\
+Den mindste enhed. Den største kraft.\
 
 10\.\
-Hør blæsten synger din sang, veninde !<br>
-Se, træet blomstre på barnets bud !<br>
-Jeg tror der lever et barn dybt inde,<br>
-en kraft, som aldrig kan drives ud.<br>
+Hør blæsten synger din sang, veninde !\
+Se, træet blomstre på barnets bud !\
+Jeg tror der lever et barn dybt inde,\
+en kraft, som aldrig kan drives ud.\

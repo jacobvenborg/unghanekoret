@@ -6,64 +6,64 @@ nummer: "279"
 tema: "Året - påske"
 ---
 1\.\
-Hil dig, frelser og forsoner!<br>
-verden dig med torne kroner,<br>
-du det ser, jeg har i sinde<br>
-rosenkrans om kors at vinde,<br>
-giv dertil mig mod og held!<br>
+Hil dig, frelser og forsoner!\
+verden dig med torne kroner,\
+du det ser, jeg har i sinde\
+rosenkrans om kors at vinde,\
+giv dertil mig mod og held!\
 
 2\.\
-Hvad har dig hos Gud bedrøvet,<br>
-og hvad elsked du hos støvet,<br>
-at du ville alt opgive<br>
-for at holde os i live,<br>
-os dig at meddele hél?<br>
+Hvad har dig hos Gud bedrøvet,\
+og hvad elsked du hos støvet,\
+at du ville alt opgive\
+for at holde os i live,\
+os dig at meddele hél?\
 
 3\.\
-Kærligheden, hjertegløden,<br>
-stærkere var her end døden,<br>
-heller giver du end tager,<br>
-ene derfor dig behager<br>
-korsets død i vores sted!<br>
+Kærligheden, hjertegløden,\
+stærkere var her end døden,\
+heller giver du end tager,\
+ene derfor dig behager\
+korsets død i vores sted!\
 
 4\.\
-Ak! nu føler jeg til fulde<br>
-hjertets hårdhed, hjertets kulde!<br>
-Hvad udsprang af disse fjelde,<br>
-navnet værdt, til at gengælde,<br>
-frelsermand, din kærlighed?<br>
+Ak! nu føler jeg til fulde\
+hjertets hårdhed, hjertets kulde!\
+Hvad udsprang af disse fjelde,\
+navnet værdt, til at gengælde,\
+frelsermand, din kærlighed?\
 
 5\.\
-Dog jeg tror, af dine vunder<br>
-væld udsprang til stort vidunder,<br>
-mægtigt til hver sten at vælte<br>
-til isbjerge selv at smelte,<br>
-til at tvætte hjertet rent!<br>
+Dog jeg tror, af dine vunder\
+væld udsprang til stort vidunder,\
+mægtigt til hver sten at vælte\
+til isbjerge selv at smelte,\
+til at tvætte hjertet rent!\
 
 6\.\
-Derfor beder jeg med tårer:<br>
-Led den ind i mine årer,<br>
-floden, som kan klipper vælte,<br>
-floden, som kan isbjerg smelte,<br>
-som kan blod-skyld tvætte af!<br>
+Derfor beder jeg med tårer:\
+Led den ind i mine årer,\
+floden, som kan klipper vælte,\
+floden, som kan isbjerg smelte,\
+som kan blod-skyld tvætte af!\
 
 7\.\
-Du, som har dig selv mig givet,<br>
-lad i dig mig elske livet,<br>
-så for dig kun hjertet banker,<br>
-så kun du i mine tanker<br>
-er den dybe sammenhæng!<br>
+Du, som har dig selv mig givet,\
+lad i dig mig elske livet,\
+så for dig kun hjertet banker,\
+så kun du i mine tanker\
+er den dybe sammenhæng!\
 
 8\.\
-Skønt jeg må som blomsten visne,<br>
-skønt min hånd og barm må isne<br>
-du, jeg tror, kan det så mage,<br>
-at jeg døden ej skal smage,<br>
-du betalte syndens sold!<br>
+Skønt jeg må som blomsten visne,\
+skønt min hånd og barm må isne\
+du, jeg tror, kan det så mage,\
+at jeg døden ej skal smage,\
+du betalte syndens sold!\
 
 9\.\
-Ja, jeg tror på korsets gåde,<br>
-gør det, Frelser, af din nåde.<br>
-Stå mig bi, når fjenden frister!<br>
-ræk mig hånd, når øjet brister!<br>
-sig: vi gå til Paradis!<br>
+Ja, jeg tror på korsets gåde,\
+gør det, Frelser, af din nåde.\
+Stå mig bi, når fjenden frister!\
+ræk mig hånd, når øjet brister!\
+sig: vi gå til Paradis!\

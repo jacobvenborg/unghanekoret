@@ -4,54 +4,54 @@ tekst: "Ukendt, 1500-tallet"
 melodi: "muligvis The Dubliners, 1964"
 categories: "Irske sange"
 ---
-*Noter: F-dur, trestemmigt omkvæd (TMB)* <br>
+*Noter: F-dur, trestemmigt omkvæd (TMB)* \
 
 ***
 
 1\.\
-I've been a wild rover for many's a year,<br>
-And I've spent all my money on whiskey and beer<br>
-And now I'm returning with gold in great store,<br>
-And I never will play the wild rover no more<br>
+I've been a wild rover for many's a year,\
+And I've spent all my money on whiskey and beer\
+And now I'm returning with gold in great store,\
+And I never will play the wild rover no more\
 
-Omkvæd<br>
-And it's no, nay, never<br>
-No, nay, never, no more<br>
-Will I play the wild rover<br>
-No, never, no more<br>
+Omkvæd\
+And it's no, nay, never\
+No, nay, never, no more\
+Will I play the wild rover\
+No, never, no more\
 
 2\.\
-I went to an ale-house I used to frequent,<br>
-And I told the landlady my money was spent<br>
-I asked her for credit, she answered me "nay,<br>
-Such a custom like yours I can have any day"<br>
+I went to an ale-house I used to frequent,\
+And I told the landlady my money was spent\
+I asked her for credit, she answered me "nay,\
+Such a custom like yours I can have any day"\
 
-Omkvæd<br>
-And it's no, nay, never<br>
-No, nay, never, no more<br>
-Will I play the wild rover<br>
-No, never, no more<br>
+Omkvæd\
+And it's no, nay, never\
+No, nay, never, no more\
+Will I play the wild rover\
+No, never, no more\
 
 3\.\
-I took from my pocket ten sovereigns bright,<br>
-And the landlady's eyes opened wide with delight<br>
-She said "I have whiskeys and wines of the best,<br>
-And the words that I told you were only in jest"<br>
+I took from my pocket ten sovereigns bright,\
+And the landlady's eyes opened wide with delight\
+She said "I have whiskeys and wines of the best,\
+And the words that I told you were only in jest"\
 
-Omkvæd<br>
-And it's no, nay, never<br>
-No, nay, never, no more<br>
-Will I play the wild rover<br>
-No, never, no more<br>
+Omkvæd\
+And it's no, nay, never\
+No, nay, never, no more\
+Will I play the wild rover\
+No, never, no more\
 
 4\.\
-I'll go home to my parents, confess what I've done,<br>
-And I'll ask them to pardon their prodigal son<br>
-And when they’ve caressed me as oft’ times before,<br>
-Then I never will play the wild rover no more<br>
+I'll go home to my parents, confess what I've done,\
+And I'll ask them to pardon their prodigal son\
+And when they’ve caressed me as oft’ times before,\
+Then I never will play the wild rover no more\
 
-Omkvæd<br>
-And it's no, nay, never<br>
-No, nay, never, no more<br>
-Will I play the wild rover<br>
-No, never, no more<br>
+Omkvæd\
+And it's no, nay, never\
+No, nay, never, no more\
+Will I play the wild rover\
+No, never, no more\

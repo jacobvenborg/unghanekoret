@@ -6,41 +6,41 @@ nummer: "317"
 tema: "Året - midsommer"
 ---
 1\.\
-Midsommerteltet, de lyse nætter,<br>
-står tjældet over de danske sletter.<br>
-Som søer, rørt af en brise, kornet<br>
-nær kysten står under månehornet.<br>
-Og bål som tændes på næs og bavn,<br>
-et budskab bringer fra stavn til stavn.<br>
+Midsommerteltet, de lyse nætter,\
+står tjældet over de danske sletter.\
+Som søer, rørt af en brise, kornet\
+nær kysten står under månehornet.\
+Og bål som tændes på næs og bavn,\
+et budskab bringer fra stavn til stavn.\
 
 2\.\
-Sent høres fugle, som ej vil sove.<br>
-Det kalder, drager fra dunkle skove.<br>
-Den hvide nat, hvor der vågent drømmes,<br>
-bedårer mange; mod skoven strømmes.<br>
-Og ungersvend en forsmår sin seng,<br>
-før sol står op over dugvåd eng.<br>
+Sent høres fugle, som ej vil sove.\
+Det kalder, drager fra dunkle skove.\
+Den hvide nat, hvor der vågent drømmes,\
+bedårer mange; mod skoven strømmes.\
+Og ungersvend en forsmår sin seng,\
+før sol står op over dugvåd eng.\
 
 3\.\
-Skærsommer breder sin blomsterhynde<br>
-med alle urter og årets ynde.<br>
-Og glædedrukkent der fejres sommer,<br>
-i skoven jubel og dunk af trommer.<br>
-Og når raketter og blus er brændt,<br>
-og asken kold, da er solen vendt.<br>
+Skærsommer breder sin blomsterhynde\
+med alle urter og årets ynde.\
+Og glædedrukkent der fejres sommer,\
+i skoven jubel og dunk af trommer.\
+Og når raketter og blus er brændt,\
+og asken kold, da er solen vendt.\
 
 4\.\
-At sommer kommer, og sommer lakker,<br>
-så tit vi oplever det vi takker.<br>
-For årets genkomst, for årets vaner,<br>
-og soles vandring på stjernebaner,<br>
-for himmellegemers faste gang,<br>
-en glædesild og en solhvervssang!<br>
+At sommer kommer, og sommer lakker,\
+så tit vi oplever det vi takker.\
+For årets genkomst, for årets vaner,\
+og soles vandring på stjernebaner,\
+for himmellegemers faste gang,\
+en glædesild og en solhvervssang!\
 
 5\.\
-Lad det fordybe din andagt, broder:<br>
-dit timeglas er i takt med kloder.<br>
-Dit sommerblus, som kun stakket blænder,<br>
-er ild af altets, der aldrig ender.<br>
-Se, skov og eng står igen i flor:<br>
-Velsign din sol og velsign din jord!<br>
+Lad det fordybe din andagt, broder:\
+dit timeglas er i takt med kloder.\
+Dit sommerblus, som kun stakket blænder,\
+er ild af altets, der aldrig ender.\
+Se, skov og eng står igen i flor:\
+Velsign din sol og velsign din jord!\

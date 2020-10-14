@@ -6,41 +6,41 @@ nummer: "260"
 tema: "Året - tidligt forår"
 ---
 1\.\
-Nu leger tidlig forårssol<br>
-om Sjællands frosne strå.<br>
-Den kolde, lyse vinterjord<br>
-er god at vandre på.<br>
-Et blaf af blegt og lunet lys<br>
-har vasket by og træ’r.<br>
-Hvor tydelige alle ting.<br>
-Hvor virkeligt et vejr.<br>
+Nu leger tidlig forårssol\
+om Sjællands frosne strå.\
+Den kolde, lyse vinterjord\
+er god at vandre på.\
+Et blaf af blegt og lunet lys\
+har vasket by og træ’r.\
+Hvor tydelige alle ting.\
+Hvor virkeligt et vejr.\
 
-2<br>
-Et træ står rakt mod rummets dyb<br>
-med nye skud på spring,<br>
-forgrenet som et slægtens træ<br>
-med livets lys omkring,<br>
-med roden i den hårde jord<br>
-og stammen strid af liv.<br>
-Det gode gribelige nu.<br>
-Det lange perspektiv.<br>
+2\
+Et træ står rakt mod rummets dyb\
+med nye skud på spring,\
+forgrenet som et slægtens træ\
+med livets lys omkring,\
+med roden i den hårde jord\
+og stammen strid af liv.\
+Det gode gribelige nu.\
+Det lange perspektiv.\
 
 3\.\
-Han søgte virkelige ting<br>
-og ingen verdensflugt.<br>
-Den vare sans, det vide syn,<br>
-hvor virkeligt, hvor smukt.<br>
-Luk verdens svale, skarpe sol<br>
-og klare syner ind.<br>
-I dag som da skal livet gro<br>
-af karske, sobre sind.<br>
+Han søgte virkelige ting\
+og ingen verdensflugt.\
+Den vare sans, det vide syn,\
+hvor virkeligt, hvor smukt.\
+Luk verdens svale, skarpe sol\
+og klare syner ind.\
+I dag som da skal livet gro\
+af karske, sobre sind.\
 
 4\.\
-Nu tungetaler mørkemænd<br>
-i magisk mulm på ny.<br>
-Man håber sig en billig tro<br>
-og lusker sig i ly.<br>
-Men åbent, uforfærdet sind,<br>
-og udsyn støbt i ord,<br>
-er stærk som dette klare lys<br>
-mod denne kolde jord.<br>
+Nu tungetaler mørkemænd\
+i magisk mulm på ny.\
+Man håber sig en billig tro\
+og lusker sig i ly.\
+Men åbent, uforfærdet sind,\
+og udsyn støbt i ord,\
+er stærk som dette klare lys\
+mod denne kolde jord.\

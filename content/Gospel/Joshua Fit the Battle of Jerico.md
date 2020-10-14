@@ -3,99 +3,99 @@ title: "Joshua Fit the Battle of Jerico"
 tekst: "Komponeret af slaver i første halvdel af 1800-tallet"
 melodi: "Komponeret af slaver i første halvdel af 1800-tallet"
 ---
-*Noter: F-mol, *OBS: omkvæd mellem 6-7 eller 7-8* <br>
+*Noter: F-mol, *OBS: omkvæd mellem 6-7 eller 7-8* \
 
 ***
 
-Omkvæd<br>
-Joshua fit the battle of Jericho<br>
-Jericho Jericho<br>
-Joshua fit the battle of Jericho<br>
-And the walls came tumbling down<br>
-x 2<br>
+Omkvæd\
+Joshua fit the battle of Jericho\
+Jericho Jericho\
+Joshua fit the battle of Jericho\
+And the walls came tumbling down\
+x 2\
 
 1\.\
-Good morning sister Mary<br>
-Good morning brother John<br>
-Well I wanna stop and talk with you<br>
-Wanna tell you how I come along<br>
+Good morning sister Mary\
+Good morning brother John\
+Well I wanna stop and talk with you\
+Wanna tell you how I come along\
 
 2\.\
-I know you've heard about Joshua<br>
-He was the son of Nun<br>
-He never stopped his work until<br>
-Until the work was done<br>
+I know you've heard about Joshua\
+He was the son of Nun\
+He never stopped his work until\
+Until the work was done\
 
-Omkvæd<br>
-Joshua fit the battle of Jericho<br>
-Jericho Jericho<br>
-Joshua fit the battle of Jericho<br>
-And the walls come tumbling down<br>
+Omkvæd\
+Joshua fit the battle of Jericho\
+Jericho Jericho\
+Joshua fit the battle of Jericho\
+And the walls come tumbling down\
 
 3\.\
-You may talk about your men of Gideon<br>
-You may brag about your men of Saul<br>
-There's none like good old Joshua<br>
-At the battle of Jericho<br>
+You may talk about your men of Gideon\
+You may brag about your men of Saul\
+There's none like good old Joshua\
+At the battle of Jericho\
 
 4\.\
-Up to the walls of Jericho<br>
-He marched with spear in hand<br>
-Go blow them ram horns, Joshua cried<br>
-'Cause the battle is in my hands<br>
+Up to the walls of Jericho\
+He marched with spear in hand\
+Go blow them ram horns, Joshua cried\
+'Cause the battle is in my hands\
 
-Omkvæd<br>
-Joshua fit the battle of Jericho<br>
-Jericho Jericho<br>
-Joshua fit the battle of Jericho<br>
-And the walls come tumbling down<br>
+Omkvæd\
+Joshua fit the battle of Jericho\
+Jericho Jericho\
+Joshua fit the battle of Jericho\
+And the walls come tumbling down\
 
 5\.\
-You may talk about your men of Gideon<br>
-You may brag about your king of Saul<br>
-There none like Joshua<br>
-At the battle of Jericho<br>
+You may talk about your men of Gideon\
+You may brag about your king of Saul\
+There none like Joshua\
+At the battle of Jericho\
 
 6\.\
-They tell me, great God that Joshua's spear<br>
-Was well nigh twelve feet long<br>
-And upon his hip was a double edged sword<br>
-And his mouth was a gospel horn<br>
+They tell me, great God that Joshua's spear\
+Was well nigh twelve feet long\
+And upon his hip was a double edged sword\
+And his mouth was a gospel horn\
 
 7\.\
-Yet bold and brave he stood<br>
-Salvation in his hand<br>
-Go blow them ram horns Joshua cried<br>
-'Cause the devil can't do you no harm<br>
+Yet bold and brave he stood\
+Salvation in his hand\
+Go blow them ram horns Joshua cried\
+'Cause the devil can't do you no harm\
 
-Omkvæd<br>
-Joshua fit the battle of Jericho<br>
-Jericho Jericho<br>
-Joshua fit the battle of Jericho<br>
-And the walls come tumbling down<br>
+Omkvæd\
+Joshua fit the battle of Jericho\
+Jericho Jericho\
+Joshua fit the battle of Jericho\
+And the walls come tumbling down\
 
 8\.\
-Up to the walls of Jericho<br>
-He marched with spear in hand<br>
-Go blow them ram horns, Joshua cried<br>
-'Cause the battle is in my hands<br>
+Up to the walls of Jericho\
+He marched with spear in hand\
+Go blow them ram horns, Joshua cried\
+'Cause the battle is in my hands\
 
 9\.\
-Then the lamb ram sheep horns began to blow<br>
-The trumpets began to sound<br>
-Old Joshua shouted glory<br>
-And the walls came tumblin' down<br>
+Then the lamb ram sheep horns began to blow\
+The trumpets began to sound\
+Old Joshua shouted glory\
+And the walls came tumblin' down\
 
-Omkvæd<br>
-Joshua fit the battle of Jericho<br>
-Jericho Jericho<br>
-Joshua fit the battle of Jericho<br>
-And the walls come tumbling down<br>
+Omkvæd\
+Joshua fit the battle of Jericho\
+Jericho Jericho\
+Joshua fit the battle of Jericho\
+And the walls come tumbling down\
 
-Outro<br>
-Joshua fit the battle of Jericho<br>
-Jericho Jericho<br>
-Joshua fit the battle of Jericho<br>
-And the walls come tumbling<br>
-The walls come tumbling<br>
-The walls come tumbling down<br>
+Outro\
+Joshua fit the battle of Jericho\
+Jericho Jericho\
+Joshua fit the battle of Jericho\
+And the walls come tumbling\
+The walls come tumbling\
+The walls come tumbling down\

@@ -8,98 +8,98 @@ melodi: "Oskar Jefsen, 2017"
 ***
 
 1\.\
-Vi skal nu til julegilde<br>
-Hanekammen er sat<br>
-Og stemmen er glat<br>
-Stuen varmes op af brændeovnens ild<br>
-Her kan tid ej gå til spilde<br>
-Timeglasset er lagt<br>
-Om på siden og bragt<br>
-Ud af spil, for nu skal vi ha’ snaps og sild<br>
-Verden den er mørk og kold<br>
-Og solen er i skjul<br>
-Men når ovnen er tændt<br>
-Og der lugter lidt brændt<br>
-Så bli’r det en kykkeli' jul<br>
+Vi skal nu til julegilde\
+Hanekammen er sat\
+Og stemmen er glat\
+Stuen varmes op af brændeovnens ild\
+Her kan tid ej gå til spilde\
+Timeglasset er lagt\
+Om på siden og bragt\
+Ud af spil, for nu skal vi ha’ snaps og sild\
+Verden den er mørk og kold\
+Og solen er i skjul\
+Men når ovnen er tændt\
+Og der lugter lidt brændt\
+Så bli’r det en kykkeli' jul\
 
-Omkvæd<br>
-En kykkeli’ juuuul<br>
-En kykkeli’ juuuul<br>
-Ja, når ovnen er tændt<br>
-Og der lugter lidt brændt<br>
-Så bli’r det en kykkeli’ jul<br>
+Omkvæd\
+En kykkeli’ juuuul\
+En kykkeli’ juuuul\
+Ja, når ovnen er tændt\
+Og der lugter lidt brændt\
+Så bli’r det en kykkeli’ jul\
 
 2\.\
-Vintertiden er en glæde<br>
-For haner, der godt ka’ li’<br>
-At sove til klokken ti<br>
-For da kommer solopgangen ikke før<br>
-På med hat og halstørklæde<br>
-Ud og lege i sne<br>
-Ind og drik en kop te<br>
-Ud igen og springe rundt i fuld vigør<br>
-Selvom vores breddegrader<br>
-Oftest kun gi’r slud<br>
-Så håber vi på<br>
-At i år vi kan få<br>
-En rigtig hvid og kykkeli' jul<br>
+Vintertiden er en glæde\
+For haner, der godt ka’ li’\
+At sove til klokken ti\
+For da kommer solopgangen ikke før\
+På med hat og halstørklæde\
+Ud og lege i sne\
+Ind og drik en kop te\
+Ud igen og springe rundt i fuld vigør\
+Selvom vores breddegrader\
+Oftest kun gi’r slud\
+Så håber vi på\
+At i år vi kan få\
+En rigtig hvid og kykkeli' jul\
 
-Omkvæd<br>
-En kykkeli' juuuul<br>
-En kykkeli' juuuul<br>
-Ja, så håber vi på<br>
-At i år vi kan få<br>
-En rigtig hvid og kykkeli' jul<br>
+Omkvæd\
+En kykkeli' juuuul\
+En kykkeli' juuuul\
+Ja, så håber vi på\
+At i år vi kan få\
+En rigtig hvid og kykkeli' jul\
 
 3\.\
-Hanestruberne skal smøres<br>
-Og så skal vi ha’ gløgg<br>
-Vores helt egen bryg<br>
-Fyldt med anis, rom, kanel og appelsin<br>
-Eliksiren sammenrøres<br>
-Bringes op til et kog<br>
-Prøv dig frem med et låg<br>
-Kardemomme, nelliker og brun farin<br>
-Krydderier bringer minder<br>
-Frem fra deres skjul<br>
-Et par vin fra Loire<br>
-Og så er den klar<br>
-Sikke dog en gløggeli’ jul<br>
+Hanestruberne skal smøres\
+Og så skal vi ha’ gløgg\
+Vores helt egen bryg\
+Fyldt med anis, rom, kanel og appelsin\
+Eliksiren sammenrøres\
+Bringes op til et kog\
+Prøv dig frem med et låg\
+Kardemomme, nelliker og brun farin\
+Krydderier bringer minder\
+Frem fra deres skjul\
+Et par vin fra Loire\
+Og så er den klar\
+Sikke dog en gløggeli’ jul\
 
-Omkvæd<br>
-En gløggeli’ juuuul<br>
-En gløggeli’ juuuul<br>
-Et par vin fra Loire<br>
-Og så er den klar<br>
-Sikke dog en gløggeli’ jul<br>
+Omkvæd\
+En gløggeli’ juuuul\
+En gløggeli’ juuuul\
+Et par vin fra Loire\
+Og så er den klar\
+Sikke dog en gløggeli’ jul\
 
 4\.\
-Ud på natten skal der synges<br>
-Alt fra Grundtvig til Wham!<br>
-Mariah Carey, goddamn!<br>
-Galeriet tages til et nyt niveau<br>
-Traditionerne forynges<br>
-Vi må holde i hævd<br>
-Hvad vi synes er gævt<br>
-Vi må dyrke det vi gerne vil skal gro<br>
-Fællesskabet springer frem<br>
-Af vint’rens kolde muld<br>
-Vi synger i flok<br>
-Når vi er nok<br>
-Nu bli’r det en kykkeli' jul<br>
+Ud på natten skal der synges\
+Alt fra Grundtvig til Wham!\
+Mariah Carey, goddamn!\
+Galeriet tages til et nyt niveau\
+Traditionerne forynges\
+Vi må holde i hævd\
+Hvad vi synes er gævt\
+Vi må dyrke det vi gerne vil skal gro\
+Fællesskabet springer frem\
+Af vint’rens kolde muld\
+Vi synger i flok\
+Når vi er nok\
+Nu bli’r det en kykkeli' jul\
 
-Omkvæd<br>
-En kykkeli' juuuul<br>
-En kykkeli' juuuul<br>
-Vi synger i flok<br>
-Når vi er nok<br>
-Nu bli’r det en kykkeli' jul<br>
+Omkvæd\
+En kykkeli' juuuul\
+En kykkeli' juuuul\
+Vi synger i flok\
+Når vi er nok\
+Nu bli’r det en kykkeli' jul\
 
-Sidste omkvæd<br>
-En kykkeli' juuuul<br>
-En kykkeli' juuuul<br>
-Vi synger i flok<br>
-Når vi er nok<br>
-Nu bli'r det en kykkeli’<br>
-En uden sidestykkeli’<br>
-En gløggeli’ og kykkeli’ jul<br>
+Sidste omkvæd\
+En kykkeli' juuuul\
+En kykkeli' juuuul\
+Vi synger i flok\
+Når vi er nok\
+Nu bli'r det en kykkeli’\
+En uden sidestykkeli’\
+En gløggeli’ og kykkeli’ jul\

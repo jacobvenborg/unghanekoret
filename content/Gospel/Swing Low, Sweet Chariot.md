@@ -3,49 +3,49 @@ title: "Swing Low, Sweet Chariot"
 tekst: "Gammel negroid spirituel sang"
 melodi: "Gammel negroid spirituel sang"
 ---
-*Noter: G-dur* <br>
+*Noter: G-dur* \
 
 ***
 
-Omkvæd<br>
-Swing low, sweet chariot<br>
-Comin' for to carry me home<br>
-Swing low, sweet chariot<br>
-Comin' for to carry me home<br>
+Omkvæd\
+Swing low, sweet chariot\
+Comin' for to carry me home\
+Swing low, sweet chariot\
+Comin' for to carry me home\
 
 1\.\
-I looked over Jordan, and what did I see<br>
-Comin' for to carry me home<br>
-A band of angels comin' after me<br>
-Comin' for to carry me home<br>
+I looked over Jordan, and what did I see\
+Comin' for to carry me home\
+A band of angels comin' after me\
+Comin' for to carry me home\
 
-Omkvæd<br>
-Swing low, sweet chariot<br>
-Comin' for to carry me home<br>
-Swing low, sweet chariot<br>
-Comin' for to carry me home<br>
+Omkvæd\
+Swing low, sweet chariot\
+Comin' for to carry me home\
+Swing low, sweet chariot\
+Comin' for to carry me home\
 
 2\.\
-If you get there before I do<br>
-Comin' for to carry me home<br>
-Tell al my friends that I'm a comin' too<br>
-Comin' for to carry me home<br>
+If you get there before I do\
+Comin' for to carry me home\
+Tell al my friends that I'm a comin' too\
+Comin' for to carry me home\
 
-Omkvæd<br>
-Swing low, sweet chariot<br>
-Comin' for to carry me home<br>
-Swing low, sweet chariot<br>
-Comin' for to carry me home<br>
+Omkvæd\
+Swing low, sweet chariot\
+Comin' for to carry me home\
+Swing low, sweet chariot\
+Comin' for to carry me home\
 
 3\.\
-I'm sometimes up and sometimes down<br>
-Comin' for to carry me home<br>
-But still my soul feels heavenly bound<br>
-Comin' for to carry me home<br>
+I'm sometimes up and sometimes down\
+Comin' for to carry me home\
+But still my soul feels heavenly bound\
+Comin' for to carry me home\
 
-Omkvæd<br>
-Swing low, sweet chariot<br>
-Comin' for to carry me home<br>
-Swing low, sweet chariot<br>
-Comin' for to carry me home<br>
-x 2<br>
+Omkvæd\
+Swing low, sweet chariot\
+Comin' for to carry me home\
+Swing low, sweet chariot\
+Comin' for to carry me home\
+x 2\

@@ -3,55 +3,55 @@ title: "De galende haner"
 tekst: "Oskar Jefsen, 2017"
 melodi: "Oskar Jefsen, 2017"
 ---
-*Noter: F-dur, 4-stemmig outro* <br>
+*Noter: F-dur, 4-stemmig outro* \
 
 ***
 
 1\.\
-Vi er de galende haner<br>
-Og vi synger så hjerterne smelter<br>
-Ja, når først hanerne galer<br>
-Bliver knæene til smør og du vælter<br>
-Vi vil gribe dig<br>
-Bære dig vor vej<br>
-Du kan ik’ sig’ nej<br>
-Til vores røøøst!<br>
-Fra vores uuunghaaanebryst!<br>
+Vi er de galende haner\
+Og vi synger så hjerterne smelter\
+Ja, når først hanerne galer\
+Bliver knæene til smør og du vælter\
+Vi vil gribe dig\
+Bære dig vor vej\
+Du kan ik’ sig’ nej\
+Til vores røøøst!\
+Fra vores uuunghaaanebryst!\
 2\.\
-Vi er de galende haner<br>
-Og vi elsker den brogede verden<br>
-Vi bliver ved i lange baner<br>
-Med at sjunge om glæden og smerten<br>
-Syng, lad hjertet tale<br>
-Fra de store sale<br>
-Og lad sorgen dale<br>
-Vææk fra dit siiiind<br>
-Luuk glæden iiiind! (og hanen ud!)<br>
+Vi er de galende haner\
+Og vi elsker den brogede verden\
+Vi bliver ved i lange baner\
+Med at sjunge om glæden og smerten\
+Syng, lad hjertet tale\
+Fra de store sale\
+Og lad sorgen dale\
+Vææk fra dit siiiind\
+Luuk glæden iiiind! (og hanen ud!)\
 3\.\
-Vi er de galende haner<br>
-Og vi mødes hver a-anden tirsdag<br>
-Vi lægger mellemstore planer<br>
-Og de sjove er dem, vi har flest af<br>
-Hverdag fyldt med sange,<br>
-Smukke, dybe klange,<br>
-Bedst når vi er mange<br>
-Hvad ku’ være bedre end deeeet?<br>
-En ny definition på succeeees!<br>
+Vi er de galende haner\
+Og vi mødes hver a-anden tirsdag\
+Vi lægger mellemstore planer\
+Og de sjove er dem, vi har flest af\
+Hverdag fyldt med sange,\
+Smukke, dybe klange,\
+Bedst når vi er mange\
+Hvad ku’ være bedre end deeeet?\
+En ny definition på succeeees!\
 4\.\
-Til slut så si’r vi - kykkeli-kyyy -<br>
-En salut der kan hør’s i det fjerne<br>
-Vi lægger kammen under vingerne<br>
-og venter på solens lanterne<br>
-Og når morg’nen gryr<br>
-Med eller uden sky’r<br>
-Skaber vi postyr<br>
-Endnu en gaaaaaang<br>
-Med vores saaaaaang!<br>
-Outro<br>
-Ska’-du-ha-et-stykke meeeeeeeed<br>
-Ska’-du-ha-et-stykke meeeeeeeed<br>
-Ska’-du-ha-et-stykke meeeeeeeed<br>
-Ska’-du-ha-et-stykke meeeeeeeed<br>
-Ung-hane-bryst!<br>
+Til slut så si’r vi - kykkeli-kyyy -\
+En salut der kan hør’s i det fjerne\
+Vi lægger kammen under vingerne\
+og venter på solens lanterne\
+Og når morg’nen gryr\
+Med eller uden sky’r\
+Skaber vi postyr\
+Endnu en gaaaaaang\
+Med vores saaaaaang!\
+Outro\
+Ska’-du-ha-et-stykke meeeeeeeed\
+Ska’-du-ha-et-stykke meeeeeeeed\
+Ska’-du-ha-et-stykke meeeeeeeed\
+Ska’-du-ha-et-stykke meeeeeeeed\
+Ung-hane-bryst!\
 
-##<br>
+##\

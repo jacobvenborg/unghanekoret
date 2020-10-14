@@ -6,51 +6,51 @@ nummer: "335"
 tema: "Året - sensommer"
 ---
 1\.\
-Septembers himmel er så blå<br>
-dens skyer lyser hvide<br>
-og lydt vi hører lærken slå<br>
-som før ved forårstide.<br>
-Den unge rug af mulden gror<br>
-med grønne lyse klinger<br>
-men storken længst af lande fór<br>
-med sol på sine vinger.<br>
+Septembers himmel er så blå\
+dens skyer lyser hvide\
+og lydt vi hører lærken slå\
+som før ved forårstide.\
+Den unge rug af mulden gror\
+med grønne lyse klinger\
+men storken længst af lande fór\
+med sol på sine vinger.\
 
 2\.\
-Der er en søndagsstille ro<br>
-imellem træer og tage<br>
-en munter glæde ved at gro<br>
-som var det sommerdage.<br>
-Og koen rusker i sit græs<br>
-med saften om sin mule,<br>
-mens bonden kører hjem med læs,<br>
-der lyser solskinsgule.<br>
+Der er en søndagsstille ro\
+imellem træer og tage\
+en munter glæde ved at gro\
+som var det sommerdage.\
+Og koen rusker i sit græs\
+med saften om sin mule,\
+mens bonden kører hjem med læs,\
+der lyser solskinsgule.\
 
 3\.\
-Hver stubbet mark, vi stirrer på<br>
-står brun og gul og gylden,<br>
-og røn står rød og slåen blå<br>
-og purpursort står hylden.<br>
-Og georginer spraglet gror<br>
-blandt asters i vor have,<br>
-så rig er årets sidste flor:<br>
-oktobers offergave.<br>
+Hver stubbet mark, vi stirrer på\
+står brun og gul og gylden,\
+og røn står rød og slåen blå\
+og purpursort står hylden.\
+Og georginer spraglet gror\
+blandt asters i vor have,\
+så rig er årets sidste flor:\
+oktobers offergave.\
 
 4\.\
-De røde æbler løsner let<br>
-fra træets trætte kviste.<br>
-Snart lysner kronens bladenet<br>
-og hvert et løv må briste.<br>
-Når aftensolen på sin flugt<br>
-bag sorte grene svinder<br>
-om årets sidste røde frugt<br>
-den tungt og mildt os minder.<br>
+De røde æbler løsner let\
+fra træets trætte kviste.\
+Snart lysner kronens bladenet\
+og hvert et løv må briste.\
+Når aftensolen på sin flugt\
+bag sorte grene svinder\
+om årets sidste røde frugt\
+den tungt og mildt os minder.\
 
 5\.\
-At flyve som et forårsfrø<br>
-for sommerblomst at blive<br>
-er kun at visne for at dø<br>
-kan ingen frugt du give.<br>
-Hvis modenhedens milde magt<br>
-af livet selv du lærte<br>
-da slår bag falmet rosendragt<br>
-dit røde hybenhjerte<br>
+At flyve som et forårsfrø\
+for sommerblomst at blive\
+er kun at visne for at dø\
+kan ingen frugt du give.\
+Hvis modenhedens milde magt\
+af livet selv du lærte\
+da slår bag falmet rosendragt\
+dit røde hybenhjerte\

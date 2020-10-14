@@ -6,51 +6,51 @@ nummer: "323"
 tema: "Året - højsommer"
 ---
 1\.\
-Se dig ud en sommerdag,<br>
-når de bønder tromler:<br>
-Land æfor og by æbag,<br>
-lærkesang og humler,<br>
-byg i skred og bær i blost,<br>
-barneleg om frønnet post,<br>
-rugens dræ med duft af most<br>
-i drift om brede gårde!<br>
+Se dig ud en sommerdag,\
+når de bønder tromler:\
+Land æfor og by æbag,\
+lærkesang og humler,\
+byg i skred og bær i blost,\
+barneleg om frønnet post,\
+rugens dræ med duft af most\
+i drift om brede gårde!\
 
 2\.\
-Danmark er et lidet land,<br>
-strakt fra nord til sønder,<br>
-har dog brød til alle mand,<br>
-købstadfolk som bønder.<br>
-Rugen med det svulne knæ<br>
-vokser langt i bakkens læ,<br>
-humlekop og pæretræ<br>
-får sol mod hvide gavle.<br>
+Danmark er et lidet land,\
+strakt fra nord til sønder,\
+har dog brød til alle mand,\
+købstadfolk som bønder.\
+Rugen med det svulne knæ\
+vokser langt i bakkens læ,\
+humlekop og pæretræ\
+får sol mod hvide gavle.\
 
 3\.\
-Færgen med det brede bryst,<br>
-klædt i stål og plade,<br>
-pløjer vej fra kyst til kyst<br>
-over bælters flade.<br>
-Kobberspir og tag af tegl<br>
-ser sig selv i havets spejl,<br>
-langvejs ude hvide sejl<br>
-mod grønne øer bovner.<br>
+Færgen med det brede bryst,\
+klædt i stål og plade,\
+pløjer vej fra kyst til kyst\
+over bælters flade.\
+Kobberspir og tag af tegl\
+ser sig selv i havets spejl,\
+langvejs ude hvide sejl\
+mod grønne øer bovner.\
 
 4\.\
-Toget stønner tungt af sted,<br>
-højt sig rugen løfter,<br>
-plagen står ved vangeled,<br>
-slår sig løs og snøfter.<br>
-Hyrden kobler sine kø'r,<br>
-aftensuk i siv og rør,<br>
-fra den åbne smededør<br>
-går lange skumrings-gnister.<br>
+Toget stønner tungt af sted,\
+højt sig rugen løfter,\
+plagen står ved vangeled,\
+slår sig løs og snøfter.\
+Hyrden kobler sine kø'r,\
+aftensuk i siv og rør,\
+fra den åbne smededør\
+går lange skumrings-gnister.\
 
 5\.\
-Slider byen, danske mand,<br>
-alt for stærkt din trøje,<br>
-tag et mål af Danmarks land<br>
-fra dets egne høje:<br>
-Synet, fjernt af banker lukt,<br>
-bliver frit mod bælt og bugt<br>
-stemningsfyldt som hejreflugt<br>
-om kvæld, når sol går under.<br>
+Slider byen, danske mand,\
+alt for stærkt din trøje,\
+tag et mål af Danmarks land\
+fra dets egne høje:\
+Synet, fjernt af banker lukt,\
+bliver frit mod bælt og bugt\
+stemningsfyldt som hejreflugt\
+om kvæld, når sol går under.\

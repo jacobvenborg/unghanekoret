@@ -6,45 +6,45 @@ nummer: "309"
 tema: "Året - tidlig sommer"
 ---
 1\.\
-Når egene knoppes,<br>
-og granerne duppes,<br>
-og skræpperne kante den støvede vej.<br>
-Når frøen fortæller,<br>
-mens guldregnen hælder<br>
-sig over syrenen i hviskende leg,<br>
-//: da dages, da kommer<br>
-den danske skærsommer,<br>
-farvel og på gensyn, du liflige maj! :// <br>
+Når egene knoppes,\
+og granerne duppes,\
+og skræpperne kante den støvede vej.\
+Når frøen fortæller,\
+mens guldregnen hælder\
+sig over syrenen i hviskende leg,\
+//: da dages, da kommer\
+den danske skærsommer,\
+farvel og på gensyn, du liflige maj! :// \
 
 2\.\
-Når rugen alt bølger,<br>
-og kornblomsten dølger<br>
-sin blå lille kyse bag gitter af strå.<br>
-Når føllene tumle,<br>
-mens køerne gumle,<br>
-og viben sig soler med ungerne små,<br>
-//: da dages, da kommer<br>
-den danske skærsommer,<br>
-og derom alt fløjter den nattergal grå. :// <br>
+Når rugen alt bølger,\
+og kornblomsten dølger\
+sin blå lille kyse bag gitter af strå.\
+Når føllene tumle,\
+mens køerne gumle,\
+og viben sig soler med ungerne små,\
+//: da dages, da kommer\
+den danske skærsommer,\
+og derom alt fløjter den nattergal grå. :// \
 
 3\.\
-Når skoven har skygge,<br>
-og bien gør lykke,<br>
-og bøgen har mørknet sit lyseste blad.<br>
-Når roser udspringe<br>
-blandt torne, som stinge,<br>
-lig luende elskov af truende had,<br>
-//: da dages, da kommer<br>
-den danske skærsommer,<br>
-den er der, og gør selv den tungeste glad. ://<br>
+Når skoven har skygge,\
+og bien gør lykke,\
+og bøgen har mørknet sit lyseste blad.\
+Når roser udspringe\
+blandt torne, som stinge,\
+lig luende elskov af truende had,\
+//: da dages, da kommer\
+den danske skærsommer,\
+den er der, og gør selv den tungeste glad. ://\
 
 4\.\
-O, fly ej for snarlig,<br>
-men bring os lidt varlig<br>
-fra nætternes lyse til tusmørkets stund!<br>
-Vi vented så længe<br>
-på blommende enge,<br>
-på duften fra rosernes svulmende mund, –<br>
-//: men bedst som du kommer,<br>
-du favre skærsommer,<br>
-så hastigt du fly’r som et drømmerigt blund! :// <br>
+O, fly ej for snarlig,\
+men bring os lidt varlig\
+fra nætternes lyse til tusmørkets stund!\
+Vi vented så længe\
+på blommende enge,\
+på duften fra rosernes svulmende mund, –\
+//: men bedst som du kommer,\
+du favre skærsommer,\
+så hastigt du fly’r som et drømmerigt blund! :// \

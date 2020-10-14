@@ -6,21 +6,21 @@ nummer: "295"
 tema: "Året - sent forår"
 ---
 1\.\
-Se, det summer af sol over engen,<br>
-honningbien vil fylde sin kurv,<br>
-og der pusles ved bordet og sengen<br>
-af den fattigste sisken og spurv:<br>
-og der jubles hele dagen,<br>
-men mod kvælden bli'r alting så tyst,<br>
-våren synger sin sang, det er sagen,<br>
-og mit hjerte bli'r voks i mit bryst.<br>
+Se, det summer af sol over engen,\
+honningbien vil fylde sin kurv,\
+og der pusles ved bordet og sengen\
+af den fattigste sisken og spurv:\
+og der jubles hele dagen,\
+men mod kvælden bli'r alting så tyst,\
+våren synger sin sang, det er sagen,\
+og mit hjerte bli'r voks i mit bryst.\
 
 2\.\
-Der er sølvklang i majbækkens vove,<br>
-gyldent skær gennem aftenen lang,<br>
-hver en grøft bliver blomstrende skove<br>
-langs den kornrige, bølgende vang:<br>
-disse bølger, o, de stiger<br>
-med min sjæl over solskyens rand,<br>
-rundt i verden er dejlige riger,<br>
-ingen vår som en maj i vort land!<br>
+Der er sølvklang i majbækkens vove,\
+gyldent skær gennem aftenen lang,\
+hver en grøft bliver blomstrende skove\
+langs den kornrige, bølgende vang:\
+disse bølger, o, de stiger\
+med min sjæl over solskyens rand,\
+rundt i verden er dejlige riger,\
+ingen vår som en maj i vort land!\

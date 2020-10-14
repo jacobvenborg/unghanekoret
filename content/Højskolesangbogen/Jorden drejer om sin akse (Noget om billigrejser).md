@@ -6,61 +6,61 @@ nummer: "188"
 tema: "Frihed og fællesskab"
 ---
 1\.\
-Jorden drejer om sin akse<br>
-med en masse byer på,<br>
-London, Skive, Rom og Fakse,<br>
-Novgorod og Åbenrå.<br>
-Alle steder bor der mensker,<br>
-som er højst forskellige.<br>
-En er russer, en er svensker,<br>
-og en del er hellige.<br>
+Jorden drejer om sin akse\
+med en masse byer på,\
+London, Skive, Rom og Fakse,\
+Novgorod og Åbenrå.\
+Alle steder bor der mensker,\
+som er højst forskellige.\
+En er russer, en er svensker,\
+og en del er hellige.\
 
 2\.\
-Jeg har hus på denne klode,<br>
-hus med lokum, høns og hø.<br>
-Jeg er glad og vel tilmode<br>
-og vil meget nødig dø.<br>
-Og når jorden drejer roligt<br>
-med mit lille husmandssted,<br>
-syns jeg det er helt utroligt,<br>
-at jeg osse drejer med.<br>
+Jeg har hus på denne klode,\
+hus med lokum, høns og hø.\
+Jeg er glad og vel tilmode\
+og vil meget nødig dø.\
+Og når jorden drejer roligt\
+med mit lille husmandssted,\
+syns jeg det er helt utroligt,\
+at jeg osse drejer med.\
 
 3\.\
-Jeg kan sidde ved mit vindu<br>
-når det løber fuldt af vand,<br>
-mens jeg tænker på en hindu<br>
-i det fjerne Hindustan.<br>
-Mon en sådan udenlandsker<br>
-sidder drømmende som jeg,<br>
-mens han tænker på en dansker,<br>
-som sandsynligvis er mig?<br>
+Jeg kan sidde ved mit vindu\
+når det løber fuldt af vand,\
+mens jeg tænker på en hindu\
+i det fjerne Hindustan.\
+Mon en sådan udenlandsker\
+sidder drømmende som jeg,\
+mens han tænker på en dansker,\
+som sandsynligvis er mig?\
 
 4\.\
-Mon hans kone bruger briller?<br>
-Er hun liså køn som min?<br>
-Mon han har en søn der spiller<br>
-på vemodig violin?<br>
-Har hans datter papillotter?<br>
-Er hun dejlig og banal?<br>
-Eller tømmer hun mon potter<br>
-på et hinduhospital?<br>
+Mon hans kone bruger briller?\
+Er hun liså køn som min?\
+Mon han har en søn der spiller\
+på vemodig violin?\
+Har hans datter papillotter?\
+Er hun dejlig og banal?\
+Eller tømmer hun mon potter\
+på et hinduhospital?\
 
 5\.\
-Se, nu går den satans hane<br>
-og gør hønsene besat!<br>
-Den skal slagtes en af da'ne,<br>
-så det er da noget pjat -<br>
-Mon de frække hinduhaner<br>
-siger kykliky som vor,<br>
-eller har de andre vaner<br>
-som kun Muhammed forstår?<br>
+Se, nu går den satans hane\
+og gør hønsene besat!\
+Den skal slagtes en af da'ne,\
+så det er da noget pjat -\
+Mon de frække hinduhaner\
+siger kykliky som vor,\
+eller har de andre vaner\
+som kun Muhammed forstår?\
 
 6\.\
-Nu er solen atter fremme.<br>
-Hanen bruger sin alarm.<br>
-Det er rart at være hjemme<br>
-ved sin egen vindueskarm.<br>
-Jorden drejer om sin akse,<br>
-drejer rundt med muld og vand.<br>
-Der er langt fra mig til Fakse.<br>
-Der er langt til Hindustan.<br>
+Nu er solen atter fremme.\
+Hanen bruger sin alarm.\
+Det er rart at være hjemme\
+ved sin egen vindueskarm.\
+Jorden drejer om sin akse,\
+drejer rundt med muld og vand.\
+Der er langt fra mig til Fakse.\
+Der er langt til Hindustan.\

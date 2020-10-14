@@ -6,43 +6,43 @@ nummer: "328"
 tema: "Året - højsommer"
 ---
 1\.\
-Natten ser med milde øjne<br>
-ned på marker, ned på skov<br>
-og gør tankerne forfløjne<br>
-hos den ene, som ej sov.<br>
+Natten ser med milde øjne\
+ned på marker, ned på skov\
+og gør tankerne forfløjne\
+hos den ene, som ej sov.\
 
 2\.\
-Man la’r fantasien strømme<br>
-ud i rum og ud i tid,<br>
-repeterer rejsedrømme<br>
-ud i verden, stor og vid.<br>
+Man la’r fantasien strømme\
+ud i rum og ud i tid,\
+repeterer rejsedrømme\
+ud i verden, stor og vid.\
 
 3\.\
-Blander tankerne med drømme,<br>
-rører godt og grundigt rundt,<br>
-sadler hest og fatter tømme<br>
-og er væk på ét sekund.<br>
+Blander tankerne med drømme,\
+rører godt og grundigt rundt,\
+sadler hest og fatter tømme\
+og er væk på ét sekund.\
 
 4\.\
-Ta’r så ud i sommernatten,<br>
-kigger efter stjerneskud,<br>
-tæller sytten eller atten,<br>
-tæller søvnløsheden ud.<br>
+Ta’r så ud i sommernatten,\
+kigger efter stjerneskud,\
+tæller sytten eller atten,\
+tæller søvnløsheden ud.\
 
 5\.\
-Lytter til de spæde triller<br>
-fra de første fugles sang.<br>
-Tågen elveragtigt spiller<br>
-over mose, eng og vang.<br>
+Lytter til de spæde triller\
+fra de første fugles sang.\
+Tågen elveragtigt spiller\
+over mose, eng og vang.\
 
 6\.\
-Vender om og når tilbage<br>
-gennem grå gardiners slør,<br>
-ind fra sommernattens svage<br>
-krydderduftende kulør.<br>
+Vender om og når tilbage\
+gennem grå gardiners slør,\
+ind fra sommernattens svage\
+krydderduftende kulør.\
 
 7\.\
-Ligger atter med fornyet<br>
-styrke til at synke ned.<br>
-Og et sted i morgengryet<br>
-rider nattens drøm af sted.<br>
+Ligger atter med fornyet\
+styrke til at synke ned.\
+Og et sted i morgengryet\
+rider nattens drøm af sted.\

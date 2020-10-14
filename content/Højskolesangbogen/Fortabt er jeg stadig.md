@@ -6,57 +6,57 @@ nummer: "000"
 tema: "Nyudgave"
 ---
 1\.\
-Vi mødtes i sne.<br>
-Forblændet af ungdom og uden at se<br>
-et virvar af jubel og nysgerrighed<br>
-vi mødtes i sproget, et hemmeligt sted<br>
-og der går vi hen,<br>
-igen og igen,<br>
+Vi mødtes i sne.\
+Forblændet af ungdom og uden at se\
+et virvar af jubel og nysgerrighed\
+vi mødtes i sproget, et hemmeligt sted\
+og der går vi hen,\
+igen og igen,\
 
 2\.\
-Igen og igen,<br>
-og tonerne blev til et langstrakt refræn,<br>
-et plot, en fortælling, en popmelodi,<br>
-godnatsange brudt af sirenernes skrig.<br>
-Vi følte os som,<br>
-en luftløs ballon,<br>
+Igen og igen,\
+og tonerne blev til et langstrakt refræn,\
+et plot, en fortælling, en popmelodi,\
+godnatsange brudt af sirenernes skrig.\
+Vi følte os som,\
+en luftløs ballon,\
 
 3\.\
-En luftløs ballon<br>
-en endeløs sætning, helt kæntret og tom<br>
-Jeg hjemsøges tit af ideer om flugt<br>
-men latteren tegner dit ansigt så smukt<br>
-Du strækker din krop<br>
-mens solen står op<br>
+En luftløs ballon\
+en endeløs sætning, helt kæntret og tom\
+Jeg hjemsøges tit af ideer om flugt\
+men latteren tegner dit ansigt så smukt\
+Du strækker din krop\
+mens solen står op\
 
 4\.\
-Mens solen står op<br>
-så brygger vi kaffe og drikker en kop<br>
-og når vi bliver fanget i hverdagens støj<br>
-så ruller vi øjne og deler en smøg<br>
-så strander vi der,<br>
-hvor ømheden er,<br>
+Mens solen står op\
+så brygger vi kaffe og drikker en kop\
+og når vi bliver fanget i hverdagens støj\
+så ruller vi øjne og deler en smøg\
+så strander vi der,\
+hvor ømheden er,\
 
 5\.\
-Hvor ømheden er<br>
-marcherer vi tappert med velviljens hær<br>
-en kærlighed tyndslidt og helt desperat<br>
-kun båret af løfterne, stålsat og klart<br>
-En dirrende nu<br>
-mit søvnige du<br>
+Hvor ømheden er\
+marcherer vi tappert med velviljens hær\
+en kærlighed tyndslidt og helt desperat\
+kun båret af løfterne, stålsat og klart\
+En dirrende nu\
+mit søvnige du\
 
 6\.\
-Mit søvninge du<br>
-mit drama er langt, min fornuft er itu<br>
-og når jeg bliver bange og når jeg bli'r vred<br>
-så sænk mine skibe og skænk mig din fred<br>
-jeg øjner en kyst<br>
-og snart bli'r det lyst<br>
+Mit søvninge du\
+mit drama er langt, min fornuft er itu\
+og når jeg bliver bange og når jeg bli'r vred\
+så sænk mine skibe og skænk mig din fred\
+jeg øjner en kyst\
+og snart bli'r det lyst\
 
 7\.\
-Og snart bli'r det lyst<br>
-så tag mig for givet det virker så tyst<br>
-fortabt er jeg stadig trods årenes gang<br>
-og synger med tak denne kærlighedssang<br>
-fordi det sku' ske<br>
-vi mødtes i sne.<br>
+Og snart bli'r det lyst\
+så tag mig for givet det virker så tyst\
+fortabt er jeg stadig trods årenes gang\
+og synger med tak denne kærlighedssang\
+fordi det sku' ske\
+vi mødtes i sne.\

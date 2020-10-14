@@ -6,41 +6,41 @@ nummer: "253"
 tema: "Vintertid"
 ---
 1\.\
-Det er hvidt herude,<br>
-kyndelmisse slår sin knude<br>
-overmåde hvas og hård,<br>
-hvidt forneden, hvidt foroven,<br>
-pudret tykt står træ i skoven<br>
-som udi min abildgård.<br>
+Det er hvidt herude,\
+kyndelmisse slår sin knude\
+overmåde hvas og hård,\
+hvidt forneden, hvidt foroven,\
+pudret tykt står træ i skoven\
+som udi min abildgård.\
 
 2\.\
-Det er tyst herude,<br>
-kun med sagte pik på rude<br>
-melder sig den små musvit.<br>
-Der er ingen fugl, der synger,<br>
-finken kun på kvisten gynger,<br>
-ser sig om og hvipper lidt.<br>
+Det er tyst herude,\
+kun med sagte pik på rude\
+melder sig den små musvit.\
+Der er ingen fugl, der synger,\
+finken kun på kvisten gynger,\
+ser sig om og hvipper lidt.\
 
 3\.\
-Det er koldt herude,<br>
-ravne skrige, ugler tude,<br>
-søge føde, søge læ.<br>
-Kragen spanker om med skaden<br>
-højt på rygningen af laden,<br>
-skeler til det tamme kræ.<br>
+Det er koldt herude,\
+ravne skrige, ugler tude,\
+søge føde, søge læ.\
+Kragen spanker om med skaden\
+højt på rygningen af laden,\
+skeler til det tamme kræ.\
 
 4\.\
-Hanen sig opsvinger<br>
-på en snemand, sine vinger<br>
-klaskende han sammenslår.<br>
-Krummer halsen stolt og galer -<br>
-hvad monstro han vil, den praler?<br>
-Hvis endda om tø han spår!<br>
+Hanen sig opsvinger\
+på en snemand, sine vinger\
+klaskende han sammenslår.\
+Krummer halsen stolt og galer -\
+hvad monstro han vil, den praler?\
+Hvis endda om tø han spår!\
 
 5\.\
-Inderlig jeg længes<br>
-efter vår, men vintren strænges,<br>
-atter vinden om til nord!<br>
-Kom, sydvest, som frosten tvinger,<br>
-kom med dine tågevinger,<br>
-kom og løs den bundne jord!<br>
+Inderlig jeg længes\
+efter vår, men vintren strænges,\
+atter vinden om til nord!\
+Kom, sydvest, som frosten tvinger,\
+kom med dine tågevinger,\
+kom og løs den bundne jord!\

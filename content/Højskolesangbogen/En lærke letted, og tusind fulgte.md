@@ -6,37 +6,37 @@ nummer: "514"
 tema: "Historien"
 ---
 1\.\
-En lærke letted, og tusind fulgte,<br>
-og straks var luften et væld af sang.<br>
-De tusind tårne tog til at tone,<br>
-så landet fyldtes af klokkers klang,<br>
-og byer blomstred i rødt og hvidt,<br>
-og det var forår og Danmark frit,<br>
--- ja, Danmark frit.<br>
+En lærke letted, og tusind fulgte,\
+og straks var luften et væld af sang.\
+De tusind tårne tog til at tone,\
+så landet fyldtes af klokkers klang,\
+og byer blomstred i rødt og hvidt,\
+og det var forår og Danmark frit,\
+-- ja, Danmark frit.\
 
 2\.\
-Det var en morgen som tusind andre<br>
-og ingen morgen i tusind år,<br>
-da Danmark vågned med klare øjne<br>
-til glædestimer og frimandskår,<br>
-og landet lyste fra sund til klit,<br>
-for det var forår og Danmark frit,<br>
--- og Danmark frit.<br>
+Det var en morgen som tusind andre\
+og ingen morgen i tusind år,\
+da Danmark vågned med klare øjne\
+til glædestimer og frimandskår,\
+og landet lyste fra sund til klit,\
+for det var forår og Danmark frit,\
+-- og Danmark frit.\
 
 3\.\
-Vi mindes stille de tapre døde,<br>
-hvis navne lever i Danmarks navn,<br>
-og takken søger til dem, der segned,<br>
-og dem, der sidder med tunge savn.<br>
-Gud trøste dem, der har lidt og stridt,<br>
-til det blev forår - og Danmark frit,<br>
--- og Danmark frit.<br>
+Vi mindes stille de tapre døde,\
+hvis navne lever i Danmarks navn,\
+og takken søger til dem, der segned,\
+og dem, der sidder med tunge savn.\
+Gud trøste dem, der har lidt og stridt,\
+til det blev forår - og Danmark frit,\
+-- og Danmark frit.\
 
 4\.\
-Men du, som styrter de stoltes riger<br>
-og løser fangne af bolt og bånd,<br>
-dig flyver hjerternes tak i møde.<br>
-Vor skæbne er i din stærke hånd.<br>
-Nu er det forår og Danmark frit,<br>
-velsign det, Herre, fra sund til klit,<br>
--- fra sund til klit.<br>
+Men du, som styrter de stoltes riger\
+og løser fangne af bolt og bånd,\
+dig flyver hjerternes tak i møde.\
+Vor skæbne er i din stærke hånd.\
+Nu er det forår og Danmark frit,\
+velsign det, Herre, fra sund til klit,\
+-- fra sund til klit.\

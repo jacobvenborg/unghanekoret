@@ -5,43 +5,43 @@ tekst: "Dansk tekst af Gustav Winckler, 1975"
 melodi: "Ken Lane, 1947"
 ---
 
-*Noter: Eb-dur* <br>
+*Noter: Eb-dur* \
 
 ***
 
-A-stykke<br>
-Gem et lille smil til det bli’r gråvejr<br>
-Lige nu er himlen klar og blå<br>
-Der kan hænde ting i morgen<br>
-Du ikke forudså<br>
+A-stykke\
+Gem et lille smil til det bli’r gråvejr\
+Lige nu er himlen klar og blå\
+Der kan hænde ting i morgen\
+Du ikke forudså\
 
-A-stykke.<br>
-Gem et lille smil til det bli’r gråvejr<br>
-Sol og glæde varer sjælden ved<br>
-Så' det rart at kunne smile<br>
-Mens regnen siler ned<br>
+A-stykke.\
+Gem et lille smil til det bli’r gråvejr\
+Sol og glæde varer sjælden ved\
+Så' det rart at kunne smile\
+Mens regnen siler ned\
 
-B-stykke<br>
-Tænk hvis jeg var verdens herre<br>
-Fik du bare sol og glæde på din vej<br>
-Men jeg er kun mig - og desværre<br>
-Det eneste jeg ka' gi' dig det er mig<br>
+B-stykke\
+Tænk hvis jeg var verdens herre\
+Fik du bare sol og glæde på din vej\
+Men jeg er kun mig - og desværre\
+Det eneste jeg ka' gi' dig det er mig\
 
-A-stykke<br>
-Gem et lille smil til det bli’r gråvejr<br>
-Lige nu er himlen klar og blå<br>
-Men hvis blot vi holder sammen<br>
-Vil alting sikkert gå<br>
+A-stykke\
+Gem et lille smil til det bli’r gråvejr\
+Lige nu er himlen klar og blå\
+Men hvis blot vi holder sammen\
+Vil alting sikkert gå\
 
-B-stykke<br>
-Tænk hvis jeg var verdens herre<br>
-Fik du bare sol og glæde på din vej<br>
-Men jeg er kun mig - og desværre<br>
-Det eneste jeg ka' gi' dig det er mig<br>
+B-stykke\
+Tænk hvis jeg var verdens herre\
+Fik du bare sol og glæde på din vej\
+Men jeg er kun mig - og desværre\
+Det eneste jeg ka' gi' dig det er mig\
 
-A-stykke *(modulation)*<br>
-Gem et lille smil til det bli’r gråvejr<br>
-Lige nu er himlen klar og blå<br>
-Men hvis blot vi holder sammen<br>
-Vil alting sikkert gå<br>
-*Gem et lille smil til det bli’r gråvejr*<br>
+A-stykke *(modulation)*\
+Gem et lille smil til det bli’r gråvejr\
+Lige nu er himlen klar og blå\
+Men hvis blot vi holder sammen\
+Vil alting sikkert gå\
+*Gem et lille smil til det bli’r gråvejr*\

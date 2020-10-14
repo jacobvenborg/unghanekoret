@@ -5,13 +5,13 @@ melodi: "Piae Cantiones, 1582"
 nummer: "210"
 tema: "Året - tidlig vinter"
 ---
-Mørk er november og løvfaldet slut,<br>
-vandet begynder at fryse,<br>
-lyset fra solen og blomsterne brudt --<br>
-da må vort hjerte selv lyse.<br>
-Synge vil vi, legen er magt,<br>
-mer end beregning, forstand og foragt<br>
-værn mod det sorte og tomme.<br>
-Om der svæver dødelig dræ,<br>
-vil vi dog elske - og plante et træ:<br>
-frugter kan uspået komme.<br>
+Mørk er november og løvfaldet slut,\
+vandet begynder at fryse,\
+lyset fra solen og blomsterne brudt --\
+da må vort hjerte selv lyse.\
+Synge vil vi, legen er magt,\
+mer end beregning, forstand og foragt\
+værn mod det sorte og tomme.\
+Om der svæver dødelig dræ,\
+vil vi dog elske - og plante et træ:\
+frugter kan uspået komme.\

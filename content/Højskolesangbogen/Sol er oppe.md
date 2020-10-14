@@ -6,81 +6,81 @@ nummer: "473"
 tema: "Historien"
 ---
 1\.\
-Sol er oppe, skovens toppe<br>
-glimre alt som Gimles tag.<br>
-Bud os bringer hanevinger,<br>
-hanegal om klaren dag.<br>
-Vågner, vågner, danske helte!<br>
-springer op og spænder bælte!<br>
-dag og dåd er kæmperim,<br>
-dag og dåd er kæmperim.<br>
+Sol er oppe, skovens toppe\
+glimre alt som Gimles tag.\
+Bud os bringer hanevinger,\
+hanegal om klaren dag.\
+Vågner, vågner, danske helte!\
+springer op og spænder bælte!\
+dag og dåd er kæmperim,\
+dag og dåd er kæmperim.\
 
 2\.\
-Højt det gjalder, luren kalder<br>
-kæmper op af morgen blund,<br>
-stolper knage, luer brage,<br>
-blusse over grønne lund.<br>
-Vågner! ej til gammens tale,<br>
-vin og smil i kongesale!<br>
-Hildurs leg er nu for hånd,<br>
-Hildurs leg er nu for hånd.<br>
+Højt det gjalder, luren kalder\
+kæmper op af morgen blund,\
+stolper knage, luer brage,\
+blusse over grønne lund.\
+Vågner! ej til gammens tale,\
+vin og smil i kongesale!\
+Hildurs leg er nu for hånd,\
+Hildurs leg er nu for hånd.\
 
 3\.\
-Vågner! skuer borgens buer<br>
-i den røde buegang!<br>
-Luren gjalder, Lejre falder<br>
-under Skuldes jubelsang.<br>
-Hjartvar ild i skoven tænder,<br>
-bladet falmer, bøgen brænder,<br>
-vågne må selv Dan og Skjold,<br>
-vågne må selv Dan og Skjold.<br>
+Vågner! skuer borgens buer\
+i den røde buegang!\
+Luren gjalder, Lejre falder\
+under Skuldes jubelsang.\
+Hjartvar ild i skoven tænder,\
+bladet falmer, bøgen brænder,\
+vågne må selv Dan og Skjold,\
+vågne må selv Dan og Skjold.\
 
 4\.\
-Op nu fage for Rolf Krage<br>
-kækt at løfte skjold og sværd!<br>
-Vel for luer ej han gruer,<br>
-men for syn af niddingsfærd.<br>
-Ring med glans og sværd med ægge<br>
-mild han gav med hænder begge,<br>
-hvem tør nu slå ring om ham,<br>
-hvem tør nu slå ring om ham!<br>
+Op nu fage for Rolf Krage\
+kækt at løfte skjold og sværd!\
+Vel for luer ej han gruer,\
+men for syn af niddingsfærd.\
+Ring med glans og sværd med ægge\
+mild han gav med hænder begge,\
+hvem tør nu slå ring om ham,\
+hvem tør nu slå ring om ham!\
 
 5\.\
-I sin bolig, tryg og rolig,<br>
-slumred sødt den drot så bold,<br>
-svenske luer end han kuer<br>
-med sit brede dane-skjold.<br>
-Men ak! dog han står på gløder,<br>
-tryllesværd og trindt han møder,<br>
-hvem tør skyde skjold for ham,<br>
-hvem tør skyde skjold for ham!<br>
+I sin bolig, tryg og rolig,\
+slumred sødt den drot så bold,\
+svenske luer end han kuer\
+med sit brede dane-skjold.\
+Men ak! dog han står på gløder,\
+tryllesværd og trindt han møder,\
+hvem tør skyde skjold for ham,\
+hvem tør skyde skjold for ham!\
 
 6\.\
-Den, som kaldte! Det tør Hjalte,<br>
-det tør Sjællands bondeknøs.<br>
-Det tør Bjarke, om i marke<br>
-Fenris-ulv end selv var løs,<br>
-lyst han har til med god Løve<br>
-Odin selv at nå og kløve;<br>
-Bodvar Bjarke slår til bunds,<br>
-Bodvar Bjarke slår til bunds.<br>
+Den, som kaldte! Det tør Hjalte,\
+det tør Sjællands bondeknøs.\
+Det tør Bjarke, om i marke\
+Fenris-ulv end selv var løs,\
+lyst han har til med god Løve\
+Odin selv at nå og kløve;\
+Bodvar Bjarke slår til bunds,\
+Bodvar Bjarke slår til bunds.\
 
 7\.\
-Rolf kan blegne, Bjarke segne,<br>
-Hjalte svømme i sit blod,<br>
-Lejres buer kan i luer<br>
-synke ned for Hjartvars fod.<br>
-Marken ej han kan beholde,<br>
-før de emmer vorde kolde,<br>
-dræber ham den sidste gnist,<br>
-dræber ham den sidste gnist.<br>
+Rolf kan blegne, Bjarke segne,\
+Hjalte svømme i sit blod,\
+Lejres buer kan i luer\
+synke ned for Hjartvars fod.\
+Marken ej han kan beholde,\
+før de emmer vorde kolde,\
+dræber ham den sidste gnist,\
+dræber ham den sidste gnist.\
 
 8\.\
-Sol er oppe, skovens toppe<br>
-glimre alt som Gimles tag,<br>
-bud os bringer hanevinger,<br>
-hanegal om klaren dag.<br>
-Vågner! vågner, danske helte!<br>
-springer op og spænder bælte!<br>
-morgenstund har guld i mund,<br>
-morgenstund har guld i mund.<br>
+Sol er oppe, skovens toppe\
+glimre alt som Gimles tag,\
+bud os bringer hanevinger,\
+hanegal om klaren dag.\
+Vågner! vågner, danske helte!\
+springer op og spænder bælte!\
+morgenstund har guld i mund,\
+morgenstund har guld i mund.\

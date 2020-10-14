@@ -6,57 +6,57 @@ nummer: "134"
 tema: "Liv"
 ---
 1\.\
-Barndommens land.<br>
-Tidens mælketand.<br>
-Verden er ny for dit øje.<br>
-Folk er to-tre meter høje<br>
-så de må bøje sig<br>
-ned til dig.<br>
+Barndommens land.\
+Tidens mælketand.\
+Verden er ny for dit øje.\
+Folk er to-tre meter høje\
+så de må bøje sig\
+ned til dig.\
 
 2\.\
-Fluen er blå.<br>
-Kilder på min tå.<br>
-Og et par myrer du kender<br>
-hygger sig på dine hænder.<br>
-Skrubtudsen tisser en tår<br>
-før den går.<br>
+Fluen er blå.\
+Kilder på min tå.\
+Og et par myrer du kender\
+hygger sig på dine hænder.\
+Skrubtudsen tisser en tår\
+før den går.\
 
 3\.\
-Solen er varm.<br>
-Stikker på din arm<br>
-ligesom hvepse og bier.<br>
-De er så gale. De svier.<br>
-Regnormen føles så blød.<br>
-Den er sød.<br>
+Solen er varm.\
+Stikker på din arm\
+ligesom hvepse og bier.\
+De er så gale. De svier.\
+Regnormen føles så blød.\
+Den er sød.\
 
 4\.\
-Slog du dit ben<br>
-på en kampesten?<br>
-Kom - lad mig puste på skrammen.<br>
-Vi skal ha lappet dig sammen.<br>
-Du må vist hellere få<br>
-plaster på.<br>
+Slog du dit ben\
+på en kampesten?\
+Kom - lad mig puste på skrammen.\
+Vi skal ha lappet dig sammen.\
+Du må vist hellere få\
+plaster på.\
 
 5\.\
-Verden er stor.<br>
-Kaldes 'Moder Jord'.<br>
-Der findes børn der må flygte,<br>
-men du har intet at frygte.<br>
-Ingen skal mishandle dig ¬-<br>
-håber jeg.<br>
+Verden er stor.\
+Kaldes 'Moder Jord'.\
+Der findes børn der må flygte,\
+men du har intet at frygte.\
+Ingen skal mishandle dig ¬-\
+håber jeg.\
 
 6\.\
-Græsset er højt<br>
-som et fuglefløjt.<br>
-Solen er ude af syne.<br>
-Putter sig under sin dyne.<br>
-Gaber måske - lissom du -<br>
-sover nu.<br>
+Græsset er højt\
+som et fuglefløjt.\
+Solen er ude af syne.\
+Putter sig under sin dyne.\
+Gaber måske - lissom du -\
+sover nu.\
 
 7\.\
-Barndommens land.<br>
-Nu er jeg en mand.<br>
-Tit har jeg lyst til at love<br>
-solskin og dejlige skove.<br>
-Men der er lang vej igen.<br>
-Sov, min ven<br>
+Barndommens land.\
+Nu er jeg en mand.\
+Tit har jeg lyst til at love\
+solskin og dejlige skove.\
+Men der er lang vej igen.\
+Sov, min ven\

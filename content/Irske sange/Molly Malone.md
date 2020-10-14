@@ -4,61 +4,61 @@ tekst: "Muligvis 1700-tallet"
 melodi: "Ukendt. Måske inspillet første gang i 1976"
 categories: "Irske sange"
 ---
-*Noter: F-dur, trestemmigt i omkvæd (TMB)* <br>
+*Noter: F-dur, trestemmigt i omkvæd (TMB)* \
 
 ***
 
 1\.\
-In Dublin's fair city,<br>
-Where the girls are so pretty,<br>
-I first set my eyes on sweet Molly Malone,<br>
-As she wheeled her wheel-barrow,<br>
-Through streets broad and narrow,<br>
-Crying, "Cockles and mussels, alive, alive, oh!"<br>
+In Dublin's fair city,\
+Where the girls are so pretty,\
+I first set my eyes on sweet Molly Malone,\
+As she wheeled her wheel-barrow,\
+Through streets broad and narrow,\
+Crying, "Cockles and mussels, alive, alive, oh!"\
 
-Omkvæd<br>
-Alive, alive, oh,<br>
-Alive, alive, oh,<br>
-Crying "cockles and mussels, alive, alive, oh"<br>
+Omkvæd\
+Alive, alive, oh,\
+Alive, alive, oh,\
+Crying "cockles and mussels, alive, alive, oh"\
 
-Omkvæd<br>
-Alive, alive, oh,<br>
-Alive, alive, oh,<br>
-Crying "cockles and mussels, alive, alive, oh"<br>
+Omkvæd\
+Alive, alive, oh,\
+Alive, alive, oh,\
+Crying "cockles and mussels, alive, alive, oh"\
 
 2\.\
-She was a fishmonger,<br>
-And sure 'twas no wonder,<br>
-For so were her father and mother before,<br>
-And they each wheeled their barrow,<br>
-Through streets broad and narrow,<br>
-Crying, "Cockles and mussels, alive, alive, oh!"<br>
+She was a fishmonger,\
+And sure 'twas no wonder,\
+For so were her father and mother before,\
+And they each wheeled their barrow,\
+Through streets broad and narrow,\
+Crying, "Cockles and mussels, alive, alive, oh!"\
 
-Omkvæd<br>
-Alive, alive, oh,<br>
-Alive, alive, oh,<br>
-Crying "cockles and mussels, alive, alive, oh"<br>
+Omkvæd\
+Alive, alive, oh,\
+Alive, alive, oh,\
+Crying "cockles and mussels, alive, alive, oh"\
 
-Omkvæd<br>
-Alive, alive, oh,<br>
-Alive, alive, oh,<br>
-Crying "cockles and mussels, alive, alive, oh"<br>
-<br>
+Omkvæd\
+Alive, alive, oh,\
+Alive, alive, oh,\
+Crying "cockles and mussels, alive, alive, oh"\
+\
 
-3.(Synges stille, uh-kor kommer først i sidste halvdel)<br>
-She died of a fever,<br>
-And no one could save her,<br>
-And that was the end of sweet Molly Malone.<br>
-Now her ghost wheels her barrow,<br>
-Through streets broad and narrow,<br>
-Crying, "Cockles and mussels, alive, alive, oh!"<br>
+3.(Synges stille, uh-kor kommer først i sidste halvdel)\
+She died of a fever,\
+And no one could save her,\
+And that was the end of sweet Molly Malone.\
+Now her ghost wheels her barrow,\
+Through streets broad and narrow,\
+Crying, "Cockles and mussels, alive, alive, oh!"\
 
-Omkvæd<br>
-Alive, alive, oh,<br>
-Alive, alive, oh,<br>
-Crying "cockles and mussels, alive, alive, oh"<br>
-Omkvæd<br>
+Omkvæd\
+Alive, alive, oh,\
+Alive, alive, oh,\
+Crying "cockles and mussels, alive, alive, oh"\
+Omkvæd\
 
-Alive, alive, oh,<br>
-Alive, alive, oh,<br>
-Crying "cockles and mussels, alive, alive, oh"<br>
+Alive, alive, oh,\
+Alive, alive, oh,\
+Crying "cockles and mussels, alive, alive, oh"\

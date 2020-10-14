@@ -6,21 +6,21 @@ nummer: "572"
 tema: "Aften"
 ---
 1\.\
-I skovens dybe, stille ro,<br>
-hvor sangerhære bo,<br>
-hvor sjælen lytted mangen gang<br>
-til fuglens glade sang,<br>
-der er idyllisk stille fred<br>
-i skovens ensomhed,<br>
-og hjertets længsler tie her,<br>
-hvor fred og hvile er.<br>
+I skovens dybe, stille ro,\
+hvor sangerhære bo,\
+hvor sjælen lytted mangen gang\
+til fuglens glade sang,\
+der er idyllisk stille fred\
+i skovens ensomhed,\
+og hjertets længsler tie her,\
+hvor fred og hvile er.\
 
 2\.\
-Hør landsbyklokken lyder ned,<br>
-bebuder aftenfred,<br>
-småfuglen, før den går til blund,<br>
-end kvidrer lidt en stund.<br>
-I mosen kvækker højt en frø,<br>
-stærkt damper mark og sø,<br>
-nu klokken tier, - aftnens fred<br>
-sig stille sænker ned.<br>
+Hør landsbyklokken lyder ned,\
+bebuder aftenfred,\
+småfuglen, før den går til blund,\
+end kvidrer lidt en stund.\
+I mosen kvækker højt en frø,\
+stærkt damper mark og sø,\
+nu klokken tier, - aftnens fred\
+sig stille sænker ned.\

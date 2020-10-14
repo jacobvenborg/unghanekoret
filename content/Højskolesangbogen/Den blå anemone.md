@@ -6,56 +6,56 @@ nummer: "262"
 tema: "Året - tidligt forår"
 ---
 1\.\
-Hvad var det dog, der skete?<br>
-Mit vinterfrosne hjertes kvarts<br>
-må smelte ved at se det<br>
-den første dag i marts.<br>
-Hvad gennembrød den sorte jord<br>
-og gav den med sit søblå flor<br>
-et stænk af himlens tone?<br>
-Den lille anemone,<br>
-jeg planted dér i fjor.<br>
+Hvad var det dog, der skete?\
+Mit vinterfrosne hjertes kvarts\
+må smelte ved at se det\
+den første dag i marts.\
+Hvad gennembrød den sorte jord\
+og gav den med sit søblå flor\
+et stænk af himlens tone?\
+Den lille anemone,\
+jeg planted dér i fjor.\
 
 2\.\
-På Lolland jeg den hented,<br>
-et kærtegn fra min fødeø.<br>
-Så gik jeg her og vented<br>
-og tænkte: »Den må dø;<br>
-den savner jo sit skovkvarter,<br>
-sin lune luft, sit fede ler;<br>
-i denne fjendske zone<br>
-forgår min anemone;<br>
-jeg ser den aldrig mer«.<br>
+På Lolland jeg den hented,\
+et kærtegn fra min fødeø.\
+Så gik jeg her og vented\
+og tænkte: »Den må dø;\
+den savner jo sit skovkvarter,\
+sin lune luft, sit fede ler;\
+i denne fjendske zone\
+forgår min anemone;\
+jeg ser den aldrig mer«.\
 
 3\.\
-Nu står den der og nikker<br>
-så sejersæl i Jyllands grus<br>
-ukuelig og sikker<br>
-trods ensomhed og gus,<br>
-som om alverdens modgang her<br>
-har givet den et større værd,<br>
-en lille amazone<br>
-og dog min anemone<br>
-som søens bølge skær.<br>
+Nu står den der og nikker\
+så sejersæl i Jyllands grus\
+ukuelig og sikker\
+trods ensomhed og gus,\
+som om alverdens modgang her\
+har givet den et større værd,\
+en lille amazone\
+og dog min anemone\
+som søens bølge skær.\
 
 4\.\
-Hvad var det dog, der skete?<br>
-Mit hjerte koldt og hårdt som kvarts<br>
-det smelter ved at se det<br>
-den første dag i marts.<br>
-Jeg tænkte: »Evigt skiltes ad<br>
-min sjæl og glæden«. da jeg sad<br>
-i vint'rens grumme done.<br>
-Nu gør min anemone<br>
-ig atter fri og glad.<br>
+Hvad var det dog, der skete?\
+Mit hjerte koldt og hårdt som kvarts\
+det smelter ved at se det\
+den første dag i marts.\
+Jeg tænkte: »Evigt skiltes ad\
+min sjæl og glæden«. da jeg sad\
+i vint'rens grumme done.\
+Nu gør min anemone\
+ig atter fri og glad.\
 
 5\.\
-For denne rene farve<br>
-den er mig som en vårens dåb,<br>
-den la'r mig nyfødt arve<br>
-en evighed af håb.<br>
-Så bøjer jeg mig da mod jord<br>
-og stryger ømt dit silkeflor,<br>
-en flig af nådens trone.<br>
-Du lille anemone,<br>
-hvor er vor skaber stor!<br>
+For denne rene farve\
+den er mig som en vårens dåb,\
+den la'r mig nyfødt arve\
+en evighed af håb.\
+Så bøjer jeg mig da mod jord\
+og stryger ømt dit silkeflor,\
+en flig af nådens trone.\
+Du lille anemone,\
+hvor er vor skaber stor!\

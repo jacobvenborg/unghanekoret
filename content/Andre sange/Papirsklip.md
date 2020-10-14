@@ -5,47 +5,47 @@ tekst: "Kim Larsen, 1983, på albummet Midt om natten"
 melodi: "Kim Larsen, 1983, på albummet Midt om natten"
 ---
 1\.\
-Når nu min verden bliver kold og forladt<br>
-Finder jeg trøst i min kæreste skat<br>
-Klipper motiver med drømme og saks<br>
-Papirsilhouetter af den fineste slags<br>
+Når nu min verden bliver kold og forladt\
+Finder jeg trøst i min kæreste skat\
+Klipper motiver med drømme og saks\
+Papirsilhouetter af den fineste slags\
 
 2\.\
-Her er et af min far og min mor<br>
-De som gav mig til denne jord<br>
-Kærlige kys og en duft af jasmin<br>
-Altid solskin og sødeste min<br>
+Her er et af min far og min mor\
+De som gav mig til denne jord\
+Kærlige kys og en duft af jasmin\
+Altid solskin og sødeste min\
 
-Omkvæd<br>
-Livet er langt, lykken er kort<br>
-Salig er den, der tør give det bort<br>
+Omkvæd\
+Livet er langt, lykken er kort\
+Salig er den, der tør give det bort\
 
 3\.\
-Her er et af min bedste ven<br>
-Utallige klip går igen og igen<br>
-Et aldrig færdigt eller fuldendt motiv<br>
-Sort silhouet af kvinden i mit liv<br>
+Her er et af min bedste ven\
+Utallige klip går igen og igen\
+Et aldrig færdigt eller fuldendt motiv\
+Sort silhouet af kvinden i mit liv\
 
-Omkvæd<br>
-Livet er langt, lykken er kort<br>
-Salig er den, der tør give det bort<br>
+Omkvæd\
+Livet er langt, lykken er kort\
+Salig er den, der tør give det bort\
 
-C-stykke<br>
-Domine et sanctus<br>
-Domine et sanctus<br>
-Domine et sanctus<br>
-Domine et sanctus<br>
-Domine et sanctus<br>
-Domine et sanctus<br>
+C-stykke\
+Domine et sanctus\
+Domine et sanctus\
+Domine et sanctus\
+Domine et sanctus\
+Domine et sanctus\
+Domine et sanctus\
 
 4\.\
-Når nu min verden bliver kold og forladt<br>
-Finder jeg trøst i min kæreste skat<br>
-Klipper motiver med drømme og saks<br>
-Papirsilhouetter af den fineste slags<br>
+Når nu min verden bliver kold og forladt\
+Finder jeg trøst i min kæreste skat\
+Klipper motiver med drømme og saks\
+Papirsilhouetter af den fineste slags\
 
-Omkvæd<br>
-Livet er langt, lykken er kort<br>
-Salig er den, der tør give det bort<br>
-Livet er langt, lykken er kort<br>
-Salig er den, der tør give det bort<br>
+Omkvæd\
+Livet er langt, lykken er kort\
+Salig er den, der tør give det bort\
+Livet er langt, lykken er kort\
+Salig er den, der tør give det bort\

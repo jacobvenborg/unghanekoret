@@ -3,78 +3,78 @@ title: "Lad din stemme blive hørt"
 tekst: "Oskar Jefsen, 2019"
 melodi: "Oskar Jefsen, 2019"
 ---
-*Noter: F-dur* <br>
+*Noter: F-dur* \
 
 ***
 
 1\.\
-Vi har alle en stemme indeni<br>
-Et brøl eller et fuglefløjt<br>
-Og på Grundlovsdag der sætter vi den fri<br>
-Og siger vores mening højt<br>
+Vi har alle en stemme indeni\
+Et brøl eller et fuglefløjt\
+Og på Grundlovsdag der sætter vi den fri\
+Og siger vores mening højt\
 
 2\.\
-Valget står kun på denne ene dag<br>
-Men folkestyret hele året rundt<br>
-En enkelt tur til urnen det er ingen sag<br>
-Det holder vores samfund sundt<br>
+Valget står kun på denne ene dag\
+Men folkestyret hele året rundt\
+En enkelt tur til urnen det er ingen sag\
+Det holder vores samfund sundt\
 
-Omkvæd<br>
-(så) Lad din stemme - blive hørt<br>
-Lad din stemme blive hørt<br>
-Hvis du synes politik det er skørt<br>
-Så lad din stemme blive hørt<br>
+Omkvæd\
+(så) Lad din stemme - blive hørt\
+Lad din stemme blive hørt\
+Hvis du synes politik det er skørt\
+Så lad din stemme blive hørt\
 
-Bro<br>
-Det handler ikke om at overdøve<br>
-Eller om at synge bedst<br>
-Det’ okay at tvivle eller tøve<br>
-Her er ingen adgangstest<br>
+Bro\
+Det handler ikke om at overdøve\
+Eller om at synge bedst\
+Det’ okay at tvivle eller tøve\
+Her er ingen adgangstest\
 
 3\.\
-Demokratiet er en samtale værd<br>
-Intet mindre, intet mer’<br>
-Ansigt til ansigt, lige nu og her<br>
-Det er sådan demokratiet sker<br>
+Demokratiet er en samtale værd\
+Intet mindre, intet mer’\
+Ansigt til ansigt, lige nu og her\
+Det er sådan demokratiet sker\
 
 4\.\
-Monologer lær’ vi intet af<br>
-Hvis vi taler i munden på hinand’<br>
-Stille lytten er intet nederlag<br>
-Men bevis på at du har forstand<br>
+Monologer lær’ vi intet af\
+Hvis vi taler i munden på hinand’\
+Stille lytten er intet nederlag\
+Men bevis på at du har forstand\
 
-Omkvæd<br>
-Lad din stemme - blive hørt<br>
-Lad din stemme blive hørt<br>
-Hvis du vil med på vognen inden toget er kørt<br>
-Så lad din stemme blive hørt<br>
+Omkvæd\
+Lad din stemme - blive hørt\
+Lad din stemme blive hørt\
+Hvis du vil med på vognen inden toget er kørt\
+Så lad din stemme blive hørt\
 
-Bro<br>
-Det gælder ikke om at råbe højest<br>
-Eller give hurtigt svar<br>
-Hvis argumentet sidder lig’ i øjet<br>
-Ringer ordet klokkeklart<br>
+Bro\
+Det gælder ikke om at råbe højest\
+Eller give hurtigt svar\
+Hvis argumentet sidder lig’ i øjet\
+Ringer ordet klokkeklart\
 
 5\.\
-Folkestyret har ingen værdi<br>
-Hvis ikke du møder op<br>
-Så uanset hvilken farve du ka’ li’<br>
-Ja, så har du et job<br>
+Folkestyret har ingen værdi\
+Hvis ikke du møder op\
+Så uanset hvilken farve du ka’ li’\
+Ja, så har du et job\
 
 6\.\
-Læs avisen, tænd for dit tv<br>
-Tal med din bedste ven<br>
-Rejs dig fra sofaen, kom så en-to-tre<br>
-Der går nok fire år igen<br>
+Læs avisen, tænd for dit tv\
+Tal med din bedste ven\
+Rejs dig fra sofaen, kom så en-to-tre\
+Der går nok fire år igen\
 
-Omkvæd<br>
-(så) Lad din stemme - blive hørt<br>
-Lad din stemme blive hørt<br>
-Hvis du synes politik det er skørt<br>
-Så lad din stemme blive hørt<br>
+Omkvæd\
+(så) Lad din stemme - blive hørt\
+Lad din stemme blive hørt\
+Hvis du synes politik det er skørt\
+Så lad din stemme blive hørt\
 
-Omkvæd<br>
-Lad din stemme - blive hørt<br>
-Lad din stemme blive hørt<br>
-Hvis du vil med på vognen inden toget er kørt<br>
-Så lad din stemme blive hørt<br>
+Omkvæd\
+Lad din stemme - blive hørt\
+Lad din stemme blive hørt\
+Hvis du vil med på vognen inden toget er kørt\
+Så lad din stemme blive hørt\

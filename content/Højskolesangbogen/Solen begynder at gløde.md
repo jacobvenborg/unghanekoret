@@ -6,37 +6,37 @@ nummer: "27"
 tema: "Morgen"
 ---
 1\.\
-Solen begynder at gløde.<br>
-Mærket i verden har tabt.<br>
-Lad os gå ud forat møde<br>
-lyset, Gud lige har skabt.<br>
+Solen begynder at gløde.\
+Mærket i verden har tabt.\
+Lad os gå ud forat møde\
+lyset, Gud lige har skabt.\
 
 2\.\
-Små bitte dråber af glæde<br>
-hænger i græsset. Vi tror<br>
-det er Guds vilje at træde<br>
-ud på den hellige jord.<br>
+Små bitte dråber af glæde\
+hænger i græsset. Vi tror\
+det er Guds vilje at træde\
+ud på den hellige jord.\
 
 3\.\
-Fuglesang oppe og nede.<br>
-Støj fra en myldrende by.<br>
-Store og små gør sig rede.<br>
-Dagen er dirrende ny.<br>
+Fuglesang oppe og nede.\
+Støj fra en myldrende by.\
+Store og små gør sig rede.\
+Dagen er dirrende ny.\
 
 4\.\
-Markerne dufter at(f?) lykke.<br>
-Streåene bølger så småt.<br>
-Trods alt det onde og stygge<br>
-tror vi at livet er godt.<br>
+Markerne dufter at(f?) lykke.\
+Streåene bølger så småt.\
+Trods alt det onde og stygge\
+tror vi at livet er godt.\
 
 5\.\
-Her hvor vi står og fornemmer<br>
-ømhed for alt som er til,<br>
-vågner i kuldskære lemmer<br>
-morgenenes første: “Jeg vil!”<br>
+Her hvor vi står og fornemmer\
+ømhed for alt som er til,\
+vågner i kuldskære lemmer\
+morgenenes første: “Jeg vil!”\
 
 6\.\
-Her på den dugvåde klode<br>
-Gud i sin glæde har skabt,<br>
-vil vi i dag kun det gode.<br>
-Mørket i verden har tabt.<br>
+Her på den dugvåde klode\
+Gud i sin glæde har skabt,\
+vil vi i dag kun det gode.\
+Mørket i verden har tabt.\

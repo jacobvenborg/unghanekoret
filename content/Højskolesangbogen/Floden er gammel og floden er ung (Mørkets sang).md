@@ -6,61 +6,61 @@ nummer: "133"
 tema: "Liv"
 ---
 1\.\
-Floden er gammel og floden er ung.<br>
-Byen er sorgfuld og munter.<br>
-Natten er glædelig. Natten er tung.<br>
-Livet er timer, sekunder.<br>
-Hold dig til livet et stykke endnu.<br>
-Døden har masser af venner.<br>
-Æd kun af mørket, men tro på at du<br>
-snart finder hende, du kender.<br>
+Floden er gammel og floden er ung.\
+Byen er sorgfuld og munter.\
+Natten er glædelig. Natten er tung.\
+Livet er timer, sekunder.\
+Hold dig til livet et stykke endnu.\
+Døden har masser af venner.\
+Æd kun af mørket, men tro på at du\
+snart finder hende, du kender.\
 
 2\.\
-Lande bli'r nedlagt og lande består.<br>
-Venner forsvinder og savnes.<br>
-Livet er mer end sekunder og år.<br>
-Snart vil vi mødes og favnes.<br>
-Gribben er ikke en kolibri.<br>
-Lænken er ikke en kæde.<br>
-Vis mig dit ansigt før alt er forbi,<br>
-så er vi begge til stede.<br>
+Lande bli'r nedlagt og lande består.\
+Venner forsvinder og savnes.\
+Livet er mer end sekunder og år.\
+Snart vil vi mødes og favnes.\
+Gribben er ikke en kolibri.\
+Lænken er ikke en kæde.\
+Vis mig dit ansigt før alt er forbi,\
+så er vi begge til stede.\
 
 3\.\
-Luften er lummer og sommeren går,<br>
-forår er noget, man mindes.<br>
-Livet er mer end sekunder og år,<br>
-forår er der, hvor hun findes.<br>
-Danmark er lukket og gået i hi.<br>
-Gold er en indkapslet glæde.<br>
-Vis mig dit ansigt før alt er forbi,<br>
-så er vi begge til stede.<br>
+Luften er lummer og sommeren går,\
+forår er noget, man mindes.\
+Livet er mer end sekunder og år,\
+forår er der, hvor hun findes.\
+Danmark er lukket og gået i hi.\
+Gold er en indkapslet glæde.\
+Vis mig dit ansigt før alt er forbi,\
+så er vi begge til stede.\
 
 4\.\
-Mure kan gi' sig, men luften er hård.<br>
-Livet begynder at stramme.<br>
-Husk, selvom rotterne slikker dit sår,<br>
-lys er den mørkeste flamme.<br>
-Affind dig ikke med mørkets magi.<br>
-Rut med dit forråd af glæde.<br>
-Vis mig dit ansigt før alt er forbi,<br>
-så er vi begge til stede.<br>
+Mure kan gi' sig, men luften er hård.\
+Livet begynder at stramme.\
+Husk, selvom rotterne slikker dit sår,\
+lys er den mørkeste flamme.\
+Affind dig ikke med mørkets magi.\
+Rut med dit forråd af glæde.\
+Vis mig dit ansigt før alt er forbi,\
+så er vi begge til stede.\
 
 5\.\
-Træer kan vælte og riger forgå.<br>
-Kloder kan flække som ærter.<br>
-En ting er drøj og går aldrig i stå:<br>
-Kærligheds magt over hjerter.<br>
-Mørket vil binde, men lyset gør fri.<br>
-Bred er den smalleste glæde.<br>
-Vis mig dit ansigt før alt er forbi,<br>
-så er vi begge til stede.<br>
+Træer kan vælte og riger forgå.\
+Kloder kan flække som ærter.\
+En ting er drøj og går aldrig i stå:\
+Kærligheds magt over hjerter.\
+Mørket vil binde, men lyset gør fri.\
+Bred er den smalleste glæde.\
+Vis mig dit ansigt før alt er forbi,\
+så er vi begge til stede.\
 
 6\.\
-Mørket kan larme og mørket er lyst.<br>
-Sorgen er nem nok at lære.<br>
-Jeg ved en zone, hvor mørket er lyst.<br>
-Der vil jeg synge og være.<br>
-Ånd på mit hjerte og tæl så til ti.<br>
-Hør, hvor det vågner af glæde.<br>
-Vis mig dit ansigt før alt er forbi,<br>
-så er vi alle til stede.<br>
+Mørket kan larme og mørket er lyst.\
+Sorgen er nem nok at lære.\
+Jeg ved en zone, hvor mørket er lyst.\
+Der vil jeg synge og være.\
+Ånd på mit hjerte og tæl så til ti.\
+Hør, hvor det vågner af glæde.\
+Vis mig dit ansigt før alt er forbi,\
+så er vi alle til stede.\

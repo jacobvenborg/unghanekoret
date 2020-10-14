@@ -6,45 +6,45 @@ nummer: "347"
 tema: "Danmark"
 ---
 1\.\
-Der er et yndigt land,<br>
-det står med brede bøge<br>
-nær salten østerstrand<br>
-nær salten østerstrand.<br>
-Det bugter sig i bakke, dal,<br>
-det hedder gamle Danmark,<br>
-og det er Frejas sal,<br>
-og det er Frejas sal.<br>
+Der er et yndigt land,\
+det står med brede bøge\
+nær salten østerstrand\
+nær salten østerstrand.\
+Det bugter sig i bakke, dal,\
+det hedder gamle Danmark,\
+og det er Frejas sal,\
+og det er Frejas sal.\
 
 2\.\
-Der sad i fordums tid<br>
-de harniskklædte kæmper,<br>
-udhvilede fra strid<br>
-udhvilede fra strid.<br>
-Så drog de frem til fjenders mén,<br>
-nu hvile deres bene<br>
-bag højens bautasten,<br>
-bag højens bautasten.<br>
+Der sad i fordums tid\
+de harniskklædte kæmper,\
+udhvilede fra strid\
+udhvilede fra strid.\
+Så drog de frem til fjenders mén,\
+nu hvile deres bene\
+bag højens bautasten,\
+bag højens bautasten.\
 
 3\.\
-Det land endnu er skønt,<br>
-thi blå sig søen bælter,<br>
-og løvet står så grønt<br>
-og løvet står så grønt.<br>
-Og ædle kvinder, skønne mø'r<br>
-og mænd og raske svende<br>
-bebo de danskes øer,<br>
-bebo de danskes øer.<br>
+Det land endnu er skønt,\
+thi blå sig søen bælter,\
+og løvet står så grønt\
+og løvet står så grønt.\
+Og ædle kvinder, skønne mø'r\
+og mænd og raske svende\
+bebo de danskes øer,\
+bebo de danskes øer.\
 
 4\.\
-Hil drot og fædreland!<br>
-Hil hver en danneborger,<br>
-som virker, hvad han kan<br>
-som virker, hvad han kan!<br>
-Vort gamle Danmark skal bestå,<br>
-så længe bøgen spejler<br>
-sin top i bølgen blå,<br>
-sin top i bølgen blå.<br>
-Vort gamle Danmark skal bestå,<br>
-så længe bøgen spejler<br>
-sin top i bølgen blå,<br>
-sin top i bølgen blå.<br>
+Hil drot og fædreland!\
+Hil hver en danneborger,\
+som virker, hvad han kan\
+som virker, hvad han kan!\
+Vort gamle Danmark skal bestå,\
+så længe bøgen spejler\
+sin top i bølgen blå,\
+sin top i bølgen blå.\
+Vort gamle Danmark skal bestå,\
+så længe bøgen spejler\
+sin top i bølgen blå,\
+sin top i bølgen blå.\

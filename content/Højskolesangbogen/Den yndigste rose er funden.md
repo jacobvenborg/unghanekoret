@@ -6,49 +6,49 @@ nummer: "225"
 tema: "Året - jul"
 ---
 1\.\
-Den yndigste rose er funden,<br>
-blandt stiveste torne oprunden,<br>
-vor Jesus, den dejligste pode,<br>
-blandt syndige mennesker gro'de.<br>
+Den yndigste rose er funden,\
+blandt stiveste torne oprunden,\
+vor Jesus, den dejligste pode,\
+blandt syndige mennesker gro'de.\
 
 2\.\
-Alt siden vi tabte den ære,<br>
-Guds billedes frugter at bære,<br>
-var verden forvildet og øde,<br>
-vi alle i synden bortdøde.<br>
+Alt siden vi tabte den ære,\
+Guds billedes frugter at bære,\
+var verden forvildet og øde,\
+vi alle i synden bortdøde.\
 
 3\.\
-Da lod Gud en rose opskyde<br>
-og sæden omsider frembryde,<br>
-at rense og ganske forsøde<br>
-vor slægts den fordærvede grøde.<br>
+Da lod Gud en rose opskyde\
+og sæden omsider frembryde,\
+at rense og ganske forsøde\
+vor slægts den fordærvede grøde.\
 
 4\.\
-Al verden nu burde sig fryde,<br>
-med salmer mangfoldig udbryde,<br>
-men mangen har aldrig fornummen,<br>
-at rosen i verden er kommen.<br>
+Al verden nu burde sig fryde,\
+med salmer mangfoldig udbryde,\
+men mangen har aldrig fornummen,\
+at rosen i verden er kommen.\
 
 5\.\
-Forhærdede tidsel-gemytter,<br>
-Så stive som torne og støtter,<br>
-hvi holde I eder så ranke<br>
-i stoltheds fordærvede tanke.<br>
+Forhærdede tidsel-gemytter,\
+Så stive som torne og støtter,\
+hvi holde I eder så ranke\
+i stoltheds fordærvede tanke.\
 
 6\.\
-Ak, søger de ydmyge steder,<br>
-i støvet for frelseren græder,<br>
-så få I vor Jesus i tale,<br>
-thi roserne vokse i dale.<br>
+Ak, søger de ydmyge steder,\
+i støvet for frelseren græder,\
+så få I vor Jesus i tale,\
+thi roserne vokse i dale.\
 
 7\.\
-Min Jesus, du altid skal være<br>
-mit smykke, min rose og ære,<br>
-de giftige lyster du døder<br>
-og korset så liflig forsøder.<br>
+Min Jesus, du altid skal være\
+mit smykke, min rose og ære,\
+de giftige lyster du døder\
+og korset så liflig forsøder.\
 
 8\.\
-Lad verden mig alting betage,<br>
-lad tornene rive og nage,<br>
-lad hjertet kun dåne og briste,<br>
-min rose jeg aldrig vil miste.<br>
+Lad verden mig alting betage,\
+lad tornene rive og nage,\
+lad hjertet kun dåne og briste,\
+min rose jeg aldrig vil miste.\

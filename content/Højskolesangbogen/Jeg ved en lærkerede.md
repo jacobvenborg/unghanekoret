@@ -6,31 +6,31 @@ nummer: "102"
 tema: "Liv"
 ---
 1\.\
-Jeg ved en lærkerede<br>
-jeg siger ikke mer;<br>
-den findes på en hede,<br>
-et sted, som ingen ser.<br>
+Jeg ved en lærkerede\
+jeg siger ikke mer;\
+den findes på en hede,\
+et sted, som ingen ser.\
 
 2\.\
-I reden er der unger<br>
-og ungerne har dun.<br>
-De pipper, de har tunger,<br>
-og reden er så lun.<br>
+I reden er der unger\
+og ungerne har dun.\
+De pipper, de har tunger,\
+og reden er så lun.\
 
 3\.\
-Og de to gamle lærker,<br>
-de flyver tæt omkring.<br>
-Jeg tænker nok, de mærker,<br>
-jeg gør dem ingenting.<br>
+Og de to gamle lærker,\
+de flyver tæt omkring.\
+Jeg tænker nok, de mærker,\
+jeg gør dem ingenting.\
 
 4\.\
-Jeg lurer bag en slåen.<br>
-Der står jeg ganske nær.<br>
-Jeg rækker mig på tåen<br>
-og holder på mit vejr.<br>
+Jeg lurer bag en slåen.\
+Der står jeg ganske nær.\
+Jeg rækker mig på tåen\
+og holder på mit vejr.\
 
 5\.\
-For ræven han vil bide<br>
-og drengen samle bær.<br>
-Men ingen skal få vide,<br>
-hvor lærkereden er.<br>
+For ræven han vil bide\
+og drengen samle bær.\
+Men ingen skal få vide,\
+hvor lærkereden er.\

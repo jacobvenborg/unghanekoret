@@ -6,85 +6,85 @@ nummer: "511"
 tema: "Historien"
 ---
 1\.\
-Gribe efter blanke ting<br>
-vil hvert et grådigt lille barn<br>
-Binde andre med en ring<br>
-gør man som helbefar'n<br>
-Tænk, hvor har man stået tit<br>
-og delt et vindu's paradis<br>
-Helle, helle, det er mit!<br>
-Og livet går på samme vis:<br>
-*Man binder os på mund og hånd<br>
-med vanens tusind stramme bånd<br>
-og det er besværligt at flagre sig fri<br>
-Vi leger skjul hos en som ved<br>
-at skærme os mod ensomhed<br>
-med søde kontrakter vi luller os i<br>*
-Kunne vi forbyde de tre ord: jeg lover dig<br>
-var vi vist i kærlighed på mere ærlig vej<br>
-De ord vi svor med hånd og mund<br>
-de gælder kun den korte stund<br>
-til glæden er borte og alting forbi<br>
+Gribe efter blanke ting\
+vil hvert et grådigt lille barn\
+Binde andre med en ring\
+gør man som helbefar'n\
+Tænk, hvor har man stået tit\
+og delt et vindu's paradis\
+Helle, helle, det er mit!\
+Og livet går på samme vis:\
+*Man binder os på mund og hånd\
+med vanens tusind stramme bånd\
+og det er besværligt at flagre sig fri\
+Vi leger skjul hos en som ved\
+at skærme os mod ensomhed\
+med søde kontrakter vi luller os i\*
+Kunne vi forbyde de tre ord: jeg lover dig\
+var vi vist i kærlighed på mere ærlig vej\
+De ord vi svor med hånd og mund\
+de gælder kun den korte stund\
+til glæden er borte og alting forbi\
 
 2\.\
-Kærlighed og ægteskab<br>
-hva' kommer de hinanden ved ?<br>
-Kedsomhedens tomme gab<br>
-til kæben går af led<br>
-Elskov er den vilde blomst<br>
-i gartner hænder går den ud<br>
-Skærmet får den sin bekomst<br>
-men blomstrer hedt i storm og slud<br>
-*Man binder os på mund og hånd,<br>
-med vanens tusind stramme bånd,<br>
-men ingen kan ejes. Vi flagrer os fri<br>
-I alle kærtegn er en flugt,<br>
-de røde sansers vilde flugt<br>
-fra pligternes travle fortrampede sti<br>*
-Du må ikke eje mig, jeg ejer ikke dig<br>
-Alle mine kys er ikke ja og ikke nej<br>
-De ord vi svor med hånd og mund<br>
-de gælder kun den svimle stund<br>
-det netop er kysset fra dig jeg ka' li'<br>
+Kærlighed og ægteskab\
+hva' kommer de hinanden ved ?\
+Kedsomhedens tomme gab\
+til kæben går af led\
+Elskov er den vilde blomst\
+i gartner hænder går den ud\
+Skærmet får den sin bekomst\
+men blomstrer hedt i storm og slud\
+*Man binder os på mund og hånd,\
+med vanens tusind stramme bånd,\
+men ingen kan ejes. Vi flagrer os fri\
+I alle kærtegn er en flugt,\
+de røde sansers vilde flugt\
+fra pligternes travle fortrampede sti\*
+Du må ikke eje mig, jeg ejer ikke dig\
+Alle mine kys er ikke ja og ikke nej\
+De ord vi svor med hånd og mund\
+de gælder kun den svimle stund\
+det netop er kysset fra dig jeg ka' li'\
 
 ~~3\.\
-Sel' når skib på skib går ned<br>
-og land på land bliver slettet ud<br>
-handler man af ærlighed<br>
-og ber til hver sin gud.<br>
-Fredstraktat og venskabspagt<br>
-det er papir, der koster blod.<br>
-Svaghed væbner sig mod magt<br>
-i angstens desperate mod.<br>
-Det gælder kærlighed og krig<br>
-at alle løfter kun er svig,<br>
-og ingen kan stole på menn'skenes ord.<br>
-Hva' hjalp de håndslag som I gav<br>
-den der står ved mandens grav?<br>
-Et menn'ske er nul mod den hellige jord.<br>
-Angst for vore fjender? Ja, men mere angst for den<br>
-stormagt som vil hjælpe os og kalder sig vor ven.<br>
-Det gælder alle tiders krig,<br>
-at alle løfter kun er svig<br>
-og ingen kan stole på staternes ord.<br>~~
+Sel' når skib på skib går ned\
+og land på land bliver slettet ud\
+handler man af ærlighed\
+og ber til hver sin gud.\
+Fredstraktat og venskabspagt\
+det er papir, der koster blod.\
+Svaghed væbner sig mod magt\
+i angstens desperate mod.\
+Det gælder kærlighed og krig\
+at alle løfter kun er svig,\
+og ingen kan stole på menn'skenes ord.\
+Hva' hjalp de håndslag som I gav\
+den der står ved mandens grav?\
+Et menn'ske er nul mod den hellige jord.\
+Angst for vore fjender? Ja, men mere angst for den\
+stormagt som vil hjælpe os og kalder sig vor ven.\
+Det gælder alle tiders krig,\
+at alle løfter kun er svig\
+og ingen kan stole på staternes ord.\~~
 
 3\.\
-Møde hvad der venter os<br>
-og ingen ve' hvordan det går<br>
-Bære skæbnen uden trods<br>
-hvad der så forestår<br>
-Glad ved hver en venlighed<br>
-men uden tro, at det bli'r ved<br>
-Søge fred, idet vi ved,<br>
-at vi har ingen krav på fred<br>
-*Man binder os på mund og hånd<br>
-Men man ka' ikke binde ånd<br>
-og ingen er fangne, når tanken er fri<br>
-Vi har en indre fæstning her<br>
-som styrkes i sit eget værd<br>
-når bare vi kæmper for det, vi ka' li'<br>*
-Den som holder sjælen rank, kan aldrig blive træl<br>
-Ingen kan regere det, som vi bestemmer sel'<br>
-Det lover vi med hånd og mund<br>
-i mørket før en morgenstund<br>
-at drømmen om frihed bli'r aldrig forbi.<br>
+Møde hvad der venter os\
+og ingen ve' hvordan det går\
+Bære skæbnen uden trods\
+hvad der så forestår\
+Glad ved hver en venlighed\
+men uden tro, at det bli'r ved\
+Søge fred, idet vi ved,\
+at vi har ingen krav på fred\
+*Man binder os på mund og hånd\
+Men man ka' ikke binde ånd\
+og ingen er fangne, når tanken er fri\
+Vi har en indre fæstning her\
+som styrkes i sit eget værd\
+når bare vi kæmper for det, vi ka' li'\*
+Den som holder sjælen rank, kan aldrig blive træl\
+Ingen kan regere det, som vi bestemmer sel'\
+Det lover vi med hånd og mund\
+i mørket før en morgenstund\
+at drømmen om frihed bli'r aldrig forbi.\

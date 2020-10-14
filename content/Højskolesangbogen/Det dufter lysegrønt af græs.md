@@ -4,57 +4,57 @@ nummer: "306"
 tema: "Året - tidlig sommer"
 ---
 
-**Dansk tekst: Johannes Johansen, 1985 *** <br>
-**Melodi: Waldemar Åhlén, 1933** <br>
+**Dansk tekst: Johannes Johansen, 1985 *** \
+**Melodi: Waldemar Åhlén, 1933** \
 
 ***
 
 1\.\
-Det dufter lysegrønt af græs<br>
-i grøft og mark og enge.<br>
-Og vinden kysser klit og næs<br>
-og reder urtesenge.<br>
-Guds sol går ind<br>
-i krop og sind,<br>
-forkynder, at nu kommer<br>
-en varm og lys skærsommer.<br>
+Det dufter lysegrønt af græs\
+i grøft og mark og enge.\
+Og vinden kysser klit og næs\
+og reder urtesenge.\
+Guds sol går ind\
+i krop og sind,\
+forkynder, at nu kommer\
+en varm og lys skærsommer.\
 
 2\.\
-Hør fugletungers tusindfryd<br>
-fra morgen og til aften!<br>
-De kappes om at give lyd,<br>
-der priser skaberkraften.<br>
-Hvert kim og kryb<br>
-i jordens dyb<br>
-en livsfryd i sig mærker<br>
-så høj som himlens lærker.<br>
+Hør fugletungers tusindfryd\
+fra morgen og til aften!\
+De kappes om at give lyd,\
+der priser skaberkraften.\
+Hvert kim og kryb\
+i jordens dyb\
+en livsfryd i sig mærker\
+så høj som himlens lærker.\
 
 3\.\
-Se, blomsterflorets farvepragt<br>
-gør alle ord forlegne.<br>
-Kong Salomon i kroningsdragt<br>
-misundeligt må blegne!<br>
-Alt smukt, vi ved,<br>
-al kærlighed,<br>
-den mindste fugl og lilje<br>
-er, Gud, din skabervilje.<br>
+Se, blomsterflorets farvepragt\
+gør alle ord forlegne.\
+Kong Salomon i kroningsdragt\
+misundeligt må blegne!\
+Alt smukt, vi ved,\
+al kærlighed,\
+den mindste fugl og lilje\
+er, Gud, din skabervilje.\
 
 4\.\
-Ja, du gør alting nyt på jord,<br>
-en sommer rig på nåde.<br>
-Men klarest lyser dog dit Ord<br>
-af kærlighedens gåde.<br>
-Alt kød må dø,<br>
-hver blomst blir hø.<br>
-Når vissentørt står floret,<br>
-da blomstrer evigt Ordet.<br>
+Ja, du gør alting nyt på jord,\
+en sommer rig på nåde.\
+Men klarest lyser dog dit Ord\
+af kærlighedens gåde.\
+Alt kød må dø,\
+hver blomst blir hø.\
+Når vissentørt står floret,\
+da blomstrer evigt Ordet.\
 
 5\.\
-Ja, Jesus Kristus er det Ord,<br>
-der skaber liv af døde,<br>
-så ny blir himmel, ny blir jord,<br>
-en verden grøn af grøde.<br>
-Kom, Jesus, snart,<br>
-og gør det klart:<br>
-den morgenstund, du kommer,<br>
-da gryr en evig sommer.<br>
+Ja, Jesus Kristus er det Ord,\
+der skaber liv af døde,\
+så ny blir himmel, ny blir jord,\
+en verden grøn af grøde.\
+Kom, Jesus, snart,\
+og gør det klart:\
+den morgenstund, du kommer,\
+da gryr en evig sommer.\

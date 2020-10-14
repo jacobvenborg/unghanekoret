@@ -4,63 +4,63 @@ nummer: "464"
 tema: "Folkeviser"
 ---
 
-**Tekst: Andreas Peter Berggreen, 1869** <br>
-**Melodi Dansk folkevise** <br>
+**Tekst: Andreas Peter Berggreen, 1869** \
+**Melodi Dansk folkevise** \
 
 ***
 
 1\.\
-Ramund han var sig en bedre mand,<br>
-om han havde bedre klæder.<br>
-Dronningen gav hannem klæder på stand<br>
-af blårgarn, bast og læder.<br>
-"Sådant vil jeg ikke ha'e," sagde Ramund.<br>
-"Sådant står mig ikke bra," sagde Ramund den unge.<br>
+Ramund han var sig en bedre mand,\
+om han havde bedre klæder.\
+Dronningen gav hannem klæder på stand\
+af blårgarn, bast og læder.\
+"Sådant vil jeg ikke ha'e," sagde Ramund.\
+"Sådant står mig ikke bra," sagde Ramund den unge.\
 
 2\.\
-Ramund gik sig ved salten søstrand,<br>
-der så han syv jætter stande.<br>
-"Tager jeg Ramund i min mindste hånd,<br>
-jeg kaster ham langt fra lande."<br>
-"Det gør ikke ene du," sagde Ramund,<br>
-"Komme må I alle syv," sagde Ramund den Unge.<br>
+Ramund gik sig ved salten søstrand,\
+der så han syv jætter stande.\
+"Tager jeg Ramund i min mindste hånd,\
+jeg kaster ham langt fra lande."\
+"Det gør ikke ene du," sagde Ramund,\
+"Komme må I alle syv," sagde Ramund den Unge.\
 
 3\.\
-Ramund tog til sit dyre sværd,<br>
-det han kaldte Dymlingen røde.<br>
-Hug han den jætter syv med én færd,<br>
-at blodet randt dennem til døde.<br>
-"Der ligger alle syv," sagde Ramund.<br>
-"Alt står jeg her endnu," sagde Ramund den Unge.<br>
+Ramund tog til sit dyre sværd,\
+det han kaldte Dymlingen røde.\
+Hug han den jætter syv med én færd,\
+at blodet randt dennem til døde.\
+"Der ligger alle syv," sagde Ramund.\
+"Alt står jeg her endnu," sagde Ramund den Unge.\
 
 4\.\
-Ramund ladede skibene syv<br>
-med guld og med ædele stene.<br>
-Sejled' så over sø så stiv<br>
-hen ind under kejserens lande.<br>
-"Nu er vi komne her," sagde Ramund.<br>
-"Nu har vi bedre lært," sagde Ramund den Unge.<br>
+Ramund ladede skibene syv\
+med guld og med ædele stene.\
+Sejled' så over sø så stiv\
+hen ind under kejserens lande.\
+"Nu er vi komne her," sagde Ramund.\
+"Nu har vi bedre lært," sagde Ramund den Unge.\
 
 5\.\
-Kejseren ud af vinduet så<br>
-med angest og sorrigfuld mine.<br>
-"Hvo er den mand, som i gården mon stå<br>
-og dér så hæsselig grine?"<br>
-"Det er mig, og jeg har lyst," sagde Ramund,<br>
-"med dig at vov' en dyst," sagde Ramund den Unge.<br>
+Kejseren ud af vinduet så\
+med angest og sorrigfuld mine.\
+"Hvo er den mand, som i gården mon stå\
+og dér så hæsselig grine?"\
+"Det er mig, og jeg har lyst," sagde Ramund,\
+"med dig at vov' en dyst," sagde Ramund den Unge.\
 
 6\.\
-"Kære Ramund! du lade mig leve,<br>
-jeg så omend aldrig din lige.<br>
-Min yngste datter vil jeg dig give,<br>
-samt halvparten af mit rige."<br>
-"Det tar jeg, når jeg vil," sagde Ramund,<br>
-"og så din datter til," sagde Ramund den Unge.<br>
+"Kære Ramund! du lade mig leve,\
+jeg så omend aldrig din lige.\
+Min yngste datter vil jeg dig give,\
+samt halvparten af mit rige."\
+"Det tar jeg, når jeg vil," sagde Ramund,\
+"og så din datter til," sagde Ramund den Unge.\
 
 7\.\
-Ramund tog til sin store kniv,<br>
-den han kaldte Dymlingens dyre.<br>
-Skilte han kejseren ved hans liv,<br>
-at hovedet fløj femten mile.<br>
-"Jeg mente, den ej bed," sagde Ramund.<br>
-"Dog rinder blodet ned," sagde Ramund den Unge.<br>
+Ramund tog til sin store kniv,\
+den han kaldte Dymlingens dyre.\
+Skilte han kejseren ved hans liv,\
+at hovedet fløj femten mile.\
+"Jeg mente, den ej bed," sagde Ramund.\
+"Dog rinder blodet ned," sagde Ramund den Unge.\

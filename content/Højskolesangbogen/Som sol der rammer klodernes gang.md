@@ -6,41 +6,41 @@ nummer: "20"
 tema: "Morgen"
 ---
 1\.\
-Som sol der rammer klodernes gang<br>
-og henter dem ind i dagen<br>
-er sød musik og morgensang<br>
-der synger sig ind<br>
-i krop og i sind<br>
-når hjertesprog er sagen.<br>
+Som sol der rammer klodernes gang\
+og henter dem ind i dagen\
+er sød musik og morgensang\
+der synger sig ind\
+i krop og i sind\
+når hjertesprog er sagen.\
 
 2\.\
-Et hjertesprog der gemmer sig tit<br>
-bag snakken og travlheds skygger<br>
-men vil forløses sandt og frit<br>
-når hjerterne slår<br>
-i dage som går<br>
-hvor menneskene bygger.<br>
+Et hjertesprog der gemmer sig tit\
+bag snakken og travlheds skygger\
+men vil forløses sandt og frit\
+når hjerterne slår\
+i dage som går\
+hvor menneskene bygger.\
 
 3\.\
-For hjertesprog er kærlighedssang<br>
-og tonerne får det givet<br>
-en fryd der bærer tidens gang.<br>
-Den baner sin vej<br>
-til dig og mig<br>
-og synger højt om livet.<br>
+For hjertesprog er kærlighedssang\
+og tonerne får det givet\
+en fryd der bærer tidens gang.\
+Den baner sin vej\
+til dig og mig\
+og synger højt om livet.\
 
 4\.\
-Så syng du kun den morgenens sang<br>
-der tænder sit lys i verden.<br>
-Er tiden både hård og vrang<br>
-vil glæden som gror<br>
-selv sætte sit spor<br>
-og bære dagens færden.<br>
+Så syng du kun den morgenens sang\
+der tænder sit lys i verden.\
+Er tiden både hård og vrang\
+vil glæden som gror\
+selv sætte sit spor\
+og bære dagens færden.\
 
 5\.\
-Se, fra en hård og frysende jord<br>
-der løfter sig højt en lærke.<br>
-Jeg ser det hele og jeg tror<br>
-den glæde er nær<br>
-som løfter os her.<br>
-Den bærer livets mærke<br>
+Se, fra en hård og frysende jord\
+der løfter sig højt en lærke.\
+Jeg ser det hele og jeg tror\
+den glæde er nær\
+som løfter os her.\
+Den bærer livets mærke\

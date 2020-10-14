@@ -5,29 +5,29 @@ melodi: "Fr. Gruber, 1818"
 nummer: "237"
 ---
 1\.\
-Glade jul, dejlige jul,<br>
-engle dale ned i skjul!<br>
-Hid de flyve med paradisgrønt,<br>
-hvor de se, hvad for Gud er kønt,<br>
-//: lønlig iblandt os de gå ://<br>
+Glade jul, dejlige jul,\
+engle dale ned i skjul!\
+Hid de flyve med paradisgrønt,\
+hvor de se, hvad for Gud er kønt,\
+//: lønlig iblandt os de gå ://\
 
 2\.\
-Julefryd, evige fryd,<br>
-hellig sang med himmelsk lyd!<br>
-Det er englene, hyrderne så,<br>
-dengang Herren i krybben lå,<br>
-//: evig er englenes sang ://<br>
+Julefryd, evige fryd,\
+hellig sang med himmelsk lyd!\
+Det er englene, hyrderne så,\
+dengang Herren i krybben lå,\
+//: evig er englenes sang ://\
 
 3\.\
-Fred på jord, fryd på jord,<br>
-Jesusbarnet blandt os bor!<br>
-Engle sjunge om barnet så smukt,<br>
-han har Himmerigs dør oplukt,<br>
-//: salig er englenes sang ://<br>
+Fred på jord, fryd på jord,\
+Jesusbarnet blandt os bor!\
+Engle sjunge om barnet så smukt,\
+han har Himmerigs dør oplukt,\
+//: salig er englenes sang ://\
 
 4\.\
-Salig fred, himmelsk fred<br>
-tone julenat herned!<br>
-Engle bringe til store og små<br>
-bud om ham, som i krybben lå;<br>
-//: fryd dig, hver sjæl, han har frelst ://<br>
+Salig fred, himmelsk fred\
+tone julenat herned!\
+Engle bringe til store og små\
+bud om ham, som i krybben lå;\
+//: fryd dig, hver sjæl, han har frelst ://\

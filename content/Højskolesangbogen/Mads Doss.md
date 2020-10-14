@@ -5,46 +5,46 @@ melodi: "Folkemelodi"
 nummer: "437"
 tema: "Kærlighed"
 ---
-*Noter: F-dur* <br>
+*Noter: F-dur* \
 
 1\.\
-Mads Doss han war en kon koltringsknæjt,<br>
-han gek mæ foeren i hien,<br>
-imell så slow han lyng te en bejt,<br>
-imell så band han åu vien<br>
-en liim te hans muer, å så sang han imell,<br>
-di hoer ed så vit, nær han tow te å hwell:<br>
-*//: La la luh -- la la lih -- kom! så skal a bih! ://* <br>
+Mads Doss han war en kon koltringsknæjt,\
+han gek mæ foeren i hien,\
+imell så slow han lyng te en bejt,\
+imell så band han åu vien\
+en liim te hans muer, å så sang han imell,\
+di hoer ed så vit, nær han tow te å hwell:\
+*//: La la luh -- la la lih -- kom! så skal a bih! ://* \
 
 2\.\
-Mett Kølvro war en kon stonthostøs,<br>
-gek åsse mæ foeren i hien,<br>
-å somti hun swedt, å somti hun frøs,<br>
-den drywwen slet ett hun ku li en.<br>
-Hon snøwsed imell, få hin dawwen wa lång,<br>
-iwessomda tahrt hon sin klukker, å sang:<br>
-*//: La la luh -- la la lih -- kom! så skal a bih! ://* <br>
+Mett Kølvro war en kon stonthostøs,\
+gek åsse mæ foeren i hien,\
+å somti hun swedt, å somti hun frøs,\
+den drywwen slet ett hun ku li en.\
+Hon snøwsed imell, få hin dawwen wa lång,\
+iwessomda tahrt hon sin klukker, å sang:\
+*//: La la luh -- la la lih -- kom! så skal a bih! ://* \
 
 3\.\
-Å somti di mødtes så his å så hæhr,<br>
-od mælmad, å språkked så knøwt da,<br>
-å let om let fek di hwerranner så kjæhr:<br>
-Jen kam, næ den åhn ga en hwøwt da.<br>
-Å næ di had ett, gek di hwæ te sit hjaer,<br>
-å sang, så de gjall owwe mosser og kjaer:<br>
-*//: La la luh -- la la lih -- kom! så skal a bih! ://* <br>
+Å somti di mødtes så his å så hæhr,\
+od mælmad, å språkked så knøwt da,\
+å let om let fek di hwerranner så kjæhr:\
+Jen kam, næ den åhn ga en hwøwt da.\
+Å næ di had ett, gek di hwæ te sit hjaer,\
+å sang, så de gjall owwe mosser og kjaer:\
+*//: La la luh -- la la lih -- kom! så skal a bih! ://* \
 
 4\.\
-Såen gek da en sommer, å da gik flier.<br>
-Lieg kjærrester så de fann o da.<br>
-I hien kam di no ikke møj mier,<br>
-men hjemm ve hweranner di lo da.<br>
-Å så bløw di gywt å behøwd ett å sønng,<br>
-som fahr di had gjow, i de båreste lønng:<br>
-*//: La la luh -- la la lih -- kom! så skal a bih! ://* <br>
+Såen gek da en sommer, å da gik flier.\
+Lieg kjærrester så de fann o da.\
+I hien kam di no ikke møj mier,\
+men hjemm ve hweranner di lo da.\
+Å så bløw di gywt å behøwd ett å sønng,\
+som fahr di had gjow, i de båreste lønng:\
+*//: La la luh -- la la lih -- kom! så skal a bih! ://* \
 
-> Kon koltringsknæjt = ung knøs (dreng) <br>
-> Vien = vidjer <br>
-> Liim = riskost <br>
-> Hwell = råbe højt (gale) <br>
-> Stonthos = strømpe uden fod <br>
+> Kon koltringsknæjt = ung knøs (dreng) \
+> Vien = vidjer \
+> Liim = riskost \
+> Hwell = råbe højt (gale) \
+> Stonthos = strømpe uden fod \

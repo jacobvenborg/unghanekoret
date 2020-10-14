@@ -6,29 +6,29 @@ nummer: "26"
 tema: "Morgen"
 ---
 1\.\
-Denne morgens mulighed.<br>
-Vi har luft i vore lunger.<br>
-Hænder, øjne, ører, tunger,<br>
-levende og glade unger.<br>
-//: Denne morgens mulighed. ://<br>
+Denne morgens mulighed.\
+Vi har luft i vore lunger.\
+Hænder, øjne, ører, tunger,\
+levende og glade unger.\
+//: Denne morgens mulighed. ://\
 
 2\.\
-Denne morgens kærlighed.<br>
-Frugter af den fryd vi så’de,<br>
-alt blev givet os af nåde.<br>
-Her er svar på livets gåde.<br>
-//: Denne morgens kærlighed. ://<br>
+Denne morgens kærlighed.\
+Frugter af den fryd vi så’de,\
+alt blev givet os af nåde.\
+Her er svar på livets gåde.\
+//: Denne morgens kærlighed. ://\
 
 3\.\
-Denne morgens munterhed.<br>
-Her hvor nattens mørke brydes<br>
-her hvor lysets skaber lydes,<br>
-se hvor muntert alting frydes.<br>
-//: Denne morgens munterhed. ://<br>
+Denne morgens munterhed.\
+Her hvor nattens mørke brydes\
+her hvor lysets skaber lydes,\
+se hvor muntert alting frydes.\
+//: Denne morgens munterhed. ://\
 
 4\.\
-Denne morgens mulighed.<br>
-Hang du fast i glemte dage,<br>
-i en fortid, som kan nage,<br>
-alt blir givet nyt tilbage.<br>
-//: Denne morgens mulighed. ://<br>
+Denne morgens mulighed.\
+Hang du fast i glemte dage,\
+i en fortid, som kan nage,\
+alt blir givet nyt tilbage.\
+//: Denne morgens mulighed. ://\

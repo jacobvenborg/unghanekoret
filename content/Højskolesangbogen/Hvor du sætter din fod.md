@@ -6,49 +6,49 @@ nummer: "206"
 tema: "Frihed og fællesskab"
 ---
 1\.\
-Hvor du sætter din fod,<br>
-drysser frø af de drømme du driver imod.<br>
-Ved de veje du finder,<br>
-vil man snart plukke minder.<br>
-Om du flyver omkring eller står og slår rod,<br>
-bli´r der spor af din fod.<br>
+Hvor du sætter din fod,\
+drysser frø af de drømme du driver imod.\
+Ved de veje du finder,\
+vil man snart plukke minder.\
+Om du flyver omkring eller står og slår rod,\
+bli´r der spor af din fod.\
 
 2\.\
-Når du åbner din hånd,<br>
-ser du synlige spor af usynlige bånd.<br>
-Du har fat i et stykke<br>
-af dit medmen'skes lykke.<br>
-Det kan føles som fnug eller veje et ton:<br>
-Det er lagt i din hånd.<br>
+Når du åbner din hånd,\
+ser du synlige spor af usynlige bånd.\
+Du har fat i et stykke\
+af dit medmen'skes lykke.\
+Det kan føles som fnug eller veje et ton:\
+Det er lagt i din hånd.\
 
 3\.\
-Vil du vugge dit skød,<br>
-går du med i en dans som fra skabelsen lød.<br>
-Vores fremtid bli´r farvet<br>
-af den klang du har arvet.<br>
-Det er slægternes rytme der rører dit kød,<br>
-sød musik i dit skød.<br>
+Vil du vugge dit skød,\
+går du med i en dans som fra skabelsen lød.\
+Vores fremtid bli´r farvet\
+af den klang du har arvet.\
+Det er slægternes rytme der rører dit kød,\
+sød musik i dit skød.\
 
 4\.\
-Når du husker at le,<br>
-lukker hovedet sig op og gi´r lyset entré.<br>
-Vi begriber med latter<br>
-hvad fornuft ikke fatter.<br>
-Det er ligesom et kærtegn fra livets idé<br>
-når du vover at le.<br>
+Når du husker at le,\
+lukker hovedet sig op og gi´r lyset entré.\
+Vi begriber med latter\
+hvad fornuft ikke fatter.\
+Det er ligesom et kærtegn fra livets idé\
+når du vover at le.\
 
 5\.\
-Du er en del af os.<br>
-Der skal mere end én til at elske og slås.<br>
-Vil du yde dit bedste<br>
-for dig selv og din næste,<br>
-må du vælge hver dag mellem tillid og trods:<br>
-Er det mig eller os?<br>
+Du er en del af os.\
+Der skal mere end én til at elske og slås.\
+Vil du yde dit bedste\
+for dig selv og din næste,\
+må du vælge hver dag mellem tillid og trods:\
+Er det mig eller os?\
 
 6\.\
-Fra din tå til din top<br>
-er du skabt i et stykke der ikke går op.<br>
-Hvad du gi'r på din færden<br>
-mangedobles af verden<br>
-Dett la'r tro, håb og kærlighed vokse og nå<br>
-fra din top til din tå.<br>
+Fra din tå til din top\
+er du skabt i et stykke der ikke går op.\
+Hvad du gi'r på din færden\
+mangedobles af verden\
+Dett la'r tro, håb og kærlighed vokse og nå\
+fra din top til din tå.\

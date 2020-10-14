@@ -3,70 +3,70 @@ title: "When the Saints Go Marching In"
 tekst: ""
 melodi: ""
 ---
-*Noter: Synges trestemmigt (TMB)* <br>
+*Noter: Synges trestemmigt (TMB)* \
 
 1\.\
-Oh when the saints go marching in<br>
-When the saints go marching in<br>
-Oh lord I want to be in that number<br>
-When the saints go marching in<br>
+Oh when the saints go marching in\
+When the saints go marching in\
+Oh lord I want to be in that number\
+When the saints go marching in\
 
 2\.\
-And when the sun refuse (begins) to shine<br>
-And when the sun refuse (begins) to shine<br>
-Oh lord I want to be in that number<br>
-When the saints go marching in<br>
+And when the sun refuse (begins) to shine\
+And when the sun refuse (begins) to shine\
+Oh lord I want to be in that number\
+When the saints go marching in\
 
 3\.\
-When the moon turns red with blood<br>
-When the moon turns red with blood<br>
-Oh lord I want to be in that number<br>
-When the saints go marching in<br>
+When the moon turns red with blood\
+When the moon turns red with blood\
+Oh lord I want to be in that number\
+When the saints go marching in\
 
 4\.\
-On that hallelujah day<br>
-On that hallelujah day<br>
-Oh lord I want to be in that number<br>
-When the saints go marching in<br>
+On that hallelujah day\
+On that hallelujah day\
+Oh lord I want to be in that number\
+When the saints go marching in\
 
 5\.\
-Oh when the trumpet sounds the call<br>
-Oh when the trumpet sounds the call<br>
-Oh lord I want to be in that number<br>
-When the saints go marching in<br>
+Oh when the trumpet sounds the call\
+Oh when the trumpet sounds the call\
+Oh lord I want to be in that number\
+When the saints go marching in\
 
 6\.\
-Some say this world of trouble<br>
-Is the only one we need<br>
-But I'm waiting for that morning<br>
-When the new world is revealed<br>
+Some say this world of trouble\
+Is the only one we need\
+But I'm waiting for that morning\
+When the new world is revealed\
 
 7\.\
-When the revelation (revolution) comes<br>
-When the revelation (revolution) comes<br>
-Oh lord I want to be in that number<br>
-When the saints go marching in<br>
+When the revelation (revolution) comes\
+When the revelation (revolution) comes\
+Oh lord I want to be in that number\
+When the saints go marching in\
 
 8\.\
-When the rich go out and work<br>
-When the rich go out and work<br>
-Oh lord I want to be in that number<br>
-When the saints go marching in<br>
+When the rich go out and work\
+When the rich go out and work\
+Oh lord I want to be in that number\
+When the saints go marching in\
 
 9\.\
-When the air is pure and clean<br>
-When the air is pure and clean<br>
-Oh lord I want to be in that number<br>
-When the saints go marching in<br>
+When the air is pure and clean\
+When the air is pure and clean\
+Oh lord I want to be in that number\
+When the saints go marching in\
 
 10\.\
-When we all have food to eat<br>
-When we all have food to eat<br>
-Oh lord I want to be in that number<br>
-When the saints go marching in<br>
+When we all have food to eat\
+When we all have food to eat\
+Oh lord I want to be in that number\
+When the saints go marching in\
 
 11\.\
-When our leaders learn to cry<br>
-When our leaders learn to cry<br>
-Oh lord I want to be in that number<br>
-When the saints go marching in<br>
+When our leaders learn to cry\
+When our leaders learn to cry\
+Oh lord I want to be in that number\
+When the saints go marching in\

@@ -6,21 +6,21 @@ nummer: "257"
 tema: "Året - vinter"
 ---
 1\.\
-Liden sol i disse uger.<br>
-Februar har gjort os mindre.<br>
-Sne som tynger. Is som knuger.<br>
-Vi kan ingenting forhindre.<br>
-<br>
+Liden sol i disse uger.\
+Februar har gjort os mindre.\
+Sne som tynger. Is som knuger.\
+Vi kan ingenting forhindre.\
+\
 
 2\.\
-Vi kan heller ikke bede<br>
-om at måtte blive større.<br>
-Stær og mus og vinterhvede<br>
-må på vore vegne spørre.<br>
-<br>
+Vi kan heller ikke bede\
+om at måtte blive større.\
+Stær og mus og vinterhvede\
+må på vore vegne spørre.\
+\
 
 3\.\
-Men måske april vil hente<br>
-vore hjertebål tilbage.<br>
-Sammen vil vi tålsomt vente,<br>
-liden sol i disse dage.<br>
+Men måske april vil hente\
+vore hjertebål tilbage.\
+Sammen vil vi tålsomt vente,\
+liden sol i disse dage.\

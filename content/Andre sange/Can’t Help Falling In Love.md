@@ -4,28 +4,28 @@ categories: "Andre sange"
 tekst: "Elvis Presley, 1961"
 melodi: "Elvis Presley, 1961"
 ---
-Wise men say<br>
-Only fools rush in<br>
-But I can't help falling in love with you<br>
-Shall I stay?<br>
-Would it be a sin<br>
-If I can't help falling in love with you?<br>
+Wise men say\
+Only fools rush in\
+But I can't help falling in love with you\
+Shall I stay?\
+Would it be a sin\
+If I can't help falling in love with you?\
 
-Like a river flows<br>
-Surely to the sea<br>
-Darling, so it goes<br>
-Some things are meant to be<br>
+Like a river flows\
+Surely to the sea\
+Darling, so it goes\
+Some things are meant to be\
 
-Take my hand,<br>
-Take my whole life, too<br>
-For I can't help falling in love with you<br>
+Take my hand,\
+Take my whole life, too\
+For I can't help falling in love with you\
 
-Like a river flows<br>
-Surely to the sea<br>
-Darling, so it goes<br>
-Some things are meant to be<br>
+Like a river flows\
+Surely to the sea\
+Darling, so it goes\
+Some things are meant to be\
 
-Take my hand,<br>
-Take my whole life, too<br>
-For I can't help falling in love with you<br>
-For I can't help falling in love with you<br>
+Take my hand,\
+Take my whole life, too\
+For I can't help falling in love with you\
+For I can't help falling in love with you\

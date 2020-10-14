@@ -4,64 +4,64 @@ categories: "Andre sange"
 tekst: "The Turtles, 1967"
 melodi: "The Turtles, 1967"
 ---
-A-stykke<br>
-Imagine me and you, I do<br>
-I think about you day and night<br>
-It's only right<br>
-To think about the girl you love<br>
-And hold her tight<br>
-So happy together<br>
+A-stykke\
+Imagine me and you, I do\
+I think about you day and night\
+It's only right\
+To think about the girl you love\
+And hold her tight\
+So happy together\
 
-A-stykke<br>
-If I should call you up, invest a dime<br>
-And you say you belong to me<br>
-And ease my mind<br>
-Imagine how the world could be<br>
-So very fine<br>
-So happy together<br>
+A-stykke\
+If I should call you up, invest a dime\
+And you say you belong to me\
+And ease my mind\
+Imagine how the world could be\
+So very fine\
+So happy together\
 
-B-stykke<br>
-I can't see me loving nobody but you for all my life<br>
-When you're with me, baby, the skies will be blue for all my life<br>
+B-stykke\
+I can't see me loving nobody but you for all my life\
+When you're with me, baby, the skies will be blue for all my life\
 
-A-stykke<br>
-Me and you and you and me<br>
-No matter how they tossed the dice<br>
-It had to be<br>
-The only one for me is you<br>
-And you for me<br>
-So happy together<br>
+A-stykke\
+Me and you and you and me\
+No matter how they tossed the dice\
+It had to be\
+The only one for me is you\
+And you for me\
+So happy together\
 
-B-stykke<br>
-I can't see me loving nobody but you for all my life<br>
-When you're with me, baby, the skies will be blue for all my life<br>
+B-stykke\
+I can't see me loving nobody but you for all my life\
+When you're with me, baby, the skies will be blue for all my life\
 
-A-stykke<br>
-Me and you and you and me<br>
-No matter how they tossed the dice<br>
-It had to be<br>
-The only one for me is you<br>
-And you for me<br>
-So happy together<br>
+A-stykke\
+Me and you and you and me\
+No matter how they tossed the dice\
+It had to be\
+The only one for me is you\
+And you for me\
+So happy together\
 
-*Instrumentelt B-stykke*<br>
+*Instrumentelt B-stykke*\
 
-A-stykke<br>
-Me and you and you and me<br>
-No matter how they tossed the dice<br>
-It had to be<br>
-The only one for me is you<br>
-And you for me<br>
-So happy together<br>
+A-stykke\
+Me and you and you and me\
+No matter how they tossed the dice\
+It had to be\
+The only one for me is you\
+And you for me\
+So happy together\
 
-So happy together<br>
-How is the weather?<br>
+So happy together\
+How is the weather?\
 
-So happy together<br>
-We're happy together<br>
+So happy together\
+We're happy together\
 
-So happy together<br>
-We're happy together<br>
+So happy together\
+We're happy together\
 
-So happy together<br>
-So happy together<br>
+So happy together\
+So happy together\

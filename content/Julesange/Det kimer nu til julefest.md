@@ -5,55 +5,55 @@ melodi: "C. Balle, 1850"
 nummer: "228"
 ---
 1\.\
-Det kimer nu til julefest,<br>
-det kimer for den høje gæst,<br>
-som steg til lave hytter ned<br>
-med nytårsgaver: fryd og fred.<br>
+Det kimer nu til julefest,\
+det kimer for den høje gæst,\
+som steg til lave hytter ned\
+med nytårsgaver: fryd og fred.\
 
 2\.\
-O, kommer med til Davids by,<br>
-hvor engle sjunger under sky,<br>
-o, ganger med på marken ud,<br>
-hvor hyrder hører nyt fra Gud!<br>
+O, kommer med til Davids by,\
+hvor engle sjunger under sky,\
+o, ganger med på marken ud,\
+hvor hyrder hører nyt fra Gud!\
 
 3\.\
-Og lad os gå med stille sind<br>
-som hyrderne til barnet ind,<br>
-med glædestårer takke Gud<br>
-for miskundhed og nådesbud!<br>
+Og lad os gå med stille sind\
+som hyrderne til barnet ind,\
+med glædestårer takke Gud\
+for miskundhed og nådesbud!\
 
 4\.\
-O Jesus, verden vid og lang<br>
-til vugge var dig dog for trang,<br>
-for ringe, om med guld tilredt<br>
-og perlestukken, silkebredt.<br>
+O Jesus, verden vid og lang\
+til vugge var dig dog for trang,\
+for ringe, om med guld tilredt\
+og perlestukken, silkebredt.\
 
 5\.\
-Men verdens ære, magt og guld<br>
-for dig er ikkun støv og muld,<br>
-i krybben lagt, i klude svøbt,<br>
-et himmelsk liv du har mig købt.<br>
+Men verdens ære, magt og guld\
+for dig er ikkun støv og muld,\
+i krybben lagt, i klude svøbt,\
+et himmelsk liv du har mig købt.\
 
 6\.\
-Velan, min sjæl, så vær nu glad,<br>
-og hold din jul i Davids stad,<br>
-ja, pris din Gud i allen stund<br>
-med liflig sang af hjertens grund!<br>
+Velan, min sjæl, så vær nu glad,\
+og hold din jul i Davids stad,\
+ja, pris din Gud i allen stund\
+med liflig sang af hjertens grund!\
 
 7\.\
-Ja, sjunge hver, som sjunge kan:<br>
-Nu tændtes lys i skyggers land,<br>
-og ret som midnatshanen gol,<br>
-blev Jakobs stjerne til en sol!<br>
+Ja, sjunge hver, som sjunge kan:\
+Nu tændtes lys i skyggers land,\
+og ret som midnatshanen gol,\
+blev Jakobs stjerne til en sol!\
 
 8\.\
-Nu kom han, patriarkers håb,<br>
-med flammeord og himmeldåb,<br>
-og barnet tyder nu i vang,<br>
-hvad David dunkelt så og sang.<br>
+Nu kom han, patriarkers håb,\
+med flammeord og himmeldåb,\
+og barnet tyder nu i vang,\
+hvad David dunkelt så og sang.\
 
 9\.\
-Kom, Jesus, vær min hyttegæst,<br>
-hold selv i os din julefest,<br>
-da skal med Davidsharpens klang<br>
-dig takke højt vor nytårssang!<br>
+Kom, Jesus, vær min hyttegæst,\
+hold selv i os din julefest,\
+da skal med Davidsharpens klang\
+dig takke højt vor nytårssang!\

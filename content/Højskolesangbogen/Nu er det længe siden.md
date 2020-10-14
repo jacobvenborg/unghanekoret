@@ -6,64 +6,64 @@ nummer: "334"
 tema: "Året - sensommer"
 ---
 1\.\
-Nu er det længe siden,<br>
-men end det gemmes i mit sind -<br>
-hvordan i barndomstiden<br>
-den kære rug kom ind.<br>
-Hvordan dens kernetunge top<br>
-ved moders svage kræfter<br>
-blev lagt i lugen op.<br>
+Nu er det længe siden,\
+men end det gemmes i mit sind -\
+hvordan i barndomstiden\
+den kære rug kom ind.\
+Hvordan dens kernetunge top\
+ved moders svage kræfter\
+blev lagt i lugen op.\
 
 2\.\
-Først bredte mor et klæde<br>
-så ømt som nogen højtidsdug;<br>
-der måtte ingen træde<br>
-med sko i høstens rug.<br>
-Så fejed hun med limens rest<br>
-hvert snavset strå til side<br>
-som for en hædersgæst.<br>
+Først bredte mor et klæde\
+så ømt som nogen højtidsdug;\
+der måtte ingen træde\
+med sko i høstens rug.\
+Så fejed hun med limens rest\
+hvert snavset strå til side\
+som for en hædersgæst.\
 
 3\.\
-Den kære rug var gæsten,<br>
-som gjorde hvert et barn så spændt;<br>
-se, far han lægger vesten<br>
-og ser så indadvendt.<br>
-En skælven i et ydmygt sind,<br>
-en bøn til altets skaber,<br>
-før avlen bringes ind.<br>
+Den kære rug var gæsten,\
+som gjorde hvert et barn så spændt;\
+se, far han lægger vesten\
+og ser så indadvendt.\
+En skælven i et ydmygt sind,\
+en bøn til altets skaber,\
+før avlen bringes ind.\
 
 4\.\
-Og neg for neg forsvinder<br>
-og bliver under bjælken sat;<br>
-og far får røde kinder<br>
-og spindelvæv om hat.<br>
-Men mor er lige hvid og bleg,<br>
-hvor meget hun end stræber<br>
-med rugens tunge neg.<br>
+Og neg for neg forsvinder\
+og bliver under bjælken sat;\
+og far får røde kinder\
+og spindelvæv om hat.\
+Men mor er lige hvid og bleg,\
+hvor meget hun end stræber\
+med rugens tunge neg.\
 
 5\.\
-Det går mod aftentide;<br>
-snart skinner månen fuld og rund<br>
-på gavl og vægge hvide<br>
-og ned i vognens bund.<br>
-Mor standser træt og titter ind;<br>
-far kommer hen til lugen<br>
-og klapper hendes kind.<br>
+Det går mod aftentide;\
+snart skinner månen fuld og rund\
+på gavl og vægge hvide\
+og ned i vognens bund.\
+Mor standser træt og titter ind;\
+far kommer hen til lugen\
+og klapper hendes kind.\
 
 6\.\
-Og barnet, som har løbet<br>
-sig træt i dagens muntre leg,<br>
-det er nu stille krøbet<br>
-ind under hjulets eg;<br>
-dér høres dette skarpe knald<br>
-fra vognens fjæl mod sandet<br>
-af ørentvistens fald.<br>
+Og barnet, som har løbet\
+sig træt i dagens muntre leg,\
+det er nu stille krøbet\
+ind under hjulets eg;\
+dér høres dette skarpe knald\
+fra vognens fjæl mod sandet\
+af ørentvistens fald.\
 
 7\.\
-Og mellem hjulets eger<br>
-går stjerneblink og måneskin,<br>
-og milde vinde hveger,<br>
-mens barnet slumrer ind -<br>
-Så slutter far i Jesu navn,<br>
-og hjemmet går til hvile<br>
-med høsten i sin favn.<br>
+Og mellem hjulets eger\
+går stjerneblink og måneskin,\
+og milde vinde hveger,\
+mens barnet slumrer ind -\
+Så slutter far i Jesu navn,\
+og hjemmet går til hvile\
+med høsten i sin favn.\

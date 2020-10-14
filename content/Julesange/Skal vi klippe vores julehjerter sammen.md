@@ -4,46 +4,46 @@ tekst: "Erik Leth, 1964 (?)"
 melodi: "Bjarne Høyer, 1964 (?)"
 categories: "Julesange"
 ---
-*Noter: E-dur* <br>
+*Noter: E-dur* \
 
 ***
 
 1\.\
-Nu begynder julen jo at banke på,<br>
-vi sætter hanke på<br>
-og klipper julehjerter.<br>
-Lad os ta’ til barnetroens drømmeland,<br>
-og hvis du drømme kan,<br>
-så vil jeg hviske, når vi er der:<br>
+Nu begynder julen jo at banke på,\
+vi sætter hanke på\
+og klipper julehjerter.\
+Lad os ta’ til barnetroens drømmeland,\
+og hvis du drømme kan,\
+så vil jeg hviske, når vi er der:\
 
-Omkvæd<br>
-”Skal vi klippe vore julehjerter sammen?<br>
-i en præstegård med rigtig julesne.<br>
-Jeg kan tyd’ligt høre lænkehundens glammen,<br>
-mens de glade spurve fly’r om juleneg.<br>
-Og hvis blot du er vaks med lidt lim og en saks,<br>
-så bli’r hjerterne straks af den rigtige slags.<br>
-Skal vi klippe vore julehjerter sammen?<br>
-Jeg vil tro, at de bli’r bedst, når man er to.”<br>
+Omkvæd\
+”Skal vi klippe vore julehjerter sammen?\
+i en præstegård med rigtig julesne.\
+Jeg kan tyd’ligt høre lænkehundens glammen,\
+mens de glade spurve fly’r om juleneg.\
+Og hvis blot du er vaks med lidt lim og en saks,\
+så bli’r hjerterne straks af den rigtige slags.\
+Skal vi klippe vore julehjerter sammen?\
+Jeg vil tro, at de bli’r bedst, når man er to.”\
 
 2\.\
-Det er vældig sjovt at klippe julestads<br>
-og købe juleknas<br>
-for sine sparepenge.<br>
-Og når mor skal til at koge risengrød<br>
-og brygge nissemjød,<br>
-så hvisker alle pi’r og drenge:<br>
+Det er vældig sjovt at klippe julestads\
+og købe juleknas\
+for sine sparepenge.\
+Og når mor skal til at koge risengrød\
+og brygge nissemjød,\
+så hvisker alle pi’r og drenge:\
 
-Omkvæd<br>
-”Skal vi klippe vore julehjerter sammen?”<br>
-Det er lige sjovt for kvinden og for mand’n.<br>
-For ved juletid er alting fryd og gammen,<br>
-så er alle men’sker søde ved hinand’n.<br>
-Og når julen har bragt vore hjerter i takt,<br>
-så er stemningen vakt, li’ så snart han får det sagt:<br>
-”Sku’ vi flette vore julehjerter sammen?<br>
-kind mod kind, mens julegåsen bæres ind.”<br>
+Omkvæd\
+”Skal vi klippe vore julehjerter sammen?”\
+Det er lige sjovt for kvinden og for mand’n.\
+For ved juletid er alting fryd og gammen,\
+så er alle men’sker søde ved hinand’n.\
+Og når julen har bragt vore hjerter i takt,\
+så er stemningen vakt, li’ så snart han får det sagt:\
+”Sku’ vi flette vore julehjerter sammen?\
+kind mod kind, mens julegåsen bæres ind.”\
 
-Outro<br>
-”Sku’ vi flette vore julehjerter sammen?<br>
-kind mod kind, mens julegåsen bæres ind.”<br>
+Outro\
+”Sku’ vi flette vore julehjerter sammen?\
+kind mod kind, mens julegåsen bæres ind.”\

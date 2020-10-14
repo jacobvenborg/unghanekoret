@@ -6,25 +6,25 @@ nummer: "192"
 tema: "Frihed og fællesskab"
 ---
 1\.\
-Så dyrker de korn på et alter i Chile.<br>
-Så hælder de mælk i en gammel kanon.<br>
-Så stabler de ved af forgiftede pile.<br>
-Så planter de ris på en tabt bastion.<br>
+Så dyrker de korn på et alter i Chile.\
+Så hælder de mælk i en gammel kanon.\
+Så stabler de ved af forgiftede pile.\
+Så planter de ris på en tabt bastion.\
 
 2\.\
-Så spiller de bold med uskyldige bomber.<br>
-Så leger de skjul i et tomt parlament.<br>
-Så spiller de skak med de små bitte stumper<br>
-af det, der engang var en stor præsident.<br>
+Så spiller de bold med uskyldige bomber.\
+Så leger de skjul i et tomt parlament.\
+Så spiller de skak med de små bitte stumper\
+af det, der engang var en stor præsident.\
 
 3\.\
-Så dyrker de vin i den stenede Mafia.<br>
-Så slagter de geder og får i en bank.<br>
-Så kører de rundt i en Rolls Royce i Sofia.<br>
-Så brænder de rubler og dollars og franc.<br>
+Så dyrker de vin i den stenede Mafia.\
+Så slagter de geder og får i en bank.\
+Så kører de rundt i en Rolls Royce i Sofia.\
+Så brænder de rubler og dollars og franc.\
 
 4\.\
-Så synger de sange om folkenes lykke.<br>
-Så synger de sange om folkenes sorg.<br>
-Så blæser de alle partier et stykke<br>
-og vælter den sidste papirtigers borg.<br>
+Så synger de sange om folkenes lykke.\
+Så synger de sange om folkenes sorg.\
+Så blæser de alle partier et stykke\
+og vælter den sidste papirtigers borg.\

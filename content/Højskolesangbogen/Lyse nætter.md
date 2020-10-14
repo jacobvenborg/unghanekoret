@@ -6,37 +6,37 @@ nummer: "000"
 tema: "Nyudgave"
 ---
 1\.\
-Nu kommer fuglene igen<br>
-Og lyset vælter pludselig ind<br>
-Det kommer gennem alle sprækker, lyse nætter er tilbage<br>
+Nu kommer fuglene igen\
+Og lyset vælter pludselig ind\
+Det kommer gennem alle sprækker, lyse nætter er tilbage\
 
 
 2\.\
-Alt hvad der rørte sig blev gemt<br>
-Da du var rejst var det så nemt<br>
-Men hjertet ved godt hvad det ønsker sig, at pynte sig for dig<br>
+Alt hvad der rørte sig blev gemt\
+Da du var rejst var det så nemt\
+Men hjertet ved godt hvad det ønsker sig, at pynte sig for dig\
 
-Du er tilbage, du er hos mig<br>
-Du er tilbage, med varme dage, du er hos mig<br>
+Du er tilbage, du er hos mig\
+Du er tilbage, med varme dage, du er hos mig\
 
-Omkvæd<br>
-Du er tilbage, du er hos mig<br>
-Du er tilbage, med varme dage, du er hos mig<br>
+Omkvæd\
+Du er tilbage, du er hos mig\
+Du er tilbage, med varme dage, du er hos mig\
 
 3\.\
-Nu kommer lydene igen<br>
-Og verden vælter pludselig ind<br>
-Med parasoller og sandaler, bølger maler alt i sand<br>
+Nu kommer lydene igen\
+Og verden vælter pludselig ind\
+Med parasoller og sandaler, bølger maler alt i sand\
 
 4\.\
-Jeg havde havde huset fuld af vind<br>
-Og nye frugter fløjet ind<br>
-Men hjertet ved godt hvad det ønsker sig, at pynte sig for dig<br>
+Jeg havde havde huset fuld af vind\
+Og nye frugter fløjet ind\
+Men hjertet ved godt hvad det ønsker sig, at pynte sig for dig\
 
-Du er tilbage, du er hos mig<br>
-Du er tilbage, med varme dage, du er hos mig<br>
+Du er tilbage, du er hos mig\
+Du er tilbage, med varme dage, du er hos mig\
 
-Omkvæd <br>
-Du er tilbage, du er hos mig<br>
-Du er tilbage, med varme dage, du er hos mig<br>
+Omkvæd \
+Du er tilbage, du er hos mig\
+Du er tilbage, med varme dage, du er hos mig\
 x ∞

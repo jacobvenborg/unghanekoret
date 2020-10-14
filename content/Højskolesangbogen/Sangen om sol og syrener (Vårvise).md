@@ -7,40 +7,40 @@ tema: "Året - sent forår"
 ---
 
 1\.\
-Sangen om sol og syrener<br>
-Våren i eksplosion<br>
-Alt hvad som lever og forener<br>
-Os i en egen komposition<br>
+Sangen om sol og syrener\
+Våren i eksplosion\
+Alt hvad som lever og forener\
+Os i en egen komposition\
 
-Omkvæd<br>
-Gi' mig kun en sang<br>
-Så ingen vinter går<br>
-Uden at den minder os om<br>
-Hvor dejligt det var<br>
-Hvor dejlig du var<br>
+Omkvæd\
+Gi' mig kun en sang\
+Så ingen vinter går\
+Uden at den minder os om\
+Hvor dejligt det var\
+Hvor dejlig du var\
 
 2\.\
-Du var så smuk som en rose<br>
-Midt i den lyse vår<br>
-Jeg var som i konstant narkose<br>
-Elskede dig med hud og hår<br>
+Du var så smuk som en rose\
+Midt i den lyse vår\
+Jeg var som i konstant narkose\
+Elskede dig med hud og hår\
 
-Omkvæd<br>
-Gi' mig kun en sang<br>
-Så ingen vinter går<br>
-Uden at den minder os om<br>
-Hvor dejligt det var<br>
-Hvor dejlig du var<br>
+Omkvæd\
+Gi' mig kun en sang\
+Så ingen vinter går\
+Uden at den minder os om\
+Hvor dejligt det var\
+Hvor dejlig du var\
 
 3\.\
-Gi' mig et pust, før vi aner<br>
-Er vi så langt på vej<br>
-Tiden har lagt helt andre planer<br>
-Her har du min forglemmigej<br>
+Gi' mig et pust, før vi aner\
+Er vi så langt på vej\
+Tiden har lagt helt andre planer\
+Her har du min forglemmigej\
 
-Omkvæd<br>
-Gi' mig kun en sang<br>
-Så ingen vinter går<br>
-Uden at den minder os om<br>
-Hvor dejligt det var<br>
-Hvor dejlig du var<br>
+Omkvæd\
+Gi' mig kun en sang\
+Så ingen vinter går\
+Uden at den minder os om\
+Hvor dejligt det var\
+Hvor dejlig du var\

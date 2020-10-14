@@ -6,49 +6,49 @@ nummer: "184"
 tema: "Frihed og fællesskab"
 ---
 1\.\
-Ole sad på en knold og sang,<br>
-*lal-la-la-la-la-la-la-la-la-la!* <br>
-får og beder omkring ham sprang.<br>
-*tral-la-la-la-la-la-la-la!* <br>
+Ole sad på en knold og sang,\
+*lal-la-la-la-la-la-la-la-la-la!* \
+får og beder omkring ham sprang.\
+*tral-la-la-la-la-la-la-la!* \
 
 2\.\
-Lyngen sused, og skyen gled,<br>
-*lal-la-la-la-la-la-la-la-la-la!* <br>
-udfugtslængsler i hjertet sved.<br>
-*tral-la-la-la-la-la-la-la!* <br>
+Lyngen sused, og skyen gled,\
+*lal-la-la-la-la-la-la-la-la-la!* \
+udfugtslængsler i hjertet sved.\
+*tral-la-la-la-la-la-la-la!* \
 
 3\.\
-Heden stænged, og mindet spandt,<br>
-*lal-la-la-la-la-la-la-la-la-la!* <br>
-moders øjne dog stærkest bandt.<br>
-*tral-la-la-la-la-la-la-la!* <br>
+Heden stænged, og mindet spandt,\
+*lal-la-la-la-la-la-la-la-la-la!* \
+moders øjne dog stærkest bandt.\
+*tral-la-la-la-la-la-la-la!* \
 
 4\.\
-Snart den ting dog blev åbenbar:<br>
-*lal-la-la-la-la-la-la-la-la-la!* <br>
-minder gør ikke sagen klar.<br>
-*tral-la-la-la-la-la-la-la!* <br>
+Snart den ting dog blev åbenbar:\
+*lal-la-la-la-la-la-la-la-la-la!* \
+minder gør ikke sagen klar.\
+*tral-la-la-la-la-la-la-la!* \
 
 5\.\
-Stak så Ole en dag i trav,<br>
-*lal-la-la-la-la-la-la-la-la-la!* <br>
-stod med et ved det store hav.<br>
-*tral-la-la-la-la-la-la-la!* <br>
+Stak så Ole en dag i trav,\
+*lal-la-la-la-la-la-la-la-la-la!* \
+stod med et ved det store hav.\
+*tral-la-la-la-la-la-la-la!* \
 
 6\.\
-Øjet skinnede, tåren randt,<br>
-*lal-la-la-la-la-la-la-la-la-la!* <br>
-intet mere i verden bandt.<br>
-*tral-la-la-la-la-la-la-la!* <br>
+Øjet skinnede, tåren randt,\
+*lal-la-la-la-la-la-la-la-la-la!* \
+intet mere i verden bandt.\
+*tral-la-la-la-la-la-la-la!* \
 
 7\.\
-Over havene hyrden fo'r,<br>
-*lal-la-la-la-la-la-la-la-la-la!* <br>
-fårene står der endnu og glor.<br>
-*tral-la-la-la-la-la-la-la!* <br>
+Over havene hyrden fo'r,\
+*lal-la-la-la-la-la-la-la-la-la!* \
+fårene står der endnu og glor.\
+*tral-la-la-la-la-la-la-la!* \
 
 8\.\
-Ej kan bede og får forstå<br>
-*lal-la-la-la-la-la-la-la-la-la!* <br>
-længslers tog over bølger blå.<br>
-*tral-la-la-la-la-la-la-la!* <br>
+Ej kan bede og får forstå\
+*lal-la-la-la-la-la-la-la-la-la!* \
+længslers tog over bølger blå.\
+*tral-la-la-la-la-la-la-la!* \

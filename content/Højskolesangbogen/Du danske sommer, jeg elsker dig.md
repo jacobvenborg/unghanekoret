@@ -6,49 +6,49 @@ nummer: "321"
 tema: "Året - højsommer"
 ---
 1\.\
-Du danske sommer, jeg elsker dig<br>
-skønt du så ofte har sveget mig<br>
-Snart kolde farver i sky og vand<br>
-snart nøgne piger ved hver en strand.<br>
-Mer,mer, mer,<br>
-jeg dog dig elsker, hver gang du ler.<br>
+Du danske sommer, jeg elsker dig\
+skønt du så ofte har sveget mig\
+Snart kolde farver i sky og vand\
+snart nøgne piger ved hver en strand.\
+Mer,mer, mer,\
+jeg dog dig elsker, hver gang du ler.\
 
 2\.\
-Du er i sindet jo lunefuld<br>
-dog hjertet inderst er pure guld,<br>
-et eventyr er dit glade navn,<br>
-og blomster lyser ud af din favn.<br>
-Korn, korn, korn<br>
-I drømme gror under månens horn.<br>
+Du er i sindet jo lunefuld\
+dog hjertet inderst er pure guld,\
+et eventyr er dit glade navn,\
+og blomster lyser ud af din favn.\
+Korn, korn, korn\
+I drømme gror under månens horn.\
 
 3\.\
-Når dine bølger mod bredden gik,<br>
-beruset blå som gudinders blik<br>
-en ungdom jubled din lovsang ud,<br>
-kun klædt i solskin og brunet hud.<br>
-Ned, ned ned<br>
-til dåb i glemsel og evighed.<br>
+Når dine bølger mod bredden gik,\
+beruset blå som gudinders blik\
+en ungdom jubled din lovsang ud,\
+kun klædt i solskin og brunet hud.\
+Ned, ned ned\
+til dåb i glemsel og evighed.\
 
 4\.\
-Og når du strakte med åbent sind<br>
-de lyse nætter i himlen ind,<br>
-imens det dufted' af hyld og hø,<br>
-vi bad: lad drømmen dog aldrig dø!<br>
-Ak,ak, ak!<br>
-Vort hjerte svulmed' af tro og tak.<br>
+Og når du strakte med åbent sind\
+de lyse nætter i himlen ind,\
+imens det dufted' af hyld og hø,\
+vi bad: lad drømmen dog aldrig dø!\
+Ak,ak, ak!\
+Vort hjerte svulmed' af tro og tak.\
 
 5\.\
-Og stundom ud af din fulde glød<br>
-sprang lynet fra skyen i jordens skød<br>
-og tordenlatter og tordenregn<br>
-din trolddom spændte fra egn til egn<br>
-Vild, vild vild<br>
-er, skønne sommer, din kraft og ild.<br>
+Og stundom ud af din fulde glød\
+sprang lynet fra skyen i jordens skød\
+og tordenlatter og tordenregn\
+din trolddom spændte fra egn til egn\
+Vild, vild vild\
+er, skønne sommer, din kraft og ild.\
 
 6\.\
-Du danske sommer, min hilsen tag,<br>
-du lyse nat og du lyse dag!<br>
-Går tit du kold over landet hen,<br>
-jeg véd, du kommer dog hed igen<br>
-Ja, ja, ja,<br>
-jeg véd, dit hjerte er guld endda.<br>
+Du danske sommer, min hilsen tag,\
+du lyse nat og du lyse dag!\
+Går tit du kold over landet hen,\
+jeg véd, du kommer dog hed igen\
+Ja, ja, ja,\
+jeg véd, dit hjerte er guld endda.\
