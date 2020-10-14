@@ -8,7 +8,7 @@ categories: "Irske sange"
 
 ***
 
-1.<br>
+1\.\
 By a lonely prison wall,<br>
 I heard a young girl calling<br>
 Michael, they have taken you away,<br>
@@ -22,7 +22,7 @@ Where once we watched the small free birds fly<br>
 Our love was on the wing, we had dreams and songs to sing<br>
 It's so lonely 'round the fields of Athenry<br>
 
-2.<br>
+2\.\
 By a lonely prison wall,<br>
 I heard a young man calling<br>
 Nothing matters, Mary, when you're free<br>
@@ -36,7 +36,7 @@ Where once we watched the small free birds fly<br>
 Our love was on the wing, we had dreams and songs to sing<br>
 It's so lonely 'round the fields of Athenry<br>
 
-3.<br>
+3\.\
 By a lonely harbor wall,<br>
 She watched the last star falling<br>
 As that prison ship sailed out against the sky<br>

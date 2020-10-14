@@ -5,7 +5,7 @@ melodi: "Jørgen Malling, 1866"
 nummer: "473"
 tema: "Historien"
 ---
-1.<br>
+1\.\
 Sol er oppe, skovens toppe<br>
 glimre alt som Gimles tag.<br>
 Bud os bringer hanevinger,<br>
@@ -15,7 +15,7 @@ springer op og spænder bælte!<br>
 dag og dåd er kæmperim,<br>
 dag og dåd er kæmperim.<br>
 
-2.<br>
+2\.\
 Højt det gjalder, luren kalder<br>
 kæmper op af morgen blund,<br>
 stolper knage, luer brage,<br>
@@ -25,7 +25,7 @@ vin og smil i kongesale!<br>
 Hildurs leg er nu for hånd,<br>
 Hildurs leg er nu for hånd.<br>
 
-3.<br>
+3\.\
 Vågner! skuer borgens buer<br>
 i den røde buegang!<br>
 Luren gjalder, Lejre falder<br>
@@ -35,7 +35,7 @@ bladet falmer, bøgen brænder,<br>
 vågne må selv Dan og Skjold,<br>
 vågne må selv Dan og Skjold.<br>
 
-4.<br>
+4\.\
 Op nu fage for Rolf Krage<br>
 kækt at løfte skjold og sværd!<br>
 Vel for luer ej han gruer,<br>
@@ -45,7 +45,7 @@ mild han gav med hænder begge,<br>
 hvem tør nu slå ring om ham,<br>
 hvem tør nu slå ring om ham!<br>
 
-5.<br>
+5\.\
 I sin bolig, tryg og rolig,<br>
 slumred sødt den drot så bold,<br>
 svenske luer end han kuer<br>
@@ -55,7 +55,7 @@ tryllesværd og trindt han møder,<br>
 hvem tør skyde skjold for ham,<br>
 hvem tør skyde skjold for ham!<br>
 
-6.<br>
+6\.\
 Den, som kaldte! Det tør Hjalte,<br>
 det tør Sjællands bondeknøs.<br>
 Det tør Bjarke, om i marke<br>
@@ -65,7 +65,7 @@ Odin selv at nå og kløve;<br>
 Bodvar Bjarke slår til bunds,<br>
 Bodvar Bjarke slår til bunds.<br>
 
-7.<br>
+7\.\
 Rolf kan blegne, Bjarke segne,<br>
 Hjalte svømme i sit blod,<br>
 Lejres buer kan i luer<br>
@@ -75,7 +75,7 @@ før de emmer vorde kolde,<br>
 dræber ham den sidste gnist,<br>
 dræber ham den sidste gnist.<br>
 
-8.<br>
+8\.\
 Sol er oppe, skovens toppe<br>
 glimre alt som Gimles tag,<br>
 bud os bringer hanevinger,<br>

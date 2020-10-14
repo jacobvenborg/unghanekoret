@@ -6,7 +6,7 @@ nummer: "256"
 tema: "Året - vinter"
 ---
 
-1.<br>
+1\.\
 Spurven sidder stum bag kvist;<br>
 såmænd, om ej det fyger<br>
 Kålgårdspilen piber trist<br>
@@ -16,7 +16,7 @@ støt i moders stue,<br>
 og jo mere vinden slår,<br>
 des mer får arnen lue.<br>
 
-2.<br>
+2\.\
 Far har røgtet kvæget ind<br>
 med halmen tættet karmen,<br>
 gnedet grisens blanke skind<br>
@@ -26,7 +26,7 @@ Far mod stuen stiler,<br>
 mor en bugt på tråden slår<br>
 ser op på far og smiler.<br>
 
-3.<br>
+3\.\
 Mor kan næppe se sit spind<br>
 og næppe tråden mage;<br>
 hej, da bæres lyset ind<br>
@@ -36,7 +36,7 @@ tenens rappe vinge<br>
 over fyrrebjælken sår<br>
 en skok af skyggeringe.<br>
 
-4.<br>
+4\.\
 Far ta´r ned så tung en bog<br>
 med Gud han hvisker sammen,<br>
 famler lidt ved spændets krog<br>
@@ -46,7 +46,7 @@ ensomheden synger,<br>
 mulmet tæt om taget står<br>
 og sneen går i dynger.<br>
 
-5.<br>
+5\.\
 Her ved moders gamle rok<br>
 hun lærte mig at stave.<br>
 synge om "den hvide flok"<br>

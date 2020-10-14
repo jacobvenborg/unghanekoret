@@ -5,7 +5,7 @@ melodi: "Egil Harder, 1945"
 nummer: "262"
 tema: "Året - tidligt forår"
 ---
-1.<br>
+1\.\
 Hvad var det dog, der skete?<br>
 Mit vinterfrosne hjertes kvarts<br>
 må smelte ved at se det<br>
@@ -16,7 +16,7 @@ et stænk af himlens tone?<br>
 Den lille anemone,<br>
 jeg planted dér i fjor.<br>
 
-2.<br>
+2\.\
 På Lolland jeg den hented,<br>
 et kærtegn fra min fødeø.<br>
 Så gik jeg her og vented<br>
@@ -27,7 +27,7 @@ i denne fjendske zone<br>
 forgår min anemone;<br>
 jeg ser den aldrig mer«.<br>
 
-3.<br>
+3\.\
 Nu står den der og nikker<br>
 så sejersæl i Jyllands grus<br>
 ukuelig og sikker<br>
@@ -38,7 +38,7 @@ en lille amazone<br>
 og dog min anemone<br>
 som søens bølge skær.<br>
 
-4.<br>
+4\.\
 Hvad var det dog, der skete?<br>
 Mit hjerte koldt og hårdt som kvarts<br>
 det smelter ved at se det<br>
@@ -49,7 +49,7 @@ i vint'rens grumme done.<br>
 Nu gør min anemone<br>
 ig atter fri og glad.<br>
 
-5.<br>
+5\.\
 For denne rene farve<br>
 den er mig som en vårens dåb,<br>
 den la'r mig nyfødt arve<br>

@@ -5,7 +5,7 @@ melodi: "Stephen C. Foster, 1856?"
 nummer: "295"
 tema: "Året - sent forår"
 ---
-1.<br>
+1\.\
 Se, det summer af sol over engen,<br>
 honningbien vil fylde sin kurv,<br>
 og der pusles ved bordet og sengen<br>
@@ -15,7 +15,7 @@ men mod kvælden bli'r alting så tyst,<br>
 våren synger sin sang, det er sagen,<br>
 og mit hjerte bli'r voks i mit bryst.<br>
 
-2.<br>
+2\.\
 Der er sølvklang i majbækkens vove,<br>
 gyldent skær gennem aftenen lang,<br>
 hver en grøft bliver blomstrende skove<br>

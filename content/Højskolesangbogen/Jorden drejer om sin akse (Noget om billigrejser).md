@@ -5,7 +5,7 @@ melodi: "Mogens Jermiin-Nissen"
 nummer: "188"
 tema: "Frihed og fællesskab"
 ---
-1.<br>
+1\.\
 Jorden drejer om sin akse<br>
 med en masse byer på,<br>
 London, Skive, Rom og Fakse,<br>
@@ -15,7 +15,7 @@ som er højst forskellige.<br>
 En er russer, en er svensker,<br>
 og en del er hellige.<br>
 
-2.<br>
+2\.\
 Jeg har hus på denne klode,<br>
 hus med lokum, høns og hø.<br>
 Jeg er glad og vel tilmode<br>
@@ -25,7 +25,7 @@ med mit lille husmandssted,<br>
 syns jeg det er helt utroligt,<br>
 at jeg osse drejer med.<br>
 
-3.<br>
+3\.\
 Jeg kan sidde ved mit vindu<br>
 når det løber fuldt af vand,<br>
 mens jeg tænker på en hindu<br>
@@ -35,7 +35,7 @@ sidder drømmende som jeg,<br>
 mens han tænker på en dansker,<br>
 som sandsynligvis er mig?<br>
 
-4.<br>
+4\.\
 Mon hans kone bruger briller?<br>
 Er hun liså køn som min?<br>
 Mon han har en søn der spiller<br>
@@ -45,7 +45,7 @@ Er hun dejlig og banal?<br>
 Eller tømmer hun mon potter<br>
 på et hinduhospital?<br>
 
-5.<br>
+5\.\
 Se, nu går den satans hane<br>
 og gør hønsene besat!<br>
 Den skal slagtes en af da'ne,<br>
@@ -55,7 +55,7 @@ siger kykliky som vor,<br>
 eller har de andre vaner<br>
 som kun Muhammed forstår?<br>
 
-6.<br>
+6\.\
 Nu er solen atter fremme.<br>
 Hanen bruger sin alarm.<br>
 Det er rart at være hjemme<br>

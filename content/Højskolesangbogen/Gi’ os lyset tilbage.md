@@ -5,7 +5,7 @@ melodi: "Rasmus Skov Borring, 2009"
 nummer: "000"
 tema: "Nyudgave"
 ---
-1.<br>
+1\.\
 Kloden har mange forskellige slags.<br>
 Alle må leve og dø.<br>
 Glæd dig – du er her alligevel nu!<br>
@@ -16,7 +16,7 @@ og lad os bruge ethvert timeslag.<br>
 Dørene åbne og smilene slidt.<br>
 Sådan er landet, jeg gerne vil kalde for mit.<br>
 
-2.<br>
+2\.\
 Lykken du holder i hænderne nu,<br>
 den er vist egentlig min.<br>
 Og at du lever og bærer og er,<br>
@@ -27,7 +27,7 @@ og lad os leve af dét trylleslag:<br>
 Kroppene mange, men styrken er en.<br>
 Sådan er landet, der står på de viseste sten.<br>
 
-3.<br>
+3\.\
 Ser du kun mørke, hvor du vender hen?<br>
 Tomhedens sorte protest?<br>
 Skyggerne lever kun hvor der er lys.<br>
@@ -39,7 +39,7 @@ Lukket bli’r åbnet og støjen bli’r tyst.<br>
 Nu skal der danses og elskes, hvor mørket er lyst!<br>
 <br>
 
-4.<br>
+4\.\
 Alt hvad vi kom for at give og få:<br>
 dele og elske og slås.<br>
 Blev på et år, det vi levede på,<br>

@@ -8,7 +8,7 @@ tema: "Historien"
 
 ***
 
-1.<br>
+1\.\
 Dengang jeg drog af sted,<br>
 dengang jeg drog af sted,<br>
 min pige ville med,<br>
@@ -21,7 +21,7 @@ men alle Danmarks piger, de stole nu på mig.<br>
 Og derfor vil jeg slås som tapper landsoldat.<br>
 Hurra, hurra, hurra!<br>
 
-2.<br>
+2\.\
 Min fader og min mor,<br>
 min fader og min mor,<br>
 de sagde disse ord,<br>
@@ -34,7 +34,7 @@ for ellers kommer tysken og hjælper os dermed.<br>
 Og derfor vil jeg slås som tapper landsoldat.<br>
 Hurra, hurra, hurra!<br>
 
-3.<br>
+3\.\
 Når tysken kommer her,<br>
 når tysken kommer her,<br>
 beklager jeg enhver,<br>
@@ -47,7 +47,7 @@ men Fanden heller inte for den, som kun har ét.<br>
 Og derfor vil jeg slås som tapper landsoldat.<br>
 Hurra, hurra, hurra!<br>
 
-4.<br>
+4\.\
 Om Dannebrog jeg ved,<br>
 om Dannebrog jeg ved,<br>
 det faldt fra himlen ned,<br>
@@ -60,7 +60,7 @@ Nej, dertil er vor fane for gammel og for god!<br>
 Og derfor vil jeg slås som tapper landsoldat.<br>
 Hurra, hurra, hurra!<br>
 
-5.<br>
+5\.\
 Vi byde fjende trods,<br>
 vi byde fjenden trods,<br>
 når kongen er med os,<br>
@@ -73,7 +73,7 @@ og selv vil de dog ha' ham i det tyske slaveri.<br>
 Se, derfor vil jeg slås som tapper landsoldat.<br>
 Hurra, hurra, hurra!<br>
 
-6.<br>
+6\.\
 For pigen og vort land,<br>
 for pigen og vort land<br>
 vi kæmper alle mand,<br>

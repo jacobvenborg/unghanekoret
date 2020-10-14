@@ -7,7 +7,7 @@ melodi: "Oskar Jefsen, 2017"
 
 ***
 
-1.<br>
+1\.\
 Vi er de galende haner<br>
 Og vi synger så hjerterne smelter<br>
 Ja, når først hanerne galer<br>
@@ -17,7 +17,7 @@ Bære dig vor vej<br>
 Du kan ik’ sig’ nej<br>
 Til vores røøøst!<br>
 Fra vores uuunghaaanebryst!<br>
-2.<br>
+2\.\
 Vi er de galende haner<br>
 Og vi elsker den brogede verden<br>
 Vi bliver ved i lange baner<br>
@@ -27,7 +27,7 @@ Fra de store sale<br>
 Og lad sorgen dale<br>
 Vææk fra dit siiiind<br>
 Luuk glæden iiiind! (og hanen ud!)<br>
-3.<br>
+3\.\
 Vi er de galende haner<br>
 Og vi mødes hver a-anden tirsdag<br>
 Vi lægger mellemstore planer<br>
@@ -37,7 +37,7 @@ Smukke, dybe klange,<br>
 Bedst når vi er mange<br>
 Hvad ku’ være bedre end deeeet?<br>
 En ny definition på succeeees!<br>
-4.<br>
+4\.\
 Til slut så si’r vi - kykkeli-kyyy -<br>
 En salut der kan hør’s i det fjerne<br>
 Vi lægger kammen under vingerne<br>

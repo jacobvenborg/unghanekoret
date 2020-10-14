@@ -5,7 +5,7 @@ melodi: "Jens Nielsen, 2006"
 nummer: "260"
 tema: "Året - tidligt forår"
 ---
-1.<br>
+1\.\
 Nu leger tidlig forårssol<br>
 om Sjællands frosne strå.<br>
 Den kolde, lyse vinterjord<br>
@@ -25,7 +25,7 @@ og stammen strid af liv.<br>
 Det gode gribelige nu.<br>
 Det lange perspektiv.<br>
 
-3.<br>
+3\.\
 Han søgte virkelige ting<br>
 og ingen verdensflugt.<br>
 Den vare sans, det vide syn,<br>
@@ -35,7 +35,7 @@ og klare syner ind.<br>
 I dag som da skal livet gro<br>
 af karske, sobre sind.<br>
 
-4.<br>
+4\.\
 Nu tungetaler mørkemænd<br>
 i magisk mulm på ny.<br>
 Man håber sig en billig tro<br>

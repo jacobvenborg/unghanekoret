@@ -5,7 +5,7 @@ melodi: "Folkemelodi"
 nummer: "333"
 tema: "Året - sensommer"
 ---
-1.<br>
+1\.\
 Marken er mejet, og høet er høstet,<br>
 kornet er i laderne, og høet står i hæs.<br>
 Frugten er plukket, og træet er rystet,<br>
@@ -14,7 +14,7 @@ og nu går det hjemad med det allersidste læs.<br>
 det er gammel ret,<br>
 fuglen og den fattige skal også være mæt. :// <br>
 
-2.<br>
+2\.\
 Loen vi pynter med blomster og blade,<br>
 vi har georginer og bonderoser nok.<br>
 Børnene danser allerede så glade,<br>

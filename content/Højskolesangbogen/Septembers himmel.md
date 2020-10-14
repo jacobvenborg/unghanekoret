@@ -5,7 +5,7 @@ melodi: "Otto Mortensen, 1949"
 nummer: "335"
 tema: "Året - sensommer"
 ---
-1.<br>
+1\.\
 Septembers himmel er så blå<br>
 dens skyer lyser hvide<br>
 og lydt vi hører lærken slå<br>
@@ -15,7 +15,7 @@ med grønne lyse klinger<br>
 men storken længst af lande fór<br>
 med sol på sine vinger.<br>
 
-2.<br>
+2\.\
 Der er en søndagsstille ro<br>
 imellem træer og tage<br>
 en munter glæde ved at gro<br>
@@ -25,7 +25,7 @@ med saften om sin mule,<br>
 mens bonden kører hjem med læs,<br>
 der lyser solskinsgule.<br>
 
-3.<br>
+3\.\
 Hver stubbet mark, vi stirrer på<br>
 står brun og gul og gylden,<br>
 og røn står rød og slåen blå<br>
@@ -35,7 +35,7 @@ blandt asters i vor have,<br>
 så rig er årets sidste flor:<br>
 oktobers offergave.<br>
 
-4.<br>
+4\.\
 De røde æbler løsner let<br>
 fra træets trætte kviste.<br>
 Snart lysner kronens bladenet<br>
@@ -45,7 +45,7 @@ bag sorte grene svinder<br>
 om årets sidste røde frugt<br>
 den tungt og mildt os minder.<br>
 
-5.<br>
+5\.\
 At flyve som et forårsfrø<br>
 for sommerblomst at blive<br>
 er kun at visne for at dø<br>

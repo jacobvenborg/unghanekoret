@@ -9,7 +9,7 @@ tema: "Liv"
 
 ***
 
-1.<br>
+1\.\
 Tilgi' jeg sir et letsindigt ord.<br>
 Det er klogt at De forstår det straks.<br>
 Bare en hyldest til denne jord.<br>
@@ -29,7 +29,7 @@ Vi er af samme stof,<br>
 som drømme gøres af,<br>
 det store tomme rum.<br>
 
-2.<br>
+2\.\
 Alle som påstår, der findes mer,<br>
 gir os veksler uden underskrift.<br>
 Mennesket har dyrket en hob ideer<br>

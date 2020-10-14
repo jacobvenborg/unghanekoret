@@ -5,7 +5,7 @@ melodi: "Kai Normann Andersen, 1940"
 nummer: "511"
 tema: "Historien"
 ---
-1.<br>
+1\.\
 Gribe efter blanke ting<br>
 vil hvert et grådigt lille barn<br>
 Binde andre med en ring<br>
@@ -26,7 +26,7 @@ De ord vi svor med hånd og mund<br>
 de gælder kun den korte stund<br>
 til glæden er borte og alting forbi<br>
 
-2.<br>
+2\.\
 Kærlighed og ægteskab<br>
 hva' kommer de hinanden ved ?<br>
 Kedsomhedens tomme gab<br>
@@ -47,7 +47,7 @@ De ord vi svor med hånd og mund<br>
 de gælder kun den svimle stund<br>
 det netop er kysset fra dig jeg ka' li'<br>
 
-~~3.<br>
+~~3\.\
 Sel' når skib på skib går ned<br>
 og land på land bliver slettet ud<br>
 handler man af ærlighed<br>
@@ -68,7 +68,7 @@ Det gælder alle tiders krig,<br>
 at alle løfter kun er svig<br>
 og ingen kan stole på staternes ord.<br>~~
 
-3.<br>
+3\.\
 Møde hvad der venter os<br>
 og ingen ve' hvordan det går<br>
 Bære skæbnen uden trods<br>

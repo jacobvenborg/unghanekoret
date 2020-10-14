@@ -5,7 +5,7 @@ melodi: "Per Warming, 1987"
 nummer: "453"
 tema: "Kærlighed"
 ---
-1.<br>
+1\.\
 Du kom med alt hvad der var dig<br>
 og sprængte hver en spærret vej<br>
 og hvilket forår blev det!<br>
@@ -13,7 +13,7 @@ Det år, da alt blev stærkt og klart<br>
 og vildt og fyldt med tøbrudsfart<br>
 og alting råbte: lev det!<br>
 
-2.<br>
+2\.\
 Jeg stormed’ ud og købte øl<br>
 ja, vintrens gamle, stive føl<br>
 fór ud på grønne enge<br>
@@ -21,7 +21,7 @@ og du blev varm og lys og fuld<br>
 og håret var det pure guld<br>
 som solen – skjult for længe<br>
 
-3.<br>
+3\.\
 Og blomster åbned’ sig og så<br>
 at nu blev himlen stor og blå<br>
 og stunden født til glæde.<br>
@@ -29,7 +29,7 @@ Din næve var så varm og god<br>
 og du blev smuk og fuld af mod<br>
 så smuk, jeg måtte græde.<br>
 
-4.<br>
+4\.\
 Vorherren selv bød ind til fest<br>
 og kyssed* hver benovet gæst<br>
 i kærlighedens sale<br>
@@ -37,7 +37,7 @@ med øjne, undrende og blå<br>
 vi bare så og så og så<br>
 og slugte livets tale:<br>
 
-5.<br>
+5\.\
 At livet det er livet værd<br>
 på trods af tvivl og stor besvær<br>
 på trods af det, der smerter,<br>

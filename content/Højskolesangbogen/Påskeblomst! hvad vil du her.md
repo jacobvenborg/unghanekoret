@@ -5,7 +5,7 @@ melodi: "Carl Nielsen, 1910"
 nummer: "277"
 tema: "Året - påske"
 ---
-1.<br>
+1\.\
 Påskeblomst! hvad vil du her?<br>
 Bondeblomst fra landsbyhave<br>
 uden duft og pragt og skær!<br>
@@ -33,7 +33,7 @@ uden glans og farvepragt,<br>
 selv jeg dog på sorten tilje<br>
 ligned helst en påskelilje.<br>~~
 
-2.<br>
+2\.\
 Ej i liflig sommerluft<br>
 spired du på blomsterstade,<br>
 ej så fik du rosens duft,<br>
@@ -52,7 +52,7 @@ Mon hans ord igen opstår?<br>
 Springer klart af gule lagen<br>
 livet frem med påskedagen?<br>~~
 
-3.<br>
+3\.\
 Påskeblomst! men det er sandt:<br>
 Har vi nogetat betyde?<br>
 Er vor prædiken ej tant?<br>
@@ -62,7 +62,7 @@ Men hans ord igen opstår?<br>
 Springer klart af gule lagen<br>
 livet frem med påskedagen?<br>
 
-4.<br>
+4\.\
 Kan de døde ej opstå,<br>
 intet har vi at betyde,<br>
 visne må vi brat i vrå,<br>
@@ -72,7 +72,7 @@ vil ej vokset underfuld<br>
 smelte, støbes i det dunkle<br>
 og som lys på graven funkle.<br>
 
-5.<br>
+5\.\
 Påskeblomst! En dråbe stærk<br>
 drak jeg af dit gule bæger,<br>
 og som ved et underværk<br>
@@ -91,7 +91,7 @@ om et helligt jubelår,<br>
 som hver ædel blomst af døde<br>
 skal forklaret igenføde!<br>~~
 
-6.<br>
+6\.\
 Ja, jeg véd, du siger sandt:<br>
 frelseren stod op af døde!<br>
 Det er hver langfredags pant<br>

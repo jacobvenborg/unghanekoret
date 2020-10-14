@@ -8,7 +8,7 @@ categories: "Irske sange"
 
 ***
 
-1.<br>
+1\.\
 In Dublin's fair city,<br>
 Where the girls are so pretty,<br>
 I first set my eyes on sweet Molly Malone,<br>
@@ -26,7 +26,7 @@ Alive, alive, oh,<br>
 Alive, alive, oh,<br>
 Crying "cockles and mussels, alive, alive, oh"<br>
 
-2.<br>
+2\.\
 She was a fishmonger,<br>
 And sure 'twas no wonder,<br>
 For so were her father and mother before,<br>

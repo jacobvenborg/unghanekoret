@@ -20,7 +20,7 @@ She is the bell of Dublin City.<br>
 She is courtin' one, two, three.<br>
 Please won't you tell me, who is she?<br>
 
-1.<br>
+1\.\
 Albert Mooney say's he loves her.<br>
 All the boy's are fighting for her.<br>
 They knock at the door and ring at the bell<br>
@@ -42,7 +42,7 @@ She is the bell of Dublin City.<br>
 She is courtin' one, two, three.<br>
 Please won't you tell me, who is she?<br>
 
-2.<br>
+2\.\
 Let the wind and the rain and hail blow high<br>
 And the snow come tumbling from the sky,<br>
 She's as nice as apple pie.<br>

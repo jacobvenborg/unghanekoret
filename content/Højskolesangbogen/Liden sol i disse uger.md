@@ -5,21 +5,21 @@ melodi: "Otto Mortensen, 1963"
 nummer: "257"
 tema: "Året - vinter"
 ---
-1.<br>
+1\.\
 Liden sol i disse uger.<br>
 Februar har gjort os mindre.<br>
 Sne som tynger. Is som knuger.<br>
 Vi kan ingenting forhindre.<br>
 <br>
 
-2.<br>
+2\.\
 Vi kan heller ikke bede<br>
 om at måtte blive større.<br>
 Stær og mus og vinterhvede<br>
 må på vore vegne spørre.<br>
 <br>
 
-3.<br>
+3\.\
 Men måske april vil hente<br>
 vore hjertebål tilbage.<br>
 Sammen vil vi tålsomt vente,<br>

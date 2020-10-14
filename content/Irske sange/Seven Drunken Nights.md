@@ -8,7 +8,7 @@ categories: "Irske sange"
 
 ***
 
-1.<br>
+1\.\
 As I went home on Monday night as drunk as drunk could be<br>
 I saw a horse outside the door where my old horse should be<br>
 Well, I called me wife and said to her: Will you kindly tell to me<br>
@@ -22,7 +22,7 @@ That's a lovely sow that me mother sent to me<br>
 Well, it's many a day I've travelled a hundred miles or more<br>
 But a saddle on a sow sure I never saw before<br>
 
-2.<br>
+2\.\
 And as I went home on Tuesday night as drunk as drunk could be<br>
 I saw a coat behind the door where my old coat should be<br>
 Well, I called me wife and said to her: Will you kindly tell to me<br>
@@ -36,7 +36,7 @@ That's a woollen blanket that me mother sent to me<br>
 Well, it's many a day I've travelled a hundred miles or more<br>
 But buttons in a blanket sure I never saw before<br>
 
-3.<br>
+3\.\
 And as I went home on Wednesday night as drunk as drunk could be<br>
 I saw a pipe up on the chair where my old pipe should be<br>
 Well, I called me wife and said to her: Will you kindly tell to me<br>
@@ -50,7 +50,7 @@ That's a lovely tin whistle that me mother sent to me<br>
 Well, it's many a day I've travelled a hundred miles or more<br>
 But tobacco in a tin whistle sure I never saw before<br>
 
-4.<br>
+4\.\
 And as I went home on Thursday night as drunk as drunk could be<br>
 I saw two boots beneath the bed where my old boots should be<br>
 Well, I called me wife and said to her: Will you kindly tell to me<br>
@@ -64,7 +64,7 @@ They're two lovely Geranium pots me mother sent to me<br>
 Well, it's many a day I've travelled a hundred miles or more<br>
 But laces in Geranium pots I never saw before<br>
 
-5.<br>
+5\.\
 And as I went home on Friday night as drunk as drunk could be<br>
 I saw a head upon the bed where my old head should be<br>
 Well, I called me wife and said to her: Will you kindly tell to me<br>
@@ -78,7 +78,7 @@ That's a baby boy that me mother sent to me<br>
 Well, it's many a day I've travelled a hundred miles or more<br>
 But a baby boy with his whiskers on sure I never saw before<br>
 
-6.<br>
+6\.\
 And as I went home on Saturday night as drunk as drunk could be<br>
 I saw two hands upon her breasts where my old hands should be<br>
 Well, I called me wife and said to her: Will you kindly tell to me<br>
@@ -92,7 +92,7 @@ That's a lovely night gown that me mother sent to me<br>
 Well, it's many a day I've travelled a hundred miles or more<br>
 But fingers in a night gown sure I never saw before<br>
 
-7.<br>
+7\.\
 And as I went home on Sunday night as drunk as drunk could be<br>
 I saw a thing in her thing where my old thing should be<br>
 Well, I called me wife and said to her: Will you kindly tell to me<br>

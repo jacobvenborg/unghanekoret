@@ -5,7 +5,7 @@ melodi: "Oluf Ring, 1922"
 nummer: "309"
 tema: "Året - tidlig sommer"
 ---
-1.<br>
+1\.\
 Når egene knoppes,<br>
 og granerne duppes,<br>
 og skræpperne kante den støvede vej.<br>
@@ -16,7 +16,7 @@ sig over syrenen i hviskende leg,<br>
 den danske skærsommer,<br>
 farvel og på gensyn, du liflige maj! :// <br>
 
-2.<br>
+2\.\
 Når rugen alt bølger,<br>
 og kornblomsten dølger<br>
 sin blå lille kyse bag gitter af strå.<br>
@@ -27,7 +27,7 @@ og viben sig soler med ungerne små,<br>
 den danske skærsommer,<br>
 og derom alt fløjter den nattergal grå. :// <br>
 
-3.<br>
+3\.\
 Når skoven har skygge,<br>
 og bien gør lykke,<br>
 og bøgen har mørknet sit lyseste blad.<br>
@@ -38,7 +38,7 @@ lig luende elskov af truende had,<br>
 den danske skærsommer,<br>
 den er der, og gør selv den tungeste glad. ://<br>
 
-4.<br>
+4\.\
 O, fly ej for snarlig,<br>
 men bring os lidt varlig<br>
 fra nætternes lyse til tusmørkets stund!<br>

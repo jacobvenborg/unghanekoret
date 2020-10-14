@@ -8,7 +8,7 @@ categories: "Julesange"
 
 ***
 
-1.<br>
+1\.\
 Nu i den hellige time<br>
 står vi i stjerneskær,<br>
 og hører klokkerne kime<br>
@@ -20,7 +20,7 @@ synger om fred på vor jord,<br>
 verden var aldrig helt forladt,<br>
 en stjerne skinner i nat<br>
 
-2.<br>
+2\.\
 En nyfødt kærlighed sover,<br>
 nu er guds himmel nær,<br>
 vor lange vandring er over,<br>
@@ -32,7 +32,7 @@ synger om fred på vor jord,<br>
 verden var aldrig helt forladt,<br>
 en stjerne skinner i nat<br>
 
-3.<br>
+3\.\
 Se himmelen ligger og hviler,<br>
 på jordens gule strå.<br>
 Vi står ved krybben og smiler,<br>

@@ -6,7 +6,7 @@ nummer: "297"
 tema: "Året - sent forår"
 ---
 
-1.<br>
+1\.\
 Sangen om sol og syrener<br>
 Våren i eksplosion<br>
 Alt hvad som lever og forener<br>
@@ -19,7 +19,7 @@ Uden at den minder os om<br>
 Hvor dejligt det var<br>
 Hvor dejlig du var<br>
 
-2.<br>
+2\.\
 Du var så smuk som en rose<br>
 Midt i den lyse vår<br>
 Jeg var som i konstant narkose<br>
@@ -32,7 +32,7 @@ Uden at den minder os om<br>
 Hvor dejligt det var<br>
 Hvor dejlig du var<br>
 
-3.<br>
+3\.\
 Gi' mig et pust, før vi aner<br>
 Er vi så langt på vej<br>
 Tiden har lagt helt andre planer<br>

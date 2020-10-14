@@ -8,7 +8,7 @@ categories: "Irske sange"
 
 ***
 
-1.<br>
+1\.\
 I took a stroll on the old long walk<br>
 Of a day -I-ay-I-ay<br>
 I met a little girl and we stopped to talk<br>
@@ -20,7 +20,7 @@ And I ask you, friend, what's a fella to do<br>
 And I knew right then I'd be takin' a whirl<br>
 'Round the Salthill Prom with a Galway girl<br>
 
-2.<br>
+2\.\
 We were halfway there when the rain came down<br>
 Of a day -I-ay-I-ay<br>
 And she asked me up to her flat downtown<br>
@@ -32,7 +32,7 @@ And I ask you, friend, what's a fella to do<br>
 So I took her hand and I gave her a twirl<br>
 And I lost my heart to a Galway girl<br>
 
-3.<br>
+3\.\
 When I woke up I was all alone<br>
 -- -- --<br>
 With a broken heart and a ticket home<br>

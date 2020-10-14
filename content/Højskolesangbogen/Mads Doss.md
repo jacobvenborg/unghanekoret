@@ -7,7 +7,7 @@ tema: "Kærlighed"
 ---
 *Noter: F-dur* <br>
 
-1.<br>
+1\.\
 Mads Doss han war en kon koltringsknæjt,<br>
 han gek mæ foeren i hien,<br>
 imell så slow han lyng te en bejt,<br>
@@ -16,7 +16,7 @@ en liim te hans muer, å så sang han imell,<br>
 di hoer ed så vit, nær han tow te å hwell:<br>
 *//: La la luh -- la la lih -- kom! så skal a bih! ://* <br>
 
-2.<br>
+2\.\
 Mett Kølvro war en kon stonthostøs,<br>
 gek åsse mæ foeren i hien,<br>
 å somti hun swedt, å somti hun frøs,<br>
@@ -25,7 +25,7 @@ Hon snøwsed imell, få hin dawwen wa lång,<br>
 iwessomda tahrt hon sin klukker, å sang:<br>
 *//: La la luh -- la la lih -- kom! så skal a bih! ://* <br>
 
-3.<br>
+3\.\
 Å somti di mødtes så his å så hæhr,<br>
 od mælmad, å språkked så knøwt da,<br>
 å let om let fek di hwerranner så kjæhr:<br>
@@ -34,7 +34,7 @@ Jen kam, næ den åhn ga en hwøwt da.<br>
 å sang, så de gjall owwe mosser og kjaer:<br>
 *//: La la luh -- la la lih -- kom! så skal a bih! ://* <br>
 
-4.<br>
+4\.\
 Såen gek da en sommer, å da gik flier.<br>
 Lieg kjærrester så de fann o da.<br>
 I hien kam di no ikke møj mier,<br>

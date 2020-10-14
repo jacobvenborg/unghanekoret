@@ -5,7 +5,7 @@ melodi: "Olaf Ring, 1940"
 nummer: "334"
 tema: "Året - sensommer"
 ---
-1.<br>
+1\.\
 Nu er det længe siden,<br>
 men end det gemmes i mit sind -<br>
 hvordan i barndomstiden<br>
@@ -14,7 +14,7 @@ Hvordan dens kernetunge top<br>
 ved moders svage kræfter<br>
 blev lagt i lugen op.<br>
 
-2.<br>
+2\.\
 Først bredte mor et klæde<br>
 så ømt som nogen højtidsdug;<br>
 der måtte ingen træde<br>
@@ -23,7 +23,7 @@ Så fejed hun med limens rest<br>
 hvert snavset strå til side<br>
 som for en hædersgæst.<br>
 
-3.<br>
+3\.\
 Den kære rug var gæsten,<br>
 som gjorde hvert et barn så spændt;<br>
 se, far han lægger vesten<br>
@@ -32,7 +32,7 @@ En skælven i et ydmygt sind,<br>
 en bøn til altets skaber,<br>
 før avlen bringes ind.<br>
 
-4.<br>
+4\.\
 Og neg for neg forsvinder<br>
 og bliver under bjælken sat;<br>
 og far får røde kinder<br>
@@ -41,7 +41,7 @@ Men mor er lige hvid og bleg,<br>
 hvor meget hun end stræber<br>
 med rugens tunge neg.<br>
 
-5.<br>
+5\.\
 Det går mod aftentide;<br>
 snart skinner månen fuld og rund<br>
 på gavl og vægge hvide<br>
@@ -50,7 +50,7 @@ Mor standser træt og titter ind;<br>
 far kommer hen til lugen<br>
 og klapper hendes kind.<br>
 
-6.<br>
+6\.\
 Og barnet, som har løbet<br>
 sig træt i dagens muntre leg,<br>
 det er nu stille krøbet<br>
@@ -59,7 +59,7 @@ dér høres dette skarpe knald<br>
 fra vognens fjæl mod sandet<br>
 af ørentvistens fald.<br>
 
-7.<br>
+7\.\
 Og mellem hjulets eger<br>
 går stjerneblink og måneskin,<br>
 og milde vinde hveger,<br>

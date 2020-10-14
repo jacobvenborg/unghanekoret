@@ -8,7 +8,7 @@ categories: "Irske sange"
 
 ***
 
-1.<br>
+1\.\
 I've been a wild rover for many's a year,<br>
 And I've spent all my money on whiskey and beer<br>
 And now I'm returning with gold in great store,<br>
@@ -20,7 +20,7 @@ No, nay, never, no more<br>
 Will I play the wild rover<br>
 No, never, no more<br>
 
-2.<br>
+2\.\
 I went to an ale-house I used to frequent,<br>
 And I told the landlady my money was spent<br>
 I asked her for credit, she answered me "nay,<br>
@@ -32,7 +32,7 @@ No, nay, never, no more<br>
 Will I play the wild rover<br>
 No, never, no more<br>
 
-3.<br>
+3\.\
 I took from my pocket ten sovereigns bright,<br>
 And the landlady's eyes opened wide with delight<br>
 She said "I have whiskeys and wines of the best,<br>
@@ -44,7 +44,7 @@ No, nay, never, no more<br>
 Will I play the wild rover<br>
 No, never, no more<br>
 
-4.<br>
+4\.\
 I'll go home to my parents, confess what I've done,<br>
 And I'll ask them to pardon their prodigal son<br>
 And when they’ve caressed me as oft’ times before,<br>

@@ -5,7 +5,7 @@ melodi: "Dansk folkemelodi"
 nummer: "497"
 tema: "Historien"
 ---
-1.<br>
+1\.\
 Det haver så nyligen regnet,<br>
 det har stormet og pisket i vor lund.<br>
 Frø af ugræs er føget over hegnet,<br>
@@ -14,7 +14,7 @@ Frø af ugræs er føget over hegnet,<br>
 der blev lyst i vor skov,<br>
 ak, hvor kort, indtil alt er stormens rov.<br>
 
-2.<br>
+2\.\
 Det har regnet - men regnen gav grøde,<br>
 det har stormet - men stormen gjorde stærk.<br>
 Som de tro'de, at skoven alt var øde,<br>
@@ -23,7 +23,7 @@ For de gamle, som faldt,<br>
 er der ny overalt,<br>
 de vil møde, hver gang der bliver kaldt.<br>
 
-3.<br>
+3\.\
 Og de tro'de, at hjertebånd kan briste,<br>
 og de tro'de, at glemmes kan vor ret!<br>
 De skal vide, de aldrig ser de sidste,<br>
@@ -32,7 +32,7 @@ Thi som årene randt,<br>
 sås det: båndene bandt,<br>
 kræfter fødtes for kræfterne, som svandt.<br>
 
-4.<br>
+4\.\
 De kan spærre med farver og med pæle,<br>
 de kan lokke med løfter og med løn, -<br>
 fælles sprog giver vore tanker mæle,<br>
@@ -41,7 +41,7 @@ Nye stridsmænd skal der,<br>
 nye stridsmænd skal her<br>
 slutte kreds om den fane, vi har kær.<br>
 
-5.<br>
+5\.\
 Ja - det haver så nyligen regnet,<br>
 og de træer de drypper endnu,<br>
 mangen eg er for uvejret segnet,<br>

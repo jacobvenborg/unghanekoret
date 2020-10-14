@@ -5,7 +5,7 @@ melodi: "Folkemelodi"
 nummer: "572"
 tema: "Aften"
 ---
-1.<br>
+1\.\
 I skovens dybe, stille ro,<br>
 hvor sangerhære bo,<br>
 hvor sjælen lytted mangen gang<br>
@@ -15,7 +15,7 @@ i skovens ensomhed,<br>
 og hjertets længsler tie her,<br>
 hvor fred og hvile er.<br>
 
-2.<br>
+2\.\
 Hør landsbyklokken lyder ned,<br>
 bebuder aftenfred,<br>
 småfuglen, før den går til blund,<br>

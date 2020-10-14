@@ -8,7 +8,7 @@ melodi: "Sven Gyldmark, 1960 (?)"
 
 ***
 
-1.<br>
+1\.\
 Alle sømænd er glade for piger,<br>
 men min skat, Du kan stole på mig.<br>
 Det er fuldstændig sandt, når jeg siger,<br>
@@ -20,7 +20,7 @@ og Tove og Anne og Lizzie og Kiss.<br>
 Foruden Agnete, Elisa og Grethe,<br>
 og Anne-Merete og Molly og Lis.<br>
 
-2.<br>
+2\.\
 Alle sømænd ta’r ud i det fjerne,<br>
 Du skal vide - om natten, når jeg<br>
 står ved roret og ser på en stjerne,<br>
@@ -32,7 +32,7 @@ og Tove og Anne og Lizzie og Kiss.<br>
 Foruden Agnete, Elisa og Grethe,<br>
 og Anne-Merete og Molly og Lis.<br>
 
-3.<br>
+3\.\
 Alle sømænd er flot tatoveret,<br>
 Du skal se, når jeg kommer i havn,<br>
 på min arm er jeg smukt dekoreret,<br>

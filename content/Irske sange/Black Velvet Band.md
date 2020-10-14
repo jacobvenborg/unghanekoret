@@ -4,7 +4,7 @@ tekst: "The Irish Rovers, 1971 (The Unicorn)"
 melodi: "The Irish Rovers, 1971 (The Unicorn)"
 categories: "Irske sange"
 ---
-1.<br>
+1\.\
 In a neat little town they called Belfast<br>
 Apprentice to trade I was bound<br>
 And many an hour sweet happiness<br>
@@ -19,7 +19,7 @@ You'd think she was queen of the land<br>
 And her hair hung over her shoulders<br>
 Tied up with a black velvet band<br>
 
-2.<br>
+2\.\
 Well I went out strolling one evening<br>
 Not meaning to go very far<br>
 When I met with a ficklesome damsel<br>
@@ -34,7 +34,7 @@ You'd think she was queen of the land<br>
 And her hair hung over her shoulders<br>
 Tied up with a black velvet band<br>
 
-3.<br>
+3\.\
 Next morning before judge and jury<br>
 For trial I had to appear<br>
 Then the judge he says me young fellow<br>
@@ -49,7 +49,7 @@ You'd think she was queen of the land<br>
 And her hair hung over her shoulders<br>
 Tied up with a black velvet band<br>
 
-4.<br>
+4\.\
 So come all ye jolly young fellows<br>
 I'll have yous take warnin' by me<br>
 And when ever you're out on the liquor, me lads<br>

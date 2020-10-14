@@ -5,7 +5,7 @@ melodi: "Carl Nielsen, 1923-24"
 nummer: "000"
 tema: "Nyudgave"
 ---
-1.<br>
+1\.\
 Solen er så rød, mor<br>
 og skoven bli'r så sort<br>
 Nu er solen død, mor<br>
@@ -15,7 +15,7 @@ vi låser vores gang.<br>
 Kom, sæt dig ved min pude, mor<br>
 og syng en lille sang.<br>
 
-2.<br>
+2\.\
 Himlen er så stor, mor<br>
 med klare stjerner på<br>
 Hvem monstro der bor, mor<br>
@@ -25,7 +25,7 @@ der kigger ned på mig ?<br>
 Og tror du de har senge, mor<br>
 og sover li'som jeg?<br>
 
-3.<br>
+3\.\
 Hvorfor bli'r det nat, mor<br>
 med kold og bitter vind ?<br>
 Hør den lille kat, mor<br>

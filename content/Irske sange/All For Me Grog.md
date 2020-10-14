@@ -16,7 +16,7 @@ Well, I spent all me tin<br>
 With the ladies drinkin' gin<br>
 Far across the Western Ocean I must wander<br>
 
-1.<br>
+1\.\
 I'm sick in the head<br>
 And I haven't been to bed<br>
 Since first I came ashore with me plunder<br>
@@ -31,7 +31,7 @@ Well, I spent all me tin<br>
 With the ladies drinkin' gin<br>
 Far across the Western Ocean I must wander<br>
 
-2.<br>
+2\.\
 Where are me boots<br>
 Me noggin', noggin' boots<br>
 They're all sold for beer and tobacco<br>
@@ -46,7 +46,7 @@ Well, I spent all me tin<br>
 With the ladies drinkin' gin<br>
 Far across the Western Ocean I must wander<br>
 
-3.<br>
+3\.\
 Where is me shirt,<br>
 Me noggin', noggin' shirt<br>
 It's all sold for beer and tobacco<br>
@@ -61,7 +61,7 @@ Well, I spent all me tin<br>
 With the ladies drinkin' gin<br>
 Far across the Western Ocean I must wander<br>
 
-4.<br>
+4\.\
 Where is me wife,<br>
 Me noggin', noggin' wife<br>
 She's all sold for beer and tobacco<br>
@@ -76,7 +76,7 @@ Well, I spent all me tin<br>
 With the ladies drinkin' gin<br>
 Far across the Western Ocean I must wander<br>
 
-5.<br>
+5\.\
 Where is me bed<br>
 Me noggin', noggin' bed<br>
 It's all sold for beer and tobacco<br>

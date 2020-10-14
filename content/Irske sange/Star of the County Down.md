@@ -6,7 +6,7 @@ categories: "Irske sange"
 ---
 ***
 
-1.<br>
+1\.\
 In Banbridge Town in the County Down<br>
 One morning last July<br>
 From a bóithrín [boreen] green came a sweet cailín [colleen]<br>
@@ -21,7 +21,7 @@ From Galway to Dublin Town<br>
 No maid I've seen like the brown cailín<br>
 That I met in the County Down<br>
 
-2.<br>
+2\.\
 As she onward sped, sure I scratched my head<br>
 And I looked with a feelin' rare<br>
 And I say's, say's I, to a passer-by<br>
@@ -36,7 +36,7 @@ From Galway to Dublin Town<br>
 No maid I've seen like the brown cailín<br>
 That I met in the County Down<br>
 
-3.<br>
+3\.\
 She'd soft brown eyes with a look so shy<br>
 And a smile like a rose in June<br>
 And she sang so sweet what a lovely treat<br>
@@ -51,7 +51,7 @@ From Galway to Dublin Town<br>
 No maid I've seen like the brown cailín<br>
 That I met in the County Down<br>
 
-4.<br>
+4\.\
 At the Harvest Fair she'll be surely there<br>
 And I'll dress in my Sunday clothes<br>
 With my shoes shone bright and my hat cocked right<br>

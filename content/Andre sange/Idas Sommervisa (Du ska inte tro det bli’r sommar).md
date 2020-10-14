@@ -14,7 +14,7 @@ Jag gör hela kohagen grön<br>
 Och nu så har sommaren kommit<br>
 För jag har just tagit bort snön<br>
 
-2.<br>
+2\.\
 Jag gör mycket vatten i bäcken<br>
 Så där så det hoppar och far<br>
 Jag gör fullt med svalor som flyger<br>
@@ -24,7 +24,7 @@ Och små fågelbon här och där<br>
 Jag gör himlen vacker om kvällen<br>
 För jag gör den alldeles skär<br>
 
-3.<br>
+3\.\
 Och smultron det gör jag åt barna<br>
 För det tycker jag dom kan få<br>
 Och andra små roliga saker<br>

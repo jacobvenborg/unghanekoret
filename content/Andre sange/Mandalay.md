@@ -8,7 +8,7 @@ melodi: "Four Jacks, 1961"
 
 ***
 
-1.<br>
+1\.\
 Bag den grå Moulmein Pagode<br>
 Med sit blik mod havets blå<br>
 Sidder der en Burma-pige<br>
@@ -23,7 +23,7 @@ Husker du pagajens dunken fra Rangoon til Mandalay?<br>
 Oh, den vej til Mandalay, fuld af flyvefisk i leg<br>
 Og hvor solen brød som torden frem bag Kina-bugtens kaj<br>
 
-2.<br>
+2\.\
 Når hver rismark drev af tåge<br>
 Og det led mod solnedgang<br>
 Greb hun til sin ukulele<br>
@@ -39,7 +39,7 @@ Husker du pagajens dunken fra Rangoon til Mandalay?<br>
 Åh den vej til Mandalay fuld af flyvefisk i leg<br>
 Og hvor solen brød som torden frem bag Kinabugtens kaj!<br>
 
-3.<br>
+3\.\
 Sejl mig ud der øst for Suez<br>
 Der hvor sidste mand er først<br>
 Hvor de ti bud ikke gælder<br>

@@ -7,7 +7,7 @@ melodi: "Oskar Jefsen, 2018"
 
 ***
 
-1.<br>
+1\.\
 Så den gal i Danmark nu igen<br>
 Vort lille land er ramt af fodboldfeber<br>
 Sendt mod øst er vores bedste mænd<br>
@@ -24,8 +24,8 @@ Vi synger i flok<br>
 I rød-hvide farver<br>
 Gør vi klar til at gå amok<br>
 
-2.<br>
-Lige siden 1992<br>
+2\.\
+Lige siden 199\.\
 Der har vi længtes efter storhedstiden<br>
 Klaphatten er gemt, men ikke glemt<br>
 Nu finder vi den frem for vi tror på de røde og hvide<br>

@@ -8,7 +8,7 @@ melodi: "Simon & Garfunkel, 1966"
 
 ***
 
-1.<br>
+1\.\
 Hello darkness, my old friend<br>
 I've come to talk with you again<br>
 Because a vision softly creeping<br>
@@ -17,7 +17,7 @@ And the vision that was planted in my brain<br>
 Still remains<br>
 Within the sound of silence<br>
 
-2.<br>
+2\.\
 In restless dreams I walked alone<br>
 Narrow streets of cobblestone<br>
 'Neath the halo of a streetlamp<br>
@@ -26,7 +26,7 @@ When my eyes were stabbed by the flash of a neon light<br>
 That split the night<br>
 And touched the sound of silence<br>
 
-3.<br>
+3\.\
 And in the naked light I saw<br>
 Ten thousand people, maybe more<br>
 People talking without speaking<br>
@@ -43,7 +43,7 @@ Take my arms that I might reach you"<br>
 But my words like silent raindrops fell<br>
 And echoed in the wells of silence<br>
 
-5.<br>
+5\.\
 And the people bowed and prayed<br>
 To the neon god they made<br>
 And the sign flashed out its warning<br>

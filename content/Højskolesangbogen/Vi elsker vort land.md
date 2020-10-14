@@ -5,7 +5,7 @@ melodi: "P. E. Lange-Müller, 1885"
 nummer: "316"
 tema: "Året - midsommer"
 ---
-1.<br>
+1\.\
 Vi elsker vort land,<br>
 når den signede jul<br>
 tænder stjernen i træet med glans i hvert øje,<br>
@@ -18,7 +18,7 @@ vi kranser dit navn, når vor høst er i lade,<br>
 bli'r dog din, sankte Hans,<br>
 den er bunden af sommerens hjerter så varme, så glade. ://<br>
 
-2.<br>
+2\.\
 Vi elsker vort land,<br>
 men ved midsommer mest,<br>
 når hver sky over marken velsignelsen sender,<br>
@@ -31,7 +31,7 @@ når koen sin middag i kløveren gumler:<br>
 på dit bud sankte Hans!<br>
 ret som føllet og lammet, der frit over engen sig tumler. ://<br>
 
-3.<br>
+3\.\
 Vi elsker vort land,<br>
 og med sværdet i hånd<br>
 skal hver udenvælts fjende beredte os kende,<br>

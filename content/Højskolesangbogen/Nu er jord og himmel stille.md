@@ -5,7 +5,7 @@ melodi: "Carl Michael Bellman, 1790"
 nummer: "539"
 tema: "Aften"
 ---
-1.<br>
+1\.\
 Nu er jord og himmel stille<br>
 vinden holder tyst sit vejr<br>
 og der lyder ingen trille<br>
@@ -15,7 +15,7 @@ køers kalden over vang<br>
 og et dæmpet spil af bækken<br>
 til vor egen stille sang.<br>
 
-2.<br>
+2\.\
 Men når sangen er forstummet,<br>
 vil vi høre end en klang<br>
 lys og klar fra himmelrummet,<br>
@@ -25,7 +25,7 @@ har den jublet glæden ud<br>
 og sin himmelflugt fornyet<br>
 med endnu en tak til Gud.<br>
 
-3.<br>
+3\.\
 Tak for dagen, som er omme<br>
 for en lang og dejlig dag,<br>
 tak for dage, som skal komme<br>

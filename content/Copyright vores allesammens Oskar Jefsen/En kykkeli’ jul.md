@@ -7,7 +7,7 @@ melodi: "Oskar Jefsen, 2017"
 
 ***
 
-1.<br>
+1\.\
 Vi skal nu til julegilde<br>
 Hanekammen er sat<br>
 Og stemmen er glat<br>
@@ -29,7 +29,7 @@ Ja, når ovnen er tændt<br>
 Og der lugter lidt brændt<br>
 Så bli’r det en kykkeli’ jul<br>
 
-2.<br>
+2\.\
 Vintertiden er en glæde<br>
 For haner, der godt ka’ li’<br>
 At sove til klokken ti<br>
@@ -51,7 +51,7 @@ Ja, så håber vi på<br>
 At i år vi kan få<br>
 En rigtig hvid og kykkeli' jul<br>
 
-3.<br>
+3\.\
 Hanestruberne skal smøres<br>
 Og så skal vi ha’ gløgg<br>
 Vores helt egen bryg<br>
@@ -73,7 +73,7 @@ Et par vin fra Loire<br>
 Og så er den klar<br>
 Sikke dog en gløggeli’ jul<br>
 
-4.<br>
+4\.\
 Ud på natten skal der synges<br>
 Alt fra Grundtvig til Wham!<br>
 Mariah Carey, goddamn!<br>

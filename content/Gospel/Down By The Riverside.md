@@ -7,7 +7,7 @@ melodi: "Udgivet i 1918 på ''Plantation Melodies: A Collection of Modern, Popul
 
 ***
 
-1.<br>
+1\.\
 I'm gonna lay down my burden<br>
 Down by the riverside<br>
 Down by the riverside<br>
@@ -23,7 +23,7 @@ Studying war no more<br>
 Study war no more<br>
 Studying war no more<br>
 
-2.<br>
+2\.\
 Well, I'm gonna put on my long white robe (where?)<br>
 Down by the riverside (oh)<br>
 Down by the riverside<br>
@@ -40,7 +40,7 @@ I ain't a gonna study war no more<br>
 Study war no more<br>
 Studying war no more<br>
 
-3.<br>
+3\.\
 Well, I'm gonna lay down my sword and shield (where?)<br>
 Down by the riverside (oh)<br>
 Down by the riverside<br>

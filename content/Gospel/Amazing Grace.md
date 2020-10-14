@@ -6,25 +6,25 @@ nummer: "74"
 ---
 *Noter: G-dur*<br>
 
-1.<br>
+1\.\
 Amazing grace! How sweet the sound<br>
 That saved a wretch like me.<br>
 I once was lost, but now am found,<br>
 Was blind, but now I see.<br>
 
-2.<br>
+2\.\
 'Twas grace that taught my heart to fear,<br>
 And grace my fears relieved.<br>
 How precious did that grace appear<br>
 The hour I first believed.<br>
 
-3.<br>
+3\.\
 When we've been there ten thousand years<br>
 Bright shining as the sun,<br>
 We've no less days to sing God's praise<br>
 Than when we've first begun.<br>
 
-4.<br>
+4\.\
 Shall I be wafted to the skies,<br>
 on flow'ry beds of ease.<br>
 While others strive to win the prize,<br>

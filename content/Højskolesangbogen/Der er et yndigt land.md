@@ -5,7 +5,7 @@ melodi: "H. E. Krøyer, 1835"
 nummer: "347"
 tema: "Danmark"
 ---
-1.<br>
+1\.\
 Der er et yndigt land,<br>
 det står med brede bøge<br>
 nær salten østerstrand<br>
@@ -15,7 +15,7 @@ det hedder gamle Danmark,<br>
 og det er Frejas sal,<br>
 og det er Frejas sal.<br>
 
-2.<br>
+2\.\
 Der sad i fordums tid<br>
 de harniskklædte kæmper,<br>
 udhvilede fra strid<br>
@@ -25,7 +25,7 @@ nu hvile deres bene<br>
 bag højens bautasten,<br>
 bag højens bautasten.<br>
 
-3.<br>
+3\.\
 Det land endnu er skønt,<br>
 thi blå sig søen bælter,<br>
 og løvet står så grønt<br>
@@ -35,7 +35,7 @@ og mænd og raske svende<br>
 bebo de danskes øer,<br>
 bebo de danskes øer.<br>
 
-4.<br>
+4\.\
 Hil drot og fædreland!<br>
 Hil hver en danneborger,<br>
 som virker, hvad han kan<br>

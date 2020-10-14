@@ -5,7 +5,7 @@ melodi: "Thomas Laub, 1919"
 nummer: "89"
 tema: "Liv"
 ---
-1.<br>
+1\.\
 Er lyset for de lærde blot<br>
 til ret og galt at stave?<br>
 Nej, himlen under flere godt,<br>
@@ -15,7 +15,7 @@ slet ikke med de lærde,<br>
 oplyser bedst fra tå til top,<br>
 hvem der er mest på færde.<br>
 
-2.<br>
+2\.\
 Er lyset i planeter kun,<br>
 som ej kan se og mæle?<br>
 Er ikke ordet i vor mund<br>
@@ -25,7 +25,7 @@ som solens skin for kroppe,<br>
 det slår i sjælen ned som lyn<br>
 fra skyerne hist oppe.<br>
 
-3.<br>
+3\.\
 Er lys på visse vilkår blot<br>
 så halvvejs at ophøje?<br>
 Gør det ej alle vegne godt!<br>
@@ -35,7 +35,7 @@ på åndens himmelbue<br>
 vi heller mulm og mørke se<br>
 end solens blanke lue!<br>
 
-4.<br>
+4\.\
 Nej, aldrig spørges det fra Nord,<br>
 vi lyset vil fordunkle!<br>
 Som nordlys i fribårne ord<br>
@@ -45,7 +45,7 @@ ej blot i kroppens rige:<br>
 midsommerens den bolde sol<br>
 vil ej for midnat vige!<br>
 
-5.<br>
+5\.\
 Oplysning være skal vor lyst,<br>
 er det så kun om sivet,<br>
 men først og sidst med folkerøst<br>

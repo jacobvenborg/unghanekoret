@@ -5,7 +5,7 @@ melodi: "Erling Lindgren, 1985"
 nummer: "164"
 tema: "Sprog og ånd"
 ---
-1.<br>
+1\.\
 At lære er at ville<br>
 befri sin ensomhed,<br>
 at stå ved åndens kilde<br>
@@ -15,7 +15,7 @@ der sov på kildens bund,<br>
 mens nye bølger glider<br>
 som tegn mod hånd og mund.<br>
 
-2.<br>
+2\.\
 At lære er at bøje<br>
 sig over livet selv<br>
 og fylde sind og øje<br>
@@ -25,7 +25,7 @@ når livet kommer nær,<br>
 at møde, når det dages,<br>
 en større sandhed dér.<br>
 
-3.<br>
+3\.\
 At lære er at famle<br>
 i mørket, blind og stum,<br>
 at sprænge eller samle<br>
@@ -35,7 +35,7 @@ og gøre tanken fri,<br>
 at se en himmel over<br>
 hver drøm, man lever i.<br>
 
-4.<br>
+4\.\
 Lad aldrig dine drømme<br>
 slå bro til vold og drab.<br>
 Lad åndens kilde strømme<br>

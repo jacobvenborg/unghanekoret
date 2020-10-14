@@ -8,7 +8,7 @@ categories: "Julesange"
 
 ***
 
-1.<br>
+1\.\
 Nu begynder julen jo at banke på,<br>
 vi sætter hanke på<br>
 og klipper julehjerter.<br>
@@ -26,7 +26,7 @@ så bli’r hjerterne straks af den rigtige slags.<br>
 Skal vi klippe vore julehjerter sammen?<br>
 Jeg vil tro, at de bli’r bedst, når man er to.”<br>
 
-2.<br>
+2\.\
 Det er vældig sjovt at klippe julestads<br>
 og købe juleknas<br>
 for sine sparepenge.<br>

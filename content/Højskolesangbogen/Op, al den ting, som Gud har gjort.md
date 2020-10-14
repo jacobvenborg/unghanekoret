@@ -5,61 +5,61 @@ melodi: "Bøhmisk melodi fra tjekkisk sangbog, omkring 1576"
 nummer: "47"
 tema: "Tro"
 ---
-1.<br>
+1\.\
 Op al den ting, som Gud har gjort,<br>
 hans herlighed at prise!<br>
 Det mindste, han har skabt, er stort<br>
 og kan hans magt bevise.<br>
 
-2.<br>
+2\.\
 Gik alle konger frem på rad<br>
 i deres magt og vælde,<br>
 de mægted ej det mindste blad<br>
 at sætte på en nælde.<br>
 
-3.<br>
+3\.\
 Det mindste græs jeg undrer på<br>
 i skove og i dale,<br>
 hvor skulle jeg den visdom få<br>
 om det kun ret at tale!<br>
 
-4.<br>
+4\.\
 Hvad skal jeg sige, når jeg ser,<br>
 at alle skove vrimle,<br>
 de mange fuglesving, der sker<br>
 op under Herrens himle!<br>
 
-5.<br>
+5\.\
 Hvad skal jeg sige, når jeg går<br>
 blandt blomsterne i enge,<br>
 når fuglesangen sammenslår<br>
 som tusind harpestrenge!<br>
 
-6.<br>
+6\.\
 Hvad skal jeg sige, når mit sind<br>
 i havets dybe grunde<br>
 kun dog så lidt han kige ind<br>
 og ser så mange munde!<br>
 
-7.<br>
+7\.\
 Hvad skal jeg sige, når jeg ser,<br>
 hvor stjerneflokken blinker,<br>
 hvor mildt enhver imod mig ler<br>
 og op til himlen vinker!<br>
 
-8.<br>
+8\.\
 Hvad skal jeg sige, når jeg op<br>
 til Gud i ånden farer<br>
 og set den store kæmpetrop<br>
 af blide engleskarer!<br>
 
-9.<br>
+9\.\
 Hvad skal jeg sige? - Mine ord<br>
 vil ikke meget sige:<br>
 O Gud, hvor er din visdom stor,<br>
 din godhed, kraft og rige!<br>
 
-10.<br>
+10\.\
 Op, stemmer alle folk på jord<br>
 med frydetone sammen:<br>
 Halleluja, vor Gud er stor!<br>

@@ -5,7 +5,7 @@ melodi: "Carl Nielsen, 1917"
 nummer: "323"
 tema: "Året - højsommer"
 ---
-1.<br>
+1\.\
 Se dig ud en sommerdag,<br>
 når de bønder tromler:<br>
 Land æfor og by æbag,<br>
@@ -15,7 +15,7 @@ barneleg om frønnet post,<br>
 rugens dræ med duft af most<br>
 i drift om brede gårde!<br>
 
-2.<br>
+2\.\
 Danmark er et lidet land,<br>
 strakt fra nord til sønder,<br>
 har dog brød til alle mand,<br>
@@ -25,7 +25,7 @@ vokser langt i bakkens læ,<br>
 humlekop og pæretræ<br>
 får sol mod hvide gavle.<br>
 
-3.<br>
+3\.\
 Færgen med det brede bryst,<br>
 klædt i stål og plade,<br>
 pløjer vej fra kyst til kyst<br>
@@ -35,7 +35,7 @@ ser sig selv i havets spejl,<br>
 langvejs ude hvide sejl<br>
 mod grønne øer bovner.<br>
 
-4.<br>
+4\.\
 Toget stønner tungt af sted,<br>
 højt sig rugen løfter,<br>
 plagen står ved vangeled,<br>
@@ -45,7 +45,7 @@ aftensuk i siv og rør,<br>
 fra den åbne smededør<br>
 går lange skumrings-gnister.<br>
 
-5.<br>
+5\.\
 Slider byen, danske mand,<br>
 alt for stærkt din trøje,<br>
 tag et mål af Danmarks land<br>

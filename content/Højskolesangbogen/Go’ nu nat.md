@@ -9,7 +9,7 @@ tema: "Aften"
 
 ***
 
-1.<br>
+1\.\
 Go' nu nat<br>
 og gå nu lige hjem<br>
 mens du stadig er ved dine fulde fem.<br>
@@ -20,7 +20,7 @@ go' nu nat<br>
 og gå nu lige hjem.<br>
 <br>
 
-2.<br>
+2\.\
 Go' nu nat<br>
 og gå nu lige hjem<br>
 eller skævt - når bare du når uskadt frem.<br>
@@ -31,7 +31,7 @@ go' nu nat<br>
 og gå nu lige hjem.<br>
 <br>
 
-3.<br>
+3\.\
 Go' nu nat<br>
 og gå nu lige hjem.<br>
 Der er dem, der holder dørene på klem.<br>
@@ -53,7 +53,7 @@ go' nu nat<br>
 og gå nu lige hjem.<br>
 <br>
 
-5.<br>
+5\.\
 Go' nu nat<br>
 men gå nu ikke bort.<br>
 Vi har livet for os, selvom det er kort.<br>

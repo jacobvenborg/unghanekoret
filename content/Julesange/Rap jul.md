@@ -8,7 +8,7 @@ melodi: "Shu-bi-dua, 1973"
 
 ***
 
-1.<br>
+1\.\
 Se julen fra en ands synspunkt (uh-ah-uh)<br>
 Den er sgu ikke særlig skæg<br>
 Bare ned med svesken og op på disken<br>
@@ -18,7 +18,7 @@ Mens jeg bli'r rippet for hver dun<br>
 Jeg ka' ikke forstå, at de kan (aah-aah)<br>
 Jeg ku' aldrig plukke en mand<br>
 
-2.<br>
+2\.\
 Tænk hvis alle gik og tog på dig (uh-ah-uh)<br>
 Og sagde at du var skind og ben<br>
 Og de tykke koner siger 30 kroner<br>
@@ -28,7 +28,7 @@ Ligesom min mor hun gjorde i fjor<br>
 Jeg ka' ikke forstå, at de kan (aah-aah)<br>
 Jeg ku' aldrig stege en mand<br>
 
-3.<br>
+3\.\
 Jeg drømmer om en rap jul (uh-ah-uh)<br>
 Med andemad og hva' ve' jeg<br>
 I sku' ta' at spise lidt flere grise<br>
