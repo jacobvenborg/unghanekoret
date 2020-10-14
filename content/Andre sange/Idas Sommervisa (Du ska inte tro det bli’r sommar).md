@@ -1,9 +1,10 @@
 ---
 title: "Idas Sommervisa/Du ska inte tro det bli’r sommar"
-categories: "Andre sange"
-tekst: "Astrid Lindgren, 1973 i filmen “Emil och griseknoen”"
+tekst: "Astrid Lindgren, 1973 i filmen ''Emil och griseknoen''"
 melodi: "Georg Riedel"
+categories: "Andre sange"
 ---
+1\. *test* <br>
 Du ska inte tro det blir sommar<br>
 Ifall inte nån sätter fart<br>
 På sommarn och gör lite somrigt<br>

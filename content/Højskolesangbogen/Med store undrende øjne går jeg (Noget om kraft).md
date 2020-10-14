@@ -1,6 +1,6 @@
 ---
 title: "Med store undrende øjne går jeg/Noget om kraft"
-tekst: "Halfdan Rasmussen, ''Noget om kraft fra'' ''Lyriske installationer'', 1958"
+tekst: "Halfdan Rasmussen, 1958 (Noget om kraft fra digtsamlingen Lyriske installationer)"
 melodi: "Erik Sommer, 1989"
 nummer: "122"
 tema: "Liv"

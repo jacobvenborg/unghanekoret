@@ -1,7 +1,7 @@
 ---
 title: "Down By The Riverside"
-tekst: "Udgivet i 1918 på ”Plantation Melodies: A Collection of Modern, Popular and Old-time Negro-Songs of the Southland”"
-melodi: "Udgivet i 1918 på ”Plantation Melodies: A Collection of Modern, Popular and Old-time Negro-Songs of the Southland”"
+tekst: "Udgivet i 1918 på ''Plantation Melodies: A Collection of Modern, Popular and Old-time Negro-Songs of the Southland''"
+melodi: "Udgivet i 1918 på ''Plantation Melodies: A Collection of Modern, Popular and Old-time Negro-Songs of the Southland''"
 ---
 *Noter: Synges trestemmigt (TMB)* <br>
 
