@@ -9,25 +9,25 @@ tema: "Liv"
 Jeg ved en lærkerede\
 jeg siger ikke mer;\
 den findes på en hede,\
-et sted, som ingen ser.\
+et sted, som ingen ser.
 
 2\.\
 I reden er der unger\
 og ungerne har dun.\
 De pipper, de har tunger,\
-og reden er så lun.\
+og reden er så lun.
 
 3\.\
 Og de to gamle lærker,\
 de flyver tæt omkring.\
 Jeg tænker nok, de mærker,\
-jeg gør dem ingenting.\
+jeg gør dem ingenting.
 
 4\.\
 Jeg lurer bag en slåen.\
 Der står jeg ganske nær.\
 Jeg rækker mig på tåen\
-og holder på mit vejr.\
+og holder på mit vejr.
 
 5\.\
 For ræven han vil bide\

@@ -4,7 +4,7 @@ tekst: "Erik Leth, 1964 (?)"
 melodi: "Bjarne Høyer, 1964 (?)"
 categories: "Julesange"
 ---
-*Noter: E-dur* \
+*Noter: E-dur*
 
 ***
 
@@ -14,7 +14,7 @@ vi sætter hanke på\
 og klipper julehjerter.\
 Lad os ta’ til barnetroens drømmeland,\
 og hvis du drømme kan,\
-så vil jeg hviske, når vi er der:\
+så vil jeg hviske, når vi er der:
 
 Omkvæd\
 ”Skal vi klippe vore julehjerter sammen?\
@@ -24,7 +24,7 @@ mens de glade spurve fly’r om juleneg.\
 Og hvis blot du er vaks med lidt lim og en saks,\
 så bli’r hjerterne straks af den rigtige slags.\
 Skal vi klippe vore julehjerter sammen?\
-Jeg vil tro, at de bli’r bedst, når man er to.”\
+Jeg vil tro, at de bli’r bedst, når man er to.”
 
 2\.\
 Det er vældig sjovt at klippe julestads\
@@ -32,7 +32,7 @@ og købe juleknas\
 for sine sparepenge.\
 Og når mor skal til at koge risengrød\
 og brygge nissemjød,\
-så hvisker alle pi’r og drenge:\
+så hvisker alle pi’r og drenge:
 
 Omkvæd\
 ”Skal vi klippe vore julehjerter sammen?”\
@@ -42,7 +42,7 @@ så er alle men’sker søde ved hinand’n.\
 Og når julen har bragt vore hjerter i takt,\
 så er stemningen vakt, li’ så snart han får det sagt:\
 ”Sku’ vi flette vore julehjerter sammen?\
-kind mod kind, mens julegåsen bæres ind.”\
+kind mod kind, mens julegåsen bæres ind.”
 
 Outro\
 ”Sku’ vi flette vore julehjerter sammen?\

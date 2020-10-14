@@ -13,7 +13,7 @@ og lys er himlens gave,\
 og solen står med bonden op,\
 slet ikke med de lærde,\
 oplyser bedst fra tå til top,\
-hvem der er mest på færde.\
+hvem der er mest på færde.
 
 2\.\
 Er lyset i planeter kun,\
@@ -23,7 +23,7 @@ et lys for alle sjæle!\
 Det giver os for ånder syn,\
 som solens skin for kroppe,\
 det slår i sjælen ned som lyn\
-fra skyerne hist oppe.\
+fra skyerne hist oppe.
 
 3\.\
 Er lys på visse vilkår blot\
@@ -33,7 +33,7 @@ Er lys ej livets øje!\
 Skal for misbrugens skyld måske\
 på åndens himmelbue\
 vi heller mulm og mørke se\
-end solens blanke lue!\
+end solens blanke lue!
 
 4\.\
 Nej, aldrig spørges det fra Nord,\
@@ -43,7 +43,7 @@ det sås på himlen funkle,\
 og ses det skal ved nordens pol,\
 ej blot i kroppens rige:\
 midsommerens den bolde sol\
-vil ej for midnat vige!\
+vil ej for midnat vige!
 
 5\.\
 Oplysning være skal vor lyst,\

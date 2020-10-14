@@ -24,7 +24,7 @@ Kunne vi forbyde de tre ord: jeg lover dig\
 var vi vist i kærlighed på mere ærlig vej\
 De ord vi svor med hånd og mund\
 de gælder kun den korte stund\
-til glæden er borte og alting forbi\
+til glæden er borte og alting forbi
 
 2\.\
 Kærlighed og ægteskab\
@@ -45,7 +45,7 @@ Du må ikke eje mig, jeg ejer ikke dig\
 Alle mine kys er ikke ja og ikke nej\
 De ord vi svor med hånd og mund\
 de gælder kun den svimle stund\
-det netop er kysset fra dig jeg ka' li'\
+det netop er kysset fra dig jeg ka' li'
 
 ~~3\.\
 Sel' når skib på skib går ned\

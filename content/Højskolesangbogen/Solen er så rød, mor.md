@@ -13,7 +13,7 @@ og dagen gået bort.\
 Ræven går derude, mor\
 vi låser vores gang.\
 Kom, sæt dig ved min pude, mor\
-og syng en lille sang.\
+og syng en lille sang.
 
 2\.\
 Himlen er så stor, mor\
@@ -23,7 +23,7 @@ på stjernen i det blå ?\
 Tror du der er drenge, mor\
 der kigger ned på mig ?\
 Og tror du de har senge, mor\
-og sover li'som jeg?\
+og sover li'som jeg?
 
 3\.\
 Hvorfor bli'r det nat, mor\

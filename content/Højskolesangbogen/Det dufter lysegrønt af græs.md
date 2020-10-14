@@ -5,7 +5,7 @@ tema: "Året - tidlig sommer"
 ---
 
 **Dansk tekst: Johannes Johansen, 1985 *** \
-**Melodi: Waldemar Åhlén, 1933** \
+**Melodi: Waldemar Åhlén, 1933**
 
 ***
 
@@ -17,7 +17,7 @@ og reder urtesenge.\
 Guds sol går ind\
 i krop og sind,\
 forkynder, at nu kommer\
-en varm og lys skærsommer.\
+en varm og lys skærsommer.
 
 2\.\
 Hør fugletungers tusindfryd\
@@ -27,7 +27,7 @@ der priser skaberkraften.\
 Hvert kim og kryb\
 i jordens dyb\
 en livsfryd i sig mærker\
-så høj som himlens lærker.\
+så høj som himlens lærker.
 
 3\.\
 Se, blomsterflorets farvepragt\
@@ -37,7 +37,7 @@ misundeligt må blegne!\
 Alt smukt, vi ved,\
 al kærlighed,\
 den mindste fugl og lilje\
-er, Gud, din skabervilje.\
+er, Gud, din skabervilje.
 
 4\.\
 Ja, du gør alting nyt på jord,\
@@ -47,7 +47,7 @@ af kærlighedens gåde.\
 Alt kød må dø,\
 hver blomst blir hø.\
 Når vissentørt står floret,\
-da blomstrer evigt Ordet.\
+da blomstrer evigt Ordet.
 
 5\.\
 Ja, Jesus Kristus er det Ord,\

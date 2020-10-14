@@ -14,7 +14,7 @@ Hvad gennembrød den sorte jord\
 og gav den med sit søblå flor\
 et stænk af himlens tone?\
 Den lille anemone,\
-jeg planted dér i fjor.\
+jeg planted dér i fjor.
 
 2\.\
 På Lolland jeg den hented,\
@@ -25,7 +25,7 @@ den savner jo sit skovkvarter,\
 sin lune luft, sit fede ler;\
 i denne fjendske zone\
 forgår min anemone;\
-jeg ser den aldrig mer«.\
+jeg ser den aldrig mer«.
 
 3\.\
 Nu står den der og nikker\
@@ -36,7 +36,7 @@ som om alverdens modgang her\
 har givet den et større værd,\
 en lille amazone\
 og dog min anemone\
-som søens bølge skær.\
+som søens bølge skær.
 
 4\.\
 Hvad var det dog, der skete?\
@@ -47,7 +47,7 @@ Jeg tænkte: »Evigt skiltes ad\
 min sjæl og glæden«. da jeg sad\
 i vint'rens grumme done.\
 Nu gør min anemone\
-ig atter fri og glad.\
+ig atter fri og glad.
 
 5\.\
 For denne rene farve\

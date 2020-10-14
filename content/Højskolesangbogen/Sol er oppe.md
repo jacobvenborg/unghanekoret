@@ -13,7 +13,7 @@ hanegal om klaren dag.\
 Vågner, vågner, danske helte!\
 springer op og spænder bælte!\
 dag og dåd er kæmperim,\
-dag og dåd er kæmperim.\
+dag og dåd er kæmperim.
 
 2\.\
 Højt det gjalder, luren kalder\
@@ -23,7 +23,7 @@ blusse over grønne lund.\
 Vågner! ej til gammens tale,\
 vin og smil i kongesale!\
 Hildurs leg er nu for hånd,\
-Hildurs leg er nu for hånd.\
+Hildurs leg er nu for hånd.
 
 3\.\
 Vågner! skuer borgens buer\
@@ -33,7 +33,7 @@ under Skuldes jubelsang.\
 Hjartvar ild i skoven tænder,\
 bladet falmer, bøgen brænder,\
 vågne må selv Dan og Skjold,\
-vågne må selv Dan og Skjold.\
+vågne må selv Dan og Skjold.
 
 4\.\
 Op nu fage for Rolf Krage\
@@ -43,7 +43,7 @@ men for syn af niddingsfærd.\
 Ring med glans og sværd med ægge\
 mild han gav med hænder begge,\
 hvem tør nu slå ring om ham,\
-hvem tør nu slå ring om ham!\
+hvem tør nu slå ring om ham!
 
 5\.\
 I sin bolig, tryg og rolig,\
@@ -53,7 +53,7 @@ med sit brede dane-skjold.\
 Men ak! dog han står på gløder,\
 tryllesværd og trindt han møder,\
 hvem tør skyde skjold for ham,\
-hvem tør skyde skjold for ham!\
+hvem tør skyde skjold for ham!
 
 6\.\
 Den, som kaldte! Det tør Hjalte,\
@@ -63,7 +63,7 @@ Fenris-ulv end selv var løs,\
 lyst han har til med god Løve\
 Odin selv at nå og kløve;\
 Bodvar Bjarke slår til bunds,\
-Bodvar Bjarke slår til bunds.\
+Bodvar Bjarke slår til bunds.
 
 7\.\
 Rolf kan blegne, Bjarke segne,\
@@ -73,7 +73,7 @@ synke ned for Hjartvars fod.\
 Marken ej han kan beholde,\
 før de emmer vorde kolde,\
 dræber ham den sidste gnist,\
-dræber ham den sidste gnist.\
+dræber ham den sidste gnist.
 
 8\.\
 Sol er oppe, skovens toppe\

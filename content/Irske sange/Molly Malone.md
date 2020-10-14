@@ -4,7 +4,7 @@ tekst: "Muligvis 1700-tallet"
 melodi: "Ukendt. Måske inspillet første gang i 1976"
 categories: "Irske sange"
 ---
-*Noter: F-dur, trestemmigt i omkvæd (TMB)* \
+*Noter: F-dur, trestemmigt i omkvæd (TMB)*
 
 ***
 
@@ -14,17 +14,17 @@ Where the girls are so pretty,\
 I first set my eyes on sweet Molly Malone,\
 As she wheeled her wheel-barrow,\
 Through streets broad and narrow,\
-Crying, "Cockles and mussels, alive, alive, oh!"\
+Crying, "Cockles and mussels, alive, alive, oh!"
 
 Omkvæd\
 Alive, alive, oh,\
 Alive, alive, oh,\
-Crying "cockles and mussels, alive, alive, oh"\
+Crying "cockles and mussels, alive, alive, oh"
 
 Omkvæd\
 Alive, alive, oh,\
 Alive, alive, oh,\
-Crying "cockles and mussels, alive, alive, oh"\
+Crying "cockles and mussels, alive, alive, oh"
 
 2\.\
 She was a fishmonger,\
@@ -32,18 +32,18 @@ And sure 'twas no wonder,\
 For so were her father and mother before,\
 And they each wheeled their barrow,\
 Through streets broad and narrow,\
-Crying, "Cockles and mussels, alive, alive, oh!"\
+Crying, "Cockles and mussels, alive, alive, oh!"
+
+Omkvæd\
+Alive, alive, oh,\
+Alive, alive, oh,\
+Crying "cockles and mussels, alive, alive, oh"
 
 Omkvæd\
 Alive, alive, oh,\
 Alive, alive, oh,\
 Crying "cockles and mussels, alive, alive, oh"\
 
-Omkvæd\
-Alive, alive, oh,\
-Alive, alive, oh,\
-Crying "cockles and mussels, alive, alive, oh"\
-\
 
 3.(Synges stille, uh-kor kommer først i sidste halvdel)\
 She died of a fever,\
@@ -51,13 +51,13 @@ And no one could save her,\
 And that was the end of sweet Molly Malone.\
 Now her ghost wheels her barrow,\
 Through streets broad and narrow,\
-Crying, "Cockles and mussels, alive, alive, oh!"\
+Crying, "Cockles and mussels, alive, alive, oh!"
 
 Omkvæd\
 Alive, alive, oh,\
 Alive, alive, oh,\
 Crying "cockles and mussels, alive, alive, oh"\
-Omkvæd\
+Omkvæd
 
 Alive, alive, oh,\
 Alive, alive, oh,\

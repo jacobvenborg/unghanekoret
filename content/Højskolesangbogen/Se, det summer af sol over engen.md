@@ -13,7 +13,7 @@ af den fattigste sisken og spurv:\
 og der jubles hele dagen,\
 men mod kvælden bli'r alting så tyst,\
 våren synger sin sang, det er sagen,\
-og mit hjerte bli'r voks i mit bryst.\
+og mit hjerte bli'r voks i mit bryst.
 
 2\.\
 Der er sølvklang i majbækkens vove,\

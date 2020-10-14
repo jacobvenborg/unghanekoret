@@ -6,7 +6,7 @@ tema: "Aften"
 
 **Tekst: Juliane Preisler, 1997** \
 **Komponist: Matti Borg, 1997** \
-*Noter: C-dur* \
+*Noter: C-dur*
 
 ***
 
@@ -15,14 +15,14 @@ Et hav, der vugger sig til ro nu\
 en strand der mørkner så blidt,\
 en ren orangerød magi\
 en fred, der rækker vidt\
-mens vi holder hænder\
+mens vi holder hænder
 
 2\.\
 En nat, der nærmer sig så blødt nu\
 en lyd der stilner om os,\
 En lillalyserød magi\
 en sjæl, der kaster los\
-mens vi lytter bølger.\
+mens vi lytter bølger.
 
 3\.\
 Et lys, der sænker sig så tavst nu\

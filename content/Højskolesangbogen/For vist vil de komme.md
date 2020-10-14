@@ -13,7 +13,7 @@ på brændingens hvide tangenter -\
 mit land er hvor vintrene tøver før sommer\
 i regnklare forår når viberne kommer\
 for vist vil de komme\
-vil viberne komme igen\
+vil viberne komme igen
 
 2\.\
 Et land der forbindes på kryds og på tværs\
@@ -23,7 +23,7 @@ hvor arter dør ud og forsvinder\
 og stier langs marker hvor nogen kan huske\
 en maj måneds læhegn af blomstrende buske\
 for vist skal de blomstre\
-skal hegnene blomstre i maj\
+skal hegnene blomstre i maj
 
 3\.\
 Og dufte og hviske om længsler og savn\
@@ -33,7 +33,7 @@ og det der er mer end vort eget\
 som hylden der breder de svalende hænder\
 og rækker os sange med stjerneantenner\
 for vist skal de leve\
-skal sangene leve i os\
+skal sangene leve i os
 
 4\.\
 Og synge om byer med huse og træer\
@@ -43,7 +43,7 @@ og samler det lys de skal sprede\
 ja synge så hjerterne næsten må briste\
 om det vi er tankeløst nær ved at miste\
 for vist skal de drømmes\
-skal drømmene drømmes af os\
+skal drømmene drømmes af os
 
 5\.\
 En drøm om et folk der med udsyn og ånd\

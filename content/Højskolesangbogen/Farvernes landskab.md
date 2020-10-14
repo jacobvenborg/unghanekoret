@@ -5,7 +5,7 @@ melodi: "Jens Rosendahl, 1994"
 nummer: "383"
 tema: "Danmark"
 ---
-*Noter: D-dur* \
+*Noter: D-dur*
 
 ***
 
@@ -13,19 +13,19 @@ tema: "Danmark"
 Farvernes landskab blæst ud under himlen.\
 Grønneste marker li’så langt som dit øje når.\
 Tidevandsbølgen viger og stiger.\
-Åndedrag gennem tusind år.\
+Åndedrag gennem tusind år.
 
 2\.\
 Sejlende sole mod vest rammer havet.\
 Splintrede spejle skyller ind mod det grønne land.\
 Rødmalte skyer jages på himlen.\
-Bølgeslag mod den lave strand.\
+Bølgeslag mod den lave strand.
 
 3\.\
 Varfter og diger står skarpt imod lyset.\
 Marsken bli’r dunkel, endnu skimtes de lyse får.\
 Plagen ved leddet bli’r som en skygge\
-i det mørke, hvor alt forgår.\
+i det mørke, hvor alt forgår.
 
 4\.\
 Himmelens stjerner så fjernt over kloden.\

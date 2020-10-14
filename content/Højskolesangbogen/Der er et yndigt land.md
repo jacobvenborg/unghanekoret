@@ -13,7 +13,7 @@ nær salten østerstrand.\
 Det bugter sig i bakke, dal,\
 det hedder gamle Danmark,\
 og det er Frejas sal,\
-og det er Frejas sal.\
+og det er Frejas sal.
 
 2\.\
 Der sad i fordums tid\
@@ -23,7 +23,7 @@ udhvilede fra strid.\
 Så drog de frem til fjenders mén,\
 nu hvile deres bene\
 bag højens bautasten,\
-bag højens bautasten.\
+bag højens bautasten.
 
 3\.\
 Det land endnu er skønt,\
@@ -33,7 +33,7 @@ og løvet står så grønt.\
 Og ædle kvinder, skønne mø'r\
 og mænd og raske svende\
 bebo de danskes øer,\
-bebo de danskes øer.\
+bebo de danskes øer.
 
 4\.\
 Hil drot og fædreland!\

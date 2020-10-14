@@ -12,7 +12,7 @@ Frugten er plukket, og træet er rystet,\
 og nu går det hjemad med det allersidste læs.\
 //: Rev vi marken let,\
 det er gammel ret,\
-fuglen og den fattige skal også være mæt. :// \
+fuglen og den fattige skal også være mæt. ://
 
 2\.\
 Loen vi pynter med blomster og blade,\

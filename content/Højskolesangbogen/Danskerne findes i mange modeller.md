@@ -13,7 +13,7 @@ Og hvem kan bestemme, hvad folket vil?\
 Lad os tale om det frit,\
 lære hvor vi står,\
 blive tvivl og kulde kvit,\
-skabe gyldenår.\
+skabe gyldenår.
 
 2\.\
 Hvad er det fjerne, og hvad er det nære,\
@@ -23,7 +23,7 @@ og hvor er den uskyld, som ingen har?\
 Lad os tale om det frit,\
 lære hvor vi står,\
 blive tvivl og kulde kvit,\
-skabe gyldenår.\
+skabe gyldenår.
 
 3\.\
 Vel kan vi strides om guder og penge\
@@ -33,7 +33,7 @@ vi lever og bor på det samme sted.\
 Lad os tale om det frit,\
 lære hvor vi står,\
 blive tvivl og kulde kvit,\
-skabe gyldenår.\
+skabe gyldenår.
 
 4\.\
 Hvad skal vi styrke, og hvad skal forandres,\
@@ -43,7 +43,7 @@ Og hvor begynder og ender vi selv?\
 Lad os tale om det frit,\
 lære hvor vi står,\
 blive tvivl og kulde kvit,\
-skabe gyldenår.\
+skabe gyldenår.
 
 5\.\
 Hvor er den glæde, der smitter og fylder,\
@@ -53,7 +53,7 @@ Og hvor er den tro, vi er fælles om?\
 Lad os tale om det frit,\
 lære hvor vi står,\
 blive tvivl og kulde kvit,\
-skabe gyldenår.\
+skabe gyldenår.
 
 6\.\
 Danskerne findes i mange modeller,\
@@ -63,7 +63,7 @@ om fællesskabet, hvor alle er med.\
 Lad os tale om det frit,\
 lære hvor vi står,\
 blive tvivl og kulde kvit,\
-skabe gyldenår.\
+skabe gyldenår.
 
 7\.\
 Langt imod vest under vældige himle\

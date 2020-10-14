@@ -12,7 +12,7 @@ Frø af ugræs er føget over hegnet,\
 åg på nakke og lås for vor mund.\
 Årets løb har sin lov,\
 der blev lyst i vor skov,\
-ak, hvor kort, indtil alt er stormens rov.\
+ak, hvor kort, indtil alt er stormens rov.
 
 2\.\
 Det har regnet - men regnen gav grøde,\
@@ -21,7 +21,7 @@ Som de tro'de, at skoven alt var øde,\
 så de vårkraftens spirende værk.\
 For de gamle, som faldt,\
 er der ny overalt,\
-de vil møde, hver gang der bliver kaldt.\
+de vil møde, hver gang der bliver kaldt.
 
 3\.\
 Og de tro'de, at hjertebånd kan briste,\
@@ -30,7 +30,7 @@ De skal vide, de aldrig ser de sidste,\
 de skal vide, at ingen bliver træt.\
 Thi som årene randt,\
 sås det: båndene bandt,\
-kræfter fødtes for kræfterne, som svandt.\
+kræfter fødtes for kræfterne, som svandt.
 
 4\.\
 De kan spærre med farver og med pæle,\
@@ -39,7 +39,7 @@ fælles sprog giver vore tanker mæle,\
 fælles vilje gør kampdagen skøn.\
 Nye stridsmænd skal der,\
 nye stridsmænd skal her\
-slutte kreds om den fane, vi har kær.\
+slutte kreds om den fane, vi har kær.
 
 5\.\
 Ja - det haver så nyligen regnet,\

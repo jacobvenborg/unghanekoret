@@ -13,7 +13,7 @@ violen blomstre skøn.\
 Hvor ville jeg dog gerne,\
 at jeg igen den så!\
 Ak, kære maj, hvor gerne\
-igen i marken gå.\
+igen i marken gå.
 
 2\.\
 Om vintren kan man have\
@@ -23,7 +23,7 @@ Man kan i sneen trave,\
 Har leg af mange arter,\
 især ved juletid,\
 vel også kanefarter\
-på landet hid og did.\
+på landet hid og did.
 
 3\.\
 Men når sig lærker svinge\
@@ -33,7 +33,7 @@ det er en anden sag!\
 Men nu min kæphest rolig\
 i krogen hist må stå,\
 thi uden for vor bolig\
-man kan for søl ej gå.\
+man kan for søl ej gå.
 
 4\.\
 Du derfor smukt dig skynde,\

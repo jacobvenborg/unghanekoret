@@ -3,7 +3,7 @@ title: "Vi galer for Danmark"
 tekst: "Oskar Jefsen, 2018"
 melodi: "Oskar Jefsen, 2018"
 ---
-*Noter: Trestemmigt omkvæd (TMB)* \
+*Noter: Trestemmigt omkvæd (TMB)*
 
 ***
 
@@ -11,29 +11,29 @@ melodi: "Oskar Jefsen, 2018"
 Så den gal i Danmark nu igen\
 Vort lille land er ramt af fodboldfeber\
 Sendt mod øst er vores bedste mænd\
-Og vi er blevet hjemme for at passe vores Weber\
+Og vi er blevet hjemme for at passe vores Weber
 
 Bro\
 Vi følger med herhjemmefra\
 Når fløjten går så er vi klar\
-Moskva skal hør’ os når vi synger sammen\
+Moskva skal hør’ os når vi synger sammen
 
 Omkvæd\
 Vi galer for Danmark\
 Vi synger i flok\
 I rød-hvide farver\
-Gør vi klar til at gå amok\
+Gør vi klar til at gå amok
 
 2\.\
 Lige siden 199\.\
 Der har vi længtes efter storhedstiden\
 Klaphatten er gemt, men ikke glemt\
-Nu finder vi den frem for vi tror på de røde og hvide\
+Nu finder vi den frem for vi tror på de røde og hvide
 
 Bro\
 Vi følger med herhjemmefra\
 Når fløjten går så er vi klar\
-Putin skal hør’ os når vi synger sammen\
+Putin skal hør’ os når vi synger sammen
 
 Omkvæd\
 Vi galer for Danmark\

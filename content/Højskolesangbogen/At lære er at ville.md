@@ -13,7 +13,7 @@ og ydmygt knæle ned,\
 at spejle sig i tider,\
 der sov på kildens bund,\
 mens nye bølger glider\
-som tegn mod hånd og mund.\
+som tegn mod hånd og mund.
 
 2\.\
 At lære er at bøje\
@@ -23,7 +23,7 @@ med tankens himmelhvælv,\
 at undres og betages,\
 når livet kommer nær,\
 at møde, når det dages,\
-en større sandhed dér.\
+en større sandhed dér.
 
 3\.\
 At lære er at famle\
@@ -33,7 +33,7 @@ sit eget verdensrum,\
 at vække det, der sover,\
 og gøre tanken fri,\
 at se en himmel over\
-hver drøm, man lever i.\
+hver drøm, man lever i.
 
 4\.\
 Lad aldrig dine drømme\

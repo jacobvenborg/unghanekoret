@@ -20,14 +20,14 @@ Verden den er mørk og kold\
 Og solen er i skjul\
 Men når ovnen er tændt\
 Og der lugter lidt brændt\
-Så bli’r det en kykkeli' jul\
+Så bli’r det en kykkeli' jul
 
 Omkvæd\
 En kykkeli’ juuuul\
 En kykkeli’ juuuul\
 Ja, når ovnen er tændt\
 Og der lugter lidt brændt\
-Så bli’r det en kykkeli’ jul\
+Så bli’r det en kykkeli’ jul
 
 2\.\
 Vintertiden er en glæde\
@@ -42,14 +42,14 @@ Selvom vores breddegrader\
 Oftest kun gi’r slud\
 Så håber vi på\
 At i år vi kan få\
-En rigtig hvid og kykkeli' jul\
+En rigtig hvid og kykkeli' jul
 
 Omkvæd\
 En kykkeli' juuuul\
 En kykkeli' juuuul\
 Ja, så håber vi på\
 At i år vi kan få\
-En rigtig hvid og kykkeli' jul\
+En rigtig hvid og kykkeli' jul
 
 3\.\
 Hanestruberne skal smøres\
@@ -64,14 +64,14 @@ Krydderier bringer minder\
 Frem fra deres skjul\
 Et par vin fra Loire\
 Og så er den klar\
-Sikke dog en gløggeli’ jul\
+Sikke dog en gløggeli’ jul
 
 Omkvæd\
 En gløggeli’ juuuul\
 En gløggeli’ juuuul\
 Et par vin fra Loire\
 Og så er den klar\
-Sikke dog en gløggeli’ jul\
+Sikke dog en gløggeli’ jul
 
 4\.\
 Ud på natten skal der synges\
@@ -86,14 +86,14 @@ Fællesskabet springer frem\
 Af vint’rens kolde muld\
 Vi synger i flok\
 Når vi er nok\
-Nu bli’r det en kykkeli' jul\
+Nu bli’r det en kykkeli' jul
 
 Omkvæd\
 En kykkeli' juuuul\
 En kykkeli' juuuul\
 Vi synger i flok\
 Når vi er nok\
-Nu bli’r det en kykkeli' jul\
+Nu bli’r det en kykkeli' jul
 
 Sidste omkvæd\
 En kykkeli' juuuul\

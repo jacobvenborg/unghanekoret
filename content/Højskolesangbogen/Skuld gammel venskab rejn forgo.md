@@ -5,7 +5,7 @@ melodi: "Skotsk folkemelodi"
 nummer: "176"
 tema: "Frihed og fællesskab"
 ---
-*Noter: D-dur* \
+*Noter: D-dur*
 
 1\.\
 Skuld gammel venskab rejn forgo\

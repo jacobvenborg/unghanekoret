@@ -13,7 +13,7 @@ Novgorod og Åbenrå.\
 Alle steder bor der mensker,\
 som er højst forskellige.\
 En er russer, en er svensker,\
-og en del er hellige.\
+og en del er hellige.
 
 2\.\
 Jeg har hus på denne klode,\
@@ -23,7 +23,7 @@ og vil meget nødig dø.\
 Og når jorden drejer roligt\
 med mit lille husmandssted,\
 syns jeg det er helt utroligt,\
-at jeg osse drejer med.\
+at jeg osse drejer med.
 
 3\.\
 Jeg kan sidde ved mit vindu\
@@ -33,7 +33,7 @@ i det fjerne Hindustan.\
 Mon en sådan udenlandsker\
 sidder drømmende som jeg,\
 mens han tænker på en dansker,\
-som sandsynligvis er mig?\
+som sandsynligvis er mig?
 
 4\.\
 Mon hans kone bruger briller?\
@@ -43,7 +43,7 @@ på vemodig violin?\
 Har hans datter papillotter?\
 Er hun dejlig og banal?\
 Eller tømmer hun mon potter\
-på et hinduhospital?\
+på et hinduhospital?
 
 5\.\
 Se, nu går den satans hane\
@@ -53,7 +53,7 @@ så det er da noget pjat -\
 Mon de frække hinduhaner\
 siger kykliky som vor,\
 eller har de andre vaner\
-som kun Muhammed forstår?\
+som kun Muhammed forstår?
 
 6\.\
 Nu er solen atter fremme.\

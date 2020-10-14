@@ -5,7 +5,7 @@ melodi: "Kirsten og Finn Jørgensen"
 nummer: "337"
 tema: "Året - sensommer"
 ---
-*Noter: Em* \
+*Noter: Em*
 
 1\.\
 Æbler lyser rødt på træernes grene,\
@@ -16,7 +16,7 @@ Omkvæd\
 Gyldne farver og sensommerbrise\
 fylder hjertet med vemodig musik,\
 går og nynner en sensommervise\
-fjernt fra byens larmende trafik.\
+fjernt fra byens larmende trafik.
 
 2\.\
 Sommerbrisen danner krusning på søen,\
@@ -27,7 +27,7 @@ Omkvæd\
 Gyldne farver og sensommerbrise\
 fylder hjertet med vemodig musik,\
 går og nynner en sensommervise\
-fjernt fra byens larmende trafik.\
+fjernt fra byens larmende trafik.
 
 3\.\
 Duft af brænderøg blandt brunlige bregner,\
@@ -38,7 +38,7 @@ Omkvæd\
 Gyldne farver og sensommerbrise\
 fylder hjertet med vemodig musik,\
 går og nynner en sensommervise\
-fjernt fra byens larmende trafik.\
+fjernt fra byens larmende trafik.
 
 4\.\
 Modne rønnebær bag dybgrønne grene\

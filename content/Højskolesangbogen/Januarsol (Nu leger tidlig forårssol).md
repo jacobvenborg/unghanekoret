@@ -13,7 +13,7 @@ er god at vandre på.\
 Et blaf af blegt og lunet lys\
 har vasket by og træ’r.\
 Hvor tydelige alle ting.\
-Hvor virkeligt et vejr.\
+Hvor virkeligt et vejr.
 
 2\
 Et træ står rakt mod rummets dyb\
@@ -23,7 +23,7 @@ med livets lys omkring,\
 med roden i den hårde jord\
 og stammen strid af liv.\
 Det gode gribelige nu.\
-Det lange perspektiv.\
+Det lange perspektiv.
 
 3\.\
 Han søgte virkelige ting\
@@ -33,7 +33,7 @@ hvor virkeligt, hvor smukt.\
 Luk verdens svale, skarpe sol\
 og klare syner ind.\
 I dag som da skal livet gro\
-af karske, sobre sind.\
+af karske, sobre sind.
 
 4\.\
 Nu tungetaler mørkemænd\

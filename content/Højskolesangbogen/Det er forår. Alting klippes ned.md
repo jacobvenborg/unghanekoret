@@ -5,7 +5,7 @@ melodi: "Povl Dissing, 1981"
 nummer: "285"
 tema: "Året - sent forår"
 ---
-*Noter: G-dur* \
+*Noter: G-dur*
 
 ***
 
@@ -17,7 +17,7 @@ Vi begynder at træne til skeletter.\
 Jeg blir fem år ældre\
 ved hvert indgreb i min pung,\
 men når forårssolen skinner,\
-blir jeg ung!\
+blir jeg ung!
 
 2\.\
 Lad kun falde, hvad der knap kan stå ...\
@@ -27,7 +27,7 @@ mine sidste mønter fra mig hver den tyv'nde\
 Jeg blir tom i hjernen, .\
 træt og tung i sjæl og krop,\
 men når forårssolen skinner\
-står jeg op!\
+står jeg op!
 
 3\.\
 Og jeg fægter med min sparekniv.\
@@ -37,7 +37,7 @@ Selv i vinter var der dog en ko på isen.\
 Jeg har længe næret en\
 istap ved min barm,\
 men når forårssolen skinner,\
-blir jeg varm!\
+blir jeg varm!
 
 4\.\
 Solen skinner på fallittens rand.\
@@ -47,7 +47,7 @@ Dens emalje trænger voldsomt til forstærkning!\
 Snart skal jeg og mine sidste\
 tænder skilles ad,\
 men når forårssolen skinner,\
-blir jeg glad!\
+blir jeg glad!
 
 5\.\
 Tag da kun min sidste spinkle mønt.\

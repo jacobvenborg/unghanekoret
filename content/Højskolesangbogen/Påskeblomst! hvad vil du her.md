@@ -13,7 +13,7 @@ hvem est du velkommen gave?\
 Hvem mon, tænker du, har lyst\
 dig at trykke ømt til bryst?\
 Mener du, en fugl tør vove\
-sang om dig i Danmarks skove?\
+sang om dig i Danmarks skove?
 
 ~~Lever op i sind og hu,\
 stander op af eders grave,\
@@ -41,7 +41,7 @@ ikke liljens sølverblade.\
 Under vinterstorm og regn\
 sprang du frem i golde egn,\
 ved dit syn kun den sig fryder,\
-som har kær, hvad du betyder.\
+som har kær, hvad du betyder.
 
 ~~Bondeblomst! men er det sandt:\
 Har du noget at betyde?\
@@ -60,7 +60,7 @@ Kan de døde graven bryde?\
 Stod han op, som ordet går?\
 Men hans ord igen opstår?\
 Springer klart af gule lagen\
-livet frem med påskedagen?\
+livet frem med påskedagen?
 
 4\.\
 Kan de døde ej opstå,\
@@ -70,7 +70,7 @@ ingen have skal vi pryde,\
 glemmes skal vi under muld,\
 vil ej vokset underfuld\
 smelte, støbes i det dunkle\
-og som lys på graven funkle.\
+og som lys på graven funkle.
 
 5\.\
 Påskeblomst! En dråbe stærk\
@@ -80,7 +80,7 @@ den mig hæver, vederkvæger:\
 Svanevinge, svanesang,\
 synes mig, af den udsprang.\
 Vågnende jeg ser de døde\
-i en påskemorgenrøde.\
+i en påskemorgenrøde.
 
 ~~O, hvor est du mig dog kær,\
 bondeblomst fra landsbyhave!\

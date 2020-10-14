@@ -12,7 +12,7 @@ Då kommer blommorna snart\
 Jag gör så att blommorna blommar\
 Jag gör hela kohagen grön\
 Och nu så har sommaren kommit\
-För jag har just tagit bort snön\
+För jag har just tagit bort snön
 
 2\.\
 Jag gör mycket vatten i bäcken\
@@ -22,7 +22,7 @@ Och myggor som svalorna tar\
 Jag gör löven nya på träden\
 Och små fågelbon här och där\
 Jag gör himlen vacker om kvällen\
-För jag gör den alldeles skär\
+För jag gör den alldeles skär
 
 3\.\
 Och smultron det gör jag åt barna\

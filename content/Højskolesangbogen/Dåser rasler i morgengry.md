@@ -9,13 +9,13 @@ tema: "Liv"
 Dåser rasler i morgengry vender han hjem\
 Godt med vinden i håret og vaklende ben\
 Men det viser sig lidt efter lidt\
-Drømmene selv ka bli’ slidt\
+Drømmene selv ka bli’ slidt
 
 2\.\
 Der er ingenting her der ka’ siges sådan\
 Det er kun et par skridt det er værd\
 At få gjort at gå bort helt i sort hvis du kan\
-Langt bort herfra lille mand\
+Langt bort herfra lille mand
 
 *B:\
 Vent og se hvad du finder på det sted du nu går hen\
@@ -27,13 +27,13 @@ Og om drømmen var din ven\*
 Han som går imod strømmen og vinder sig selv\
 Han kan plukke af solen og hjælpe sit held\
 For det viser sig langsomt og klart\
-Livet er kostbart og sart\
+Livet er kostbart og sart
 
 4\.\
 Der er drømme der flyver som fugle på vind\
 De ka’ flakse som lys i det sorteste sind\
 Selv hvor alt synes visnet og dødt\
-Lander de fugle så blødt\
+Lander de fugle så blødt
 
 *B:\
 Vent og se hvad du finder på det sted du nu går hen\

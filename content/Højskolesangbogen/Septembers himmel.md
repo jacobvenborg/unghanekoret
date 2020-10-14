@@ -13,7 +13,7 @@ som før ved forårstide.\
 Den unge rug af mulden gror\
 med grønne lyse klinger\
 men storken længst af lande fór\
-med sol på sine vinger.\
+med sol på sine vinger.
 
 2\.\
 Der er en søndagsstille ro\
@@ -23,7 +23,7 @@ som var det sommerdage.\
 Og koen rusker i sit græs\
 med saften om sin mule,\
 mens bonden kører hjem med læs,\
-der lyser solskinsgule.\
+der lyser solskinsgule.
 
 3\.\
 Hver stubbet mark, vi stirrer på\
@@ -33,7 +33,7 @@ og purpursort står hylden.\
 Og georginer spraglet gror\
 blandt asters i vor have,\
 så rig er årets sidste flor:\
-oktobers offergave.\
+oktobers offergave.
 
 4\.\
 De røde æbler løsner let\
@@ -43,7 +43,7 @@ og hvert et løv må briste.\
 Når aftensolen på sin flugt\
 bag sorte grene svinder\
 om årets sidste røde frugt\
-den tungt og mildt os minder.\
+den tungt og mildt os minder.
 
 5\.\
 At flyve som et forårsfrø\

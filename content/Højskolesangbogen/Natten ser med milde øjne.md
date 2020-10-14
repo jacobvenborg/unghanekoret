@@ -9,37 +9,37 @@ tema: "Året - højsommer"
 Natten ser med milde øjne\
 ned på marker, ned på skov\
 og gør tankerne forfløjne\
-hos den ene, som ej sov.\
+hos den ene, som ej sov.
 
 2\.\
 Man la’r fantasien strømme\
 ud i rum og ud i tid,\
 repeterer rejsedrømme\
-ud i verden, stor og vid.\
+ud i verden, stor og vid.
 
 3\.\
 Blander tankerne med drømme,\
 rører godt og grundigt rundt,\
 sadler hest og fatter tømme\
-og er væk på ét sekund.\
+og er væk på ét sekund.
 
 4\.\
 Ta’r så ud i sommernatten,\
 kigger efter stjerneskud,\
 tæller sytten eller atten,\
-tæller søvnløsheden ud.\
+tæller søvnløsheden ud.
 
 5\.\
 Lytter til de spæde triller\
 fra de første fugles sang.\
 Tågen elveragtigt spiller\
-over mose, eng og vang.\
+over mose, eng og vang.
 
 6\.\
 Vender om og når tilbage\
 gennem grå gardiners slør,\
 ind fra sommernattens svage\
-krydderduftende kulør.\
+krydderduftende kulør.
 
 7\.\
 Ligger atter med fornyet\

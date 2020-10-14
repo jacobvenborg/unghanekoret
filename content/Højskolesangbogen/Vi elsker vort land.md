@@ -16,7 +16,7 @@ vi synger din lov over vej, over gade,\
 vi kranser dit navn, når vor høst er i lade,\
 //: men den skønneste krans\
 bli'r dog din, sankte Hans,\
-den er bunden af sommerens hjerter så varme, så glade. ://\
+den er bunden af sommerens hjerter så varme, så glade. ://
 
 2\.\
 Vi elsker vort land,\
@@ -29,7 +29,7 @@ når ikke vi pløjer og harver og tromler,\
 når koen sin middag i kløveren gumler:\
 //: da går ungdom til dans\
 på dit bud sankte Hans!\
-ret som føllet og lammet, der frit over engen sig tumler. ://\
+ret som føllet og lammet, der frit over engen sig tumler. ://
 
 3\.\
 Vi elsker vort land,\
@@ -45,7 +45,7 @@ sankte Hans, sankte Hans!\
 den kan vindes, hvor hjerterne aldrig bli'r tvivlende kolde,\
 //: vi vil fred her til lands,\
 sankte Hans, sankte Hans!\
-den kan vindes, hvor hjerterne aldrig bli'r tvivlende kolde. ://\
+den kan vindes, hvor hjerterne aldrig bli'r tvivlende kolde. ://
 
 *Vi elsker vort land,\
 og vi hilser den drot,\

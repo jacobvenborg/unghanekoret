@@ -10,7 +10,7 @@ prægtig er Guds himmel,\
 skøn er sjælenes pilgrimsgang!\
 Gennem de fagre\
 riger på jorden\
-gå vi til paradis med sang!\
+gå vi til paradis med sang!
 
 2\.\
 Tider skal komme,\
@@ -18,7 +18,7 @@ tider skal henrulle,\
 slægt skal følge slægters gang.\
 Aldrig forstummer\
 tonen fra himlen\
-i sjælens glade pilgrimssang.\
+i sjælens glade pilgrimssang.
 
 3\.\
 Englene sang den\

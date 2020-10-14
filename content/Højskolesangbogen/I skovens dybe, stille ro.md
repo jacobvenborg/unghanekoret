@@ -13,7 +13,7 @@ til fuglens glade sang,\
 der er idyllisk stille fred\
 i skovens ensomhed,\
 og hjertets længsler tie her,\
-hvor fred og hvile er.\
+hvor fred og hvile er.
 
 2\.\
 Hør landsbyklokken lyder ned,\

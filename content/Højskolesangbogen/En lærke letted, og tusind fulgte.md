@@ -12,7 +12,7 @@ De tusind tårne tog til at tone,\
 så landet fyldtes af klokkers klang,\
 og byer blomstred i rødt og hvidt,\
 og det var forår og Danmark frit,\
--- ja, Danmark frit.\
+-- ja, Danmark frit.
 
 2\.\
 Det var en morgen som tusind andre\
@@ -21,7 +21,7 @@ da Danmark vågned med klare øjne\
 til glædestimer og frimandskår,\
 og landet lyste fra sund til klit,\
 for det var forår og Danmark frit,\
--- og Danmark frit.\
+-- og Danmark frit.
 
 3\.\
 Vi mindes stille de tapre døde,\
@@ -30,7 +30,7 @@ og takken søger til dem, der segned,\
 og dem, der sidder med tunge savn.\
 Gud trøste dem, der har lidt og stridt,\
 til det blev forår - og Danmark frit,\
--- og Danmark frit.\
+-- og Danmark frit.
 
 4\.\
 Men du, som styrter de stoltes riger\

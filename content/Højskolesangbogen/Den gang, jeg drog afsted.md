@@ -4,7 +4,7 @@ nummer: "488"
 tema: "Historien"
 ---
 **Tekst: Peter Faber, 1848** \
-**Melodi: E. Horneman, 1848** \
+**Melodi: E. Horneman, 1848**
 
 ***
 
@@ -19,7 +19,7 @@ og hvis jeg ikke falder, kommer jeg nok hjem igen.\
 Ja, var der ingen fare, så blev jeg her hos dig,\
 men alle Danmarks piger, de stole nu på mig.\
 Og derfor vil jeg slås som tapper landsoldat.\
-Hurra, hurra, hurra!\
+Hurra, hurra, hurra!
 
 2\.\
 Min fader og min mor,\
@@ -32,7 +32,7 @@ hvem skal så pløje markerne, og hvem skal græsset slå?"\
 Ja, det er netop derfor, vi alle må af sted,\
 for ellers kommer tysken og hjælper os dermed.\
 Og derfor vil jeg slås som tapper landsoldat.\
-Hurra, hurra, hurra!\
+Hurra, hurra, hurra!
 
 3\.\
 Når tysken kommer her,\
@@ -45,7 +45,7 @@ og skælder man ham ud på dansk, så siger han: "Hols maul!"\
 For folk, som taler alle sprog, er det nu lige fedt,\
 men Fanden heller inte for den, som kun har ét.\
 Og derfor vil jeg slås som tapper landsoldat.\
-Hurra, hurra, hurra!\
+Hurra, hurra, hurra!
 
 4\.\
 Om Dannebrog jeg ved,\
@@ -58,7 +58,7 @@ og ingen anden fane har som den sit eget navn.\
 Og den har tysken hånet og trådt den under fod.\
 Nej, dertil er vor fane for gammel og for god!\
 Og derfor vil jeg slås som tapper landsoldat.\
-Hurra, hurra, hurra!\
+Hurra, hurra, hurra!
 
 5\.\
 Vi byde fjende trods,\
@@ -71,7 +71,7 @@ så dansk som han var ingen konge her i mange år.\
 De lader, som de tror, at han inte mer er fri,\
 og selv vil de dog ha' ham i det tyske slaveri.\
 Se, derfor vil jeg slås som tapper landsoldat.\
-Hurra, hurra, hurra!\
+Hurra, hurra, hurra!
 
 6\.\
 For pigen og vort land,\

@@ -5,7 +5,7 @@ melodi: "Povl Dissing, 1981"
 nummer: "564"
 tema: "Aften"
 ---
-*Noter: D-dur* \
+*Noter: D-dur*
 
 ***
 
@@ -18,7 +18,7 @@ lurer fristelser på dig\
 … … … (nynnes)\
 go' nu nat\
 og gå nu lige hjem.\
-\
+
 
 2\.\
 Go' nu nat\
@@ -29,7 +29,7 @@ som en knækket æggeskal\
 … … … (nynnes)\
 go' nu nat\
 og gå nu lige hjem.\
-\
+
 
 3\.\
 Go' nu nat\
@@ -40,7 +40,7 @@ venter på dig nat og da'\
 … … … (nynnes)\
 go' nu nat\
 og gå nu lige hjem.\
-\
+
 
 4.(alternativ)\
 Vi har sunget\
@@ -51,7 +51,7 @@ nu da timerne bli'r små\
 … … … (nynnes)\
 go' nu nat\
 og gå nu lige hjem.\
-\
+
 
 5\.\
 Go' nu nat\

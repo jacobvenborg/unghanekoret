@@ -13,7 +13,7 @@ fra de høje, stille træer.\
 Kun de fjerne frøers kvækken,\
 køers kalden over vang\
 og et dæmpet spil af bækken\
-til vor egen stille sang.\
+til vor egen stille sang.
 
 2\.\
 Men når sangen er forstummet,\
@@ -23,7 +23,7 @@ det er lærkens aftensang.\
 Fra i morges inden gryet\
 har den jublet glæden ud\
 og sin himmelflugt fornyet\
-med endnu en tak til Gud.\
+med endnu en tak til Gud.
 
 3\.\
 Tak for dagen, som er omme\

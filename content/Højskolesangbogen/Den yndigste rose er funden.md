@@ -9,43 +9,43 @@ tema: "Året - jul"
 Den yndigste rose er funden,\
 blandt stiveste torne oprunden,\
 vor Jesus, den dejligste pode,\
-blandt syndige mennesker gro'de.\
+blandt syndige mennesker gro'de.
 
 2\.\
 Alt siden vi tabte den ære,\
 Guds billedes frugter at bære,\
 var verden forvildet og øde,\
-vi alle i synden bortdøde.\
+vi alle i synden bortdøde.
 
 3\.\
 Da lod Gud en rose opskyde\
 og sæden omsider frembryde,\
 at rense og ganske forsøde\
-vor slægts den fordærvede grøde.\
+vor slægts den fordærvede grøde.
 
 4\.\
 Al verden nu burde sig fryde,\
 med salmer mangfoldig udbryde,\
 men mangen har aldrig fornummen,\
-at rosen i verden er kommen.\
+at rosen i verden er kommen.
 
 5\.\
 Forhærdede tidsel-gemytter,\
 Så stive som torne og støtter,\
 hvi holde I eder så ranke\
-i stoltheds fordærvede tanke.\
+i stoltheds fordærvede tanke.
 
 6\.\
 Ak, søger de ydmyge steder,\
 i støvet for frelseren græder,\
 så få I vor Jesus i tale,\
-thi roserne vokse i dale.\
+thi roserne vokse i dale.
 
 7\.\
 Min Jesus, du altid skal være\
 mit smykke, min rose og ære,\
 de giftige lyster du døder\
-og korset så liflig forsøder.\
+og korset så liflig forsøder.
 
 8\.\
 Lad verden mig alting betage,\

@@ -10,14 +10,14 @@ Liden sol i disse uger.\
 Februar har gjort os mindre.\
 Sne som tynger. Is som knuger.\
 Vi kan ingenting forhindre.\
-\
+
 
 2\.\
 Vi kan heller ikke bede\
 om at måtte blive større.\
 Stær og mus og vinterhvede\
 må på vore vegne spørre.\
-\
+
 
 3\.\
 Men måske april vil hente\

@@ -19,7 +19,7 @@ Omkvæd\
 From Bantry Bay up to Derry Quay and\
 From Galway to Dublin Town\
 No maid I've seen like the brown cailín\
-That I met in the County Down\
+That I met in the County Down
 
 2\.\
 As she onward sped, sure I scratched my head\
@@ -34,7 +34,7 @@ Omkvæd\
 From Bantry Bay up to Derry Quay and\
 From Galway to Dublin Town\
 No maid I've seen like the brown cailín\
-That I met in the County Down\
+That I met in the County Down
 
 3\.\
 She'd soft brown eyes with a look so shy\
@@ -49,7 +49,7 @@ Omkvæd\
 From Bantry Bay up to Derry Quay and\
 From Galway to Dublin Town\
 No maid I've seen like the brown cailín\
-That I met in the County Down\
+That I met in the County Down
 
 4\.\
 At the Harvest Fair she'll be surely there\

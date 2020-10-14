@@ -5,7 +5,7 @@ melodi: "Benny Andersen, 1972"
 nummer: "136"
 tema: "Liv"
 ---
-*Noter: B-mol, startone F, taktstart 4* \
+*Noter: B-mol, startone F, taktstart 4*
 
 1\.\
 Jeg er træt af mig selv og mine plomber.\
@@ -13,7 +13,7 @@ Jeg har alt imod min egen krop.\
 Hvad hjælper det at leveren skrumper\
 når ens mave stadig svulmer op.\
 Jeg lider af selvhad.\
-Gid jeg var en smule selvglad.\
+Gid jeg var en smule selvglad.
 
 2\.\
 Jeg er ked af mit navn og mine tanker.\
@@ -21,7 +21,7 @@ Og her nytter intet fadervor.\
 Hvad hjælper det at hjertet stadig banker\
 når det ingen har at banke for.\
 Jeg lider af selvhad.\
-Gid jeg var en smule selvglad.\
+Gid jeg var en smule selvglad.
 
 3\.\
 Jeg fortryder min fortid og min fødsel\
@@ -29,7 +29,7 @@ som jeg ikke har haft glæde af.\
 Naturen har sgu været lidt for ødsel\
 når jeg ikke straks blev siet fra.\
 Jeg hader mit selvhad.\
-Gid jeg var en smule selvglad.\
+Gid jeg var en smule selvglad.
 
 4\.\
 Jeg er træt af min håndskrift og min stemme\

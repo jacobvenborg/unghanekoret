@@ -13,7 +13,7 @@ Livet er timer, sekunder.\
 Hold dig til livet et stykke endnu.\
 Døden har masser af venner.\
 Æd kun af mørket, men tro på at du\
-snart finder hende, du kender.\
+snart finder hende, du kender.
 
 2\.\
 Lande bli'r nedlagt og lande består.\
@@ -23,7 +23,7 @@ Snart vil vi mødes og favnes.\
 Gribben er ikke en kolibri.\
 Lænken er ikke en kæde.\
 Vis mig dit ansigt før alt er forbi,\
-så er vi begge til stede.\
+så er vi begge til stede.
 
 3\.\
 Luften er lummer og sommeren går,\
@@ -33,7 +33,7 @@ forår er der, hvor hun findes.\
 Danmark er lukket og gået i hi.\
 Gold er en indkapslet glæde.\
 Vis mig dit ansigt før alt er forbi,\
-så er vi begge til stede.\
+så er vi begge til stede.
 
 4\.\
 Mure kan gi' sig, men luften er hård.\
@@ -43,7 +43,7 @@ lys er den mørkeste flamme.\
 Affind dig ikke med mørkets magi.\
 Rut med dit forråd af glæde.\
 Vis mig dit ansigt før alt er forbi,\
-så er vi begge til stede.\
+så er vi begge til stede.
 
 5\.\
 Træer kan vælte og riger forgå.\
@@ -53,7 +53,7 @@ Kærligheds magt over hjerter.\
 Mørket vil binde, men lyset gør fri.\
 Bred er den smalleste glæde.\
 Vis mig dit ansigt før alt er forbi,\
-så er vi begge til stede.\
+så er vi begge til stede.
 
 6\.\
 Mørket kan larme og mørket er lyst.\

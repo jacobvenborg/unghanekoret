@@ -13,7 +13,7 @@ lærkesang og humler,\
 byg i skred og bær i blost,\
 barneleg om frønnet post,\
 rugens dræ med duft af most\
-i drift om brede gårde!\
+i drift om brede gårde!
 
 2\.\
 Danmark er et lidet land,\
@@ -23,7 +23,7 @@ købstadfolk som bønder.\
 Rugen med det svulne knæ\
 vokser langt i bakkens læ,\
 humlekop og pæretræ\
-får sol mod hvide gavle.\
+får sol mod hvide gavle.
 
 3\.\
 Færgen med det brede bryst,\
@@ -33,7 +33,7 @@ over bælters flade.\
 Kobberspir og tag af tegl\
 ser sig selv i havets spejl,\
 langvejs ude hvide sejl\
-mod grønne øer bovner.\
+mod grønne øer bovner.
 
 4\.\
 Toget stønner tungt af sted,\
@@ -43,7 +43,7 @@ slår sig løs og snøfter.\
 Hyrden kobler sine kø'r,\
 aftensuk i siv og rør,\
 fra den åbne smededør\
-går lange skumrings-gnister.\
+går lange skumrings-gnister.
 
 5\.\
 Slider byen, danske mand,\

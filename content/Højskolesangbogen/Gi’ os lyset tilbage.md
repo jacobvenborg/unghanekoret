@@ -14,7 +14,7 @@ på en overladt stjerneø.\
 Gi’ os tiden tilbag’,\
 og lad os bruge ethvert timeslag.\
 Dørene åbne og smilene slidt.\
-Sådan er landet, jeg gerne vil kalde for mit.\
+Sådan er landet, jeg gerne vil kalde for mit.
 
 2\.\
 Lykken du holder i hænderne nu,\
@@ -25,7 +25,7 @@ denne smukkeste disciplin.\
 Gi’ os glæden tilbag’,\
 og lad os leve af dét trylleslag:\
 Kroppene mange, men styrken er en.\
-Sådan er landet, der står på de viseste sten.\
+Sådan er landet, der står på de viseste sten.
 
 3\.\
 Ser du kun mørke, hvor du vender hen?\
@@ -37,7 +37,7 @@ Gi’ os lyset tilbage.\
 Vi vender op på ethvert nederlag.\
 Lukket bli’r åbnet og støjen bli’r tyst.\
 Nu skal der danses og elskes, hvor mørket er lyst!\
-\
+
 
 4\.\
 Alt hvad vi kom for at give og få:\

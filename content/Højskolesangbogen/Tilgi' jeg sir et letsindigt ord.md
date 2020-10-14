@@ -27,7 +27,7 @@ Vores lille liv\
 sluttes inde af en søvn.\
 Vi er af samme stof,\
 som drømme gøres af,\
-det store tomme rum.\
+det store tomme rum.
 
 2\.\
 Alle som påstår, der findes mer,\

@@ -10,7 +10,7 @@ Far, a long, long way to run\
 Sow, a needle pulling thread\
 La, a note to follow so\
 Tea, I drink with jam and bread\
-That will bring us back to Do, oh oh oh\
+That will bring us back to Do, oh oh oh
 
 Do, a deer, a female deer\
 Re, a drop of golden sun\

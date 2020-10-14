@@ -14,7 +14,7 @@ mens guldregnen hælder\
 sig over syrenen i hviskende leg,\
 //: da dages, da kommer\
 den danske skærsommer,\
-farvel og på gensyn, du liflige maj! :// \
+farvel og på gensyn, du liflige maj! ://
 
 2\.\
 Når rugen alt bølger,\
@@ -25,7 +25,7 @@ mens køerne gumle,\
 og viben sig soler med ungerne små,\
 //: da dages, da kommer\
 den danske skærsommer,\
-og derom alt fløjter den nattergal grå. :// \
+og derom alt fløjter den nattergal grå. ://
 
 3\.\
 Når skoven har skygge,\
@@ -36,7 +36,7 @@ blandt torne, som stinge,\
 lig luende elskov af truende had,\
 //: da dages, da kommer\
 den danske skærsommer,\
-den er der, og gør selv den tungeste glad. ://\
+den er der, og gør selv den tungeste glad. ://
 
 4\.\
 O, fly ej for snarlig,\

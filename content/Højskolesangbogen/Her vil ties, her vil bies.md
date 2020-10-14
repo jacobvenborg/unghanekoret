@@ -11,7 +11,7 @@ her vil bies, o svage sind!\
 Vist skal du hente, kun ved at vente,\
 kun ved at vente, vor sommer ind.\
 Her vil ties, her vil bies,\
-her vil bies, o svage sind!\
+her vil bies, o svage sind!
 
 2\.\
 Trange tider langsomt skrider,\
@@ -19,7 +19,7 @@ langsomt skrider, det har den art.\
 Dagene længes, vinteren strænges,\
 vinteren strænges, og det er svart.\
 Trange tider langsomt skrider,\
-langsomt skrider, det har den art.\
+langsomt skrider, det har den art.
 
 3\.\
 Turteldue, kom at skue,\
@@ -27,7 +27,7 @@ kom at skue! Bag gærdet hist,\
 dér skal du finde forsommers minde,\
 forsommers minde, alt grøn på kvist.\
 Turteldue, kom at skue,\
-kom at skue! Bag gærdet hist.\
+kom at skue! Bag gærdet hist.
 
 4\.\
 Eja, søde førstegrøde,\
@@ -35,7 +35,7 @@ førstegrøde af bliden vår!\
 Lad det nu fryse, lad mig nu gyse,\
 lad mig nu gyse, det snart forgår.\
 Eja! søde førstegrøde,\
-førstegrøde af bliden vår.\
+førstegrøde af bliden vår.
 
 5\.\
 Due, kunne du udgrunde,\
@@ -43,7 +43,7 @@ du udgrunde, hvad der nu sker!\
 Kulden den svækkes, blomsterne dækkes,\
 blomsterne dækkes, jo mer det sner.\
 Due, kunne du udgrunde,\
-du udgrunde, hvad der nu sker.\
+du udgrunde, hvad der nu sker.
 
 6\.\
 Kom, min due, lad dig skue,\

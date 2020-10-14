@@ -12,7 +12,7 @@ nu alle små børn skal sjunge.\
 Grenen fra livets træ står skønt\
 med lys som fugle på kviste.\
 Det barn, som sig glæder fromt og kønt,\
-skal aldrig den glæde miste.\
+skal aldrig den glæde miste.
 
 2\.\
 Glæden er jordens gæst i dag\
@@ -22,7 +22,7 @@ med duen til julegilde!\
 Dans, lille barn, på moders skød!\
 En dejlig dag er oprunden:\
 I dag blev vor kære frelser fød\
-og paradisvejen funden.\
+og paradisvejen funden.
 
 3\.\
 Frelseren selv var barn som vi,\

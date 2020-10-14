@@ -12,7 +12,7 @@ hvordan i barndomstiden\
 den kære rug kom ind.\
 Hvordan dens kernetunge top\
 ved moders svage kræfter\
-blev lagt i lugen op.\
+blev lagt i lugen op.
 
 2\.\
 Først bredte mor et klæde\
@@ -21,7 +21,7 @@ der måtte ingen træde\
 med sko i høstens rug.\
 Så fejed hun med limens rest\
 hvert snavset strå til side\
-som for en hædersgæst.\
+som for en hædersgæst.
 
 3\.\
 Den kære rug var gæsten,\
@@ -30,7 +30,7 @@ se, far han lægger vesten\
 og ser så indadvendt.\
 En skælven i et ydmygt sind,\
 en bøn til altets skaber,\
-før avlen bringes ind.\
+før avlen bringes ind.
 
 4\.\
 Og neg for neg forsvinder\
@@ -39,7 +39,7 @@ og far får røde kinder\
 og spindelvæv om hat.\
 Men mor er lige hvid og bleg,\
 hvor meget hun end stræber\
-med rugens tunge neg.\
+med rugens tunge neg.
 
 5\.\
 Det går mod aftentide;\
@@ -48,7 +48,7 @@ på gavl og vægge hvide\
 og ned i vognens bund.\
 Mor standser træt og titter ind;\
 far kommer hen til lugen\
-og klapper hendes kind.\
+og klapper hendes kind.
 
 6\.\
 Og barnet, som har løbet\
@@ -57,7 +57,7 @@ det er nu stille krøbet\
 ind under hjulets eg;\
 dér høres dette skarpe knald\
 fra vognens fjæl mod sandet\
-af ørentvistens fald.\
+af ørentvistens fald.
 
 7\.\
 Og mellem hjulets eger\

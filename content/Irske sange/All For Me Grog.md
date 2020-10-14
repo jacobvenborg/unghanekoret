@@ -4,7 +4,7 @@ tekst: "The Dubliners, 1967"
 melodi: "The Dubliners, 1967"
 categories: "Irske sange"
 ---
-*Noter: G-dur, 2 og 2 skiftes til at synge 1 vers* \
+*Noter: G-dur, 2 og 2 skiftes til at synge 1 vers*
 
 ***
 
@@ -14,7 +14,7 @@ Me jolly, jolly grog\
 All for my beer and tobacco\
 Well, I spent all me tin\
 With the ladies drinkin' gin\
-Far across the Western Ocean I must wander\
+Far across the Western Ocean I must wander
 
 1\.\
 I'm sick in the head\
@@ -29,7 +29,7 @@ Me jolly, jolly grog\
 All for my beer and tobacco\
 Well, I spent all me tin\
 With the ladies drinkin' gin\
-Far across the Western Ocean I must wander\
+Far across the Western Ocean I must wander
 
 2\.\
 Where are me boots\
@@ -44,7 +44,7 @@ Me jolly, jolly grog\
 All for my beer and tobacco\
 Well, I spent all me tin\
 With the ladies drinkin' gin\
-Far across the Western Ocean I must wander\
+Far across the Western Ocean I must wander
 
 3\.\
 Where is me shirt,\
@@ -59,7 +59,7 @@ Me jolly, jolly grog\
 All for my beer and tobacco\
 Well, I spent all me tin\
 With the ladies drinkin' gin\
-Far across the Western Ocean I must wander\
+Far across the Western Ocean I must wander
 
 4\.\
 Where is me wife,\
@@ -74,7 +74,7 @@ Me jolly, jolly grog\
 All for my beer and tobacco\
 Well, I spent all me tin\
 With the ladies drinkin' gin\
-Far across the Western Ocean I must wander\
+Far across the Western Ocean I must wander
 
 5\.\
 Where is me bed\

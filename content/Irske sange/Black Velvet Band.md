@@ -17,7 +17,7 @@ Omkvæd\
 Her eyes they shone like the diamonds\
 You'd think she was queen of the land\
 And her hair hung over her shoulders\
-Tied up with a black velvet band\
+Tied up with a black velvet band
 
 2\.\
 Well I went out strolling one evening\
@@ -32,7 +32,7 @@ Omkvæd\
 Her eyes they shone like the diamonds\
 You'd think she was queen of the land\
 And her hair hung over her shoulders\
-Tied up with a black velvet band\
+Tied up with a black velvet band
 
 3\.\
 Next morning before judge and jury\
@@ -47,7 +47,7 @@ Omkvæd\
 Her eyes they shone like the diamonds\
 You'd think she was queen of the land\
 And her hair hung over her shoulders\
-Tied up with a black velvet band\
+Tied up with a black velvet band
 
 4\.\
 So come all ye jolly young fellows\

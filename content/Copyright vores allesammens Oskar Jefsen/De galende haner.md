@@ -3,7 +3,7 @@ title: "De galende haner"
 tekst: "Oskar Jefsen, 2017"
 melodi: "Oskar Jefsen, 2017"
 ---
-*Noter: F-dur, 4-stemmig outro* \
+*Noter: F-dur, 4-stemmig outro*
 
 ***
 
@@ -52,6 +52,6 @@ Ska’-du-ha-et-stykke meeeeeeeed\
 Ska’-du-ha-et-stykke meeeeeeeed\
 Ska’-du-ha-et-stykke meeeeeeeed\
 Ska’-du-ha-et-stykke meeeeeeeed\
-Ung-hane-bryst!\
+Ung-hane-bryst!
 
 ##\

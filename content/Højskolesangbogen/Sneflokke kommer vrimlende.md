@@ -13,7 +13,7 @@ det sluger hegn og gård,\
 det ryger ind ad sprækkerne\
 til pølserne på rækkerne,\
 og fårene ved hækkerne\
-får blink i pelsens hår.\
+får blink i pelsens hår.
 
 2\.\
 Og poplerne bag mønningen\
@@ -23,7 +23,7 @@ omtrimler kærv og neg,\
 det klaprer én om ørene\
 fra portene og dørene,\
 bag hvilke de små Sørene'\
-har rustet sig til leg.\
+har rustet sig til leg.
 
 3\.\
 Og gammelmor i klokkerne\

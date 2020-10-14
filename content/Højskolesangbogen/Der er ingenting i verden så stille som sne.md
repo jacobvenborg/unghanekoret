@@ -11,14 +11,14 @@ når den sagte gennem luften daler,\
 dæmper dine skridt,\
 tysser, tysser blidt\
 på de stemmer,\
-som for højlydt taler.\
+som for højlydt taler.
 
 2\.\
 Der er ingenting i verden af en renhed som sne,\
 svanedun fra himlens hvide vinger.\
 På din hånd et fnug\
 er som tåredug.\
-Hvide tanker tyst i dans sig svinger.\
+Hvide tanker tyst i dans sig svinger.
 
 3\.\
 Der er ingenting i verden, der kan mildne som sne.\
