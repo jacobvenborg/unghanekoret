@@ -1,0 +1,16 @@
+{{ define "main" }}
+    {{ partial "page-header" . }}
+    <article class="gdoc-markdown">
+        <!-- <img src="favicon/Hane-farve.svg" alt="" width="300" height="300"> -->
+        <h1>{{ partial "title" . }}</h1>
+        {{ partial "content" . }}
+    </article>
+    <!-- <body>
+        {{.Content}}
+        <ul>
+          {{ range .Pages}}
+            <li><a href="{{.URL}}">{{.Title}}</a></li>
+          {{end}}
+        </ul>
+      </body> -->
+{{ end }}
