@@ -2,15 +2,14 @@
     {{ partial "page-header" . }}
     <article class="gdoc-markdown">
         <!-- <img src="favicon/Hane-farve.svg" alt="" width="300" height="300"> -->
-        <h1>{{ partial "title" . }}</h1>
-        {{ partial "content" . }}
+        <h1>{{ partial "title" . }}</h1><hr>
+        <!-- {{ partial "content" . }} -->
+        <!-- OBS: Jeg er ikke sikker på, hvad ovenstående linje 6 gør. Umiddelbart ikke så meget -->
     </article>
-    <!-- <body>
+    <body>
         {{.Content}}
-        <ul>
           {{ range .Pages}}
-            <li><a href="{{.URL}}">{{.Title}}</a></li>
+            <a href="{{.URL}}">{{.Title}}</a><br>
           {{end}}
-        </ul>
-      </body> -->
+      </body>
 {{ end }}

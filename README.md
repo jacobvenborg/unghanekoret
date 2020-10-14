@@ -1,6 +1,8 @@
 # Unghanekorets sangsamling
 Til udvikling af Unghanekorets sangsamlingsapp!
 
+Planen er, at instruktioner for, hvorledes man kan hjælpe med her på GitHub, kommer til at fremgå af denne readme. Indtil videre er dog lidt instruktioner i [markdown](https://www.markdownguide.org/)-formatet, som er det, alle sange er skrevet i.
+
 # Hjælp til markdown-format
 ## Tekst-effekter
 | Markdown-kode | Effekt |
