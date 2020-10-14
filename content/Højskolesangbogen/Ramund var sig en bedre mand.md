@@ -1,14 +1,10 @@
 ---
 title: "Ramund var sig en bedre mand"
+tekst: "Andreas Peter Berggreen, 1869"
+melodi: "Dansk folkevise"
 nummer: "464"
 tema: "Folkeviser"
 ---
-
-**Tekst: Andreas Peter Berggreen, 1869** \
-**Melodi Dansk folkevise**
-
-***
-
 1\.\
 Ramund han var sig en bedre mand,\
 om han havde bedre klæder.\

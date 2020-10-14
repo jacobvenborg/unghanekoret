@@ -1,11 +1,10 @@
 ---
 title: "Den gang, jeg drog afsted"
+tekst: "Peter Faber, 1848"
+melodi: "E. Horneman, 1848"
 nummer: "488"
 tema: "Historien"
 ---
-**Tekst: Peter Faber, 1848** \
-**Melodi: E. Horneman, 1848**
-
 ***
 
 1\.\

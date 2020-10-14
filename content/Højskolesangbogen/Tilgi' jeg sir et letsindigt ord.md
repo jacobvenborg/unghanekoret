@@ -1,14 +1,10 @@
 ---
 title: "Tilgi' jeg sir et letsindigt ord"
+tekst: "Poul Henningsen, 1941"
+melodi: "Kai Normann Andersen, 1941"
 nummer: "111"
 tema: "Liv"
 ---
-
-**Tekst: Poul Henningsen, 1941**
-**Melodi: Kai Normann Andersen, 1941**
-
-***
-
 1\.\
 Tilgi' jeg sir et letsindigt ord.\
 Det er klogt at De forstår det straks.\

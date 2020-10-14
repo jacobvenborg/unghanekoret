@@ -1,14 +1,10 @@
 ---
 title: "Det dufter lysegrønt af græs"
+tekst: "På dansk ved Johannes Johansen, 1985"
+melodi: "Waldemar Åhlén, 1933"
 nummer: "306"
 tema: "Året - tidlig sommer"
 ---
-
-**Dansk tekst: Johannes Johansen, 1985 *** \
-**Melodi: Waldemar Åhlén, 1933**
-
-***
-
 1\.\
 Det dufter lysegrønt af græs\
 i grøft og mark og enge.\

@@ -1,14 +1,10 @@
 ---
-title: "Tunge, mørke natteskyer "
+title: "Tunge, mørke natteskyer"
+tekst: "Jakob Knudsen, 1890"
+melodi: "Carl Nielsen, 1917"
 nummer: "552"
 tema: "Aften"
 ---
-
-**Tekst: Jackob Knudsen, 1890** \
-**Kompnist: Carl Nielsen, 1917**
-
-***
-
 1\.\
 Tunge, mørke natteskyer\
 op ad himlen drager,\
