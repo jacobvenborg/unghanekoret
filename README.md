@@ -1,5 +1,5 @@
 # Unghanekorets sangsamling
-Til udvikling af Unghanekorets sangsamlingsapp!
+Til udvikling af Unghanekorets sangsamlingsapp, som findes på https://sangapp.unghanekoret.dk!
 
 Planen er, at instruktioner for, hvorledes man kan hjælpe med her på GitHub, kommer til at fremgå af denne readme. Indtil videre er dog lidt instruktioner i [markdown](https://www.markdownguide.org/)-formatet, som er det, alle sange er skrevet i.
 
