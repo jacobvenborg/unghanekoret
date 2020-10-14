@@ -5,9 +5,6 @@ melodi: "Erling Lindgren, 1985"
 nummer: "164"
 tema: "Sprog og ånd"
 ---
-
-***
-
 1.<br>
 At lære er at ville<br>
 befri sin ensomhed,<br>
