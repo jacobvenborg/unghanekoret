@@ -1,0 +1,9 @@
+# Default indexes (Surftown)
+DirectoryIndex index.html index.htm index.php index.php3 index.shtml index.wml index.pl index.cgi index.php4 index.phtml index.swf default.html default.htm default.php default.php3 default.shtml default.wml default.pl default.cgi default.php4 default.phtml default.swf hostedby.php
+
+# Redirect to HTTPS/non-WWW
+RewriteEngine On
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteCond %{HTTP_HOST} ^(?:www\.)?(.+)$ [NC]
+RewriteRule ^ https://%1%{REQUEST_URI} [L,NE,R=301]
