@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sangapp.unghanekoret.dk/Sangforslag/</loc>
+  </url>
+  
+  <url>
     <loc>https://sangapp.unghanekoret.dk/Irske-sange/All-For-Me-Grog/</loc>
   </url>
   
@@ -203,6 +207,10 @@
   </url>
   
   <url>
+    <loc>https://sangapp.unghanekoret.dk/Sangforslag/Godmorgen/</loc>
+  </url>
+  
+  <url>
     <loc>https://sangapp.unghanekoret.dk/Gospel/</loc>
   </url>
   
@@ -212,6 +220,10 @@
   
   <url>
     <loc>https://sangapp.unghanekoret.dk/Andre-sange/Happy-Together/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sangapp.unghanekoret.dk/Sangforslag/Har-du-visor-min-v%C3%A4n/</loc>
   </url>
   
   <url>
