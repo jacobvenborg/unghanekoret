@@ -1,0 +1,19 @@
+{{ define "main" }}
+    {{ partial "page-header" . }}
+
+    <article class="gdoc-markdown">
+        {{ if isset .Params "nummer" }}
+        <h1>{{.Params.nummer}}. {{ partial "title" . }}</h1>
+      {{else}}
+        <h1>{{ partial "title" . }}</h1>
+        {{end}}
+        {{ if eq .Params.tekst .Params.melodi }}
+          <b>Tekst og melodi: {{ .Params.tekst}}</b>
+        {{else}}
+          <b>Tekst: {{.Params.tekst}}</b><br>
+          <b>Melodi: {{.Params.melodi}}</b>
+        {{end}}
+        <hr>
+        {{ partial "content" . }}
+    </article>
+{{ end }}
