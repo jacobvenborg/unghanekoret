@@ -14,7 +14,7 @@ Vor skov er tavs og stille,\
 og hvide tåger spille\
 på engen rundt ved aftenstid.
 
-2.\.\
+2\.\
 Hvor rolig jorden hviler\
 bag nattens slør og smiler\
 så mild og sommervarm,\

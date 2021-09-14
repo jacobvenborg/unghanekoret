@@ -64,4 +64,4 @@ So happy together\
 We're happy together
 
 So happy together\
-So happy together\
+So happy together

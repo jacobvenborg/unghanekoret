@@ -28,4 +28,4 @@ Some things are meant to be
 Take my hand,\
 Take my whole life, too\
 For I can't help falling in love with you\
-For I can't help falling in love with you\
+For I can't help falling in love with you

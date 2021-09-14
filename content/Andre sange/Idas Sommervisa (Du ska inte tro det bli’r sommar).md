@@ -32,4 +32,4 @@ Som passar när barna är små\
 Och jag gör så roliga ställen\
 Där barna kan springa omkring\
 Då blir barna fulla med sommar\
-Och bena blir fulla med spring\
+Och bena blir fulla med spring

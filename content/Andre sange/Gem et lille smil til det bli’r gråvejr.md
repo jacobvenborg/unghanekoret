@@ -44,4 +44,4 @@ Gem et lille smil til det bli’r gråvejr\
 Lige nu er himlen klar og blå\
 Men hvis blot vi holder sammen\
 Vil alting sikkert gå\
-*Gem et lille smil til det bli’r gråvejr*\
+*Gem et lille smil til det bli’r gråvejr*

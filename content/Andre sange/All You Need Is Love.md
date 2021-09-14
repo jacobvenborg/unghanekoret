@@ -58,4 +58,4 @@ Omkvæd\
 All you need is love\
 All you need is love\
 All you need is love, love\
-Love is all you need\
+Love is all you need

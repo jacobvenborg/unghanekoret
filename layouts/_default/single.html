@@ -2,16 +2,28 @@
     {{ partial "page-header" . }}
 
     <article class="gdoc-markdown">
-        {{ if isset .Params "nummer" }}
-        <h1>{{.Params.nummer}}. {{ partial "title" . }}</h1>
+        {{ if isset .Params "nummer_v19" }}
+        <h1>{{.Params.nummer_v19}}. {{ partial "title" . }}</h1>
       {{else}}
         <h1>{{ partial "title" . }}</h1>
         {{end}}
         {{ if eq .Params.tekst .Params.melodi }}
-          <b>Tekst og melodi: {{ .Params.tekst}}</b>
+          <b>Tekst og melodi:</b> {{ .Params.tekst}}
         {{else}}
-          <b>Tekst: {{.Params.tekst}}</b><br>
-          <b>Melodi: {{.Params.melodi}}</b>
+          <b>Tekst:</b> {{.Params.tekst}}<br>
+          <b>Melodi:</b> {{.Params.melodi}}
+        {{end}}
+        {{ if isset .Params "nummer_v19" }}
+        <br>
+        <b>Nummer (18. udgave):</b> {{.Params.nummer_v18}}
+        {{else}}
+        {{end}}
+        {{ if isset .Params "tema" }}
+        <br>
+        <b>Tema:</b> {{.Params.tema}}
+        {{else}}
+        <br>
+        <b>OBS:</b> tema mangler OG DER SKAL FIKSES DET KUN VISES VED HØJSKOLESANGBOGEN
         {{end}}
         <hr>
         {{ partial "content" . }}
