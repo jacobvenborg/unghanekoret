@@ -51,4 +51,4 @@ In the words that it was forming\
 And the sign said "The words of the prophets\
 Are written on the subway walls\
 And tenement halls\
-And whispered in the sounds of silence"\
+And whispered in the sounds of silence"

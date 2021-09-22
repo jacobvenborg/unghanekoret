@@ -48,4 +48,4 @@ Omkvæd\
 Livet er langt, lykken er kort\
 Salig er den, der tør give det bort\
 Livet er langt, lykken er kort\
-Salig er den, der tør give det bort\
+Salig er den, der tør give det bort

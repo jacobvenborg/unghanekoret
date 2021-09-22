@@ -55,4 +55,4 @@ fire glas fyldt med ungdommens mod.\
 Fem slags smil til dessert\
 seks små kys, tre til hver\
 blev betalt med vort hjerteblod.\
-*blev betalt med vort hjertes blod.\*
+*blev betalt med vort hjertes blod.*

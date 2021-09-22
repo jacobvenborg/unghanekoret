@@ -42,4 +42,4 @@ Omkvæd\
 Ved siden af Susanne’s, Birgitte og Hanne’s,\
 og Tove og Anne’s og Lizzie og Kiss.\
 Foruden Agnete’s, Elisa og Grethe’s,\
-og Anne-Merete’s og Molly og Lis.\
+og Anne-Merete’s og Molly og Lis.

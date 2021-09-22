@@ -2,6 +2,7 @@ baseURL = "https://sangapp.unghanekoret.dk/"
 languageCode = "da-dk"
 title = "Unghanekorets sangsamling"
 theme = "hugo-geekdoc"
+enableEmoji = true
 
 # Geekdoc required configuration
 pygmentsUseClasses = true

@@ -53,4 +53,4 @@ Kom igen til Mandalay, ad flotillens gamle vej\
 Husker du pagajens dunken fra Rangoon til Mandalay?\
 Åh den vej til Mandalay fuld af flyvefisk i leg\
 Og hvor solen brød som torden frem bag Kinabugtens kaj!\
-*Der hvor solen brød som torden frem bag Kinabugtens kaj - hmmm*\
+*Der hvor solen brød som torden frem bag Kinabugtens kaj - hmmm*
