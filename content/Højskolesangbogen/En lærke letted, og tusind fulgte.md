@@ -2,7 +2,7 @@
 title: "En lærke letted, og tusind fulgte"
 tekst: "Mads Nielsen, 1945"
 melodi: "Matthias Christensen, 1945"
-nummer: "514"
+nummer_v18: "514"
 tema: "Historien"
 ---
 1\.\

@@ -2,7 +2,7 @@
 title: "Barndommens land"
 tekst: "Benny Andersen, 1981"
 melodi: "Benny Andersen, 1981"
-nummer: "134"
+nummer_v18: "134"
 tema: "Liv"
 ---
 1\.\
@@ -59,4 +59,4 @@ Nu er jeg en mand.\
 Tit har jeg lyst til at love\
 solskin og dejlige skove.\
 Men der er lang vej igen.\
-Sov, min ven\
+Sov, min ven

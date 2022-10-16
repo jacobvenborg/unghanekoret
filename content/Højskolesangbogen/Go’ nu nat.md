@@ -2,7 +2,7 @@
 title: "Go’ nu nat"
 tekst: "Benny Andersen, 1981"
 melodi: "Povl Dissing, 1981"
-nummer: "564"
+nummer_v18: "564"
 tema: "Aften"
 ---
 *Noter: D-dur*

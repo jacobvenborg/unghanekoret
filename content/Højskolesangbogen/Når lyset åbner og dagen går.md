@@ -2,7 +2,7 @@
 title: "Når lyset åbner og dagen går"
 tekst: "Marianne Hougaard Nielsen"
 melodi: "Rasmus Skov Borring"
-nummer: "17"
+nummer_v18: "17"
 tema: "Morgen"
 ---
 

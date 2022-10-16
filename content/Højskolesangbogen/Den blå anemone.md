@@ -2,7 +2,7 @@
 title: "Den blå anemone"
 tekst: "Kaj Munk, 1943"
 melodi: "Egil Harder, 1945"
-nummer: "262"
+nummer_v18: "262"
 tema: "Året - tidligt forår"
 ---
 1\.\

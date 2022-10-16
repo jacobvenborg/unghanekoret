@@ -2,7 +2,7 @@
 title: "Det dufter lysegrønt af græs"
 tekst: "På dansk ved Johannes Johansen, 1985"
 melodi: "Waldemar Åhlén, 1933"
-nummer: "306"
+nummer_v18: "306"
 tema: "Året - tidlig sommer"
 ---
 1\.\

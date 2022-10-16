@@ -2,7 +2,7 @@
 title: "Nu skal det åbenbares"
 tekst: "N. F. S. Grundtvig, 1834"
 melodi: "J. P. E. Hartmann, 1868"
-nummer: "88"
+nummer_v18: "88"
 tema: "Liv"
 ---
 1\.\

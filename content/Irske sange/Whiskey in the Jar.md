@@ -78,4 +78,4 @@ Omkvæd\
 Mush-a ring dum-a do dum-a da\
 Whack for my daddy-o.\
 Whack for my daddy-o\
-There's whiskey in the jar\
+There's whiskey in the jar

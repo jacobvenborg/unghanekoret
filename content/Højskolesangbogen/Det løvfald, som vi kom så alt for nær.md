@@ -2,7 +2,7 @@
 title: "Det løvfald, som vi kom så alt for nær"
 tekst: "Frank Jæger, 1948"
 melodi: "Tom Vejslev, 1953"
-nummer: "345"
+nummer_v18: "345"
 tema: "Året - efterår"
 ---
 1\.\

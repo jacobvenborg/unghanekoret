@@ -2,7 +2,7 @@
 title: "Danmark, nu blunder den lyse nat"
 tekst: "Thøger Larsen, 1914"
 melodi: "Oluf Ring, 1922"
-nummer: "314"
+nummer_v18: "314"
 tema: "Året - tidlig sommer"
 ---
 1\.\

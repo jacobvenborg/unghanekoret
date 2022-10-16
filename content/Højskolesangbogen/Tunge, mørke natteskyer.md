@@ -2,7 +2,7 @@
 title: "Tunge, mørke natteskyer"
 tekst: "Jakob Knudsen, 1890"
 melodi: "Carl Nielsen, 1917"
-nummer: "552"
+nummer_v18: "552"
 tema: "Aften"
 ---
 1\.\

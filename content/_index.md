@@ -1,5 +1,5 @@
 ---
-title: "Forside"
+title: ""
 ---
 **Velkommen til Unghanekorets sangsamlings-webapp! Hurra!**
 
@@ -7,6 +7,6 @@ Denne webapp/hjemmeside skulle meget gerne være meget mobilvenlig. Når man er 
 
 Tips, fifs, rettelser, forslag - alt hvad du kan komme i tanke om - modtages med kyshånd! ;) Jeg har selv mange planer endnu, men da jeg stadig er lidt en `n00b`, så kommer det med al sandsynlighed til at gå lidt langsomt!
 
-Koden til de interesserede findes på **[GitHub](https://github.com/jacobvenborg/unghanekorets-sangsamling)**. Sig ***endelig*** til, hvis I ønsker at kode med! Det er sjovt.
+Koden til de interesserede findes på **[GitHub](https://github.com/jacobvenborg/unghanekorets-sangsamling)**. Sig ***endelig*** til, hvis I ønsker at "kode" med! Det er sjovt.
 
 ---

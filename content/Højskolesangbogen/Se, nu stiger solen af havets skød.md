@@ -2,7 +2,7 @@
 title: "Se, nu stiger solen af havets skød"
 tekst: "Jakob Knudsen, 1891"
 melodi: "Lars Nielsen"
-nummer: "14"
+nummer_v18: "14"
 tema: "Morgen"
 ---
 1\.\

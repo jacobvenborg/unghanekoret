@@ -2,41 +2,39 @@
 title: "Lyse nætter"
 tekst: "Alberte, 1991"
 melodi: "Alberte, 1991"
-nummer: "000"
-tema: "Nyudgave"
+nummer_v19: "321"
+tema: "Året"
 ---
-1\.\
-Nu kommer fuglene igen\
-Og lyset vælter pludselig ind\
-Det kommer gennem alle sprækker, lyse nætter er tilbage
+*Noter: F-dur*
 
+***
+
+1\.\
+Nu kommer fuglene igen,\
+og lyset vælter pluds'lig ind,\
+det kommer gennem alle sprækker,\
+lyse nætter er tilbag'.\
+Alt, hvad der rørte sig, blev glemt,\
+da du var rejst, var det så nemt.\
+Men hjertet ved godt, hvad det ønsker sig,\
+at pynte sig for dig.\
+*Du er tilbag', du er hos mig.*
+
+Omkvæd x 2\
+*Du er tilbag' med varme dag',*\
+*du er hos mig.*
 
 2\.\
-Alt hvad der rørte sig blev gemt\
-Da du var rejst var det så nemt\
-Men hjertet ved godt hvad det ønsker sig, at pynte sig for dig
+Nu kommer lydene igen,\
+og verden vælter pluds'lig ind\
+med parasoller og sandaler,\
+bølger maler alt i sand.\
+Jeg havde huset fuld af vind\
+og nye frugter fløjet ind.\
+Men hjertet ved godt, hvad det ønsker sig,\
+at pynte sig for dig.\
+*Du er tilbag', du er hos mig.*\
 
-Du er tilbage, du er hos mig\
-Du er tilbage, med varme dage, du er hos mig
-
-Omkvæd\
-Du er tilbage, du er hos mig\
-Du er tilbage, med varme dage, du er hos mig
-
-3\.\
-Nu kommer lydene igen\
-Og verden vælter pludselig ind\
-Med parasoller og sandaler, bølger maler alt i sand
-
-4\.\
-Jeg havde havde huset fuld af vind\
-Og nye frugter fløjet ind\
-Men hjertet ved godt hvad det ønsker sig, at pynte sig for dig
-
-Du er tilbage, du er hos mig\
-Du er tilbage, med varme dage, du er hos mig
-
-Omkvæd \
-Du er tilbage, du er hos mig\
-Du er tilbage, med varme dage, du er hos mig\
-x ∞
+Omkvæd x ∞\
+*Du er tilbag'med varme dag',*\
+*du er hos mig.*

@@ -2,7 +2,7 @@
 title: "Der er et yndigt land"
 tekst: "Adam Oehlenschläger, 1823"
 melodi: "H. E. Krøyer, 1835"
-nummer: "347"
+nummer_v18: "347"
 tema: "Danmark"
 ---
 1\.\

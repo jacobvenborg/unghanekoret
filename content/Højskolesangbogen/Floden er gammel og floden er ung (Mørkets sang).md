@@ -2,7 +2,7 @@
 title: "Floden er gammel og floden er ung/Mørkets sang"
 tekst: "Benny Andersen, 1980"
 melodi: "Benny Andersen, 1980"
-nummer: "133"
+nummer_v18: "133"
 tema: "Liv"
 ---
 1\.\

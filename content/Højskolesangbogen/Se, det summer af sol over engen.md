@@ -1,10 +1,12 @@
 ---
 title: "Se, det summer af sol over engen"
 tekst: "Holger Drachmann, 1897"
-melodi: "Stephen C. Foster, 1856?"
-nummer: "295"
+melodi: "Stephen C. Foster, 1856"
+nummer_v18: "320"
+nummer_v18: "295"
 tema: "Året - sent forår"
 ---
+
 1\.\
 Se, det summer af sol over engen,\
 honningbien vil fylde sin kurv,\
@@ -23,4 +25,4 @@ langs den kornrige, bølgende vang:\
 disse bølger, o, de stiger\
 med min sjæl over solskyens rand,\
 rundt i verden er dejlige riger,\
-ingen vår som en maj i vort land!\
+ingen vår som en maj i vort land!

@@ -2,7 +2,7 @@
 title: "Sig nærmer tiden, da jeg må væk"
 tekst: "Steen Steensen Blicher, 1837"
 melodi: "Oluf Ring, 1922"
-nummer: "487"
+nummer_v18: "487"
 tema: "Historien"
 ---
 1\.\

@@ -62,4 +62,4 @@ Omkvæd\
 She is handsome. She is pretty.\
 She is the bell of Dublin City.\
 She is courtin' one, two, three.\
-Please won't you tell me, who is she?\
+Please won't you tell me, who is she?

@@ -2,7 +2,7 @@
 title: "Sensommervise"
 tekst: "Kirsten og Finn Jørgensen"
 melodi: "Kirsten og Finn Jørgensen"
-nummer: "337"
+nummer_v18: "337"
 tema: "Året - sensommer"
 ---
 *Noter: Em*

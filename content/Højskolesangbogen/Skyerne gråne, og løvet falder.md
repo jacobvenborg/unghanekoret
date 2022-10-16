@@ -2,7 +2,7 @@
 title: "Fakta om skyerne gråner, og løvet falder"
 tekst: "N.F.S. Grundtvig, 1847"
 melodi: "Thora Borch, 1867"
-nummer: "228"
+nummer_v18: "228"
 tema: "Året - tidlig vinter"
 ---
 

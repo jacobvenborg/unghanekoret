@@ -2,7 +2,7 @@
 title: "Se, hvilken morgenstund/Svantes lykkelige dag"
 tekst: "Benny Andersen, 1973"
 melodi: "Benny Andersen, 1973"
-nummer: "21"
+nummer_v18: "21"
 tema: "Morgen"
 ---
 1\.\

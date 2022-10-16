@@ -2,7 +2,7 @@
 title: "Man binder os på mund og hånd"
 tekst: "Poul Henningsen, 1940"
 melodi: "Kai Normann Andersen, 1940"
-nummer: "511"
+nummer_v18: "511"
 tema: "Historien"
 ---
 1\.\

@@ -2,7 +2,7 @@
 title: "Tears in Heaven/Would you know my name"
 tekst: "Will Jennings, Eric Clapton, 1992"
 melodi: "Eric Clapton, 1992"
-nummer: "144"
+nummer_v18: "144"
 tema: "Liv"
 ---
 

@@ -2,7 +2,7 @@
 title: "Nu falmer skoven trindt om land"
 tekst: "N.F.S. Grundtvig, 1844"
 melodi: "Johan H. Nebelung, 1889 og tysk folkemelodi, 1640"
-nummer: "359"
+nummer_v18: "359"
 tema: "Året - efterår"
 ---
 

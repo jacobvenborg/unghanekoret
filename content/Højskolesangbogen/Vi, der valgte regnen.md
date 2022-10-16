@@ -2,7 +2,7 @@
 title: "Vi, der valgte regnen"
 tekst: "Frank Jæger, 1953"
 melodi: "Tony Vejslev, 1953"
-nummer: "116"
+nummer_v18: "116"
 tema: "Liv"
 ---
 1\.\

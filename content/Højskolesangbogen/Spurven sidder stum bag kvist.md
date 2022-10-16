@@ -2,7 +2,7 @@
 title: "Spurven sidder stum bag kvist"
 tekst: "Jeppe Aakjær, 1910"
 melodi: "Thorvald Aagaard, 1915"
-nummer: "256"
+nummer_v18: "256"
 tema: "Året - vinter"
 ---
 

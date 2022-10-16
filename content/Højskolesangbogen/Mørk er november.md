@@ -2,7 +2,7 @@
 title: "Mørk er november"
 tekst: "Thorkild Bjørnvig, 1959"
 melodi: "Piae Cantiones, 1582"
-nummer: "210"
+nummer_v18: "210"
 tema: "Året - tidlig vinter"
 ---
 Mørk er november og løvfaldet slut,\

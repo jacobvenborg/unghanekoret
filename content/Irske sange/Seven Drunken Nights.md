@@ -104,4 +104,4 @@ you're drunk you silly old fool,\
 still you can not see\
 That's a lovely tin whistle that me mother sent to me\
 Well, it's many a day I've travelled a hundred miles or more\
-But hair on a tin whistle sure I never saw before\
+But hair on a tin whistle sure I never saw before

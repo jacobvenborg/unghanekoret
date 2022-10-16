@@ -2,7 +2,7 @@
 title: "Dåser rasler i morgengry"
 tekst: "Peter Laugesen og Janus Kodal, 2005"
 melodi: "Hans Ulrik, 2005"
-nummer: "150"
+nummer_v18: "150"
 tema: "Liv"
 ---
 1\.\

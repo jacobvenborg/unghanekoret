@@ -2,9 +2,11 @@
 title: "Nu er det længe siden"
 tekst: "Jeppe Aakjær, 1906"
 melodi: "Olaf Ring, 1940"
-nummer: "334"
+nummer_v18: "334"
+nummer_v19: "351"
 tema: "Året - sensommer"
 ---
+
 1\.\
 Nu er det længe siden,\
 men end det gemmes i mit sind -\
@@ -66,4 +68,9 @@ og milde vinde hveger,\
 mens barnet slumrer ind -\
 Så slutter far i Jesu navn,\
 og hjemmet går til hvile\
-med høsten i sin favn.\
+med høsten i sin favn.
+
+> *Ordforklaringer*\
+> 2.5 limens rest: den slidte fejekost af revlingris\
+> 6.4 eg: tværstang mellem nav og fælg på hjulet\
+> 7.3 hveger: bevæger sig blødt flakkende

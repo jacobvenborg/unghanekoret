@@ -36,11 +36,11 @@ And I lost my heart to a Galway girl
 When I woke up I was all alone\
 -- -- --\
 With a broken heart and a ticket home\
--- -- --
+-- -\- --
 
 Omkvæd\
 And I ask you now, tell me what would you do\
 If her hair was black and her eyes were blue\
 I've traveled around been all over this world\
 I've never seen nothin' like a Galway girl\
-I've never seen nothin' like a Galway girl\
+I've never seen nothin' like a Galway girl

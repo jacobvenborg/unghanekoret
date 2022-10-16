@@ -50,8 +50,8 @@ And I'll ask them to pardon their prodigal son\
 And when they’ve caressed me as oft’ times before,\
 Then I never will play the wild rover no more
 
-Omkvæd\
+Omkvæd x 2\
 And it's no, nay, never\
 No, nay, never, no more\
 Will I play the wild rover\
-No, never, no more\
+No, never, no more

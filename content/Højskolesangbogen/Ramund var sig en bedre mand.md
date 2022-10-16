@@ -2,7 +2,7 @@
 title: "Ramund var sig en bedre mand"
 tekst: "Andreas Peter Berggreen, 1869"
 melodi: "Dansk folkevise"
-nummer: "464"
+nummer_v18: "464"
 tema: "Folkeviser"
 ---
 1\.\

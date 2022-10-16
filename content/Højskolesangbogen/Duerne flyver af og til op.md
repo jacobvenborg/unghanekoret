@@ -2,7 +2,7 @@
 title: "Duerne flyver af og til op"
 tekst: "Klaus Rifbjerg, 1967"
 melodi: "Bent Fabricius-Bjerre, 1967"
-nummer: "126"
+nummer_v18: "126"
 tema: "Liv"
 ---
 

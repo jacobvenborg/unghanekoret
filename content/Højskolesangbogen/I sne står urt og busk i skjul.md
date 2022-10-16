@@ -2,7 +2,7 @@
 title: "I sne står urt og busk i skjul"
 tekst: "B. S. Ingemann, 1831"
 melodi: "J. P. E. Hartmann, 1866"
-nummer: "252"
+nummer_v18: "252"
 tema: "Vintertid"
 ---
 1\.\

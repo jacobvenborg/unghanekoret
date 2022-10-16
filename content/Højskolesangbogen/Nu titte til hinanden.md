@@ -2,7 +2,7 @@
 title: "Nu titte til hinanden"
 tekst: "B. S. Ingemann, 1837"
 melodi: "C. E. F. Weyse, 1837"
-nummer: "13"
+nummer_v18: "13"
 tema: "Morgen"
 ---
 1\.\

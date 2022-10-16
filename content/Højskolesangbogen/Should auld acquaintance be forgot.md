@@ -2,7 +2,7 @@
 title: "Should auld acquaintance be forgot"
 tekst: "Roberts Burns, 1788"
 melodi: "Skotsk folkemelodi"
-nummer: "177"
+nummer_v18: "177"
 tema: "Frihed og fællesskab"
 ---
 1\.\

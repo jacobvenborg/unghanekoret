@@ -2,7 +2,7 @@
 title: "Sig månen langsomt hæver"
 tekst: "Matthias Claudius, 1783"
 melodi: "J. A. P. Schulz, 1790"
-nummer: "537"
+nummer_v18: "537"
 tema: "Aften"
 ---
 

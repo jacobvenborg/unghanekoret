@@ -2,7 +2,7 @@
 title: "Sol er oppe/Bjarkemålets efterklang"
 tekst: "N. F. S. Grundtvig, 1817"
 melodi: "Jørgen Malling, 1866"
-nummer: "473"
+nummer_v18: "473"
 tema: "Historien"
 ---
 1\.\

@@ -2,7 +2,7 @@
 title: "Det er hvidt herude"
 tekst: "Steen Steensen Blicher, 1838"
 melodi: "Thomas Laub, 1914"
-nummer: "253"
+nummer_v18: "253"
 tema: "Vintertid"
 ---
 1\.\

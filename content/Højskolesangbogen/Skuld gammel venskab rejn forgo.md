@@ -2,7 +2,7 @@
 title: "Skuld gammel venskab rejn forgo"
 tekst: "Jeppe Aakjær, 1927"
 melodi: "Skotsk folkemelodi"
-nummer: "176"
+nummer_v18: "176"
 tema: "Frihed og fællesskab"
 ---
 *Noter: D-dur*

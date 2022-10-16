@@ -2,7 +2,7 @@
 title: "Frit land"
 tekst: "Carl Emil Petersen, 2015"
 melodi: "Carl Emil Petersen, 2015"
-nummer: "000"
+nummer_v18: "000"
 tema: "Nyudgave"
 ---
 1\.\

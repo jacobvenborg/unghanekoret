@@ -2,7 +2,7 @@
 title: "Fortabt er jeg stadig"
 tekst: "Stine Pilgaard, 2018"
 melodi: "Katrine Muff Enevoldsen, 2019"
-nummer: "000"
+nummer_v18: "000"
 tema: "Nyudgave"
 ---
 1\.\

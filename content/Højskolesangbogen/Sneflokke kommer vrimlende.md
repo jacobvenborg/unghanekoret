@@ -2,7 +2,7 @@
 title: "Sneflokke kommer vrimlende"
 tekst: "Jeppe Aakjær, 1916"
 melodi: "Thorvald Aagaard, 1916"
-nummer: "255"
+nummer_v18: "255"
 tema: "Vintertid"
 ---
 1\.\

@@ -2,7 +2,7 @@
 title: "Men det bli’r atter stille efter stormen"
 tekst: "Halfdan Rasmussen, 1944"
 melodi: "Povl Hamburger, 1951"
-nummer: "513"
+nummer_v18: "513"
 tema: "Historien"
 ---
 1\.\

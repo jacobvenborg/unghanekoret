@@ -2,7 +2,7 @@
 title: "Skipper Clements morgensang"
 tekst: "Ebbe Kløvedal Reich, 1970"
 melodi: "Leif Varmark, 1971"
-nummer: "478"
+nummer_v18: "478"
 tema: "Historien"
 ---
 1\.\

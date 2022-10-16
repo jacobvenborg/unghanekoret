@@ -2,7 +2,7 @@
 title: "Påskeblomst! hvad vil du her?"
 tekst: "N. F. S. Grundtvig, 1817"
 melodi: "Carl Nielsen, 1910"
-nummer: "277"
+nummer_v18: "277"
 tema: "Året - påske"
 ---
 1\.\

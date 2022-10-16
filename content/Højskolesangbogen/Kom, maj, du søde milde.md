@@ -2,7 +2,7 @@
 title: "Kom, maj, du søde milde!"
 tekst: "C. A. Overbeck, 1776"
 melodi: "W. A. Mozart, 1791"
-nummer: "292"
+nummer_v18: "292"
 tema: "Året - sent forår"
 ---
 1\.\

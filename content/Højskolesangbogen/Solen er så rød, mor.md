@@ -2,7 +2,7 @@
 title: "Solen er så rød, mor"
 tekst: "Harald Bergstedt, 1915"
 melodi: "Carl Nielsen, 1923-24"
-nummer: "000"
+nummer_v18: "000"
 tema: "Nyudgave"
 ---
 1\.\

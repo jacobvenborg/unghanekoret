@@ -2,7 +2,7 @@
 title: "Nu er jord og himmel stille"
 tekst: "Marinus Børup, 1938"
 melodi: "Carl Michael Bellman, 1790"
-nummer: "539"
+nummer_v18: "539"
 tema: "Aften"
 ---
 1\.\

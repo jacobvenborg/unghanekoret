@@ -2,7 +2,7 @@
 title: "Gi’ os lyset tilbage"
 tekst: "Per Krøis Kjærsgaard, 2009"
 melodi: "Rasmus Skov Borring, 2009"
-nummer: "000"
+nummer_v18: "000"
 tema: "Nyudgave"
 ---
 1\.\

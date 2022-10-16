@@ -2,7 +2,7 @@
 title: "Her vil ties, her vil bies"
 tekst: "H. A. Brorson"
 melodi: "A. P. Berggreen, 1854"
-nummer: "48"
+nummer_v18: "48"
 tema: "Tro"
 ---
 1\.\

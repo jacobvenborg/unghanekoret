@@ -2,7 +2,7 @@
 title: "Septembers himmel"
 tekst: "Alex Garff, 1949"
 melodi: "Otto Mortensen, 1949"
-nummer: "335"
+nummer_v18: "335"
 tema: "Året - sensommer"
 ---
 1\.\

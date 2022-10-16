@@ -2,7 +2,7 @@
 title: "O Come, All Ye Faithful,"
 tekst: "Original på latin,'Adeste Fideles' af John Francis Wade, ???. Dansk tekst af Jørgen Christensen, ???"
 melodi: "John Reading, ???"
-nummer: "241"
+nummer_v18: "241"
 tema: "Året - jul"
 ---
 1\.\

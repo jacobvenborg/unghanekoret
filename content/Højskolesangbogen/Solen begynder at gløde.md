@@ -2,7 +2,7 @@
 title: "Solen begynder at gløde"
 tekst: "Lars Busk Sørensen, 1990"
 melodi: "Willy Egmose, 1990"
-nummer: "27"
+nummer_v18: "27"
 tema: "Morgen"
 ---
 1\.\

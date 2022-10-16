@@ -2,7 +2,7 @@
 title: "Op, al den ting, som Gud har gjort"
 tekst: "H. A. Brorson, 1734"
 melodi: "Bøhmisk melodi fra tjekkisk sangbog, omkring 1576"
-nummer: "47"
+nummer_v18: "47"
 tema: "Tro"
 ---
 1\.\

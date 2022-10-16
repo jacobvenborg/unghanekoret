@@ -2,9 +2,13 @@
 title: "At lære er at ville"
 tekst: "Halfdan Rasmussen, 1949"
 melodi: "Erling Lindgren, 1985"
-nummer: "164"
+nummer_v18: "164"
+nummer_v19: "181"
 tema: "Sprog og ånd"
 ---
+
+***
+
 1\.\
 At lære er at ville\
 befri sin ensomhed,\
@@ -43,4 +47,4 @@ mod fredens fællesskab.\
 At værge er at bære\
 sin brynje uden sværd,\
 først da vil drømmen\
-være den største tanke nær.\
+være den største tanke nær.

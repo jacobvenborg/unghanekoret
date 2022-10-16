@@ -2,7 +2,7 @@
 title: "Så dyrker de korn på et alter i Chile"
 tekst: "Inger Christensen, 1969"
 melodi: "Pia Raug, 1980"
-nummer: "192"
+nummer_v18: "192"
 tema: "Frihed og fællesskab"
 ---
 1\.\

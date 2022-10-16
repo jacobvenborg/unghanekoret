@@ -2,7 +2,7 @@
 title: "Ole sad på en knold og sang"
 tekst: "Jeppe Aakjær, 1899"
 melodi: "Alfred Tofft, 1911"
-nummer: "184"
+nummer_v18: "184"
 tema: "Frihed og fællesskab"
 ---
 1\.\

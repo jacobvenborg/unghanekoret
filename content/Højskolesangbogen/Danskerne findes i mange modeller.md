@@ -2,7 +2,7 @@
 title: "Danskerne findes i mange modeller"
 tekst: "Ebbe Kløvedal Reich, 1994"
 melodi: "Ebbe Kløvedal Reich, 1994"
-nummer: "201"
+nummer_v18: "201"
 tema: "Frihed og fællesskab"
 ---
 1\.\

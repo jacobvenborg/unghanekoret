@@ -2,7 +2,7 @@
 title: "Hvor du sætter din fod"
 tekst: "Jens Sejer Andersen, 2001"
 melodi: "Sigurd Barett, 2001"
-nummer: "206"
+nummer_v18: "206"
 tema: "Frihed og fællesskab"
 ---
 1\.\

@@ -2,7 +2,7 @@
 title: "Som sol der rammer klodernes gang"
 tekst: "Jens Rosendahl, 2005"
 melodi: "John Høybye, 2005"
-nummer: "20"
+nummer_v18: "20"
 tema: "Morgen"
 ---
 1\.\

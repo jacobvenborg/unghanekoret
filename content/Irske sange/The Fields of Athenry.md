@@ -66,4 +66,4 @@ Omkvæd\
 Low lie the fields of Athenry\
 Where once we watched the small free birds fly\
 Our love was on the wing, we had dreams and songs to sing\
-It's so lonely 'round the fields of Athenry\
+It's so lonely 'round the fields of Athenry

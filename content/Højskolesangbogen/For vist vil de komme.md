@@ -2,7 +2,7 @@
 title: "For vist vil de komme"
 tekst: "Lisbeth Smedegaard Andersen, 2019"
 melodi: "A: Bent Fabricius-Bjerre, 2019 og B: Jens Lysdal, 2019"
-nummer: "000"
+nummer_v18: "000"
 tema: "Nyudgave"
 ---
 1\.\

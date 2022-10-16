@@ -1,3 +1,3 @@
 ---
-title: "Copyright vores allesammens Oskar Jefsen"
+title: "- © vores allesammens Oskar Jefsen"
 ---

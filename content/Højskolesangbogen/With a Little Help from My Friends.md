@@ -1,0 +1,55 @@
+---
+title: "With a Little Help from My Friends"
+tekst: "John Lennon/Paul McCartney, 1967"
+melodi: "John Lennon/Paul McCartney, 1967"
+nummer_v18: "191"
+nummer_v19: "206"
+tema: "Frihed og fællesskab"
+---
+
+***
+
+A.\
+What would you think if I sang out of tune\
+Would you stand up and walk out on me?\
+Lend me your ears and I'll sing you a song\
+And I'll try not to sing out of key\
+Oh I get by with a little help from my friends\
+Mm I get high with a little help from my friends\
+Mm gonna try with a little help from my friends
+
+A.\
+What do I do when my love is away?\
+(Does it worry you to be alone?)\
+How do I feel by the end of the day?\
+(Are you sad because you're on your own?)\
+No I get by with a little help from my friends\
+Mm I get high with a little help from my friends\
+Mm gonna try with a little help from my friends
+
+B.\
+(Do you need anybody?)\
+I need somebody to love\
+(Could it be anybody?)\
+I want somebody to love
+
+A.\
+(Would you believe in a love at first sight?)\
+Yes I'm certain that it happens all the time\
+(What do you see when you turn out the light?)\
+I can't tell you, but I know it's mine\
+Oh I get by with a little help from my friends\
+Mm I get high with a little help from my friends\
+Oh I'm gonna try with a little help from my friends
+
+B.\
+(Do you need anybody?)\
+I just need someone to love\
+(Could it be anybody?)\
+I want somebody to love
+
+Oh I get by with a little help from my friends\
+Mm gonna try with a little help from my friends\
+Oh I get high with a little help from my friends\
+Yes I get by with a little help from my friends\
+With a little help from my friends

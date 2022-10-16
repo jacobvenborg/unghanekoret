@@ -2,7 +2,7 @@
 title: "Er lyset for de lærde blot"
 tekst: "N. F. S. Grundtvig, 1839"
 melodi: "Thomas Laub, 1919"
-nummer: "89"
+nummer_v18: "89"
 tema: "Liv"
 ---
 1\.\

@@ -2,7 +2,7 @@
 title: "Du kom med alt hvad der var dig"
 tekst: "Jens Rosendahl, 1981"
 melodi: "Per Warming, 1987"
-nummer: "453"
+nummer_v18: "453"
 tema: "Kærlighed"
 ---
 1\.\

@@ -2,7 +2,7 @@
 title: "Livet er en morgengave/Noget om helte"
 tekst: "Halfdan Rasmussen, 1955"
 melodi: "Robert Normann"
-nummer: "187"
+nummer_v18: "187"
 tema: "Frihed og fællesskab"
 ---
 1\.\

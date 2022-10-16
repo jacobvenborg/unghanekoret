@@ -2,7 +2,7 @@
 title: "Kimer, I klokker!"
 tekst: "N.F.S. Grundtvig, 1856"
 melodi: "Henrik Rung, 1857"
-nummer: "233"
+nummer_v18: "233"
 tema: "Året - jul"
 ---
 

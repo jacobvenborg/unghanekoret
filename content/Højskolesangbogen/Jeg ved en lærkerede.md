@@ -2,7 +2,7 @@
 title: "Jeg ved en lærkerede"
 tekst: "Harald Bergstedt, 1921"
 melodi: "Carl Nielsen, 1924"
-nummer: "102"
+nummer_v18: "102"
 tema: "Liv"
 ---
 1\.\

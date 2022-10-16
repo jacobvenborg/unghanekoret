@@ -2,7 +2,7 @@
 title: "I skovens dybe, stille ro"
 tekst: "Fritz Andersen, 1864"
 melodi: "Folkemelodi"
-nummer: "572"
+nummer_v18: "572"
 tema: "Aften"
 ---
 1\.\

@@ -2,7 +2,7 @@
 title: "Jorden drejer om sin akse/Noget om billigrejser"
 tekst: "Halfdan Rasmussen, Noget om billigrejer, 1952"
 melodi: "Mogens Jermiin-Nissen"
-nummer: "188"
+nummer_v18: "188"
 tema: "Frihed og fællesskab"
 ---
 1\.\

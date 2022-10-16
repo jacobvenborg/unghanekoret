@@ -2,7 +2,7 @@
 title: "Tit er jeg glad"
 tekst: "B.S. Ingemann, 1812"
 melodi: "Carl Nielsen, 1917"
-nummer: "85"
+nummer_v18: "85"
 tema: "Liv"
 ---
 *Noter: D-mol, andenstemme*

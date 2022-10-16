@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sangapp.unghanekoret.dk/Sangforslag/</loc>
+    <loc>https://sangapp.unghanekoret.dk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sangapp.unghanekoret.dk/Copyright-vores-allesammens-Oskar-Jefsen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sangapp.unghanekoret.dk/Andre-sange/Abide-With-Me/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Ack-V%C3%A4rmeland-du-sk%C3%B6na/</loc>
   </url>
   
   <url>
@@ -47,10 +59,6 @@
   </url>
   
   <url>
-    <loc>https://sangapp.unghanekoret.dk/Copyright-vores-allesammens-Oskar-Jefsen/</loc>
-  </url>
-  
-  <url>
     <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Danmark-nu-blunder-den-lyse-nat/</loc>
   </url>
   
@@ -72,6 +80,10 @@
   
   <url>
     <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Den-gang-jeg-drog-afsted/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Den-milde-dag-er-lys-og-lang/</loc>
   </url>
   
   <url>
@@ -147,6 +159,10 @@
   </url>
   
   <url>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Du-gamla-du-fria/</loc>
+  </url>
+  
+  <url>
     <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Du-kom-med-alt-hvad-der-var-dig/</loc>
   </url>
   
@@ -195,10 +211,6 @@
   </url>
   
   <url>
-    <loc>https://sangapp.unghanekoret.dk/</loc>
-  </url>
-  
-  <url>
     <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Fortabt-er-jeg-stadig/</loc>
   </url>
   
@@ -223,7 +235,7 @@
   </url>
   
   <url>
-    <loc>https://sangapp.unghanekoret.dk/Sangforslag/Godmorgen/</loc>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Godmorgen-lille-land/</loc>
   </url>
   
   <url>
@@ -239,11 +251,19 @@
   </url>
   
   <url>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Gubben-Noach/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Hallelujah/</loc>
+  </url>
+  
+  <url>
     <loc>https://sangapp.unghanekoret.dk/Andre-sange/Happy-Together/</loc>
   </url>
   
   <url>
-    <loc>https://sangapp.unghanekoret.dk/Sangforslag/Har-du-visor-min-v%C3%A4n/</loc>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Har-du-visor-min-v%C3%A4n/</loc>
   </url>
   
   <url>
@@ -287,7 +307,11 @@
   </url>
   
   <url>
-    <loc>https://sangapp.unghanekoret.dk/Andre-sange/Idas-Sommervisa-Du-ska-inte-tro-det-blir-sommar/</loc>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/I-%C3%B8sten-stiger-solen-op/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Idas-sommarvisa/</loc>
   </url>
   
   <url>
@@ -300,6 +324,10 @@
   
   <url>
     <loc>https://sangapp.unghanekoret.dk/Irske-sange/Ill-Tell-Me-Ma/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Jag-vet-en-dejlig-rosa/</loc>
   </url>
   
   <url>
@@ -343,7 +371,7 @@
   </url>
   
   <url>
-    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Juletr%C3%A6et-med-sin-pynt/</loc>
+    <loc>https://sangapp.unghanekoret.dk/Julesange/Juletr%C3%A6et-med-sin-pynt/</loc>
   </url>
   
   <url>
@@ -399,6 +427,10 @@
   </url>
   
   <url>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Min-n%C3%A5de-er-dig-nok/</loc>
+  </url>
+  
+  <url>
     <loc>https://sangapp.unghanekoret.dk/Irske-sange/Molly-Malone/</loc>
   </url>
   
@@ -431,7 +463,7 @@
   </url>
   
   <url>
-    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Nu-t%C3%A6ndes-tusind-julelys/</loc>
+    <loc>https://sangapp.unghanekoret.dk/Julesange/Nu-t%C3%A6ndes-tusind-julelys/</loc>
   </url>
   
   <url>
@@ -448,6 +480,10 @@
   
   <url>
     <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/O-Come-All-Ye-Faithful/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Oktoberdagens-skiften/</loc>
   </url>
   
   <url>
@@ -563,11 +599,23 @@
   </url>
   
   <url>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Stille-hjerte-sol-g%C3%A5r-ned/</loc>
+  </url>
+  
+  <url>
     <loc>https://sangapp.unghanekoret.dk/Andre-sange/Susanne-Birgitte-og-Hanne/</loc>
   </url>
   
   <url>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Svantes-svanesang/</loc>
+  </url>
+  
+  <url>
     <loc>https://sangapp.unghanekoret.dk/Gospel/Swing-Low-Sweet-Chariot/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Syv-kjoler-for-synligheden/</loc>
   </url>
   
   <url>
@@ -588,6 +636,10 @@
   
   <url>
     <loc>https://sangapp.unghanekoret.dk/Andre-sange/The-Sound-of-Silence/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sangapp.unghanekoret.dk/Irske-sange/The-Town-I-Loved-So-Well/</loc>
   </url>
   
   <url>
@@ -615,11 +667,23 @@
   </url>
   
   <url>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Vem-kan-segla-f%C3%B6rutan-vind/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Verden-er-v%C3%A5d-og-lys/</loc>
+  </url>
+  
+  <url>
     <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Vi-elsker-vort-land/</loc>
   </url>
   
   <url>
     <loc>https://sangapp.unghanekoret.dk/Copyright-vores-allesammens-Oskar-Jefsen/Vi-galer-for-Danmark/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Vi-ser-det-i-de-klare-n%C3%A6tters-himmel/</loc>
   </url>
   
   <url>
@@ -636,6 +700,10 @@
   
   <url>
     <loc>https://sangapp.unghanekoret.dk/Gospel/Will-the-Circle-Be-Unbroken/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/With-a-Little-Help-from-My-Friends/</loc>
   </url>
   
   <url>

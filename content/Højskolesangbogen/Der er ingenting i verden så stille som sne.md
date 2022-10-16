@@ -2,7 +2,7 @@
 title: "Der er ingenting i verden så stille som sne"
 tekst: "Helge Rode, 1896"
 melodi: "Povl Hamburger, 1937"
-nummer: "254"
+nummer_v18: "254"
 tema: "Vintertid"
 ---
 1\.\

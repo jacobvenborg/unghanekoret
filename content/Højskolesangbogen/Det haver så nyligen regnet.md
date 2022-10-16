@@ -2,7 +2,7 @@
 title: "Det haver så nyligen regnet"
 tekst: "Johan Ottosen, 1890"
 melodi: "Dansk folkemelodi"
-nummer: "497"
+nummer_v18: "497"
 tema: "Historien"
 ---
 1\.\

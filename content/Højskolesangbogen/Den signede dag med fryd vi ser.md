@@ -2,7 +2,7 @@
 title: "Den signede dag med fryd vi ser"
 tekst: "N. F. S. Grundtvig, 1826"
 melodi: "C. E. F. Weyse, 1826"
-nummer: "1"
+nummer_v18: "1"
 tema: "Morgen"
 ---
 1\.\

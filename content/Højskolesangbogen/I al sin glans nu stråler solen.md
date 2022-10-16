@@ -2,7 +2,7 @@
 title: "I al sin glans nu stråler solen"
 tekst: "N. F. S. Grundtvig, 1843"
 melodi: "Henrik Rung, 1859"
-nummer: "303"
+nummer_v18: "303"
 tema: "Året - pinse"
 ---
 1\.\

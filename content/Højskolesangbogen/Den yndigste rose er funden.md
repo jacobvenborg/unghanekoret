@@ -2,7 +2,7 @@
 title: "Den yndigste rose er funden"
 tekst: "H. A. Brorson, 1732"
 melodi: "Fra 1500-tallet"
-nummer: "225"
+nummer_v18: "225"
 tema: "Året - jul"
 ---
 1\.\
