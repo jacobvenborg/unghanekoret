@@ -42,7 +42,7 @@ Omkvæd *(power på)*\
 Her kan vi drømme om den fred,\
 som vi skal eje en gang,\
 for dette barn har himmelen med\
-og jorden fyldes med sang.
+og jorden fyldes med saa-aang.
 
 Omkvæd\
 Englene synger højt i kor,\

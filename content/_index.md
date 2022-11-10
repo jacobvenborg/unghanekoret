@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Velkommen!"
 ---
 **Velkommen til Unghanekorets sangsamlings-webapp! Hurra!**
 

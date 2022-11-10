@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sangapp.unghanekoret.dk/</loc>
-  </url>
-  
-  <url>
     <loc>https://sangapp.unghanekoret.dk/Copyright-vores-allesammens-Oskar-Jefsen/</loc>
   </url>
   
@@ -664,6 +660,10 @@
   
   <url>
     <loc>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Tunge-m%C3%B8rke-natteskyer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sangapp.unghanekoret.dk/</loc>
   </url>
   
   <url>
