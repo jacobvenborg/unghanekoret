@@ -14,7 +14,7 @@ The boy's won't leave the girls alone.\
 They'll pull my hair, they stole my comb,\
 Well that's alright till I go home.
 
-Omkvæd\
+Omkvæd x 2\
 She is handsome. She is pretty.\
 She is the bell of Dublin City.\
 She is courtin' one, two, three.\
@@ -36,7 +36,7 @@ The boy's won't leave the girls alone.\
 They'll pull my hair, they stole my comb,\
 Well that's alright till I go home.
 
-Omkvæd\
+Omkvæd x 2\
 She is handsome. She is pretty.\
 She is the bell of Dublin City.\
 She is courtin' one, two, three.\
@@ -58,7 +58,7 @@ The boy's won't leave the girls alone.\
 They'll pull my hair, they stole my comb,\
 Well that's alright till I go home.
 
-Omkvæd\
+Omkvæd x 2\
 She is handsome. She is pretty.\
 She is the bell of Dublin City.\
 She is courtin' one, two, three.\

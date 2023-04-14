@@ -14,7 +14,7 @@ Of a day -I-ay-I-ay\
 I met a little girl and we stopped to talk\
 Of a fine soft day -I-ay
 
-Omkvæd x 2\
+Omkvæd\
 And I ask you, friend, what's a fella to do\
 'Cause her hair was black and her eyes were blue\
 And I knew right then I'd be takin' a whirl\
@@ -26,7 +26,7 @@ Of a day -I-ay-I-ay\
 And she asked me up to her flat downtown\
 Of a fine soft day -I-ay
 
-Omkvæd x 2\
+Omkvæd\
 And I ask you, friend, what's a fella to do\
 'Cause her hair was black and her eyes were blue\
 So I took her hand and I gave her a twirl\
