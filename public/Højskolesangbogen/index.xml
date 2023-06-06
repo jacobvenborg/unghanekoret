@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Højskolesangbogen on Unghanekorets sangsamling</title>
-    <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/</link>
-    <description>Recent content in Højskolesangbogen on Unghanekorets sangsamling</description>
+    <title>Højskolesangbogens on Unghanekorets sangsamling</title>
+    <link>https://sangapp.unghanekoret.dk/h%C3%B8jskolesangbogen/</link>
+    <description>Recent content in Højskolesangbogens on Unghanekorets sangsamling</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>da-dk</language><atom:link href="https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/index.xml" rel="self" type="application/rss+xml" />
+    <language>da-dk</language><atom:link href="https://sangapp.unghanekoret.dk/h%C3%B8jskolesangbogen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ack, Värmeland, du sköna</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Ack-V%C3%A4rmeland-du-sk%C3%B6na/</link>
@@ -1466,6 +1466,28 @@ Jeg er ked af mit navn og mine tanker.
 Og her nytter intet fadervor.
 Hvad hjælper det at hjertet stadig banker
 når det ingen har at banke for.</description>
+    </item>
+    
+    <item>
+      <title>Jeg lærte som lille, at tonerne gror</title>
+      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Jeg-l%C3%A6rte-som-lille-at-tonerne-gror/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Jeg-l%C3%A6rte-som-lille-at-tonerne-gror/</guid>
+      <description>Noter:
+1.
+Jeg lærte som lille, at tonerne gror
+i solskin på kornmark og bakke,
+her gik jeg af sted med min syngende mor,
+og bidrog til fuglenes snakke.
+Jeg lærte om engen, der summer af sol,
+og natten, den lyse, som blunder,
+og lånte fra sangskattens sære reol
+en hyldest til sommerens under.
+2.
+En trille fra skoven skal synges retur
+og glide med vandet i bækken,
+den snor sig i frodig og sangbar natur</description>
     </item>
     
     <item>
