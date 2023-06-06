@@ -4,6 +4,20 @@ Til udvikling af Unghanekorets sangsamlingsapp, som findes på https://sangapp.u
 Planen er, at instruktioner for, hvorledes man kan hjælpe med her på GitHub, kommer til at fremgå af denne readme. Indtil videre er dog lidt instruktioner i [markdown](https://www.markdownguide.org/)-formatet, som er det, alle sange er skrevet i.
 
 # Hjælp til markdown-format
+
+## Til søg og erstat (regex)
+
+For at finde f.eks. "1\\. " og bruge regex:
+```
+([0-9]\\\.)( )
+```
+Erstat med
+```
+$1\\\n
+```
+Der kan desuden findes enormt meget hjælp på https://regex101.com/
+
+
 ## Tekst-effekter
 | Markdown-kode | Effekt |
 | :- | :- |
@@ -11,7 +25,7 @@ Planen er, at instruktioner for, hvorledes man kan hjælpe med her på GitHub, k
 | `**Fed tekst**` | **Fed tekst** |
 | `***Fed og kursiv tekst***` | ***Fed og kursiv tekst*** |
 | `~~Gennemstreget tekst~~` | ~~Gennemstreget tekst~~ |
-| `` `Kodelinje` `` | `Kodelinje` |
+| `` `Kodelinje` `` | `Kodelinje` (vs. normal tekst) |
 
 **Kodeblok**
 ````
