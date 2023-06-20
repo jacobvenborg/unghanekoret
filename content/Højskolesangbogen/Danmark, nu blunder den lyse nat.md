@@ -3,6 +3,7 @@ title: "Danmark, nu blunder den lyse nat"
 tekst: "Thøger Larsen, 1914"
 melodi: "Oluf Ring, 1922"
 nummer_v18: "314"
+nummer_v19: "indsæt"
 tema: "Året - tidlig sommer"
 ---
 1\.\
@@ -43,7 +44,7 @@ hen over brede agre,\
 åbne lader for fulde læs,\
 sejl, som stryger om klint og næs,\
 byger, som går og kommer\
-- det er den danske sommer
+\- det er den danske sommer
 
 6\.\
 Pigernes latter og lyse hår\
@@ -51,4 +52,4 @@ leg, som får aldrig ende,\
 øjnene blå som vand i vår\
 mildt om et evigt Danmark spår\
 sol over grønne sletter\
-lykke og lyse nætter.\
+lykke og lyse nætter.
