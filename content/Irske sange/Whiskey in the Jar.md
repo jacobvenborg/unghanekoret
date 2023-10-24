@@ -69,7 +69,7 @@ Whack for me daddy-o\
 There's whiskey in the jar
 
 6\.\
-If anyone can aid me 't is me brother in the arme\
+If anyone can aid me 't is me brother in the army\
 If I can find his station in Cork or in Killarney\
 And if he'll go with me, we'll go rovin' through Killkenny\
 And I'm sure he'll treat me better than me own a-sporting Jenny
@@ -91,5 +91,3 @@ Mush-a ring dum-a do dum-a da\
 Whack for me daddy-o.\
 Whack for me daddy-o\
 There's whiskey in the jar
-
-Ekstra
