@@ -1,5 +1,5 @@
 ---
-title: "Stille, Hjerte, Sol Går Ned"
+title: "Stille, hjerte, sol går ned"
 tekst: "Jeppe Aakjær, 1912 "
 melodi: "Thomas Laub, 1915"
 nummer_v18: "555"
