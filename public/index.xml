@@ -5,12 +5,12 @@
     <link>https://sangapp.unghanekoret.dk/</link>
     <description>Recent content in Velkommen! on Unghanekorets sangsamling</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>da-dk</language><atom:link href="https://sangapp.unghanekoret.dk/index.xml" rel="self" type="application/rss+xml" />
+    <language>da-dk</language>
+    <atom:link href="https://sangapp.unghanekoret.dk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abide With Me</title>
       <link>https://sangapp.unghanekoret.dk/Andre-sange/Abide-With-Me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Andre-sange/Abide-With-Me/</guid>
       <description>1.
 Abide with me, fast falls the eventide
@@ -25,15 +25,13 @@ O Thou who changest not, abide with me
 3.
 I fear no foe, with Thee at hand to bless</description>
     </item>
-    
     <item>
       <title>Ack, Värmeland, du sköna</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Ack-V%C3%A4rmeland-du-sk%C3%B6na/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Ack-V%C3%A4rmeland-du-sk%C3%B6na/</guid>
       <description>Noter:
- 1.
+1.
 Ack, Värmeland, du sköna, du härliga land!
 du krona för Svearikes länder!
 ja, om jag komme mitt i det förlovade land,
@@ -42,22 +40,39 @@ Ja, där vill jag leva, ja, där vill jag dö:
 Om en gång ifrån Värmland jag tager mig en mö,
 så vet jag, att aldrig jag mig ångrar.
 2.
-Ja, när du en gång skall bort och gifta dig, min vän,</description>
+Ja, när du en gång skall bort och gifta dig, min vän,
+då skall du till Värmeland fara;</description>
     </item>
-    
+    <item>
+      <title>Æselsangen</title>
+      <link>https://sangapp.unghanekoret.dk/Andre-sange/%C3%86selsangen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sangapp.unghanekoret.dk/Andre-sange/%C3%86selsangen/</guid>
+      <description>1.
+Langøret æsel trækker sin herre
+hjem i en hoppende, slingrende kærre
+gennem vandet, over marker, under sydens varme sol.
+Så lille æsel, lad vær&amp;rsquo; og jage.
+Spar dine ben, vi har langt igen.
+Haster det med at komme tilbage?
+Ingen vil vinke til os, min ven.
+Så bare bare bare ta&amp;rsquo; det roligt
+og gi&amp;rsquo; dig god tid, vi når det nok.
+Hør stille stille kirkeklokkers ringen,
+os venter ingen, vi når det nok.</description>
+    </item>
     <item>
       <title>All For Me Grog</title>
       <link>https://sangapp.unghanekoret.dk/Irske-sange/All-For-Me-Grog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Irske-sange/All-For-Me-Grog/</guid>
       <description>Noter: G-dur, 2 og 2 skiftes til at synge 1 vers
- Omkvæd
+Omkvæd
 And it&amp;rsquo;s all for me grog
 Me jolly, jolly grog
 All for my beer and tobacco
 Well, I spent all me tin
-With the ladies drinkin&#39; gin
+With the ladies drinkin&amp;rsquo; gin
 Far across the Western Ocean I must wander
 1.
 I&amp;rsquo;m sick in the head
@@ -65,15 +80,13 @@ And I haven&amp;rsquo;t been to bed
 Since first I came ashore with me plunder
 I&amp;rsquo;ve seen centipedes and snakes</description>
     </item>
-    
     <item>
       <title>All You Need Is Love</title>
       <link>https://sangapp.unghanekoret.dk/Andre-sange/All-You-Need-Is-Love/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Andre-sange/All-You-Need-Is-Love/</guid>
       <description>Noter: G-dur, 3-stemmigt
- Intro
+Intro
 Love, love, love
 Love, love, love
 Love, love, love
@@ -87,12 +100,10 @@ Nothing you can make that can&amp;rsquo;t be made
 No one you can save that can&amp;rsquo;t be saved
 Nothing you can do but you can learn how to be you in time</description>
     </item>
-    
     <item>
       <title>Amazing Grace</title>
       <link>https://sangapp.unghanekoret.dk/Gospel/Amazing-Grace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Gospel/Amazing-Grace/</guid>
       <description>Noter: G-dur
 1.
@@ -110,12 +121,10 @@ When we&amp;rsquo;ve been there ten thousand years
 Bright shining as the sun,
 We&amp;rsquo;ve no less days to sing God&amp;rsquo;s praise</description>
     </item>
-    
     <item>
       <title>At lære er at ville</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/At-l%C3%A6re-er-at-ville/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/At-l%C3%A6re-er-at-ville/</guid>
       <description>1.
 At lære er at ville
@@ -135,12 +144,10 @@ at undres og betages,
 når livet kommer nær,
 at møde, når det dages,</description>
     </item>
-    
     <item>
       <title>Barndommens land</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Barndommens-land/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Barndommens-land/</guid>
       <description>1.
 Barndommens land.
@@ -163,12 +170,10 @@ ligesom hvepse og bier.
 De er så gale. De svier.
 Regnormen føles så blød.</description>
     </item>
-    
     <item>
       <title>Black Velvet Band</title>
       <link>https://sangapp.unghanekoret.dk/Irske-sange/Black-Velvet-Band/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Irske-sange/Black-Velvet-Band/</guid>
       <description>1.
 In a neat little town they called Belfast
@@ -183,12 +188,10 @@ Omkvæd
 Her eyes they shone like the diamonds
 You&amp;rsquo;d think she was queen of the land</description>
     </item>
-    
     <item>
       <title>Can’t Help Falling In Love</title>
       <link>https://sangapp.unghanekoret.dk/Andre-sange/Cant-Help-Falling-In-Love/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Andre-sange/Cant-Help-Falling-In-Love/</guid>
       <description>Wise men say
 Only fools rush in
@@ -205,15 +208,13 @@ Take my whole life, too
 For I can&amp;rsquo;t help falling in love with you
 Like a river flows</description>
     </item>
-    
     <item>
       <title>Cykelsangen</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Cykelsangen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Cykelsangen/</guid>
       <description>Noter:
- 1.
+1.
 Færdsel er en fin balancekunst
 ikke stritte mod dens rytme glid bare med!
 Snorlige cykelstier skinnende nikkelstyr.
@@ -227,12 +228,10 @@ Kupler svinger ganske langsomt rundt
 som en jord i himmelrummet vi glider med.
 Alting er flydende lev livet glidende.</description>
     </item>
-    
     <item>
       <title>Danmark, nu blunder den lyse nat</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Danmark-nu-blunder-den-lyse-nat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Danmark-nu-blunder-den-lyse-nat/</guid>
       <description>1.
 Danmark, nu blunder den lyse nat
@@ -251,12 +250,10 @@ frem af forgangne tider.
 3.
 Lærker, som hopped af æg i vår</description>
     </item>
-    
     <item>
       <title>Danskerne findes i mange modeller</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Danskerne-findes-i-mange-modeller/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Danskerne-findes-i-mange-modeller/</guid>
       <description>1.
 Danskerne findes i mange modeller
@@ -273,15 +270,31 @@ Når verden ikke er det, den var?
 Hvor er det ansvar, som alle må bære,
 og hvor er den uskyld, som ingen har?</description>
     </item>
-    
+    <item>
+      <title>Dåser rasler i morgengry</title>
+      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/D%C3%A5ser-rasler-i-morgengry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/D%C3%A5ser-rasler-i-morgengry/</guid>
+      <description>1.
+Dåser rasler i morgengry vender han hjem
+Godt med vinden i håret og vaklende ben
+Men det viser sig lidt efter lidt
+Drømmene selv ka bli’ slidt
+2.
+Der er ingenting her der ka’ siges sådan
+Det er kun et par skridt det er værd
+At få gjort at gå bort helt i sort hvis du kan
+Langt bort herfra lille mand
+*B:
+Vent og se hvad du finder på det sted du nu går hen</description>
+    </item>
     <item>
       <title>De galende haner</title>
       <link>https://sangapp.unghanekoret.dk/Copyright-vores-allesammens-Oskar-Jefsen/De-galende-haner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Copyright-vores-allesammens-Oskar-Jefsen/De-galende-haner/</guid>
       <description>Noter: F-dur, 4-stemmig outro
- 1.
+1.
 Vi er de galende haner
 Og vi synger så hjerterne smelter
 Ja, når først hanerne galer
@@ -297,15 +310,13 @@ Og vi elsker den brogede verden
 Vi bliver ved i lange baner
 Med at sjunge om glæden og smerten</description>
     </item>
-    
     <item>
       <title>Dejlig er den himmel blå</title>
       <link>https://sangapp.unghanekoret.dk/Julesange/Dejlig-er-den-himmel-bl%C3%A5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Julesange/Dejlig-er-den-himmel-bl%C3%A5/</guid>
       <description>Noter:
- 1.
+1.
 Dejlig er den himmel blå,
 lyst det er at se derpå,
 hvor de gyldne stjerner blinke,
@@ -318,14 +329,13 @@ men med ét der blev at skue
 én så klar på himlens bue
 //: som en lille stjernesol. ://
 3.
-Når den stjerne lys og blid</description>
+Når den stjerne lys og blid
+sig lod se ved midnatstid,</description>
     </item>
-    
     <item>
       <title>Dejlig er jorden</title>
       <link>https://sangapp.unghanekoret.dk/Julesange/Dejlig-er-jorden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Julesange/Dejlig-er-jorden/</guid>
       <description>1.
 Dejlig er jorden,
@@ -349,12 +359,10 @@ Fred over jorden!
 Menneske, fryd dig,
 os er en evig frelser fød!</description>
     </item>
-    
     <item>
       <title>Den blå anemone</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Den-bl%C3%A5-anemone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Den-bl%C3%A5-anemone/</guid>
       <description>1.
 Hvad var det dog, der skete?
@@ -373,12 +381,10 @@ Så gik jeg her og vented
 og tænkte: »Den må dø;
 den savner jo sit skovkvarter,</description>
     </item>
-    
     <item>
       <title>Den gang, jeg drog afsted</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Den-gang-jeg-drog-afsted/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Den-gang-jeg-drog-afsted/</guid>
       <description>1.
 Dengang jeg drog af sted,
@@ -392,17 +398,15 @@ Ja, var der ingen fare, så blev jeg her hos dig,
 men alle Danmarks piger, de stole nu på mig.
 Og derfor vil jeg slås som tapper landsoldat.</description>
     </item>
-    
     <item>
       <title>Den milde dag er lys og lang</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Den-milde-dag-er-lys-og-lang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Den-milde-dag-er-lys-og-lang/</guid>
       <description>Noter:
 OBS: SLETTES (for at nummerere) { .
 }
- 1.
+1.
 Den milde dag er lys og lang
 og fuld af sol og fuglesang,
 og alt er såmænd ganske godt,
@@ -415,12 +419,10 @@ med samme varme sind, -
 vil række mig sin lille hånd
 med samme redebonne ånd,</description>
     </item>
-    
     <item>
       <title>Den signede dag med fryd vi ser</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Den-signede-dag-med-fryd-vi-ser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Den-signede-dag-med-fryd-vi-ser/</guid>
       <description>1.
 Den signede dag med fryd vi ser
@@ -437,12 +439,10 @@ til dejligste morgenrøde,
 da lyset oprandt, som jordens bold
 skal lysne udi og gløde.</description>
     </item>
-    
     <item>
       <title>Den sorte fugl er kommet</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Den-sorte-fugl-er-kommet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Den-sorte-fugl-er-kommet/</guid>
       <description>1.
 Den sorte fugl er kommet,
@@ -460,12 +460,10 @@ Sov trygt i jeres reder nu,
 𝄆 den sorte fugl udbreder nu,𝄆
 sit stolte vingefang.</description>
     </item>
-    
     <item>
       <title>Den yndigste rose er funden</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Den-yndigste-rose-er-funden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Den-yndigste-rose-er-funden/</guid>
       <description>1.
 Den yndigste rose er funden,
@@ -486,12 +484,10 @@ vor slægts den fordærvede grøde.
 Al verden nu burde sig fryde,
 med salmer mangfoldig udbryde,</description>
     </item>
-    
     <item>
       <title>Dengang jeg drog af sted</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Dengang-jeg-drog-af-sted/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Dengang-jeg-drog-af-sted/</guid>
       <description>1.
 Dengang jeg drog af sted,
@@ -506,12 +502,10 @@ men alle Danmarks piger, de stoler nu på mig.
 Og derfor vil jeg slås som tapper landsoldat.
 Hurra, hurra, hurra!</description>
     </item>
-    
     <item>
       <title>Denne morgens mulighed</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Denne-morgens-mulighed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Denne-morgens-mulighed/</guid>
       <description>1.
 Denne morgens mulighed.
@@ -532,12 +526,10 @@ her hvor lysets skaber lydes,
 se hvor muntert alting frydes.
 𝄆 Denne morgens munterhed.</description>
     </item>
-    
     <item>
       <title>Der er et yndigt land</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Der-er-et-yndigt-land/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Der-er-et-yndigt-land/</guid>
       <description>1.
 Der er et yndigt land,
@@ -559,12 +551,10 @@ bag højens bautasten,
 bag højens bautasten.
 3.</description>
     </item>
-    
     <item>
       <title>Der er ingenting i verden så stille som sne</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Der-er-ingenting-i-verden-s%C3%A5-stille-som-sne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Der-er-ingenting-i-verden-s%C3%A5-stille-som-sne/</guid>
       <description>1.
 Der er ingenting i verden så stille som sne,
@@ -582,12 +572,33 @@ Hvide tanker tyst i dans sig svinger.
 3.
 Der er ingenting i verden, der kan mildne som sne.</description>
     </item>
-    
+    <item>
+      <title>Der var engang i Bethlehem</title>
+      <link>https://sangapp.unghanekoret.dk/Julesange/Der-var-engang-i-Bethlehem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sangapp.unghanekoret.dk/Julesange/Der-var-engang-i-Bethlehem/</guid>
+      <description>1.
+Der var engang i Bethlehem
+som biblen har fortalt.
+Der blev født en lille dreng
+og Jesus blev han kaldt.
+Omkvæd
+Nat blev til dag og alt blev lyst
+og du skal vide at:
+Jordens børn for evig tid
+vil mindes denne nat
+2.
+Nat blev til dag og alt blev lyst
+og glæden ny og stor
+På denne første julenat
+hvor der blev fred på jord
+3.
+En hyrde hviled&amp;rsquo; med sin flok</description>
+    </item>
     <item>
       <title>Det dufter lysegrønt af græs</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Det-dufter-lysegr%C3%B8nt-af-gr%C3%A6s/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Det-dufter-lysegr%C3%B8nt-af-gr%C3%A6s/</guid>
       <description>1.
 Det dufter lysegrønt af græs
@@ -608,15 +619,13 @@ i jordens dyb
 en livsfryd i sig mærker
 så høj som himlens lærker.</description>
     </item>
-    
     <item>
       <title>Det er forår. Alting klippes ned</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Det-er-for%C3%A5r.-Alting-klippes-ned/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Det-er-for%C3%A5r.-Alting-klippes-ned/</guid>
       <description>Noter: G-dur
- 1.
+1.
 Det er forår. Alting klippes ned.
 Der beskæres i buskadser og budgetter.
 Slut med fordums fede ødselhed.
@@ -630,12 +639,10 @@ Lad kun falde, hvad der knap kan stå &amp;hellip;
 Men i så fald sku jeg altid komme kryv&amp;rsquo;nde,
 hver gang skatten gir sig til at flå</description>
     </item>
-    
     <item>
       <title>Det er hvidt herude</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Det-er-hvidt-herude/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Det-er-hvidt-herude/</guid>
       <description>1.
 Det er hvidt herude,
@@ -656,15 +663,13 @@ Det er koldt herude,
 ravne skrige, ugler tude,
 søge føde, søge læ.</description>
     </item>
-    
     <item>
       <title>Det er idag et vejr</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Det-er-idag-et-vejr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Det-er-idag-et-vejr/</guid>
       <description>Noter: C-dur
- 1.
+1.
 Det er i dag et vejr, et solskinsvejr!
 O søde vår, så er du atter nær!
 Nu vil jeg glemme rent, at det var vinter,
@@ -673,14 +678,13 @@ og bringe dem til én, som jeg har kær.
 2.
 Hun købte af de hvide og de blå
 hun købte af de smukkeste, hun så.
-Det er i dag et vejr! Og solen skinner!</description>
+Det er i dag et vejr! Og solen skinner!
+Og om mig svæver lutter lyse minder,</description>
     </item>
-    
     <item>
       <title>Det er lærkernes tid</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Det-er-l%C3%A6rkernes-tid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Det-er-l%C3%A6rkernes-tid/</guid>
       <description>1.
 Det er lærkernes tid.
@@ -706,12 +710,10 @@ det er bristningens tid.
 4.
 Og forløsningens tid.</description>
     </item>
-    
     <item>
       <title>Det haver så nyligen regnet</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Det-haver-s%C3%A5-nyligen-regnet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Det-haver-s%C3%A5-nyligen-regnet/</guid>
       <description>1.
 Det haver så nyligen regnet,
@@ -726,12 +728,10 @@ Det har regnet - men regnen gav grøde,
 det har stormet - men stormen gjorde stærk.
 Som de tro&amp;rsquo;de, at skoven alt var øde,</description>
     </item>
-    
     <item>
       <title>Det kimer nu til julefest</title>
       <link>https://sangapp.unghanekoret.dk/Julesange/Det-kimer-nu-til-julefest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Julesange/Det-kimer-nu-til-julefest/</guid>
       <description>1.
 Det kimer nu til julefest,
@@ -751,12 +751,10 @@ for miskundhed og nådesbud!
 4.
 O Jesus, verden vid og lang</description>
     </item>
-    
     <item>
       <title>Det løvfald, som vi kom så alt for nær</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Det-l%C3%B8vfald-som-vi-kom-s%C3%A5-alt-for-n%C3%A6r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Det-l%C3%B8vfald-som-vi-kom-s%C3%A5-alt-for-n%C3%A6r/</guid>
       <description>1.
 Det løvfald, som vi kom så altfor nær,
@@ -771,15 +769,13 @@ som vore arme unger engang får.
 3.
 Din lille, varme hånd sad fast i min,</description>
     </item>
-    
     <item>
       <title>Det mørkner i vort år</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Det-m%C3%B8rkner-i-vort-%C3%A5r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Det-m%C3%B8rkner-i-vort-%C3%A5r/</guid>
       <description>Noter:
- 1.
+1.
 Det mørkner i vort år.
 En høstlig himmel stråler tændt,
 men nogen faldt omkuld
@@ -793,14 +789,13 @@ Vi hader disse år.
 Vi hader disse hadets år,
 pistolskud i en opgang
 og død i mørke sår.
-De skød en flok af os.</description>
+De skød en flok af os.
+De greb om livets yngste år,</description>
     </item>
-    
     <item>
       <title>Do, Re, Mi</title>
       <link>https://sangapp.unghanekoret.dk/Andre-sange/Do-Re-Mi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Andre-sange/Do-Re-Mi/</guid>
       <description>Doe, a deer, a female deer
 Ray, a drop of golden sun
@@ -814,15 +809,13 @@ Do, a deer, a female deer
 Re, a drop of golden sun
 Mi, a name I call myself</description>
     </item>
-    
     <item>
       <title>Down By The Riverside</title>
       <link>https://sangapp.unghanekoret.dk/Gospel/Down-By-The-Riverside/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Gospel/Down-By-The-Riverside/</guid>
       <description>Noter: Synges trestemmigt (TMB)
- 1.
+1.
 I&amp;rsquo;m gonna lay down my burden
 Down by the riverside
 Down by the riverside
@@ -839,12 +832,10 @@ Studying war no more
 2.
 Well, I&amp;rsquo;m gonna put on my long white robe (where?</description>
     </item>
-    
     <item>
       <title>Du danske sommer, jeg elsker dig</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Du-danske-sommer-jeg-elsker-dig/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Du-danske-sommer-jeg-elsker-dig/</guid>
       <description>1.
 Du danske sommer, jeg elsker dig
@@ -861,12 +852,10 @@ og blomster lyser ud af din favn.
 Korn, korn, korn
 I drømme gror under månens horn.</description>
     </item>
-    
     <item>
       <title>Du gamla, du fria</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Du-gamla-du-fria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Du-gamla-du-fria/</guid>
       <description>1.
 Du gamla, du fria, du fjällhöga Nord,
@@ -878,15 +867,13 @@ Du tronar på minnen från fornstora dar,
 då ärat ditt namn flög över jorden!
 Jag vet, att du är och du blir, vad du var,
 𝄆 ja, jag vill leva, jag vill dö i Norden. 𝄇
- Ordforklaringer
+Ordforklaringer
 1.3 vänaste: smukkeste 2.</description>
     </item>
-    
     <item>
       <title>Duerne flyver af og til op</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Duerne-flyver-af-og-til-op/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Duerne-flyver-af-og-til-op/</guid>
       <description>Duerne flyver af og til op
 ingen ved rigtigt hvorfor.
@@ -904,35 +891,13 @@ tårnet og solen og se
 ud af skiven, den glimtende blinde
 er to hvide duer på vej.</description>
     </item>
-    
-    <item>
-      <title>Dåser rasler i morgengry</title>
-      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/D%C3%A5ser-rasler-i-morgengry/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/D%C3%A5ser-rasler-i-morgengry/</guid>
-      <description>1.
-Dåser rasler i morgengry vender han hjem
-Godt med vinden i håret og vaklende ben
-Men det viser sig lidt efter lidt
-Drømmene selv ka bli’ slidt
-2.
-Der er ingenting her der ka’ siges sådan
-Det er kun et par skridt det er værd
-At få gjort at gå bort helt i sort hvis du kan
-Langt bort herfra lille mand
-*B:
-Vent og se hvad du finder på det sted du nu går hen</description>
-    </item>
-    
     <item>
       <title>Ebbe Skammelsøn/Skammel han bor sig nør i Thy</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Ebbe-Skammels%C3%B8n-Skammel-han-bor-sig-n%C3%B8r-i-Thy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Ebbe-Skammels%C3%B8n-Skammel-han-bor-sig-n%C3%B8r-i-Thy/</guid>
       <description>Noter:
- 1.
+1.
 Skammel han bor sig nør i Thy,
 han er både rig og kåd;
 så væne har han sønner fem,
@@ -944,14 +909,13 @@ både for guld og ære;
 hjemme sidder Peder, hans broder,
 han lokker hans hjertenskære. Fordi træder Ebbe Skammelsøn så mangen sti vild.
 3.
-&amp;ldquo;Hil sidder I, stålten Adelus,</description>
+&amp;ldquo;Hil sidder I, stålten Adelus,
+og syr hr.</description>
     </item>
-    
     <item>
       <title>Elefantens vuggevise</title>
       <link>https://sangapp.unghanekoret.dk/Andre-sange/Elefantens-vuggevise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Andre-sange/Elefantens-vuggevise/</guid>
       <description>1.
 Nu tændes der stjerner på himlens blå,
@@ -968,15 +932,13 @@ i krattet af store lianer.
 og aberne synger sig selv i søvn
 i vuggen af grønne bananer.</description>
     </item>
-    
     <item>
       <title>En kykkeli’ jul</title>
       <link>https://sangapp.unghanekoret.dk/Copyright-vores-allesammens-Oskar-Jefsen/En-kykkeli-jul/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Copyright-vores-allesammens-Oskar-Jefsen/En-kykkeli-jul/</guid>
       <description>Noter: F-dur, trestemmigt omkvæd (TMB)
- 1.
+1.
 Vi skal nu til julegilde
 Hanekammen er sat
 Og stemmen er glat
@@ -990,12 +952,10 @@ Og solen er i skjul
 Men når ovnen er tændt
 Og der lugter lidt brændt</description>
     </item>
-    
     <item>
       <title>En lærke letted, og tusind fulgte</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/En-l%C3%A6rke-letted-og-tusind-fulgte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/En-l%C3%A6rke-letted-og-tusind-fulgte/</guid>
       <description>1.
 En lærke letted, og tusind fulgte,
@@ -1011,15 +971,13 @@ og ingen morgen i tusind år,
 da Danmark vågned med klare øjne
 til glædestimer og frimandskår,</description>
     </item>
-    
     <item>
       <title>En stjerne skinner i nat</title>
       <link>https://sangapp.unghanekoret.dk/Julesange/En-stjerne-skinner-i-nat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Julesange/En-stjerne-skinner-i-nat/</guid>
       <description>Noter: E-dur, trestemmigt omkvæd (TMB)
- 1.
+1.
 Nu i den hellige time
 står vi i stjerneskær,
 og hører klokkerne kime
@@ -1037,12 +995,10 @@ stjernen er standset her.
 Omkvæd
 Englene synger højt i kor,</description>
     </item>
-    
     <item>
       <title>Er lyset for de lærde blot</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Er-lyset-for-de-l%C3%A6rde-blot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Er-lyset-for-de-l%C3%A6rde-blot/</guid>
       <description>1.
 Er lyset for de lærde blot
@@ -1060,15 +1016,13 @@ Er ikke ordet i vor mund
 et lys for alle sjæle!
 Det giver os for ånder syn,</description>
     </item>
-    
     <item>
       <title>Et hav, der vugger sig til ro</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Et-hav-der-vugger-sig-til-ro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Et-hav-der-vugger-sig-til-ro/</guid>
       <description>Noter: C-dur
- 1.
+1.
 Et hav, der vugger sig til ro nu
 en strand der mørkner så blidt,
 en ren orangerød magi
@@ -1084,15 +1038,13 @@ mens vi lytter bølger.
 Et lys, der sænker sig så tavst nu
 en sol så langsomt på vej</description>
     </item>
-    
     <item>
       <title>Et jævnt og muntert, virksomt liv på jord</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Et-j%C3%A6vnt-og-muntert-virksomt-liv-p%C3%A5-jord/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Et-j%C3%A6vnt-og-muntert-virksomt-liv-p%C3%A5-jord/</guid>
       <description>Noter: Ved melodi 87c gentages melodien to gange pr. vers
- 1.
+1.
 Et jævnt og muntert, virksomt liv på jord
 som det, jeg ville ej med kongers bytte,
 opklaret gang i ædle fædres spor
@@ -1102,14 +1054,12 @@ lysvågent for alt skønt og stort herneden,
 men med de dybe længsler velbekendt,
 kun fyldestgjort af glans fra evigheden;
 2.
-Et sådant liv jeg ønsked&#39; al min æt</description>
+Et sådant liv jeg ønsked&amp;rsquo; al min æt</description>
     </item>
-    
     <item>
       <title>Fakta om skyerne gråner, og løvet falder</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Skyerne-gr%C3%A5ne-og-l%C3%B8vet-falder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Skyerne-gr%C3%A5ne-og-l%C3%B8vet-falder/</guid>
       <description>1.
 Skyerne gråne, og løvet falder,
@@ -1129,15 +1079,13 @@ dagene længes på ny,
 solskinnet vokser, og vintren endes,
 lærkerne synge i sky.</description>
     </item>
-    
     <item>
       <title>Farewell to Carlingford</title>
       <link>https://sangapp.unghanekoret.dk/Irske-sange/Farewell-to-Carlingford/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Irske-sange/Farewell-to-Carlingford/</guid>
       <description>Noter: C-dur, trestemmigt omkvæd
- 1.
+1.
 When I was young and in my prime
 and could wander wild and free
 There was always a longing in my mind
@@ -1151,15 +1099,13 @@ until I return once more
 2.
 On all of the seven stormy seas</description>
     </item>
-    
     <item>
       <title>Farvernes landskab</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Farvernes-landskab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Farvernes-landskab/</guid>
       <description>Noter: D-dur
- 1.
+1.
 Farvernes landskab blæst ud under himlen.
 Grønneste marker li’så langt som dit øje når.
 Tidevandsbølgen viger og stiger.
@@ -1174,15 +1120,13 @@ Varfter og diger står skarpt imod lyset.
 Marsken bli’r dunkel, endnu skimtes de lyse får.
 Plagen ved leddet bli’r som en skygge</description>
     </item>
-    
     <item>
       <title>Fjäriln vingad syns på Haga</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Fj%C3%A4riln-vingad-syns-p%C3%A5-Haga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Fj%C3%A4riln-vingad-syns-p%C3%A5-Haga/</guid>
       <description>Noter:
- 1.
+1.
 Fjäriln vingad syns på Haga
 mellan dimmors frost och dun
 sig sitt gröna skjul tillaga
@@ -1199,12 +1143,10 @@ gungande den vita svan.
 Längst ur skogens glesa kamrar
 höras täta återskall</description>
     </item>
-    
     <item>
       <title>Floden er gammel og floden er ung/Mørkets sang</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Floden-er-gammel-og-floden-er-ung-M%C3%B8rkets-sang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Floden-er-gammel-og-floden-er-ung-M%C3%B8rkets-sang/</guid>
       <description>1.
 Floden er gammel og floden er ung.
@@ -1221,12 +1163,10 @@ Venner forsvinder og savnes.
 Livet er mer end sekunder og år.
 Snart vil vi mødes og favnes.</description>
     </item>
-    
     <item>
       <title>For vist vil de komme</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/For-vist-vil-de-komme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/For-vist-vil-de-komme/</guid>
       <description>1.
 Med byer der ligger ved hav og ved bugt
@@ -1242,12 +1182,10 @@ Et land der forbindes på kryds og på tværs
 af veje og broer og skinner
 der løber langs skove og vandløb og eng</description>
     </item>
-    
     <item>
       <title>Forelskelsessang (Du kom med alt hvad der var dig)</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Forelskelsessang-Du-kom-med-alt-hvad-der-var-dig/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Forelskelsessang-Du-kom-med-alt-hvad-der-var-dig/</guid>
       <description>1.
 Du kom med alt hvad der var dig
@@ -1263,12 +1201,10 @@ fór ud på grønne enge
 og du blev varm og lys og fuld
 og håret var det pure guld</description>
     </item>
-    
     <item>
       <title>Fortabt er jeg stadig</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Fortabt-er-jeg-stadig/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Fortabt-er-jeg-stadig/</guid>
       <description>1.
 Vi mødtes i sne.
@@ -1288,12 +1224,10 @@ en luftløs ballon,
 En luftløs ballon
 en endeløs sætning, helt kæntret og tom</description>
     </item>
-    
     <item>
       <title>Frit land</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Frit-land/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Frit-land/</guid>
       <description>1.
 Bølgende bakker, marker, eng og skov
@@ -1303,37 +1237,34 @@ Så du må være stærk og stå ret
 2.
 Ryster du på hånden, ja, så vælter det jo ind
 Over landets grænser, ind i stuen, i mit hjem
-Vi ska&#39; kaste os i bølgerne, der slår mod kysten ind
+Vi ska&amp;rsquo; kaste os i bølgerne, der slår mod kysten ind
 Frit land, frit for os selv
 Omkvæd
 Sommeren var gået, da jeg rev mig på din torn</description>
     </item>
-    
     <item>
       <title>Galway Girl</title>
       <link>https://sangapp.unghanekoret.dk/Irske-sange/Galway-Girl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Irske-sange/Galway-Girl/</guid>
       <description>Noter: F-dur, trestemmigt i omkvæd (TMB), vi skal være meget rytmiske og gerne gå i takt på stedet
- 1.
+1.
 I took a stroll on the old long walk
 Of a day -I-ay-I-ay
 I met a little girl and we stopped to talk
 Of a fine soft day -I-ay
 Omkvæd
 And I ask you, friend, what&amp;rsquo;s a fella to do
-&amp;lsquo;Cause her hair was black and her eyes were blue</description>
+&amp;lsquo;Cause her hair was black and her eyes were blue
+And I knew right then I&amp;rsquo;d be takin&amp;rsquo; a whirl</description>
     </item>
-    
     <item>
       <title>Gem et lille smil til det bli’r gråvejr</title>
       <link>https://sangapp.unghanekoret.dk/Andre-sange/Gem-et-lille-smil-til-det-blir-gr%C3%A5vejr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Andre-sange/Gem-et-lille-smil-til-det-blir-gr%C3%A5vejr/</guid>
       <description>Noter: Eb-dur
- A-stykke
+A-stykke
 Gem et lille smil til det bli’r gråvejr
 Lige nu er himlen klar og blå
 Der kan hænde ting i morgen
@@ -1341,19 +1272,17 @@ Du ikke forudså
 A-stykke.
 Gem et lille smil til det bli’r gråvejr
 Sol og glæde varer sjælden ved
-Så&#39; det rart at kunne smile
+Så&amp;rsquo; det rart at kunne smile
 Mens regnen siler ned
 B-stykke
 Tænk hvis jeg var verdens herre
 Fik du bare sol og glæde på din vej
 Men jeg er kun mig - og desværre</description>
     </item>
-    
     <item>
       <title>Gi’ os lyset tilbage</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Gi-os-lyset-tilbage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Gi-os-lyset-tilbage/</guid>
       <description>1.
 Kloden har mange forskellige slags.
@@ -1370,12 +1299,10 @@ Lykken du holder i hænderne nu,
 den er vist egentlig min.
 Og at du lever og bærer og er,</description>
     </item>
-    
     <item>
       <title>Glade jul, dejlige jul</title>
       <link>https://sangapp.unghanekoret.dk/Julesange/Glade-jul-dejlige-jul/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Julesange/Glade-jul-dejlige-jul/</guid>
       <description>1.
 Glade jul, dejlige jul,
@@ -1394,15 +1321,35 @@ Fred på jord, fryd på jord,
 Jesusbarnet blandt os bor!
 Engle sjunge om barnet så smukt,</description>
     </item>
-    
+    <item>
+      <title>Go’ nu nat</title>
+      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Go-nu-nat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Go-nu-nat/</guid>
+      <description>Noter: D-dur
+1.
+Go&amp;rsquo; nu nat
+og gå nu lige hjem
+mens du stadig er ved dine fulde fem.
+Jeg ved godt at på din vej
+lurer fristelser på dig
+… … … (nynnes)
+go&amp;rsquo; nu nat
+og gå nu lige hjem.\
+2.
+Go&amp;rsquo; nu nat
+og gå nu lige hjem
+eller skævt - når bare du når uskadt frem.
+Kig på månen - den er hal&amp;rsquo;
+som en knækket æggeskal</description>
+    </item>
     <item>
       <title>Godmorgen lille land</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Godmorgen-lille-land/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Godmorgen-lille-land/</guid>
       <description>Noter: Skrevet til indvielsen af Storebæltsbroen 14. juni 1998.
- 1.
+1.
 Godmorgen, lille land!
 Et land med sol, et land med dis,
 med kyst af sten og sand,
@@ -1417,39 +1364,13 @@ de slanke, lyse broer.
 I sol, i blæst, i regn
 bærer de os fra egn til egn.</description>
     </item>
-    
-    <item>
-      <title>Go’ nu nat</title>
-      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Go-nu-nat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Go-nu-nat/</guid>
-      <description>Noter: D-dur
- 1.
-Go&#39; nu nat
-og gå nu lige hjem
-mens du stadig er ved dine fulde fem.
-Jeg ved godt at på din vej
-lurer fristelser på dig
-… … … (nynnes)
-go&#39; nu nat
-og gå nu lige hjem.\
-2.
-Go&#39; nu nat
-og gå nu lige hjem
-eller skævt - når bare du når uskadt frem.
-Kig på månen - den er hal&#39;
-som en knækket æggeskal</description>
-    </item>
-    
     <item>
       <title>Gubben Noach</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Gubben-Noach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Gubben-Noach/</guid>
       <description>Noter:
- 1.
+1.
 𝄆 Gubben Noach, gubben Noach
 var en hedersmand: 𝄇
 När han gick ur arken,
@@ -1465,17 +1386,16 @@ för att dricka, för att dricka
 på vår nye park.
 3.
 𝄆 Han väl visste, han väl visste
-att en mänska var 𝄇</description>
+att en mänska var 𝄇
+torstig av naturen</description>
     </item>
-    
     <item>
       <title>Guds nåde er en vintergæk</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Guds-n%C3%A5de-er-en-vinterg%C3%A6k/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Guds-n%C3%A5de-er-en-vinterg%C3%A6k/</guid>
       <description>Noter:
- 1.
+1.
 Guds nåde er en vintergæk
 den er din fostergave
 og er du ved at dø af skræk
@@ -1490,17 +1410,16 @@ Guds rige er en ammesø
 der spejler himlens fugle
 Guds rige er en englekø
 om denne skøre kugle
-og flere end du selv</description>
+og flere end du selv
+har grædt i dette skælv</description>
     </item>
-    
     <item>
       <title>Hallelujah</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Hallelujah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Hallelujah/</guid>
       <description>Noter:
- 1.
+1.
 Now I&amp;rsquo;ve heard there was a secret chord
 That David played, and it pleased the Lord
 But you don&amp;rsquo;t really care for music, do you?
@@ -1515,12 +1434,10 @@ Your faith was strong but you needed proof
 You saw her bathing on the roof
 Her beauty and the moonlight overthrew you</description>
     </item>
-    
     <item>
       <title>Happy Together</title>
       <link>https://sangapp.unghanekoret.dk/Andre-sange/Happy-Together/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Andre-sange/Happy-Together/</guid>
       <description>A-stykke
 Imagine me and you, I do
@@ -1539,12 +1456,10 @@ So happy together
 B-stykke
 I can&amp;rsquo;t see me loving nobody but you for all my life</description>
     </item>
-    
     <item>
       <title>Har du visor, min vän</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Har-du-visor-min-v%C3%A4n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Har-du-visor-min-v%C3%A4n/</guid>
       <description>1.
 Har du visor, min vän,
@@ -1561,12 +1476,10 @@ gör det nu!
 För nu är tiden för kärlek inne
 och den som skall älska är du!</description>
     </item>
-    
     <item>
       <title>Her vil ties, her vil bies</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Her-vil-ties-her-vil-bies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Her-vil-ties-her-vil-bies/</guid>
       <description>1.
 Her vil ties, her vil bies,
@@ -1583,15 +1496,13 @@ vinteren strænges, og det er svart.
 Trange tider langsomt skrider,
 langsomt skrider, det har den art.</description>
     </item>
-    
     <item>
       <title>Herligt, en sommernat</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Herligt-en-sommernat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Herligt-en-sommernat/</guid>
       <description>Noter:
- 1.
+1.
 Herligt, en sommernat
 drage til elverkrat,
 hvile ved kilden den svale!
@@ -1610,12 +1521,10 @@ Gå på den sikre vej,
 sværm og forvild dig ej,
 jæger, i agt du dig tage!</description>
     </item>
-    
     <item>
       <title>Hey Brother</title>
       <link>https://sangapp.unghanekoret.dk/Andre-sange/Hey-Brother/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Andre-sange/Hey-Brother/</guid>
       <description>1.
 Hey, brother, there&amp;rsquo;s an endless road to re-discover
@@ -1628,12 +1537,10 @@ Hey, sister, do you still believe in love, I wonder?
 Oh, if the sky comes falling down for you
 There&amp;rsquo;s nothing in this world I wouldn&amp;rsquo;t do</description>
     </item>
-    
     <item>
       <title>Hil dig, Frelser og Forsoner!</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Hil-dig-Frelser-og-Forsoner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Hil-dig-Frelser-og-Forsoner/</guid>
       <description>1.
 Hil dig, frelser og forsoner!
@@ -1652,12 +1559,10 @@ Kærligheden, hjertegløden,
 stærkere var her end døden,
 heller giver du end tager,</description>
     </item>
-    
     <item>
       <title>Hvem sidder dér bag skærmen/Jens Vejmand</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Hvem-sidder-d%C3%A9r-bag-sk%C3%A6rmen-Jens-Vejmand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Hvem-sidder-d%C3%A9r-bag-sk%C3%A6rmen-Jens-Vejmand/</guid>
       <description>1.
 Hvem sidder der bag skærmen med klude om sin hånd,
@@ -1670,12 +1575,10 @@ og hører hamren klinge påny, påny, påny,
 det er såmænd Jens Vejmand på sine gamle ben,
 som hugger vilde gnister af morgenvåde sten.</description>
     </item>
-    
     <item>
       <title>Hvor du sætter din fod</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Hvor-du-s%C3%A6tter-din-fod/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Hvor-du-s%C3%A6tter-din-fod/</guid>
       <description>1.
 Hvor du sætter din fod,
@@ -1691,12 +1594,10 @@ Du har fat i et stykke
 af dit medmen&amp;rsquo;skes lykke.
 Det kan føles som fnug eller veje et ton:</description>
     </item>
-    
     <item>
       <title>Hvor skoven dog er frisk og stor</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Hvor-skoven-dog-er-frisk-og-stor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Hvor-skoven-dog-er-frisk-og-stor/</guid>
       <description>1.
 Hvor skoven dog er frisk og stor,
@@ -1717,15 +1618,13 @@ hvor mange kys og leveår.
 kuk-kuk, kuk-kuk, fallera.
 kuk-kuk, kuk-kuk, fallera.</description>
     </item>
-    
     <item>
       <title>Hvor smiler fager den danske kyst</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Hvor-smiler-fager-den-danske-kyst/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Hvor-smiler-fager-den-danske-kyst/</guid>
       <description>Noter:
- 1.
+1.
 Hvor smiler fager den danske kyst
 og breder favnen, når solklar bølge
 og sommerskyer og skib med lyst
@@ -1741,12 +1640,10 @@ som vindens rislen i Danmarks korn -
 da vendte mangen på ny sin skude.
 Den grønne ager</description>
     </item>
-    
     <item>
       <title>I al sin glans nu stråler solen</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/I-al-sin-glans-nu-str%C3%A5ler-solen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/I-al-sin-glans-nu-str%C3%A5ler-solen/</guid>
       <description>1.
 I al sin glans nu stråler solen,
@@ -1765,59 +1662,10 @@ og vågne til Vorherres pris.
 3.
 Det ånder himmelsk over støvet,</description>
     </item>
-    
-    <item>
-      <title>I skovens dybe, stille ro</title>
-      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/I-skovens-dybe-stille-ro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/I-skovens-dybe-stille-ro/</guid>
-      <description>1.
-I skovens dybe, stille ro,
-hvor sangerhære bo,
-hvor sjælen lytted mangen gang
-til fuglens glade sang,
-der er idyllisk stille fred
-i skovens ensomhed,
-og hjertets længsler tie her,
-hvor fred og hvile er.
-2.
-Hør landsbyklokken lyder ned,
-bebuder aftenfred,
-småfuglen, før den går til blund,
-end kvidrer lidt en stund.
-I mosen kvækker højt en frø,
-stærkt damper mark og sø,
-nu klokken tier, - aftnens fred</description>
-    </item>
-    
-    <item>
-      <title>I sne står urt og busk i skjul</title>
-      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/I-sne-st%C3%A5r-urt-og-busk-i-skjul/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/I-sne-st%C3%A5r-urt-og-busk-i-skjul/</guid>
-      <description>1.
-I sne står urt og busk i skjul,
-det er så koldt derude,
-dog synger der en lille fugl
-på kvist ved frosne rude.
-2.
-Giv tid! giv tid! - den nynner glad
-og ryster de små vinger, -
-giv tid! og hver en kvist får blad,
-giv tid! - hver blomst udspringer.
-3.
-Giv tid! og livets træ bli&amp;rsquo;r grønt,
-må frosten det end kue,
-giv tid! og hvad du drømte skønt,</description>
-    </item>
-    
     <item>
       <title>I østen stiger solen op</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/I-%C3%B8sten-stiger-solen-op/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/I-%C3%B8sten-stiger-solen-op/</guid>
       <description>1.
 I østen stiger solen op:
@@ -1837,15 +1685,75 @@ hvor livets væld udflød.
 4.
 Den hilser os fra lysets hjem,</description>
     </item>
-    
+    <item>
+      <title>I skovens dybe, stille ro</title>
+      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/I-skovens-dybe-stille-ro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/I-skovens-dybe-stille-ro/</guid>
+      <description>1.
+I skovens dybe, stille ro,
+hvor sangerhære bo,
+hvor sjælen lytted mangen gang
+til fuglens glade sang,
+der er idyllisk stille fred
+i skovens ensomhed,
+og hjertets længsler tie her,
+hvor fred og hvile er.
+2.
+Hør landsbyklokken lyder ned,
+bebuder aftenfred,
+småfuglen, før den går til blund,
+end kvidrer lidt en stund.
+I mosen kvækker højt en frø,
+stærkt damper mark og sø,
+nu klokken tier, - aftnens fred</description>
+    </item>
+    <item>
+      <title>I sne står urt og busk i skjul</title>
+      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/I-sne-st%C3%A5r-urt-og-busk-i-skjul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/I-sne-st%C3%A5r-urt-og-busk-i-skjul/</guid>
+      <description>1.
+I sne står urt og busk i skjul,
+det er så koldt derude,
+dog synger der en lille fugl
+på kvist ved frosne rude.
+2.
+Giv tid! giv tid! - den nynner glad
+og ryster de små vinger, -
+giv tid! og hver en kvist får blad,
+giv tid! - hver blomst udspringer.
+3.
+Giv tid! og livets træ bli&amp;rsquo;r grønt,
+må frosten det end kue,
+giv tid! og hvad du drømte skønt,</description>
+    </item>
+    <item>
+      <title>I’ll Tell Me Ma</title>
+      <link>https://sangapp.unghanekoret.dk/Irske-sange/Ill-Tell-Me-Ma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sangapp.unghanekoret.dk/Irske-sange/Ill-Tell-Me-Ma/</guid>
+      <description>Noter: F-dur, trestemmigt omkvæd (TMB)
+Bro
+I&amp;rsquo;ll tell me Ma when I go home,
+The boy&amp;rsquo;s won&amp;rsquo;t leave the girls alone.
+They&amp;rsquo;ll pull my hair, they stole my comb,
+Well that&amp;rsquo;s alright till I go home.
+Omkvæd x 2
+She is handsome. She is pretty.
+She is the bell of Dublin City.
+She is courtin&amp;rsquo; one, two, three.
+Please won&amp;rsquo;t you tell me, who is she?
+1.
+Albert Mooney say&amp;rsquo;s he loves her.</description>
+    </item>
     <item>
       <title>Idas sommarvisa</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Idas-sommarvisa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Idas-sommarvisa/</guid>
       <description>Noter:
- 1.
+1.
 Du ska inte tro det blir sommar
 Ifall inte nån sätter fart
 På sommarn och gör lite somrigt
@@ -1857,14 +1765,13 @@ För jag har just tagit bort snön
 2.
 Jag gör mycket vatten i bäcken
 Så där så det hoppar och far
-Jag gör fullt med svalor som flyger</description>
+Jag gör fullt med svalor som flyger
+Och myggor som svalorna tar</description>
     </item>
-    
     <item>
       <title>In My Room</title>
       <link>https://sangapp.unghanekoret.dk/Andre-sange/In-My-Room/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Andre-sange/In-My-Room/</guid>
       <description>Noter: 3-stemmigt hele sangen fraset første del af B-stykke
 A-stykke
@@ -1880,36 +1787,13 @@ Do my dreaming and my scheming
 Lie awake and pray
 Do my crying and my sighing</description>
     </item>
-    
-    <item>
-      <title>I’ll Tell Me Ma</title>
-      <link>https://sangapp.unghanekoret.dk/Irske-sange/Ill-Tell-Me-Ma/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangapp.unghanekoret.dk/Irske-sange/Ill-Tell-Me-Ma/</guid>
-      <description>Noter: F-dur, trestemmigt omkvæd (TMB)
- Bro
-I&amp;rsquo;ll tell me Ma when I go home,
-The boy&amp;rsquo;s won&amp;rsquo;t leave the girls alone.
-They&amp;rsquo;ll pull my hair, they stole my comb,
-Well that&amp;rsquo;s alright till I go home.
-Omkvæd x 2
-She is handsome. She is pretty.
-She is the bell of Dublin City.
-She is courtin&#39; one, two, three.
-Please won&amp;rsquo;t you tell me, who is she?
-1.
-Albert Mooney say&amp;rsquo;s he loves her.</description>
-    </item>
-    
     <item>
       <title>Jag vet en dejlig rosa</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Jag-vet-en-dejlig-rosa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Jag-vet-en-dejlig-rosa/</guid>
       <description>Noter:
- 1.
+1.
 Jag vet en dejlig rosa
 och vit som liljeblad.
 När jag på henne tänker,
@@ -1924,14 +1808,13 @@ Gud låt dig aldrig sörja
 men alltid vara glad!
 Må de få komma samman
 med hjärtans fröjd och gamman,
-som längta till varann&#39;!</description>
+som längta till varann&#39;!
+3.</description>
     </item>
-    
     <item>
       <title>Januarsol/Nu leger tidlig forårssol</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Januarsol-Nu-leger-tidlig-for%C3%A5rssol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Januarsol-Nu-leger-tidlig-for%C3%A5rssol/</guid>
       <description>1.
 Nu leger tidlig forårssol
@@ -1950,12 +1833,10 @@ med livets lys omkring,
 med roden i den hårde jord
 og stammen strid af liv.</description>
     </item>
-    
     <item>
       <title>Jeg elsker den brogede verden</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Jeg-elsker-den-brogede-verden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Jeg-elsker-den-brogede-verden/</guid>
       <description>1.
 Jeg elsker den brogede verden
@@ -1973,12 +1854,10 @@ fordi min boble brast.
 Men boblen er ikke verden;
 læg verden det ej til last!</description>
     </item>
-    
     <item>
       <title>Jeg er træt af mig selv og mine plomber/Svantes sorte vise</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Jeg-er-tr%C3%A6t-af-mig-selv-og-mine-plomber-Svantes-sorte-vise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Jeg-er-tr%C3%A6t-af-mig-selv-og-mine-plomber-Svantes-sorte-vise/</guid>
       <description>Noter: B-mol, startone F, taktstart 4
 1.
@@ -1994,15 +1873,13 @@ Og her nytter intet fadervor.
 Hvad hjælper det at hjertet stadig banker
 når det ingen har at banke for.</description>
     </item>
-    
     <item>
       <title>Jeg lærte som lille, at tonerne gror</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Jeg-l%C3%A6rte-som-lille-at-tonerne-gror/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Jeg-l%C3%A6rte-som-lille-at-tonerne-gror/</guid>
       <description>Noter:
- 1.
+1.
 Jeg lærte som lille, at tonerne gror
 i solskin på kornmark og bakke,
 her gik jeg af sted med min syngende mor,
@@ -2016,12 +1893,10 @@ En trille fra skoven skal synges retur
 og glide med vandet i bækken,
 den snor sig i frodig og sangbar natur</description>
     </item>
-    
     <item>
       <title>Jeg så julemanden kysse mor</title>
       <link>https://sangapp.unghanekoret.dk/Julesange/Jeg-s%C3%A5-julemanden-kysse-mor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Julesange/Jeg-s%C3%A5-julemanden-kysse-mor/</guid>
       <description>Julen kommer førend vi ved
 Lille Peter gemmer på en julehemmelighed
@@ -2036,12 +1911,10 @@ og ud af dynerne jeg sprang:
 Så, så jeg julemanden kysse mor!
 Hun blev ikke vred, nej ikke spor,</description>
     </item>
-    
     <item>
       <title>Jeg ved en lærkerede</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Jeg-ved-en-l%C3%A6rkerede/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Jeg-ved-en-l%C3%A6rkerede/</guid>
       <description>1.
 Jeg ved en lærkerede
@@ -2063,12 +1936,10 @@ Jeg lurer bag en slåen.
 Der står jeg ganske nær.
 Jeg rækker mig på tåen</description>
     </item>
-    
     <item>
       <title>Jorden drejer om sin akse/Noget om billigrejser</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Jorden-drejer-om-sin-akse-Noget-om-billigrejser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Jorden-drejer-om-sin-akse-Noget-om-billigrejser/</guid>
       <description>1.
 Jorden drejer om sin akse
@@ -2087,15 +1958,13 @@ og vil meget nødig dø.
 Og når jorden drejer roligt
 med mit lille husmandssted,</description>
     </item>
-    
     <item>
       <title>Joshua Fit the Battle of Jerico</title>
       <link>https://sangapp.unghanekoret.dk/Gospel/Joshua-Fit-the-Battle-of-Jerico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Gospel/Joshua-Fit-the-Battle-of-Jerico/</guid>
       <description>*Noter: F-mol, OBS: omkvæd mellem 6-7 eller 7-8
- Omkvæd
+Omkvæd
 Joshua fit the battle of Jericho
 Jericho Jericho
 Joshua fit the battle of Jericho
@@ -2111,12 +1980,10 @@ I know you&amp;rsquo;ve heard about Joshua
 He was the son of Nun
 He never stopped his work until</description>
     </item>
-    
     <item>
       <title>Julen har bragt velsignet bud</title>
       <link>https://sangapp.unghanekoret.dk/Julesange/Julen-har-bragt-velsignet-bud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Julesange/Julen-har-bragt-velsignet-bud/</guid>
       <description>1.
 Julen har bragt velsignet bud.
@@ -2133,12 +2000,10 @@ med himmelkongen den lille.
 Du fattige spurv! Flyv ned fra tag
 med duen til julegilde!</description>
     </item>
-    
     <item>
       <title>Juletræet med sin pynt</title>
       <link>https://sangapp.unghanekoret.dk/Julesange/Juletr%C3%A6et-med-sin-pynt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Julesange/Juletr%C3%A6et-med-sin-pynt/</guid>
       <description>1.
 Juletræet med sin pynt
@@ -2158,12 +2023,31 @@ op og ned og for og bag.
 Når de mange fine ting
 hænger roligt rundt omkring,</description>
     </item>
-    
+    <item>
+      <title>Kærlighedssang ved et tab</title>
+      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/K%C3%A6rlighedssang-ved-et-tab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/K%C3%A6rlighedssang-ved-et-tab/</guid>
+      <description>Noter:
+1.
+Som solskin over mark og hav
+Som forårsblæst og gyldent rav
+Var hvad du var og bragte.
+Alt godt blev til. Jeg så min vej
+Var den, der skulle gås med dig
+Så langt som livet rakte.
+2.
+Den fylde hjertet råber på
+Blev ved et under til at nå
+Og ingen kan forklare.
+Som nåde dykker den herned
+Og fylder tid med evighed
+Så den vil altid vare.</description>
+    </item>
     <item>
       <title>Kimer, I klokker!</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Kimer-I-klokkker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Kimer-I-klokkker/</guid>
       <description>1.
 Kimer, I klokker! ja, kimer før dag i det dunkle!
@@ -2180,12 +2064,10 @@ bringer os glædskabens bud.
 3.
 Synger og danser og klapper i eders småhænder,</description>
     </item>
-    
     <item>
       <title>Kom, maj, du søde milde!</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Kom-maj-du-s%C3%B8de-milde/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Kom-maj-du-s%C3%B8de-milde/</guid>
       <description>1.
 Kom, maj, du søde, milde!
@@ -2206,38 +2088,13 @@ især ved juletid,
 vel også kanefarter
 på landet hid og did.</description>
     </item>
-    
-    <item>
-      <title>Kærlighedssang ved et tab</title>
-      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/K%C3%A6rlighedssang-ved-et-tab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/K%C3%A6rlighedssang-ved-et-tab/</guid>
-      <description>Noter:
- 1.
-Som solskin over mark og hav
-Som forårsblæst og gyldent rav
-Var hvad du var og bragte.
-Alt godt blev til. Jeg så min vej
-Var den, der skulle gås med dig
-Så langt som livet rakte.
-2.
-Den fylde hjertet råber på
-Blev ved et under til at nå
-Og ingen kan forklare.
-Som nåde dykker den herned
-Og fylder tid med evighed
-Så den vil altid vare.</description>
-    </item>
-    
     <item>
       <title>Lad din stemme blive hørt</title>
       <link>https://sangapp.unghanekoret.dk/Copyright-vores-allesammens-Oskar-Jefsen/Lad-din-stemme-blive-h%C3%B8rt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Copyright-vores-allesammens-Oskar-Jefsen/Lad-din-stemme-blive-h%C3%B8rt/</guid>
       <description>Noter: F-dur
- 1.
+1.
 Vi har alle en stemme indeni
 Et brøl eller et fuglefløjt
 Og på Grundlovsdag der sætter vi den fri
@@ -2252,12 +2109,10 @@ Omkvæd
 Lad din stemme blive hørt
 Hvis du synes politik det er skørt</description>
     </item>
-    
     <item>
       <title>Liden sol i disse uger</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Liden-sol-i-disse-uger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Liden-sol-i-disse-uger/</guid>
       <description>1.
 Liden sol i disse uger.
@@ -2275,12 +2130,37 @@ vore hjertebål tilbage.
 Sammen vil vi tålsomt vente,
 liden sol i disse dage.\</description>
     </item>
-    
+    <item>
+      <title>Lille Messias</title>
+      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Lille-Messias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Lille-Messias/</guid>
+      <description>A-dur, tre-stemmigt &amp;ldquo;Messias&amp;rdquo;
+1.
+En stjerne på himlen
+og flere og flere
+i nat føder himlen
+med jordiske veer
+i nat lover himlen
+at den vil befri os
+Maria på æslet
+med lille Messias.
+2.
+Maria skal føde
+sin glæde med smerte
+der banker et hjerte
+bag vinterens hjerte
+selv kulden og mørket
+har håb de vil gi&amp;rsquo; os
+Maria på æslet
+med lille Messias.
+3.
+Hun bærer på barnet</description>
+    </item>
     <item>
       <title>Livet er en morgengave/Noget om helte</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Livet-er-en-morgengave-Noget-om-helte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Livet-er-en-morgengave-Noget-om-helte/</guid>
       <description>1.
 Livet er en morgengave, sjælen er et pilgrimskor.
@@ -2292,37 +2172,34 @@ Her er fredeligt og stille, her er ingen larm og støj.
 Jeg har sået kruspersille, og et brev med pure løg.
 Lad alverden slå for panden og bekæmpe spe med spot,</description>
     </item>
-    
     <item>
       <title>Lyse nætter</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Lyse-n%C3%A6tter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Lyse-n%C3%A6tter/</guid>
       <description>Noter: F-dur
- 1.
+1.
 Nu kommer fuglene igen,
 og lyset vælter pluds&amp;rsquo;lig ind,
 det kommer gennem alle sprækker,
-lyse nætter er tilbag&#39;.
+lyse nætter er tilbag&amp;rsquo;.
 Alt, hvad der rørte sig, blev glemt,
 da du var rejst, var det så nemt.
 Men hjertet ved godt, hvad det ønsker sig,
 at pynte sig for dig.
-Du er tilbag&#39;, du er hos mig.
+Du er tilbag&amp;rsquo;, du er hos mig.
 Omkvæd x 2
-Du er tilbag&#39; med varme dag&#39;,
-du er hos mig.</description>
+Du er tilbag&amp;rsquo; med varme dag&amp;rsquo;,
+du er hos mig.
+2.</description>
     </item>
-    
     <item>
       <title>Lyset er vendt</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Lyset-er-vendt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Lyset-er-vendt/</guid>
       <description>Noter:
- 1.
+1.
 Vær vågen en tidlig morgen
 når lyset lige er vendt
 så møder du lysets engel
@@ -2337,17 +2214,16 @@ Syng ud når et lyshav tændes
 lad sjælen synge sig glad
 så svinder det dybe mørke
 som duggen på blomst og blad\
-4.</description>
+4.
+Syng ud når dit hjerte tynges</description>
     </item>
-    
     <item>
       <title>Lysfyldt morgen, til marven kold</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Lysfyldt-morgen-til-marven-kold/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Lysfyldt-morgen-til-marven-kold/</guid>
       <description>Noter:
- 1.
+1.
 Lysfyldt morgen, til marven kold,
 med rim på tage og træ&amp;rsquo;r!
 En fuglestemmes vellyd fornemmes. ­-
@@ -2365,12 +2241,10 @@ han kom, en vårvind i vold.
 4.
 På skibets mast var hejset en krans.</description>
     </item>
-    
     <item>
       <title>Mads Doss</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Mads-Doss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Mads-Doss/</guid>
       <description>Noter: F-dur
 1.
@@ -2384,12 +2258,10 @@ di hoer ed så vit, nær han tow te å hwell:
 2.
 Mett Kølvro war en kon stonthostøs,</description>
     </item>
-    
     <item>
       <title>Man binder os på mund og hånd</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Man-binder-os-p%C3%A5-mund-og-h%C3%A5nd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Man-binder-os-p%C3%A5-mund-og-h%C3%A5nd/</guid>
       <description>1.
 Gribe efter blanke ting
@@ -2406,15 +2278,13 @@ og det er besværligt at flagre sig fri
 Vi leger skjul hos en som ved
 at skærme os mod ensomhed</description>
     </item>
-    
     <item>
       <title>Man Må Trække en Grænse</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Man-m%C3%A5-tr%C3%A6kke-en-gr%C3%A6nse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Man-m%C3%A5-tr%C3%A6kke-en-gr%C3%A6nse/</guid>
       <description>Noter:
- 1.
+1.
 Når en stemme bli&amp;rsquo;r hørt, bli&amp;rsquo;r et menneske set
 i respekt for historien og alt, som er sket.
 Når man evner at møde den udstrakte hånd,
@@ -2424,15 +2294,13 @@ Syd for Flensborg, ved Kiel eller ved Åbenrå?
 Uanset hvor den går, er der meget på spil,
 for i hjerterne ved vi, hvor vi hører til.</description>
     </item>
-    
     <item>
       <title>Mandalay</title>
       <link>https://sangapp.unghanekoret.dk/Andre-sange/Mandalay/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Andre-sange/Mandalay/</guid>
       <description>Noter: Bb-mol
- 1.
+1.
 Bag den grå Moulmein Pagode
 Med sit blik mod havets blå
 Sidder der en Burma-pige
@@ -2446,12 +2314,10 @@ Husker du pagajens dunken fra Rangoon til Mandalay?
 Oh, den vej til Mandalay, fuld af flyvefisk i leg
 Og hvor solen brød som torden frem bag Kina-bugtens kaj</description>
     </item>
-    
     <item>
       <title>Marken er mejet</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Marken-er-mejet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Marken-er-mejet/</guid>
       <description>1.
 Marken er mejet, og høet er høstet,
@@ -2467,12 +2333,10 @@ vi har georginer og bonderoser nok.
 Børnene danser allerede så glade,
 alle vore piger står ventende i flok.</description>
     </item>
-    
     <item>
       <title>Med store undrende øjne går jeg/Noget om kraft</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Med-store-undrende-%C3%B8jne-g%C3%A5r-jeg-Noget-om-kraft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Med-store-undrende-%C3%B8jne-g%C3%A5r-jeg-Noget-om-kraft/</guid>
       <description>1.
 Med store undrende øjne går jeg,
@@ -2489,12 +2353,10 @@ Hvad er det dog for en slags reflekser
 der kalder pindsvin og tusser frem?
 og hvem er det, der går rundt og hekser</description>
     </item>
-    
     <item>
       <title>Men det bli’r atter stille efter stormen</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Men-det-blir-atter-stille-efter-stormen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Men-det-blir-atter-stille-efter-stormen/</guid>
       <description>1.
 Men det bli&amp;rsquo;r atter stille efter stormen.
@@ -2509,12 +2371,10 @@ som angsten før har mærket med sin kno.
 3.
 Og biler standser med en sagte snurren.</description>
     </item>
-    
     <item>
       <title>Midsommerteltet, de lyse nætter</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Midsommerteltet-de-lyse-n%C3%A6tter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Midsommerteltet-de-lyse-n%C3%A6tter/</guid>
       <description>1.
 Midsommerteltet, de lyse nætter,
@@ -2530,15 +2390,13 @@ Den hvide nat, hvor der vågent drømmes,
 bedårer mange; mod skoven strømmes.
 Og ungersvend en forsmår sin seng,</description>
     </item>
-    
     <item>
       <title>Min nåde er dig nok</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Min-n%C3%A5de-er-dig-nok/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Min-n%C3%A5de-er-dig-nok/</guid>
       <description>Noter:
- 1.
+1.
 Min nåde er dig nok
 når Fenrisulven glammer
 og Midgårdsormen blir
@@ -2559,15 +2417,13 @@ når dragen viser tænder
 og søjlerne af ild
 slår ud, så alting brænder.</description>
     </item>
-    
     <item>
       <title>Molly Malone</title>
       <link>https://sangapp.unghanekoret.dk/Irske-sange/Molly-Malone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Irske-sange/Molly-Malone/</guid>
       <description>Noter: F-dur, trestemmigt i omkvæd (TMB)
- 1.
+1.
 In Dublin&amp;rsquo;s fair city,
 Where the girls are so pretty,
 I first set me eyes on sweet Molly Malone,
@@ -2583,18 +2439,16 @@ Alive, alive, oh,
 Alive, alive, oh,
 Crying &amp;ldquo;cockles and mussels, alive, alive, oh&amp;rdquo;</description>
     </item>
-    
     <item>
       <title>Mørk er november</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/M%C3%B8rk-er-november/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/M%C3%B8rk-er-november/</guid>
       <description>Noter: tekst/melodi synges 3 gange
 1. gang: a cappella
 2. gang: nynnes med lukket mund &amp;ldquo;hmm&amp;rdquo;
 3. gang: normalt
- Mørk er november og løvfaldet slut,
+Mørk er november og løvfaldet slut,
 vandet begynder at fryse,
 lyset fra solen og blomsterne brudt &amp;ndash;
 da må vort hjerte selv lyse.
@@ -2604,12 +2458,10 @@ værn mod det sorte og tomme.
 Om der svæver dødelig dræ,
 vil vi dog elske - og plante et træ:</description>
     </item>
-    
     <item>
       <title>Nana</title>
       <link>https://sangapp.unghanekoret.dk/Andre-sange/Nana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Andre-sange/Nana/</guid>
       <description>1.
 Nana, Nana
@@ -2624,19 +2476,82 @@ Så man kan se det ny kostume
 Omkvæd
 Nana, jeg elsker dig
 Du ved, jeg står på pinde
-Men jeg kan hverken gi&#39; dig eller finde
+Men jeg kan hverken gi&amp;rsquo; dig eller finde
 (De-dø-de-løt-døt-døt-døt-døt-døt-døt)
 Det der gør dig til en rigtig kvinde
 2.
 Nana, Nana
 Har du hørt, at Nana&amp;ndash;</description>
     </item>
-    
+    <item>
+      <title>Når du ser et stjerneskud</title>
+      <link>https://sangapp.unghanekoret.dk/Julesange/N%C3%A5r-du-ser-et-stjerneskud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sangapp.unghanekoret.dk/Julesange/N%C3%A5r-du-ser-et-stjerneskud/</guid>
+      <description>Noter: Db-dur, A-stykke starter på Ab
+Intro
+Tit har man fortalt
+At hver gang en stjerne faldt
+Menneskenes børn i samme time
+Fik lov at ønske alt
+A-stykke
+Når du ser et stjerneskud
+Lad dit ønske flyve ud
+Da vil alle stjerners herre høre dig
+A-stykke
+Bare du af hjertet tror
+Da er ingen bøn for stor
+Når et stjerneskud der falder på din vej
+B-stykke
+Skæbnen selv er da din lykkes smed</description>
+    </item>
+    <item>
+      <title>Når egene knoppes</title>
+      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/N%C3%A5r-egene-knoppes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/N%C3%A5r-egene-knoppes/</guid>
+      <description>1.
+Når egene knoppes,
+og granerne duppes,
+og skræpperne kante den støvede vej.
+Når frøen fortæller,
+mens guldregnen hælder
+sig over syrenen i hviskende leg,
+𝄆 da dages, da kommer
+den danske skærsommer,
+farvel og på gensyn, du liflige maj!𝄆
+2.
+Når rugen alt bølger,
+og kornblomsten dølger
+sin blå lille kyse bag gitter af strå.
+Når føllene tumle,
+mens køerne gumle,
+og viben sig soler med ungerne små,
+𝄆 da dages, da kommer</description>
+    </item>
+    <item>
+      <title>Når lyset åbner og dagen går</title>
+      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/N%C3%A5r-lyset-%C3%A5bner-og-dagen-g%C3%A5r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/N%C3%A5r-lyset-%C3%A5bner-og-dagen-g%C3%A5r/</guid>
+      <description>1.
+Når lyset åbner og dagen går
+Mod hav og marker, mod by og skove
+Forventningen ved dit vindue står
+Du har ej tid til at sove.
+2.
+Luk øjet op. Se din dag er her.
+Mød al den klarhed dit blik kan magte.
+Det land er dit. Ja, alt hvad du ser
+Så langt som sanserne rakte.
+3.
+Løs så den hånd og den fuglehær
+Der sov så sødt under hjertets vinge.</description>
+    </item>
     <item>
       <title>Natten ser med milde øjne</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Natten-ser-med-milde-%C3%B8jne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Natten-ser-med-milde-%C3%B8jne/</guid>
       <description>1.
 Natten ser med milde øjne
@@ -2657,12 +2572,10 @@ og er væk på ét sekund.
 Ta’r så ud i sommernatten,
 kigger efter stjerneskud,</description>
     </item>
-    
     <item>
       <title>Nu er det længe siden</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Nu-er-det-l%C3%A6nge-siden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Nu-er-det-l%C3%A6nge-siden/</guid>
       <description>1.
 Nu er det længe siden,
@@ -2681,12 +2594,10 @@ Så fejed hun med limens rest
 hvert snavset strå til side
 som for en hædersgæst.</description>
     </item>
-    
     <item>
       <title>Nu er jord og himmel stille</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Nu-er-jord-og-himmel-stille/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Nu-er-jord-og-himmel-stille/</guid>
       <description>1.
 Nu er jord og himmel stille
@@ -2705,12 +2616,10 @@ det er lærkens aftensang.
 Fra i morges inden gryet
 har den jublet glæden ud</description>
     </item>
-    
     <item>
       <title>Nu falmer skoven trindt om land</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Nu-falmer-skoven-trindt-om-land/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Nu-falmer-skoven-trindt-om-land/</guid>
       <description>1.
 Nu falmer skoven trindt om land,
@@ -2730,15 +2639,13 @@ i tøndemål af traver.
 4.
 Og han, som vokse lod på jord</description>
     </item>
-    
     <item>
       <title>Nu går solen sin vej</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Nu-g%C3%A5r-solen-sin-vej/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Nu-g%C3%A5r-solen-sin-vej/</guid>
       <description>Noter:
- 1.
+1.
 Nu går solen sin vej
 for at skinne på andre,
 for alle på jorden har brug for dens lys,
@@ -2753,12 +2660,10 @@ Vær med den, kære Gud,
 der må sidde alene,
 og den, der nu slider sig træt på fabrik!</description>
     </item>
-    
     <item>
       <title>Nu skal det åbenbares</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Nu-skal-det-%C3%A5benbares/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Nu-skal-det-%C3%A5benbares/</guid>
       <description>1.
 Nu skal det åbenbares,
@@ -2781,32 +2686,10 @@ Så er da ikke brustet
 &amp;ldquo;fuldkommenhedens bånd&amp;rdquo;,
 vor kæde er ej rustet,</description>
     </item>
-    
-    <item>
-      <title>Nu titte til hinanden</title>
-      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Nu-titte-til-hinanden/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Nu-titte-til-hinanden/</guid>
-      <description>1.
-Nu titte til hinanden de favre blomster små,
-de muntre fugle kalde på hverandre.
-Nu alle jordens børn deres øjne opslå,
-nu sneglen med hus på ryg vil vandre.
-2.
-Den kære Gud og skaber den mindste orm er nær,
-han føder fugl og markens lilje klæder.
-Dog menneskenes børn har han allermest kær,
-Gud ånder på øjet, når det græder.
-3.
-Guds søn var selv et barn, og på krybbestrå han lå,</description>
-    </item>
-    
     <item>
       <title>Nu tændes tusind julelys</title>
       <link>https://sangapp.unghanekoret.dk/Julesange/Nu-t%C3%A6ndes-tusind-julelys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Julesange/Nu-t%C3%A6ndes-tusind-julelys/</guid>
       <description>1.
 Nu tændes tusind julelys
@@ -2827,83 +2710,28 @@ så kærligheden ses.
 Lad hvert et hjerte, koldt og mørkt
 se strålen mild og blid</description>
     </item>
-    
     <item>
-      <title>Når du ser et stjerneskud</title>
-      <link>https://sangapp.unghanekoret.dk/Julesange/N%C3%A5r-du-ser-et-stjerneskud/</link>
+      <title>Nu titte til hinanden</title>
+      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Nu-titte-til-hinanden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangapp.unghanekoret.dk/Julesange/N%C3%A5r-du-ser-et-stjerneskud/</guid>
-      <description>Noter: Db-dur, A-stykke starter på Ab
- Intro
-Tit har man fortalt
-At hver gang en stjerne faldt
-Menneskenes børn i samme time
-Fik lov at ønske alt
-A-stykke
-Når du ser et stjerneskud
-Lad dit ønske flyve ud
-Da vil alle stjerners herre høre dig
-A-stykke
-Bare du af hjertet tror
-Da er ingen bøn for stor
-Når et stjerneskud der falder på din vej
-B-stykke
-Skæbnen selv er da din lykkes smed</description>
-    </item>
-    
-    <item>
-      <title>Når egene knoppes</title>
-      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/N%C3%A5r-egene-knoppes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/N%C3%A5r-egene-knoppes/</guid>
+      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Nu-titte-til-hinanden/</guid>
       <description>1.
-Når egene knoppes,
-og granerne duppes,
-og skræpperne kante den støvede vej.
-Når frøen fortæller,
-mens guldregnen hælder
-sig over syrenen i hviskende leg,
-𝄆 da dages, da kommer
-den danske skærsommer,
-farvel og på gensyn, du liflige maj!𝄆
+Nu titte til hinanden de favre blomster små,
+de muntre fugle kalde på hverandre.
+Nu alle jordens børn deres øjne opslå,
+nu sneglen med hus på ryg vil vandre.
 2.
-Når rugen alt bølger,
-og kornblomsten dølger
-sin blå lille kyse bag gitter af strå.
-Når føllene tumle,
-mens køerne gumle,
-og viben sig soler med ungerne små,
-𝄆 da dages, da kommer</description>
-    </item>
-    
-    <item>
-      <title>Når lyset åbner og dagen går</title>
-      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/N%C3%A5r-lyset-%C3%A5bner-og-dagen-g%C3%A5r/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/N%C3%A5r-lyset-%C3%A5bner-og-dagen-g%C3%A5r/</guid>
-      <description>1.
-Når lyset åbner og dagen går
-Mod hav og marker, mod by og skove
-Forventningen ved dit vindue står
-Du har ej tid til at sove.
-2.
-Luk øjet op. Se din dag er her.
-Mød al den klarhed dit blik kan magte.
-Det land er dit. Ja, alt hvad du ser
-Så langt som sanserne rakte.
+Den kære Gud og skaber den mindste orm er nær,
+han føder fugl og markens lilje klæder.
+Dog menneskenes børn har han allermest kær,
+Gud ånder på øjet, når det græder.
 3.
-Løs så den hånd og den fuglehær
-Der sov så sødt under hjertets vinge.</description>
+Guds søn var selv et barn, og på krybbestrå han lå,</description>
     </item>
-    
     <item>
       <title>O Come, All Ye Faithful,</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/O-Come-All-Ye-Faithful/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/O-Come-All-Ye-Faithful/</guid>
       <description>1.
 O come, all ye faithful, joyful and triumphant!
@@ -2921,15 +2749,13 @@ Very God
 Begotten, not created
 O come, let us adore Him</description>
     </item>
-    
     <item>
       <title>Oh Shenandoah</title>
       <link>https://sangapp.unghanekoret.dk/Americana/Oh-Shenandoah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Americana/Oh-Shenandoah/</guid>
       <description>Noter: D-dur
- 1.
+1.
 Oh Shenandoah, I long to see you
 Away you rolling river.
 Oh Shenandoah, I long to see you
@@ -2946,15 +2772,13 @@ Tis seven years, since I last saw thee
 Away you rolling river
 Tis seven years, since I last saw thee</description>
     </item>
-    
     <item>
       <title>Oktoberdagens skiften</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Oktoberdagens-skiften/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Oktoberdagens-skiften/</guid>
       <description>Noter:
- 1.
+1.
 Oktoberdagens skiften
 af skyer, sol og regn
 slår som en blæstens rytme hårdt
@@ -2979,44 +2803,35 @@ Oktobernattens mørke
 vil nådig dække alt.
 I morgenlyset skal vi se</description>
     </item>
-    
     <item>
       <title>Ole sad på en knold og sang</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Ole-sad-p%C3%A5-en-knold-og-sang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Ole-sad-p%C3%A5-en-knold-og-sang/</guid>
       <description>1.
 Ole sad på en knold og sang,
-lal-la-la-la-la-la-la-la-la-la!
-får og beder omkring ham sprang.
+lal-la-la-la-la-la-la-la-la-la! får og beder omkring ham sprang.
 tral-la-la-la-la-la-la-la!
 2.
 Lyngen sused, og skyen gled,
-lal-la-la-la-la-la-la-la-la-la!
-udfugtslængsler i hjertet sved.
+lal-la-la-la-la-la-la-la-la-la! udfugtslængsler i hjertet sved.
 tral-la-la-la-la-la-la-la!
 3.
 Heden stænged, og mindet spandt,
-lal-la-la-la-la-la-la-la-la-la!
-moders øjne dog stærkest bandt.
+lal-la-la-la-la-la-la-la-la-la! moders øjne dog stærkest bandt.
 tral-la-la-la-la-la-la-la!
 4.
 Snart den ting dog blev åbenbar:
-lal-la-la-la-la-la-la-la-la-la!
-minder gør ikke sagen klar.
+lal-la-la-la-la-la-la-la-la-la! minder gør ikke sagen klar.
 tral-la-la-la-la-la-la-la!
 5.
 Stak så Ole en dag i trav,
-lal-la-la-la-la-la-la-la-la-la!
-stod med et ved det store hav.</description>
+lal-la-la-la-la-la-la-la-la-la! stod med et ved det store hav.</description>
     </item>
-    
     <item>
       <title>Op, al den ting, som Gud har gjort</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Op-al-den-ting-som-Gud-har-gjort/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Op-al-den-ting-som-Gud-har-gjort/</guid>
       <description>1.
 Op al den ting, som Gud har gjort,
@@ -3034,12 +2849,10 @@ i skove og i dale,
 hvor skulle jeg den visdom få
 om det kun ret at tale!</description>
     </item>
-    
     <item>
       <title>Papirsklip</title>
       <link>https://sangapp.unghanekoret.dk/Andre-sange/Papirsklip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Andre-sange/Papirsklip/</guid>
       <description>1.
 Når nu min verden bliver kold og forladt
@@ -3055,12 +2868,10 @@ Omkvæd
 Livet er langt, lykken er kort
 Salig er den, der tør give det bort</description>
     </item>
-    
     <item>
       <title>Påskeblomst! hvad vil du her?</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/P%C3%A5skeblomst-hvad-vil-du-her/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/P%C3%A5skeblomst-hvad-vil-du-her/</guid>
       <description>1.
 Påskeblomst! hvad vil du her?
@@ -3078,12 +2889,10 @@ med mig ud i faders have!
 Lad mig under påskesang,
 kirkeklokkens højtidsklang,</description>
     </item>
-    
     <item>
       <title>Ramund var sig en bedre mand</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Ramund-var-sig-en-bedre-mand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Ramund-var-sig-en-bedre-mand/</guid>
       <description>1.
 Ramund han var sig en bedre mand,
@@ -3096,36 +2905,32 @@ af blårgarn, bast og læder.
 Ramund gik sig ved salten søstrand,
 der så han syv jætter stande.
 &amp;ldquo;Tager jeg Ramund i min mindste hånd,
-jeg kaster ham langt fra lande.&amp;quot;
+jeg kaster ham langt fra lande.&amp;rdquo;
 &amp;ldquo;Det gør ikke ene du,&amp;rdquo; sagde Ramund,</description>
     </item>
-    
     <item>
       <title>Rap jul</title>
       <link>https://sangapp.unghanekoret.dk/Julesange/Rap-jul/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Julesange/Rap-jul/</guid>
       <description>Noter: C-dur, trestemmigt i parentes
- 1.
+1.
 Se julen fra en ands synspunkt (uh-ah-uh)
 Den er sgu ikke særlig skæg
 Bare ned med svesken og op på disken
 Så har jeg lagt mit sidste æg
 Alle går og får en lille fjer på (uh-ah-uh)
 Mens jeg bli&amp;rsquo;r rippet for hver dun
-Jeg ka&#39; ikke forstå, at de kan (aah-aah)
-Jeg ku&#39; aldrig plukke en mand
+Jeg ka&amp;rsquo; ikke forstå, at de kan (aah-aah)
+Jeg ku&amp;rsquo; aldrig plukke en mand
 2.
 Tænk hvis alle gik og tog på dig (uh-ah-uh)</description>
     </item>
-    
     <item>
       <title>Re-Sepp-ten (Vi er røde vi er hvide)</title>
-      <link>https://sangapp.unghanekoret.dk/Andre-sange/Re-Sepp-ten/</link>
+      <link>https://sangapp.unghanekoret.dk/Andre-sange/Re-sepp-ten/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangapp.unghanekoret.dk/Andre-sange/Re-Sepp-ten/</guid>
+      <guid>https://sangapp.unghanekoret.dk/Andre-sange/Re-sepp-ten/</guid>
       <description>1.
 Som den lille grimme ælling
 bli&amp;rsquo;r man rød og hvid på tælling
@@ -3142,14 +2947,49 @@ Vi står sammen, side om side.
 Vi er røde, vi er hvide
 Vi står sammen, side om side.
 3.
-Selv Olé må Luk&#39; sit øje</description>
+Selv Olé må Luk&amp;rsquo; sit øje</description>
     </item>
-    
+    <item>
+      <title>Så dyrker de korn på et alter i Chile</title>
+      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/S%C3%A5-dyrker-de-korn-p%C3%A5-et-alter-i-Chile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/S%C3%A5-dyrker-de-korn-p%C3%A5-et-alter-i-Chile/</guid>
+      <description>1.
+Så dyrker de korn på et alter i Chile.
+Så hælder de mælk i en gammel kanon.
+Så stabler de ved af forgiftede pile.
+Så planter de ris på en tabt bastion.
+2.
+Så spiller de bold med uskyldige bomber.
+Så leger de skjul i et tomt parlament.
+Så spiller de skak med de små bitte stumper
+af det, der engang var en stor præsident.
+3.
+Så dyrker de vin i den stenede Mafia.</description>
+    </item>
+    <item>
+      <title>Så tag mit hjerte</title>
+      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/S%C3%A5-tag-mit-hjerte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/S%C3%A5-tag-mit-hjerte/</guid>
+      <description>Noter:
+1.
+Så tag mit hjerte i dine hænder,
+men tag det varsomt og tag det blidt,
+det røde hjerte, ah, nu er det dit.
+2.
+Det slår så roligt, det slår så dæmpet,
+for det har elsket, og det har lidt,
+nu er det stille, ah, nu er det dit.
+3.
+Og det kan såres, og det kan segne,
+og det kan glemme og glemme tit,
+men glemmer aldrig, ah, at det er dit.</description>
+    </item>
     <item>
       <title>Sangen om sol og syrener/Vårvise</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Sangen-om-sol-og-syrener-V%C3%A5rvise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Sangen-om-sol-og-syrener-V%C3%A5rvise/</guid>
       <description>1.
 Sangen om sol og syrener
@@ -3157,7 +2997,7 @@ Våren i eksplosion
 Alt hvad som lever og forener
 Os i en egen komposition
 Omkvæd
-Gi&#39; mig kun en sang
+Gi&amp;rsquo; mig kun en sang
 Så ingen vinter går
 Uden at den minder os om
 Hvor dejligt det var
@@ -3169,15 +3009,13 @@ Jeg var som i konstant narkose
 Elskede dig med hud og hår
 Omkvæd</description>
     </item>
-    
     <item>
       <title>Sat her i forvirringstiden</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Sat-her-i-forvirringstiden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Sat-her-i-forvirringstiden/</guid>
       <description>Noter:
- 1.
+1.
 Sat her i forvirringstiden
 ungdom, galskab, kraft og ild.
 Tusindvis af søde drømme.
@@ -3185,20 +3023,18 @@ Li&amp;rsquo;så mange farer vild
 Men det er dog muligheden
 meget mer end sikkerheden.
 Altid er en slægt på vej
-og nu spør&#39; den efter dig.
+og nu spør&amp;rsquo; den efter dig.
 2.
-Vil du mer&#39; end det der vinker
+Vil du mer&amp;rsquo; end det der vinker
 hus og løn og bil og båd
 tjene ind til livets goder
 så du selv engang får råd.
 Det du køber kort kun rækker</description>
     </item>
-    
     <item>
       <title>Se dig ud en sommerdag</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Se-dig-ud-en-sommerdag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Se-dig-ud-en-sommerdag/</guid>
       <description>1.
 Se dig ud en sommerdag,
@@ -3217,12 +3053,10 @@ købstadfolk som bønder.
 Rugen med det svulne knæ
 vokser langt i bakkens læ,</description>
     </item>
-    
     <item>
       <title>Se, det summer af sol over engen</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Se-det-summer-af-sol-over-engen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Se-det-summer-af-sol-over-engen/</guid>
       <description>1.
 Se, det summer af sol over engen,
@@ -3238,18 +3072,16 @@ Der er sølvklang i majbækkens vove,
 gyldent skær gennem aftenen lang,
 hver en grøft bliver blomstrende skove</description>
     </item>
-    
     <item>
       <title>Se, hvilken morgenstund/Svantes lykkelige dag</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Se-hvilken-morgenstund-Svantes-lykkelige-dag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Se-hvilken-morgenstund-Svantes-lykkelige-dag/</guid>
       <description>1.
 Se, hvilken morgenstund!
 Solen er rød og rund.
 Nina er gået i bad.
-Jeg&#39; spiser ostemad.
+Jeg&amp;rsquo; spiser ostemad.
 Livet er ikke det værste man har
 og om lidt er kaffen klar.
 2.
@@ -3263,12 +3095,10 @@ og om lidt er kaffen klar.
 Græsset er grønt og vådt,
 Bierne har det godt.</description>
     </item>
-    
     <item>
       <title>Se, nu stiger solen af havets skød</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Se-nu-stiger-solen-af-havets-sk%C3%B8d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Se-nu-stiger-solen-af-havets-sk%C3%B8d/</guid>
       <description>1.
 Se, nu stiger solen af havets skød,
@@ -3283,12 +3113,10 @@ at mig dagen fryder, trods synd og død.
 3.
 Takke ham, som gav mig, når sol står op,</description>
     </item>
-    
     <item>
       <title>Sensommervise</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Sensommervise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Sensommervise/</guid>
       <description>Noter: Em
 1.
@@ -3311,12 +3139,10 @@ Gyldne farver og sensommerbrise
 fylder hjertet med vemodig musik,
 går og nynner en sensommervise</description>
     </item>
-    
     <item>
       <title>Septembers himmel</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Septembers-himmel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Septembers-himmel/</guid>
       <description>1.
 Septembers himmel er så blå
@@ -3335,15 +3161,13 @@ som var det sommerdage.
 Og koen rusker i sit græs
 med saften om sin mule,</description>
     </item>
-    
     <item>
       <title>Seven Drunken Nights</title>
       <link>https://sangapp.unghanekoret.dk/Irske-sange/Seven-Drunken-Nights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Irske-sange/Seven-Drunken-Nights/</guid>
       <description>Noter: D-dur
- 1.
+1.
 As I went home on Monday night as drunk as drunk could be
 I saw a horse outside the door where my old horse should be
 Well, I called me wife and said to her: Will you kindly tell to me
@@ -3353,12 +3177,10 @@ Ah, you&amp;rsquo;re drunk,
 you&amp;rsquo;re drunk you silly old fool,
 still you can not see</description>
     </item>
-    
     <item>
       <title>Should auld acquaintance be forgot</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Should-auld-acquaintance-be-forgot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Should-auld-acquaintance-be-forgot/</guid>
       <description>1.
 Should auld acquaintance be forgot
@@ -3368,22 +3190,20 @@ And auld lang syne!
 Omkvæd
 For auld lang syne, my dear,
 For auld lang syne,
-We&amp;rsquo;ll take a cup o&#39; kindness yet
+We&amp;rsquo;ll take a cup o&amp;rsquo; kindness yet
 For auld lang syne
 2.
 And surely ye&amp;rsquo;ll be your pint stowp!
 And surely I&amp;rsquo;ll be mine!
-And we&amp;rsquo;ll take a cup o&#39; kindness yet,
+And we&amp;rsquo;ll take a cup o&amp;rsquo; kindness yet,
 For auld lang syne
 Omkvæd
 For auld lang syne, my dear,</description>
     </item>
-    
     <item>
       <title>Sig månen langsomt hæver</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Sig-m%C3%A5nen-langsomt-h%C3%A6ver/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Sig-m%C3%A5nen-langsomt-h%C3%A6ver/</guid>
       <description>1.
 Sig månen langsomt hæver,
@@ -3404,12 +3224,10 @@ Betragter månens bue!
 den kun er halv at skue
 og er dog hel og rund.</description>
     </item>
-    
     <item>
       <title>Sig nærmer tiden, da jeg må væk</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Sig-n%C3%A6rmer-tiden-da-jeg-m%C3%A5-v%C3%A6k/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Sig-n%C3%A6rmer-tiden-da-jeg-m%C3%A5-v%C3%A6k/</guid>
       <description>1.
 Sig nærmer tiden, da jeg må væk,
@@ -3427,15 +3245,13 @@ Jeg skulle sjunget lidt mer måske -
 men mørke dage jeg måtte se,
 og stormen rev mine fjedre.\</description>
     </item>
-    
     <item>
       <title>Skal vi klippe vores julehjerter sammen?</title>
       <link>https://sangapp.unghanekoret.dk/Julesange/Skal-vi-klippe-vores-julehjerter-sammen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Julesange/Skal-vi-klippe-vores-julehjerter-sammen/</guid>
       <description>Noter: E-dur
- 1.
+1.
 Nu begynder julen jo at banke på,
 vi sætter hanke på
 og klipper julehjerter.
@@ -3449,12 +3265,10 @@ Jeg kan tyd’ligt høre lænkehundens glammen,
 mens de glade spurve fly’r om juleneg.
 Og hvis blot du er vaks med lidt lim og en saks,</description>
     </item>
-    
     <item>
       <title>Skipper Clements morgensang</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Skipper-Clements-morgensang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Skipper-Clements-morgensang/</guid>
       <description>1.
 Skærm jeres hus med grav og planke
@@ -3472,12 +3286,10 @@ Bønder, tømre, jyske knejte,
 nu skal vi sejre i grevens fejde
 3.</description>
     </item>
-    
     <item>
       <title>Skuld gammel venskab rejn forgo</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Skuld-gammel-venskab-rejn-forgo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Skuld-gammel-venskab-rejn-forgo/</guid>
       <description>Noter: D-dur
 1.
@@ -3491,15 +3303,13 @@ Vi&amp;rsquo;el løwt wor kop så glådle op
 for dem daw så læng, læng sind!*
 2.
 Og gi så kuns de glajs en top
-og vend en med di kaw&#39;.
+og vend en med di kaw&amp;rsquo;.
 Vi&amp;rsquo;el ta ino en jenle kop</description>
     </item>
-    
     <item>
       <title>Sneflokke kommer vrimlende</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Sneflokke-kommer-vrimlende/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Sneflokke-kommer-vrimlende/</guid>
       <description>1.
 Sneflokke kommer vrimlende,
@@ -3517,15 +3327,13 @@ og over stakke-grønningen
 omtrimler kærv og neg,
 det klaprer én om ørene
 fra portene og dørene,
-bag hvilke de små Sørene&#39;
+bag hvilke de små Sørene&amp;rsquo;
 har rustet sig til leg.</description>
     </item>
-    
     <item>
       <title>Sol er oppe/Bjarkemålets efterklang</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Sol-er-oppe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Sol-er-oppe/</guid>
       <description>1.
 Sol er oppe, skovens toppe
@@ -3545,12 +3353,10 @@ Vågner! ej til gammens tale,
 vin og smil i kongesale!
 Hildurs leg er nu for hånd,</description>
     </item>
-    
     <item>
       <title>Solen begynder at gløde</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Solen-begynder-at-gl%C3%B8de/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Solen-begynder-at-gl%C3%B8de/</guid>
       <description>1.
 Solen begynder at gløde.
@@ -3571,12 +3377,10 @@ Dagen er dirrende ny.
 Markerne dufter at(f?) lykke.
 Streåene bølger så småt.</description>
     </item>
-    
     <item>
       <title>Solen er så rød, mor</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Solen-er-s%C3%A5-r%C3%B8d-mor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Solen-er-s%C3%A5-r%C3%B8d-mor/</guid>
       <description>1.
 Solen er så rød, mor
@@ -3595,12 +3399,10 @@ på stjernen i det blå ?
 Tror du der er drenge, mor
 der kigger ned på mig ?</description>
     </item>
-    
     <item>
       <title>Som sol der rammer klodernes gang</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Som-sol-der-rammer-klodernes-gang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Som-sol-der-rammer-klodernes-gang/</guid>
       <description>1.
 Som sol der rammer klodernes gang
@@ -3621,15 +3423,31 @@ For hjertesprog er kærlighedssang
 og tonerne får det givet
 en fryd der bærer tidens gang.</description>
     </item>
-    
+    <item>
+      <title>Søren Banjomus</title>
+      <link>https://sangapp.unghanekoret.dk/Julesange/S%C3%B8ren-Banjomus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sangapp.unghanekoret.dk/Julesange/S%C3%B8ren-Banjomus/</guid>
+      <description>Omkvæd
+Skillema-dinka-dinka-du, skillema-dinka-du
+Hør på Søren Banjomus, han spiller nemlig nu
+Skillema-dinka-dinka-du, skillema-dinka-du
+Kom og syng og dans med os, det syn&amp;rsquo;s vi, at I sku&amp;rsquo;
+Vi glæder os til juleaften, så bli&amp;rsquo;r træet tændt
+Og vi får fine julegaver, ih, hvor er vi spændt
+Skillema-dinka-dinka-du, skillema-dinka-du
+Bar&amp;rsquo; det altså snart var jul
+1.
+På loftet sidder nissen, ham, I ved, der er så sød
+Han er så mæt, for han har spist et stort fad julegrød</description>
+    </item>
     <item>
       <title>Sov nu sødt</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Sov-nu-s%C3%B8dt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Sov-nu-s%C3%B8dt/</guid>
       <description>Noter:
- 1.
+1.
 Sov nu sødt
 læg dig roligt til hvile her
 under skovens træer
@@ -3644,15 +3462,13 @@ under skovens træer
 føles jorden nær
 klokkernes klang
 ved solnedgang
-tanker som ingen rør&#39; lukker engle ind
+tanker som ingen rør&amp;rsquo; lukker engle ind
 lukker engle ind.</description>
     </item>
-    
     <item>
       <title>Spurven sidder stum bag kvist</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Spurven-sidder-stum-bag-kvist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Spurven-sidder-stum-bag-kvist/</guid>
       <description>1.
 Spurven sidder stum bag kvist;
@@ -3673,12 +3489,10 @@ Far mod stuen stiler,
 mor en bugt på tråden slår
 ser op på far og smiler.</description>
     </item>
-    
     <item>
       <title>Star of the County Down</title>
       <link>https://sangapp.unghanekoret.dk/Irske-sange/Star-of-the-County-Down/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Irske-sange/Star-of-the-County-Down/</guid>
       <description>1.
 In Banbridge Town in the County Down
@@ -3692,15 +3506,13 @@ For to see I was really there
 Omkvæd
 From Bantry Bay up to Derry Quay and</description>
     </item>
-    
     <item>
       <title>Stille, hjerte, sol går ned</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Stille-hjerte-sol-g%C3%A5r-ned/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Stille-hjerte-sol-g%C3%A5r-ned/</guid>
       <description>Noter:
- 1.
+1.
 Stille, hjerte, sol går ned,
 sol går ned på heden,
 dyr går hjem fra dagens béd,
@@ -3719,15 +3531,13 @@ før den under frytlens tag
 folder vingen sammen.
 Stille, stille, hjerte, sol går ned.</description>
     </item>
-    
     <item>
       <title>Susanne, Birgitte og Hanne</title>
       <link>https://sangapp.unghanekoret.dk/Andre-sange/Susanne-Birgitte-og-Hanne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Andre-sange/Susanne-Birgitte-og-Hanne/</guid>
       <description>Noter: Eb-dur
- 1.
+1.
 Alle sømænd er glade for piger,
 men min skat, Du kan stole på mig.
 Det er fuldstændig sandt, når jeg siger,
@@ -3741,15 +3551,13 @@ og Anne-Merete og Molly og Lis.
 Alle sømænd ta’r ud i det fjerne,
 Du skal vide - om natten, når jeg</description>
     </item>
-    
     <item>
       <title>Svantes svanesang</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Svantes-svanesang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Svantes-svanesang/</guid>
       <description>Noter:
- 1.
+1.
 Timerne føles så korte,
 ingenting varer ved.
 Mor jer nu godt, når jeg er borte.
@@ -3765,39 +3573,35 @@ og uden bitterhed.
 Mor jer nu godt når jeg er borte.
 Jeg ønsker jer sange og kærlighed.</description>
     </item>
-    
     <item>
       <title>Swing Low, Sweet Chariot</title>
       <link>https://sangapp.unghanekoret.dk/Gospel/Swing-Low-Sweet-Chariot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Gospel/Swing-Low-Sweet-Chariot/</guid>
       <description>Noter: G-dur
- Omkvæd
-Swing low, sweet chariot
-Comin&#39; for to carry me home
-Swing low, sweet chariot
-Comin&#39; for to carry me home
-1.
-I looked over Jordan, and what did I see
-Comin&#39; for to carry me home
-A band of angels comin&#39; after me
-Comin&#39; for to carry me home
 Omkvæd
 Swing low, sweet chariot
-Comin&#39; for to carry me home
+Comin&amp;rsquo; for to carry me home
 Swing low, sweet chariot
-Comin&#39; for to carry me home</description>
+Comin&amp;rsquo; for to carry me home
+1.
+I looked over Jordan, and what did I see
+Comin&amp;rsquo; for to carry me home
+A band of angels comin&amp;rsquo; after me
+Comin&amp;rsquo; for to carry me home
+Omkvæd
+Swing low, sweet chariot
+Comin&amp;rsquo; for to carry me home
+Swing low, sweet chariot
+Comin&amp;rsquo; for to carry me home</description>
     </item>
-    
     <item>
       <title>Syv kjoler for synligheden</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Syv-kjoler-for-synligheden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Syv-kjoler-for-synligheden/</guid>
       <description>Noter:
- 1.
+1.
 Jeg syr en kjole, som kan bæres
 stolt af den, der fødes med en
 tillidsgnist i hjertets kar, den
@@ -3810,55 +3614,13 @@ Jeg syr en kjole, som kan bæres
 tyst af frygtens nye offer,
 den kan passe stor og lille,
 skjuler ikke sårbarhed, som
-flokkevis af fugle jages</description>
+flokkevis af fugle jages
+ud af træets tætte krone,</description>
     </item>
-    
-    <item>
-      <title>Så dyrker de korn på et alter i Chile</title>
-      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/S%C3%A5-dyrker-de-korn-p%C3%A5-et-alter-i-Chile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/S%C3%A5-dyrker-de-korn-p%C3%A5-et-alter-i-Chile/</guid>
-      <description>1.
-Så dyrker de korn på et alter i Chile.
-Så hælder de mælk i en gammel kanon.
-Så stabler de ved af forgiftede pile.
-Så planter de ris på en tabt bastion.
-2.
-Så spiller de bold med uskyldige bomber.
-Så leger de skjul i et tomt parlament.
-Så spiller de skak med de små bitte stumper
-af det, der engang var en stor præsident.
-3.
-Så dyrker de vin i den stenede Mafia.</description>
-    </item>
-    
-    <item>
-      <title>Så tag mit hjerte</title>
-      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/S%C3%A5-tag-mit-hjerte/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/S%C3%A5-tag-mit-hjerte/</guid>
-      <description>Noter:
- 1.
-Så tag mit hjerte i dine hænder,
-men tag det varsomt og tag det blidt,
-det røde hjerte, ah, nu er det dit.
-2.
-Det slår så roligt, det slår så dæmpet,
-for det har elsket, og det har lidt,
-nu er det stille, ah, nu er det dit.
-3.
-Og det kan såres, og det kan segne,
-og det kan glemme og glemme tit,
-men glemmer aldrig, ah, at det er dit.</description>
-    </item>
-    
     <item>
       <title>Tears in Heaven/Would you know my name</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Tears-In-Heaven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Tears-In-Heaven/</guid>
       <description>Would you know my name
 If I saw you in heaven?
@@ -3876,15 +3638,13 @@ I&amp;rsquo;ll find my way
 Through night and day
 &amp;lsquo;Cause I know I just can&amp;rsquo;t stay</description>
     </item>
-    
     <item>
       <title>The Fields of Athenry</title>
       <link>https://sangapp.unghanekoret.dk/Irske-sange/The-Fields-of-Athenry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Irske-sange/The-Fields-of-Athenry/</guid>
       <description>Noter: F-dur, trestemmig i a capella omkvæd (TMB)
- 1.
+1.
 By a lonely prison wall,
 I heard a young girl calling
 Michael, they have taken you away,
@@ -3896,15 +3656,13 @@ Low lie the fields of Athenry
 Where once we watched the small free birds fly
 Our love was on the wing, we had dreams and songs to sing</description>
     </item>
-    
     <item>
       <title>The Sound of Silence</title>
       <link>https://sangapp.unghanekoret.dk/Andre-sange/The-Sound-of-Silence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Andre-sange/The-Sound-of-Silence/</guid>
       <description>Noter: C#-mol, trestemmigt i omkvæd (TMB)
- 1.
+1.
 Hello darkness, my old friend
 I&amp;rsquo;ve come to talk with you again
 Because a vision softly creeping
@@ -3918,15 +3676,13 @@ Narrow streets of cobblestone
 &amp;lsquo;Neath the halo of a streetlamp
 I turned my collar to the cold and damp</description>
     </item>
-    
     <item>
       <title>The Town I Loved So Well</title>
       <link>https://sangapp.unghanekoret.dk/Irske-sange/The-Town-I-Loved-So-Well/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Irske-sange/The-Town-I-Loved-So-Well/</guid>
       <description>Noter:
- 1.
+1.
 In my memory I will always see
 The town that I have loved so well
 Where the school played ball by the gasyard wall
@@ -3934,17 +3690,16 @@ And we laughed through the smoke and the smell
 Going home in the rain running up the dark lane
 Past the jail and down behind the fountain
 Those were happy days in so many, many ways
-In the town I loved so well</description>
+In the town I loved so well
+2.</description>
     </item>
-    
     <item>
       <title>The Wild Rover</title>
       <link>https://sangapp.unghanekoret.dk/Irske-sange/The-Wild-Rover/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Irske-sange/The-Wild-Rover/</guid>
       <description>Noter: F-dur, trestemmigt omkvæd (TMB)
- 1.
+1.
 I&amp;rsquo;ve been a wild rover for many&amp;rsquo;s a year,
 And I&amp;rsquo;ve spent all my money on whiskey and beer
 And now I&amp;rsquo;m returning with gold in great store,
@@ -3957,15 +3712,13 @@ No, never, no more
 2.
 I went to an ale-house I used to frequent,</description>
     </item>
-    
     <item>
       <title>This Little Light of Mine</title>
       <link>https://sangapp.unghanekoret.dk/Gospel/This-Little-Light-of-Mine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Gospel/This-Little-Light-of-Mine/</guid>
       <description>Noter: G-dur
- 1.
+1.
 This little light of mine, I&amp;rsquo;m gonna let it shine.
 This little light of mine, I&amp;rsquo;m gonna let it shine.
 This little light of mine, I&amp;rsquo;m gonna let it shine.
@@ -3975,15 +3728,13 @@ Shine all over the world, I&amp;rsquo;m gonna let it shine.
 Shine all over the world, I&amp;rsquo;m gonna let it shine.
 Shine all over the world, I&amp;rsquo;m gonna let it shine.</description>
     </item>
-    
     <item>
       <title>Tidlig vår</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Tidlig-v%C3%A5r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Tidlig-v%C3%A5r/</guid>
       <description>Noter:
- 1.
+1.
 Vintergæk er brudt af mulden,
 brudt af mulden,
 kækt erantis trodser kulden.
@@ -4002,17 +3753,16 @@ under armen, hopper pogen.
 3.
 Søster med en gylden fletning,
 gylden fletning,
-tankefuld forandrer retning,</description>
+tankefuld forandrer retning,
+med et stort og skyldfrit blik,</description>
     </item>
-    
     <item>
       <title>Tilgi&#39; jeg sir et letsindigt ord</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Tilgi-jeg-sir-et-letsindigt-ord/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Tilgi-jeg-sir-et-letsindigt-ord/</guid>
       <description>1.
-Tilgi&#39; jeg sir et letsindigt ord.
+Tilgi&amp;rsquo; jeg sir et letsindigt ord.
 Det er klogt at De forstår det straks.
 Bare en hyldest til denne jord.
 For vi har jo kun den samme slags.
@@ -4025,12 +3775,10 @@ er hver time dyr,
 hvert sekund, et dyrt sekund.
 Du glemmer vel ikke at årene ry&amp;rsquo;r.</description>
     </item>
-    
     <item>
       <title>Tit er jeg glad</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Tit-er-jeg-glad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Tit-er-jeg-glad/</guid>
       <description>Noter: D-mol, andenstemme
 1.
@@ -4046,15 +3794,13 @@ thi det er dårer, som jeg harmes på.
 3.
 Tit er jeg varm, og isner i min varme;</description>
     </item>
-    
     <item>
       <title>To lys på et bord</title>
       <link>https://sangapp.unghanekoret.dk/Andre-sange/To-lys-p%C3%A5-et-bord/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Andre-sange/To-lys-p%C3%A5-et-bord/</guid>
       <description>Noter: D-dur
- A-stykke
+A-stykke
 To lys på et bord
 tre forløsende ord
 fire glas fyldt med ungdommens mod.
@@ -4071,12 +3817,10 @@ har vi glemt midt i tidens jag.
 B-stykke
 Hvordan er det sket?</description>
     </item>
-    
     <item>
       <title>Tunge, mørke natteskyer</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Tunge-m%C3%B8rke-natteskyer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Tunge-m%C3%B8rke-natteskyer/</guid>
       <description>1.
 Tunge, mørke natteskyer
@@ -4096,15 +3840,61 @@ Hold mig med din faderhånd,
 så jeg dig fornemmer;
 fri mig ud af mørkets bånd,</description>
     </item>
-    
+    <item>
+      <title>Vær velkommen, herrens år (advent)</title>
+      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/V%C3%A6r-velkommen-herrens-%C3%A5r-advent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/V%C3%A6r-velkommen-herrens-%C3%A5r-advent/</guid>
+      <description>Noter:
+1.
+Vær velkommen, Herrens år,
+og velkommen herhid!
+Julenat, da vor Herre blev fød,
+da tændte sig lyset i mørkets skød.
+Velkommen, nytår, og velkommen her!
+2.
+Vær velkommen, Herrens år,
+og velkommen herhid!
+Påskemorgen, da Herren opstod,
+da livstræet fæsted i graven rod.
+Velkommen, nytår, og velkommen her!
+3.
+Vær velkommen, Herrens år,
+og velkommen herhid!
+Pinsedag, da Guds Ånd kom herned,
+da nedsteg Guds kraft til vor skrøbelighed.</description>
+    </item>
+    <item>
+      <title>Vær velkommen, herrens år (nytår)</title>
+      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/V%C3%A6r-velkommen-herrens-%C3%A5r-nyt%C3%A5r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/V%C3%A6r-velkommen-herrens-%C3%A5r-nyt%C3%A5r/</guid>
+      <description>Noter:
+1.
+Vær velkommen, Herrens år,
+og velkommen herhid!
+Sandheds Gud! lad dit hellige ord
+oplive, oplyse det høje Nord!
+Velkommen, nytår, og velkommen her!
+2.
+Vær velkommen, Herrens år,
+og velkommen herhid!
+Nådens Gud! lad dit solskin i vår
+os skænke på marken et gyldent år!
+Velkommen, nytår, og velkommen her!
+3.
+Vær velkommen, Herrens år,
+og velkommen herhid!
+Fredens Gud! den livsalige fred
+du skænke vort land til at blomstres ved!</description>
+    </item>
     <item>
       <title>Velkommen i den grønne lund</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Velkommen-i-den-gr%C3%B8nne-lund/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Velkommen-i-den-gr%C3%B8nne-lund/</guid>
       <description>Noter:
- 1.
+1.
 Velkommen i den grønne lund,
 hvor fuglene de sjunge!
 det høres skal: den danske mund
@@ -4120,15 +3910,13 @@ hvert andet barn i Dannevang
 forstår halvkvæden vise.
 For, hvad vi fattes først og sidst</description>
     </item>
-    
     <item>
       <title>Vem kan segla förutan vind</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Vem-kan-segla-f%C3%B6rutan-vind/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Vem-kan-segla-f%C3%B6rutan-vind/</guid>
       <description>Noter:
- 1.
+1.
 Vem kan segla förutan vind?
 Vem kan ro utan åror?
 Vem kan skiljas från vännen sin
@@ -4139,15 +3927,13 @@ jag kan ro utan åror,
 men ej skiljas från vännen min
 utan att fälla tårar?</description>
     </item>
-    
     <item>
       <title>Verden er våd og lys</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Verden-er-v%C3%A5d-og-lys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Verden-er-v%C3%A5d-og-lys/</guid>
       <description>Noter:
- 1.
+1.
 Verden er våd og lys -
 himlen er tung af væde &amp;hellip;
 Hjertet er tungt, hjertet er tungt,
@@ -4155,12 +3941,10 @@ Hjertet er tungt af lykke,
 lykkeligt nær, lykkeligt nær,
 lykkeligt nær ved at græde.</description>
     </item>
-    
     <item>
       <title>Vi elsker vort land</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Vi-elsker-vort-land/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Vi-elsker-vort-land/</guid>
       <description>1.
 Vi elsker vort land,
@@ -4175,15 +3959,13 @@ vi kranser dit navn, når vor høst er i lade,
 bli&amp;rsquo;r dog din, sankte Hans,
 den er bunden af sommerens hjerter så varme, så glade.</description>
     </item>
-    
     <item>
       <title>Vi galer for Danmark</title>
       <link>https://sangapp.unghanekoret.dk/Copyright-vores-allesammens-Oskar-Jefsen/Vi-galer-for-Danmark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Copyright-vores-allesammens-Oskar-Jefsen/Vi-galer-for-Danmark/</guid>
       <description>Noter: Trestemmigt omkvæd (TMB)
- 1.
+1.
 Så den gal i Danmark nu igen
 Vort lille land er ramt af fodboldfeber
 Sendt mod øst er vores bedste mænd
@@ -4198,15 +3980,13 @@ Vi synger i flok
 I rød-hvide farver
 Gør vi klar til at gå amok</description>
     </item>
-    
     <item>
       <title>Vi ser det i de klare nætters himmel</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Vi-ser-det-i-de-klare-n%C3%A6tters-himmel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Vi-ser-det-i-de-klare-n%C3%A6tters-himmel/</guid>
       <description>Noter: Morgensang skrevet til Grundtvigs Højskole.
- 1.
+1.
 Vi ser det i de klare nætters himmel,
 vor sol, en stjerne i galaksens vrimmel,
 og lyset strømmer gennem vor pupil,
@@ -4218,12 +3998,10 @@ nu svinder lyset i de store byer,
 mens jorden langsomt drejer frem mod øst.
 Belyst bli&amp;rsquo;r fjerne bølger, kyst bag kyst,</description>
     </item>
-    
     <item>
       <title>Vi, der valgte regnen</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Vi-der-valgte-regnen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Vi-der-valgte-regnen/</guid>
       <description>1.
 Vi, der valgte regnen,
@@ -4242,15 +4020,13 @@ Vi, der valgte landet,
 har lidt evig jord i lommen
 og på vore ellesko.</description>
     </item>
-    
     <item>
       <title>Vila vid denna källa</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Vila-vid-denna-k%C3%A4lla/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/Vila-vid-denna-k%C3%A4lla/</guid>
       <description>Noter:
- 1.
+1.
 Vila vid denna källa!
 Vår lilla frukost vi framställa;
 rött vin med pimpinella
@@ -4269,64 +4045,10 @@ hör, våra valthorns klang, kusin,
 Präktigt på fältet pråla
 än hingsten med sitt sto och fåla,</description>
     </item>
-    
-    <item>
-      <title>Vær velkommen, herrens år (advent)</title>
-      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/V%C3%A6r-velkommen-herrens-%C3%A5r-advent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/V%C3%A6r-velkommen-herrens-%C3%A5r-advent/</guid>
-      <description>Noter:
- 1.
-Vær velkommen, Herrens år,
-og velkommen herhid!
-Julenat, da vor Herre blev fød,
-da tændte sig lyset i mørkets skød.
-Velkommen, nytår, og velkommen her!
-2.
-Vær velkommen, Herrens år,
-og velkommen herhid!
-Påskemorgen, da Herren opstod,
-da livstræet fæsted i graven rod.
-Velkommen, nytår, og velkommen her!
-3.
-Vær velkommen, Herrens år,
-og velkommen herhid!
-Pinsedag, da Guds Ånd kom herned,
-da nedsteg Guds kraft til vor skrøbelighed.</description>
-    </item>
-    
-    <item>
-      <title>Vær velkommen, herrens år (nytår)</title>
-      <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/V%C3%A6r-velkommen-herrens-%C3%A5r-nyt%C3%A5r/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/V%C3%A6r-velkommen-herrens-%C3%A5r-nyt%C3%A5r/</guid>
-      <description>Noter:
- 1.
-Vær velkommen, Herrens år,
-og velkommen herhid!
-Sandheds Gud! lad dit hellige ord
-oplive, oplyse det høje Nord!
-Velkommen, nytår, og velkommen her!
-2.
-Vær velkommen, Herrens år,
-og velkommen herhid!
-Nådens Gud! lad dit solskin i vår
-os skænke på marken et gyldent år!
-Velkommen, nytår, og velkommen her!
-3.
-Vær velkommen, Herrens år,
-og velkommen herhid!
-Fredens Gud! den livsalige fred
-du skænke vort land til at blomstres ved!</description>
-    </item>
-    
     <item>
       <title>When the Saints Go Marching In</title>
       <link>https://sangapp.unghanekoret.dk/Gospel/When-the-Saints-Go-Marching-In/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Gospel/When-the-Saints-Go-Marching-In/</guid>
       <description>Noter: Synges trestemmigt (TMB)
 1.
@@ -4342,16 +4064,14 @@ When the saints go marching in
 3.
 When the moon turns red with blood</description>
     </item>
-    
     <item>
       <title>Whiskey in the Jar</title>
       <link>https://sangapp.unghanekoret.dk/Irske-sange/Whiskey-in-the-Jar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Irske-sange/Whiskey-in-the-Jar/</guid>
       <description>Noter: D dur
- 1.
-As I was a goin&#39; over the far famed Kerry mountains
+1.
+As I was a goin&amp;rsquo; over the far famed Kerry mountains
 I met with captain Farrell and his money he was counting
 I first produced me pistol and then produced me rapier
 Saying &amp;ldquo;Stand and deliver&amp;rdquo; for he were a foul deceiver
@@ -4363,15 +4083,13 @@ There&amp;rsquo;s whiskey in the jar
 2.
 I counted out his money and it made a pretty penny</description>
     </item>
-    
     <item>
       <title>Will the Circle Be Unbroken</title>
       <link>https://sangapp.unghanekoret.dk/Gospel/Will-the-Circle-Be-Unbroken/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Gospel/Will-the-Circle-Be-Unbroken/</guid>
       <description>Noter: G-dur, 3-stemmigt
- 1.
+1.
 I was standing by my window,
 On one cold and cloudy day
 When I saw that hearse come rolling
@@ -4386,12 +4104,10 @@ I said to that undertaker
 undertaker please drive slow
 for this lady you are carrying</description>
     </item>
-    
     <item>
       <title>With a Little Help from My Friends</title>
       <link>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/With-a-Little-Help-from-My-Friends/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/H%C3%B8jskolesangbogen/With-a-Little-Help-from-My-Friends/</guid>
       <description>A.
 What would you think if I sang out of tune
@@ -4402,26 +4118,5 @@ Oh I get by with a little help from my friends
 Mm I get high with a little help from my friends
 Mm gonna try with a little help from my friends</description>
     </item>
-    
-    <item>
-      <title>Æselsangen</title>
-      <link>https://sangapp.unghanekoret.dk/Andre-sange/%C3%86selsangen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangapp.unghanekoret.dk/Andre-sange/%C3%86selsangen/</guid>
-      <description>1.
-Langøret æsel trækker sin herre
-hjem i en hoppende, slingrende kærre
-gennem vandet, over marker, under sydens varme sol.
-Så lille æsel, lad vær&#39; og jage.
-Spar dine ben, vi har langt igen.
-Haster det med at komme tilbage?
-Ingen vil vinke til os, min ven.
-Så bare bare bare ta&#39; det roligt
-og gi&#39; dig god tid, vi når det nok.
-Hør stille stille kirkeklokkers ringen,
-os venter ingen, vi når det nok.</description>
-    </item>
-    
   </channel>
 </rss>

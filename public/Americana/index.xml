@@ -5,15 +5,15 @@
     <link>https://sangapp.unghanekoret.dk/americana/</link>
     <description>Recent content in Americanas on Unghanekorets sangsamling</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>da-dk</language><atom:link href="https://sangapp.unghanekoret.dk/americana/index.xml" rel="self" type="application/rss+xml" />
+    <language>da-dk</language>
+    <atom:link href="https://sangapp.unghanekoret.dk/americana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oh Shenandoah</title>
       <link>https://sangapp.unghanekoret.dk/Americana/Oh-Shenandoah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://sangapp.unghanekoret.dk/Americana/Oh-Shenandoah/</guid>
       <description>Noter: D-dur
- 1.
+1.
 Oh Shenandoah, I long to see you
 Away you rolling river.
 Oh Shenandoah, I long to see you
@@ -30,6 +30,5 @@ Tis seven years, since I last saw thee
 Away you rolling river
 Tis seven years, since I last saw thee</description>
     </item>
-    
   </channel>
 </rss>
