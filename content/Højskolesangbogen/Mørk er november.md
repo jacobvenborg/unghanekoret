@@ -7,10 +7,9 @@ nummer_v19: "371"
 tema: "Året - tidlig vinter"
 ---
 
-*Noter: tekst/melodi synges 3 gange\
-1\. gang:  a cappella\
-2\. gang: nynnes med lukket mund "hmm"\
-3\. gang: normalt*
+*Noter: 2 hele rundgange\
+1\. rundgang:  a cappella\
+2\. rundgang: 1. halvdel nynnes med lukket mund "hmm", 2. halvdel synges normalt (fra "synge vil vi")\
 
 ***
 

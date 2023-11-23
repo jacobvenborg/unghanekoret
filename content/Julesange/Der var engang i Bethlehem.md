@@ -16,20 +16,20 @@ og du skal vide at:\
 Jordens børn for evig tid\
 vil mindes denne nat
 
-2\.\
+Omkvæd\
 Nat blev til dag og alt blev lyst\
 og glæden ny og stor\
 På denne første julenat\
 hvor der blev fred på jord
 
-3\.\
+2\.\
 En hyrde hviled' med sin flok\
 og så et stjerneskud.\
 En sang så smuk fortalte ham\
 at himlens engel var nær.
 
-4\.\
-Joseg of Marie red\
+3\.\
+Josef og Marie red\
 afsted til Bethlehem.\
 Men der var intet sted at bo\
 da de endelig nåede frem
