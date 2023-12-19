@@ -4,7 +4,7 @@ tekst: "The Dubliners, 1967"
 melodi: "The Dubliners, 1967"
 categories: "Irske sange"
 ---
-*Noter: G-dur, 2 og 2 skiftes til at synge 1 vers*
+*Noter: G-dur, 2 og 2 skiftes til at synge 1 vers (fraset 1. vers)*
 
 ***
 

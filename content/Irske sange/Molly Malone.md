@@ -16,12 +16,7 @@ As she wheeled her wheel-barrow,\
 Through streets broad and narrow,\
 Crying, "Cockles and mussels, alive, alive, oh!"
 
-Omkvæd\
-Alive, alive, oh,\
-Alive, alive, oh,\
-Crying "cockles and mussels, alive, alive, oh"
-
-Omkvæd\
+Omkvæd  x 2\
 Alive, alive, oh,\
 Alive, alive, oh,\
 Crying "cockles and mussels, alive, alive, oh"
@@ -34,15 +29,10 @@ And they each wheeled their barrow,\
 Through streets broad and narrow,\
 Crying, "Cockles and mussels, alive, alive, oh!"
 
-Omkvæd\
+Omkvæd  x 2\
 Alive, alive, oh,\
 Alive, alive, oh,\
 Crying "cockles and mussels, alive, alive, oh"
-
-Omkvæd\
-Alive, alive, oh,\
-Alive, alive, oh,\
-Crying "cockles and mussels, alive, alive, oh"\
 
 
 3\. (Uh-kor kommer først i sidste halvdel)\
@@ -53,12 +43,7 @@ Now her ghost wheels her barrow,\
 Through streets broad and narrow,\
 Crying, "Cockles and mussels, alive, alive, oh!"
 
-Omkvæd\
-Alive, alive, oh,\
-Alive, alive, oh,\
-Crying "cockles and mussels, alive, alive, oh"\
-
-Omkvæd\
+Omkvæd  x 2\
 Alive, alive, oh,\
 Alive, alive, oh,\
 Crying "cockles and mussels, alive, alive, oh"
