@@ -2,12 +2,10 @@
 title: "Det er idag et vejr"
 tekst: "Ludvig Holstein, 1895"
 melodi: "Poul Schierbeck, 1939"
+toneart: "C-dur"
 nummer_v18: "266"
 tema: "Året – tidligt forår"
 ---
-*Noter: C-dur*
-
-***
 
 1\.\
 Det er i dag et vejr, et solskinsvejr!\

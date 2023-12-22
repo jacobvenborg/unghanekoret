@@ -2,10 +2,8 @@
 title: "This Little Light of Mine"
 tekst: "Harry Dixon Loes, 1920"
 melodi: "Harry Dixon Loes, 1920"
+toneart: "G-dur"
 ---
-*Noter: G-dur*
-
-***
 
 1\.\
 This little light of mine, I'm gonna let it shine.\

@@ -2,10 +2,8 @@
 title: "Swing Low, Sweet Chariot"
 tekst: "Gammel negroid spirituel sang"
 melodi: "Gammel negroid spirituel sang"
+toneart: "G-dur"
 ---
-*Noter: G-dur*
-
-***
 
 Omkvæd\
 Swing low, sweet chariot\

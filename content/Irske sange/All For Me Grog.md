@@ -2,9 +2,10 @@
 title: "All For Me Grog"
 tekst: "The Dubliners, 1967"
 melodi: "The Dubliners, 1967"
+toneart: "G-dur"
 categories: "Irske sange"
 ---
-*Noter: G-dur, 2 og 2 skiftes til at synge 1 vers (fraset 1. vers)*
+*Noter: 2 og 2 skiftes til at synge 1 vers (fraset 1. vers)*
 
 ***
 

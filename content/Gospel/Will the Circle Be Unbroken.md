@@ -2,9 +2,10 @@
 title: "Will the Circle Be Unbroken"
 tekst: "Ada R. Habershon, 1907"
 melodi: "Charles H. Gabriel, 1907"
+toneart: "G-dur"
 categories: "Gospel"
 ---
-*Noter: G-dur, 3-stemmigt*
+*Noter: 3-stemmigt*
 
 ***
 1\.\

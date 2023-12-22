@@ -3,8 +3,9 @@ title: "Rap jul"
 categories: "Julesange"
 tekst: "Shu-bi-dua, 1973"
 melodi: "Shu-bi-dua, 1973"
+toneart: "C-dur"
 ---
-*Noter: C-dur, trestemmigt i parentes*
+*Noter: trestemmigt i parentes*
 
 ***
 

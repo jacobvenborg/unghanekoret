@@ -2,9 +2,10 @@
 title: "Når du ser et stjerneskud"
 tekst: "Leigh Harline & Ned Washington, 1940. Dansk tekst ved Mogens Dam"
 melodi: "Leigh Harline & Ned Washington, 1940"
+toneart: "Db-dur"
 categories: "Julesange"
 ---
-*Noter: Db-dur, A-stykke starter på Ab*
+*Noter: A-stykke starter på Ab*
 
 ***
 

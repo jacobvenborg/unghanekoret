@@ -2,9 +2,10 @@
 title: "I’ll Tell Me Ma"
 tekst: "Ukendt"
 melodi: "Ukendt"
+toneart: "F-dur"
 categories: "Irske sange"
 ---
-*Noter: F-dur, trestemmigt omkvæd (TMB)*
+*Noter: trestemmigt omkvæd (TMB)*
 
 ***
 

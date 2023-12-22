@@ -2,11 +2,9 @@
 title: "Seven Drunken Nights"
 tekst: "Ukendt"
 melodi: "Folkemelodi. Gjort populært af The Dubliners, 1967"
+toneart: "D-dur"
 categories: "Irske sange"
 ---
-*Noter: D-dur*
-
-***
 
 1\.\
 As I went home on Monday night as drunk as drunk could be\

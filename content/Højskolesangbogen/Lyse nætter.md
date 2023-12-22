@@ -2,12 +2,10 @@
 title: "Lyse nætter"
 tekst: "Alberte, 1991"
 melodi: "Alberte, 1991"
+toneart: "F-dur"
 nummer_v19: "321"
 tema: "Året"
 ---
-*Noter: F-dur*
-
-***
 
 1\.\
 Nu kommer fuglene igen,\

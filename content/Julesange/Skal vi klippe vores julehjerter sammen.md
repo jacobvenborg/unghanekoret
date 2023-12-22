@@ -2,11 +2,9 @@
 title: "Skal vi klippe vores julehjerter sammen?"
 tekst: "Erik Leth, 1964 (?)"
 melodi: "Bjarne Høyer, 1964 (?)"
+toneart: "E-dur"
 categories: "Julesange"
 ---
-*Noter: E-dur*
-
-***
 
 1\.\
 Nu begynder julen jo at banke på,\

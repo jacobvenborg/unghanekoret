@@ -2,9 +2,10 @@
 title: "The Wild Rover"
 tekst: "Ukendt, 1500-tallet"
 melodi: "muligvis The Dubliners, 1964"
+toneart: "F-dur"
 categories: "Irske sange"
 ---
-*Noter: F-dur, trestemmigt omkvæd (TMB)*
+*Noter: trestemmigt omkvæd (TMB)*
 
 ***
 

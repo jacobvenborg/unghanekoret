@@ -2,11 +2,12 @@
 title: "Lille Messias"
 tekst: "Johannes Møllehave, 1989"
 melodi: "Anne Linnet, 1989"
+toneart: "A-dur"
 nummer_v18: "N/A"
 nummer_v19: "258"
 tema: "Jul"
 ---
-*A-dur, tre-stemmigt "Messias"*
+*Noter: tre-stemmigt "Messias"*
 
 ***
 

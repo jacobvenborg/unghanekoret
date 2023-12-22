@@ -3,11 +3,8 @@ title: "Gem et lille smil til det bli’r gråvejr"
 categories: "Andre sange"
 tekst: "Dansk tekst af Gustav Winckler, 1975"
 melodi: "Ken Lane, 1947"
+toneart: "Eb-dur"
 ---
-
-*Noter: Eb-dur*
-
-***
 
 A-stykke\
 Gem et lille smil til det bli’r gråvejr\

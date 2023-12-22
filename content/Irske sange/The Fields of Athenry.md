@@ -2,9 +2,10 @@
 title: "The Fields of Athenry"
 tekst: "Pete St. John, 1970’erne"
 melodi: "Ukendt"
+toneart: "F-dur"
 categories: "Irske sange"
 ---
-*Noter: F-dur, trestemmig i a capella omkvæd (TMB)*
+*Noter: trestemmig i a capella omkvæd (TMB)*
 
 ***
 

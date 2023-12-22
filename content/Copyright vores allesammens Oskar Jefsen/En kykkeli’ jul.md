@@ -2,8 +2,9 @@
 title: "En kykkeli’ jul"
 tekst: "Oskar Jefsen, 2017"
 melodi: "Oskar Jefsen, 2017"
+toneart: "F-dur"
 ---
-*Noter: F-dur, trestemmigt omkvæd (TMB)*
+*Noter: trestemmigt omkvæd (TMB)*
 
 ***
 

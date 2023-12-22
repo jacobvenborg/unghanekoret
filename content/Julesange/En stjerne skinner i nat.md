@@ -2,9 +2,10 @@
 title: "En stjerne skinner i nat"
 tekst: "Eyvind Skele, 1992"
 melodi: "Tore W. Aas, 1992"
+toneart: "E-dur"
 categories: "Julesange"
 ---
-*Noter: E-dur, trestemmigt omkvæd (TMB)*
+*Noter: trestemmigt omkvæd (TMB)*
 
 ***
 

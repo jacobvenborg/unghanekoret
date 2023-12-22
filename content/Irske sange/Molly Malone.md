@@ -2,9 +2,10 @@
 title: "Molly Malone"
 tekst: "Muligvis 1700-tallet"
 melodi: "Ukendt. Måske inspillet første gang i 1976"
+toneart: "F-dur"
 categories: "Irske sange"
 ---
-*Noter: F-dur, trestemmigt i omkvæd (TMB)*
+*Noter: trestemmigt i omkvæd (TMB)*
 
 ***
 

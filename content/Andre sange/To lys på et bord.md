@@ -3,10 +3,8 @@ title: "To lys på et bord"
 categories: "Andre sange"
 tekst: "Ida From, 1960"
 melodi: "Bjarne Hoyer, 1960 (til melodi grand prix!)"
+toneart: "D-dur"
 ---
-*Noter: D-dur*
-
-***
 
 A-stykke\
 To lys på et bord\

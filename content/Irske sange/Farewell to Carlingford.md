@@ -2,9 +2,10 @@
 title: "Farewell to Carlingford"
 tekst: "Spørg Niels Vilhelm"
 melodi: "Spørg Niels Vilhelm"
+toneart: "C-dur"
 categories: "Irske sange"
 ---
-*Noter: C-dur, trestemmigt omkvæd*
+*Noter: trestemmigt omkvæd*
 
 ***
 

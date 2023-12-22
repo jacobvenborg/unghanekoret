@@ -2,12 +2,10 @@
 title: "Et hav, der vugger sig til ro"
 tekst: "Juliane Preisler, 1997"
 melodi: "Matti Borg, 1997"
+toneart: "C-dur"
 nummer_v18: "568"
 tema: "Aften"
 ---
-*Noter: C-dur*
-
-***
 
 1\.\
 Et hav, der vugger sig til ro nu\

@@ -2,9 +2,10 @@
 title: "Galway Girl"
 tekst: "Steve Earl, 2000"
 melodi: "Steve Earl, 2000"
+toneart: "F-dur"
 categories: "Irske sange"
 ---
-*Noter: F-dur, trestemmigt i omkvæd (TMB), vi skal være meget rytmiske og gerne gå i takt på stedet*
+*Noter: trestemmigt i omkvæd (TMB), vi skal være meget rytmiske og gerne gå i takt på stedet*
 
 ***
 

@@ -2,8 +2,9 @@
 title: "De galende haner"
 tekst: "Oskar Jefsen, 2017"
 melodi: "Oskar Jefsen, 2017"
+toneart: "F-dur"
 ---
-*Noter: F-dur, 4-stemmig outro*
+*Noter: 4-stemmig outro*
 
 ***
 

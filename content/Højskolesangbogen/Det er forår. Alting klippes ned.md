@@ -2,12 +2,10 @@
 title: "Det er forår. Alting klippes ned"
 tekst: "Benny Andersen, 1981"
 melodi: "Povl Dissing, 1981"
+toneart: "G-dur"
 nummer_v18: "285"
 tema: "Året – sent forår"
 ---
-*Noter: G-dur*
-
-***
 
 1\.\
 Det er forår. Alting klippes ned.\

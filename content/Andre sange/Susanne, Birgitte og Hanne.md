@@ -3,10 +3,8 @@ title: "Susanne, Birgitte og Hanne"
 categories: "Andre sange"
 tekst: "Erik Leth, 1960 (?)"
 melodi: "Sven Gyldmark, 1960 (?)"
+toneart: "Eb-dur"
 ---
-*Noter: Eb-dur*
-
-***
 
 1\.\
 Alle sømænd er glade for piger,\

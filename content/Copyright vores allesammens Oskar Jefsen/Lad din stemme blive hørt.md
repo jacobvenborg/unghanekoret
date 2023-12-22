@@ -2,10 +2,8 @@
 title: "Lad din stemme blive hørt"
 tekst: "Oskar Jefsen, 2019"
 melodi: "Oskar Jefsen, 2019"
+toneart: "F-dur"
 ---
-*Noter: F-dur*
-
-***
 
 1\.\
 Vi har alle en stemme indeni\

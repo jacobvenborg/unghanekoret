@@ -2,10 +2,10 @@
 title: "Mads Doss"
 tekst: "Steen Steensen Blicher, 1842"
 melodi: "Folkemelodi"
+toneart: "F-dur"
 nummer_v18: "437"
 tema: "Kærlighed"
 ---
-*Noter: F-dur*
 
 1\.\
 Mads Doss han war en kon koltringsknæjt,\
