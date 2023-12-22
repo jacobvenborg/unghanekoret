@@ -2,7 +2,7 @@
 title: "Dejlig er jorden"
 tekst: "B. S. Ingemann, 1850"
 melodi: "Schlesisk, 18. årh."
-nummer: "72"
+nummer_v18: "72"
 ---
 1\.\
 Dejlig er jorden,\

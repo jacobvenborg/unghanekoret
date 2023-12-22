@@ -2,7 +2,7 @@
 title: "Glade jul, dejlige jul"
 tekst: "B. S. Ingemann, 1850"
 melodi: "Fr. Gruber, 1818"
-nummer: "237"
+nummer_v18: "237"
 ---
 1\.\
 Glade jul, dejlige jul,\

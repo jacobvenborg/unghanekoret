@@ -2,7 +2,7 @@
 title: "Julen har bragt velsignet bud"
 tekst: "B. S. Ingemann, 1839"
 melodi: "C. E. F. Weyse, 1841"
-nummer: "236"
+nummer_18: "236"
 ---
 1\.\
 Julen har bragt velsignet bud.\

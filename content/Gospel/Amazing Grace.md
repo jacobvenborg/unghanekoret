@@ -2,8 +2,8 @@
 title: "Amazing Grace"
 tekst: "John Newton, 1779"
 melodi: "Folkemelodi"
-nummer: "74"
 toneart: "G-dur"
+nummer_v18: "74"
 ---
 
 1\.\

@@ -2,8 +2,9 @@
 title: "Det kimer nu til julefest"
 tekst: "N. F. S. Grundtvig, 1817"
 melodi: "C. Balle, 1850"
-nummer: "228"
+nummer_v18: "228"
 ---
+
 1\.\
 Det kimer nu til julefest,\
 det kimer for den høje gæst,\
