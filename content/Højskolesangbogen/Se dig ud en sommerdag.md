@@ -3,7 +3,7 @@ title: "Se dig ud en sommerdag"
 tekst: "Jeppe Aakjær, 1904"
 melodi: "Carl Nielsen, 1917"
 nummer_v18: "323"
-tema: "Året - højsommer"
+tema: "Året – højsommer"
 ---
 1\.\
 Se dig ud en sommerdag,\

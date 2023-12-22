@@ -1,18 +1,12 @@
 ---
 title: "Den milde dag er lys og lang"
-tekst: "Aage Berntsen, ca.\
-1917-19"
+tekst: "Aage Berntsen, ca. 1917-1919"
 melodi: "Carl Nielsen, 1921"
 nummer_v18: "442"
 nummer_v19: "464"
 tema: "Kærlighed"
 ---
 *Noter:*
-
-OBS: SLETTES (for at nummerere) {
- \.\
-}
-
 ***
 
 1\.\

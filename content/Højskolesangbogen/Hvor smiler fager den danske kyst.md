@@ -80,8 +80,7 @@ og gammel agt\
 og milde kvinder -\
 hvor har de magt!
 
-### **Ordforklaringer**
-
+### Ordforklaringer
 1.5   *luder*: hælder fremover\
 2.1   *stunded*: længtes, blev draget\
 5.2   *med grønsvær tækket*: med et tag af tæt græs\

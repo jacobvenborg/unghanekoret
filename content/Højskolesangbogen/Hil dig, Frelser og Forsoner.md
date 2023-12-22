@@ -3,7 +3,7 @@ title: "Hil dig, Frelser og Forsoner!"
 tekst: "N. F. S. Grundtvig, 1837"
 melodi: "C. C. Hoffmann, 1878"
 nummer_v18: "279"
-tema: "Året - påske"
+tema: "Året – påske"
 ---
 1\.\
 Hil dig, frelser og forsoner!\

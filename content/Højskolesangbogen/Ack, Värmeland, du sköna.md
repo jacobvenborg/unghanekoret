@@ -4,10 +4,9 @@ tekst: "Anders Fryxell, 1814"
 melodi: "Svensk folkemelodi"
 nummer_v18: "indsæt"
 nummer_v19: "440"
-tema: "Norden - Sverige"
+tema: "Norden – Sverige"
 ---
 *Noter:*
-
 ***
 
 1\.\
@@ -28,10 +27,10 @@ Men friar du där, så var munter och glad!\
 Ty muntra gossar vilja Värmlandsflickorna ha;\
 de sorgsna - dem ge de på båten.
 
-> *Ordforklaringer*\
-> 1.3 det förlovade land: det forjættede land\
-> 1.4 återvänder: vender tilbage\
-> 1.7 ångrar: angrer\
-> 2.3 där finnes … kvar igen: der er en Guds velsignelse af piger stadigvæk\
-> 2.6 gossar: gutter\
-> 2.7 de sorgsna – dem ge de på båten: dem der sørger, er de ligeglade med
+### Ordforklaringer
+1.3   *det förlovade land*: det forjættede land\
+1.4   *återvänder*: vender tilbage\
+1.7   *ångrar*: angrer\
+2.3   *där finnes ... kvar igen*: der er en Guds velsignelse af piger stadigvæk\
+2.6   *gossar*: gutter\
+2.7   *de sorgsna – dem ge de på båten*: dem der sørger, er de ligeglade med

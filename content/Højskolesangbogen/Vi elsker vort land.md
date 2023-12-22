@@ -3,7 +3,7 @@ title: "Vi elsker vort land"
 tekst: "Holger Drachmann, 1885"
 melodi: "P. E. Lange-Müller, 1885"
 nummer_v18: "316"
-tema: "Året - midsommer"
+tema: "Året – midsommer"
 ---
 1\.\
 Vi elsker vort land,\

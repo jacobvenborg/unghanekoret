@@ -3,7 +3,7 @@ title: "Septembers himmel"
 tekst: "Alex Garff, 1949"
 melodi: "Otto Mortensen, 1949"
 nummer_v18: "335"
-tema: "Året - sensommer"
+tema: "Året – sensommer"
 ---
 1\.\
 Septembers himmel er så blå\

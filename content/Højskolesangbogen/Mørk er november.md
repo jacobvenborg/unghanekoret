@@ -4,7 +4,7 @@ tekst: "Thorkild Bjørnvig, 1959"
 melodi: "Piae Cantiones, 1582"
 nummer_v18: "210"
 nummer_v19: "371"
-tema: "Året - tidlig vinter"
+tema: "Året – tidlig vinter"
 ---
 
 *Noter: 2 hele rundgange\

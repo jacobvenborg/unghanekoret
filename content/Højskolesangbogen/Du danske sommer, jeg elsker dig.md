@@ -3,7 +3,7 @@ title: "Du danske sommer, jeg elsker dig"
 tekst: "Thøger Larsen, 1923"
 melodi: "Otto Mortensen, 1932"
 nummer_v18: "321"
-tema: "Året - højsommer"
+tema: "Året – højsommer"
 ---
 1\.\
 Du danske sommer, jeg elsker dig\

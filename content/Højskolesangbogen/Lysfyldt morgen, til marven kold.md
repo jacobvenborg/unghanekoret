@@ -4,7 +4,7 @@ tekst: "Johannes V. Jensen, 1925"
 melodi: "Thorvald Aagaard, 1927"
 nummer_v18: "263"
 nummer_v19: "indsæt"
-tema: "Året - tidligt forår"
+tema: "Året – tidligt forår"
 ---
 *Noter:*
 
@@ -76,8 +76,7 @@ i Danmark - med stæren han går\
 hvor tit forynger, når stæren synger\
 dit hjerte sig endnu en vår?
 
-### **Ordforklaringer**
-
+### Ordforklaringer
 5.3   *svale*: kølige\
 5.4   *tusindskøn*: blomsten tusindfryd, bellis\
 7.3   *voven*: bølgen\

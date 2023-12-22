@@ -4,7 +4,7 @@ tekst: "Thøger Larsen, 1914"
 melodi: "Oluf Ring, 1922"
 nummer_v18: "314"
 nummer_v19: "indsæt"
-tema: "Året - tidlig sommer"
+tema: "Året – tidlig sommer"
 ---
 1\.\
 Danmark, nu blunder den lyse nat\

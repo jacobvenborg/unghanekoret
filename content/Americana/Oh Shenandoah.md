@@ -2,10 +2,8 @@
 title: "Oh Shenandoah"
 tekst: "Amerikanske folkevise"
 melodi: "Amerikanske folkevise, tidligt 19. århundrede"
+toneart: "D-dur"
 ---
-*Noter: D-dur*
-
-***
 
 1\.\
 Oh Shenandoah, I long to see you\

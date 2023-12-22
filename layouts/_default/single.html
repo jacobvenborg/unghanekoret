@@ -2,30 +2,52 @@
     {{ partial "page-header" . }}
 
     <article class="gdoc-markdown">
-        {{ if isset .Params "nummer_v19" }}
-        <h1>{{.Params.nummer_v19}}. {{ partial "title" . }}</h1>
-      {{else}}
-        <h1>{{ partial "title" . }}</h1>
-        {{end}}
-        {{ if eq .Params.tekst .Params.melodi }}
-          <b>Tekst og melodi:</b> {{ .Params.tekst}}
-        {{else}}
-          <b>Tekst:</b> {{.Params.tekst}}<br>
-          <b>Melodi:</b> {{.Params.melodi}}
-        {{end}}
-        {{ if isset .Params "nummer_v19" }}
+        
+    <!-- Titel -->
+    <h1>{{ partial "title" . }}</h1>
+    
+    <!-- Tekst og melodi -->
+    {{ if eq .Params.tekst .Params.melodi }}
+      <b>Tekst og melodi:</b> {{ .Params.tekst}}
+    {{else}}
+      <b>Tekst:</b> {{.Params.tekst}}<br>
+      <b>Melodi:</b> {{.Params.melodi}}
+    {{end}}
+
+    <!-- Toneart -->
+    {{ if isset .Params "toneart" }}
+        <br>
+        <b>Toneart:</b> {{.Params.toneart}}
+    {{end}}
+
+    <!-- Stemmer -->
+    {{ if isset .Params "stemmer" }}
+        <br>
+        <b>Stemmer:</b> {{.Params.stemmer}}
+    {{end}}
+
+    <!-- Nedenstående punkter er specifikke til Højskolesangbogen -->
+        
+    <!-- Nummer (18. udgave) -->
+    {{ if isset .Params "nummer_v18" }}
         <br>
         <b>Nummer (18. udgave):</b> {{.Params.nummer_v18}}
-        {{else}}
-        {{end}}
-        {{ if isset .Params "tema" }}
+    {{end}}
+
+    <!-- Nummer (19. udgave) -->
+    {{ if isset .Params "nummer_v19" }}
         <br>
-        <b>Tema:</b> {{.Params.tema}}
-        {{else}}
-        <br>
-        <b>OBS:</b> tema mangler OG DER SKAL FIKSES DET KUN VISES VED HØJSKOLESANGBOGEN
-        {{end}}
-        <hr>
-        {{ partial "content" . }}
+        <b>Nummer (19. udgave):</b> {{.Params.nummer_v19}}
+    {{end}}
+        
+    <!-- Tema -->
+    {{ if isset .Params "tema" }}
+      <br>
+      <b>Tema:</b> {{.Params.tema}}
+    {{end}}
+
+    <hr>
+    {{ partial "content" . }}
     </article>
+
 {{ end }}

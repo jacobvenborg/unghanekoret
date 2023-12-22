@@ -61,8 +61,6 @@ som han os lod åbenbare\
 
 
 ### Ordforklaringer
-4.2   *på stand*: straks
-
-5.1   *Davids hjem*: Byen Betlehem, som David stammede fra
-
-6.3   l*edestjerne*: stjernen over marken ved Betlehem symboliserer her det "guddomsord" (vers 7), som til alle tider fører mennesker til Kristus og troen på ham
+4.2   *på stand*: straks\
+5.1   *Davids hjem*: Byen Betlehem, som David stammede fra\
+6.3   *ledestjerne*: stjernen over marken ved Betlehem\ symboliserer her det "guddomsord" (vers 7), som til alle tider fører mennesker til Kristus og troen på ham   

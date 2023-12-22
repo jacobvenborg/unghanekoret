@@ -4,7 +4,7 @@ tekst: "N.F.S. Grundtvig, 1849"
 melodi: "A.P. Berggreen, 1852"
 nummer_v18: "248"
 nummer_v19: "263"
-tema: "Året - nytår"
+tema: "Året – nytår"
 ---
 *Noter:*
 

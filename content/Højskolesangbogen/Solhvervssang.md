@@ -4,7 +4,7 @@ tekst: "Johannes V. Jensen, 1917"
 melodi: "Johannes V. Jensen, 1917"
 nummer_v18: "N/A"
 nummer_v19: "262"
-tema: "Året - jul"
+tema: "Året – jul"
 ---
 *Noter:*
 
@@ -36,7 +36,5 @@ omkring en evig vår.\
 Syng alle sjæle med om Danmarks fagre sommer.
 
 ### Ordforklaringer
-
-2.2 *forjætter*: lover        
-
-3.4 *svale*: kølige
+2.2   *forjætter*: lover\
+3.4   *svale*: kølige

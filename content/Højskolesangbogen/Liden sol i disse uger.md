@@ -3,7 +3,7 @@ title: "Liden sol i disse uger"
 tekst: "Frank Jæger, 1953"
 melodi: "Otto Mortensen, 1963"
 nummer_v18: "257"
-tema: "Året - vinter"
+tema: "Året – vinter"
 ---
 1\.\
 Liden sol i disse uger.\

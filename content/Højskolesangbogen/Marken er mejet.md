@@ -3,7 +3,7 @@ title: "Marken er mejet"
 tekst: "Mads Hansen, 1868"
 melodi: "Folkemelodi"
 nummer_v18: "333"
-tema: "Året - sensommer"
+tema: "Året – sensommer"
 ---
 1\.\
 Marken er mejet, og høet er høstet,\

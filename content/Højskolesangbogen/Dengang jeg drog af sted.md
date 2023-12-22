@@ -2,7 +2,7 @@
 title: "Dengang jeg drog af sted"
 tekst: "Peter Faber, 1848"
 melodi: "Emil Horneman, 1848"
-nummer_v18:: "488"
+nummer_v18: "488"
 nummer_v19: "521"
 tema: "Historien"
 ---

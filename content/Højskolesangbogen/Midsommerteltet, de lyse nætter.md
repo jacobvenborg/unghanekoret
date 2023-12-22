@@ -3,7 +3,7 @@ title: "Midsommerteltet, de lyse nætter"
 tekst: "Johannes V. Jensen, 1936"
 melodi: "Åge Nielsen, 1971"
 nummer_v18: "317"
-tema: "Året - midsommer"
+tema: "Året – midsommer"
 ---
 1\.\
 Midsommerteltet, de lyse nætter,\

@@ -4,7 +4,7 @@ tekst: "indsæt"
 melodi: "indsæt"
 nummer_v18: "indsæt"
 nummer_v19: "437"
-tema: "Norden - Sverige"
+tema: "Norden – Sverige"
 ---
 *Noter:*
 
@@ -75,8 +75,8 @@ drack man ur ...\
 så här.
 
 ### Ordforklaringer
-2.3 *buteljer*: flasker\
-4.1 *Gumman Noach*: Noachs kone\
-6.2 *brukte egna hår*: gik ikke med paryk\
-6.3 *pipskägg*: fipskæg, i 1760'erne gammeldags mode blandt præster\
-7.5 *blängde*: sendte lange øjne, nemlig efter at få noget i glasset
+2.3   *buteljer*: flasker\
+4.1   *Gumman Noach*: Noachs kone\
+6.2   *brukte egna hår*: gik ikke med paryk\
+6.3   *pipskägg*: fipskæg, i 1760'erne gammeldags mode blandt præster\
+7.5   *blängde*: sendte lange øjne, nemlig efter at få noget i glasset

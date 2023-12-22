@@ -66,7 +66,7 @@ der brændte inde Peder, min broder,\
 og så min skønne jomfrue."
 *Fordi træder Ebbe Skammelsøn så mangen sti vild.*
 
-\.\
+9\.\
 "Det I tyktes, jer stenstue\
 stod al i brændende glød,\
 det er: Peder, jer broder,\
@@ -234,14 +234,13 @@ fordi træder Ebbe Skammelsøn\
 så mangen vild sti om land.\
 *Fordi træder Ebbe Skammelsøn så mangen sti vild.*
 
-### **Ordforklaringer**
-
-1.5 Omkvædet hører logisk til visens sidste vers: Derfor må Ebbe Skammelsen leve som fredløs\
-3.2 *syr hr. Ebbe klæder*: At Adelus syr klæder (skjorter) til Ebbe er tegn på, at de skal giftes, når Ebbe kommer hjem igen\
-3.4 *hæder*: håner, gør skade\
-4.1 *grant*: nøje; *halv*: langt\
-6.1 *fæstens-øl*: forlovelsesgilde\
-6.4 *rådte*: besluttede\
+### Ordforklaringer
+1.5   Omkvædet hører logisk til visens sidste vers: Derfor må Ebbe Skammelsen leve som fredløs\
+3.2   *syr hr. Ebbe klæder*: At Adelus syr klæder (skjorter) til Ebbe er tegn på, at de skal giftes, når Ebbe kommer hjem igen\
+3.4   *hæder*: håner, gør skade\
+4.1   *grant*: nøje; *halv*: langt\
+6.1   *fæstens-øl*: forlovelsesgilde\
+6.4   *rådte*: besluttede\
 11.2 *vel i lag*: i rette tid\
 13.3 *hveden*: hvorfor; *møgle folk*: mange mennesker\
 15.1 *guldbrase*: brystsmykke\

@@ -2,9 +2,10 @@
 title: "All You Need Is Love"
 tekst: "The Beatles, 1967"
 melodi: "The Beatles, 1967"
+toneart: "G-dur"
 categories: "Andre sange"
 ---
-*Noter: G-dur, 3-stemmigt*
+*Noter: 3-stemmigt*
 
 ***
 

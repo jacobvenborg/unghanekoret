@@ -9,7 +9,7 @@ tema: "Morgen"
 Se, hvilken morgenstund!\
 Solen er rød og rund.\
 Nina er gået i bad.\
-Jeg' spiser ostemad.\
+Jeg spiser ostemad.\
 Livet er ikke det værste man har\
 og om lidt er kaffen klar.
 

@@ -3,7 +3,7 @@ title: "Januarsol/Nu leger tidlig forårssol"
 tekst: "Piet Hein, 1994"
 melodi: "Jens Nielsen, 2006"
 nummer_v18: "260"
-tema: "Året - tidligt forår"
+tema: "Året – tidligt forår"
 ---
 1\.\
 Nu leger tidlig forårssol\

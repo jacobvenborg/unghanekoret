@@ -3,7 +3,7 @@ title: "Jeg elsker den brogede verden"
 tekst: "Hans Vilhelm Kaalund, 1877"
 melodi: "Thorvald Aagaard, 1922"
 nummer_v18: "88"
-tema: "Året - jul"
+tema: "Året – jul"
 ---
 
 1\.\

@@ -4,7 +4,7 @@ tekst: "Holger Drachmann, 1897"
 melodi: "Stephen C. Foster, 1856"
 nummer_v18: "320"
 nummer_v18: "295"
-tema: "Året - sent forår"
+tema: "Året – sent forår"
 ---
 
 1\.\

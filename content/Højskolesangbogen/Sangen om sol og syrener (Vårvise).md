@@ -3,7 +3,7 @@ title: "Sangen om sol og syrener/Vårvise"
 tekst: "Sebastian (Knud Torben Christensen), 1987"
 melodi: "Sebastian (Knud Torben Christensen), 1987"
 nummer_v18: "297"
-tema: "Året - sent forår"
+tema: "Året – sent forår"
 ---
 
 1\.\

@@ -3,7 +3,7 @@ title: "Natten ser med milde øjne"
 tekst: "Niels Green-Hansen, 1993"
 melodi: "Keld Telén, 1993"
 nummer_v18: "328"
-tema: "Året - højsommer"
+tema: "Året – højsommer"
 ---
 1\.\
 Natten ser med milde øjne\

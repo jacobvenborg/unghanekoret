@@ -4,7 +4,7 @@ tekst: "Astrid Lindgren, 1971"
 melodi: "Georg Riedel, 1971"
 nummer_v18: "298"
 nummer_v19: "319"
-tema: "Året - sent forår"
+tema: "Året – sent forår"
 ---
 *Noter:*
 
@@ -41,12 +41,11 @@ Då blir barna fulla med sommar\
 Och bena blir fulla med spring
 
 ### Ordforklaringer
-
-1.3 *somrigt*: sommerligt (barnesprog)\
-1.4 *blommorna*: blomsterne\
-1.6 *kohagen*: græsmark til køerne\
-2.5 *träden*: træer\
-2.6 *fågelbon*: fuglereder\
-2.8 *skär*: rosenfarvet\
-3.1 *smultron*: skovjordbær\
-3.3 *roliga*: sjove
+1.3   *somrigt*: sommerligt (barnesprog)\
+1.4   *blommorna*: blomsterne\
+1.6   *kohagen*: græsmark til køerne\
+2.5   *träden*: træer\
+2.6   *fågelbon*: fuglereder\
+2.8   *skär*: rosenfarvet\
+3.1   *smultron*: skovjordbær\
+3.3   *roliga*: sjove

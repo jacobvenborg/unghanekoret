@@ -3,7 +3,7 @@ title: "Nu tændes tusind julelys"
 tekst: "Emmy Köhler, 1898"
 melodi: "Emmy Köhler, 1898"
 nummer_v18: "255"
-tema: "Året - jul"
+tema: "Året – jul"
 ---
 
 1\.\

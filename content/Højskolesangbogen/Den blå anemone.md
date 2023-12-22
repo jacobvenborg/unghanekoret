@@ -3,7 +3,7 @@ title: "Den blå anemone"
 tekst: "Kaj Munk, 1943"
 melodi: "Egil Harder, 1945"
 nummer_v18: "262"
-tema: "Året - tidligt forår"
+tema: "Året – tidligt forår"
 ---
 1\.\
 Hvad var det dog, der skete?\

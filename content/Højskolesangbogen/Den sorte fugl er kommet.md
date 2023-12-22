@@ -3,7 +3,7 @@ title: "Den sorte fugl er kommet"
 tekst: "Frank Jæger, 1956"
 melodi: "Carl Nielsen, 1922"
 nummer_v18: "370"
-tema: "Året - tidlig vinter"
+tema: "Året – tidlig vinter"
 ---
 
 1\.\

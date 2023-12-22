@@ -3,7 +3,7 @@ title: "Tidlig vår"
 tekst: "Johannes V. Jensen, 1926"
 melodi: "Knud Jeppesen, 1952"
 nummer_v19: "275"
-tema: "Året - tidligt forår"
+tema: "Året – tidligt forår"
 ---
 *Noter:*
 
@@ -55,9 +55,6 @@ På en stråle sol vi rider,\
 eja, nu og alle tider!
 
 ### Ordforklaringer
-
-1.5 *tjipper*: synger, kvidrer
-
-1.7 *pogen*: den lille dreng
-
-5.3 *klyver*: arbejder sig op
+1.5   *tjipper*: synger, kvidrer\
+1.7   *pogen*: den lille dreng\
+5.3   *klyver*: arbejder sig op

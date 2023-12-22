@@ -4,7 +4,7 @@ tekst: "Jens Rosendal, 1985"
 melodi: "Per Warming, 1987"
 nummer_v18: "346"
 nummer_v19: "363"
-tema: "Året - efterår"
+tema: "Året – efterår"
 ---
 *Noter:*
 

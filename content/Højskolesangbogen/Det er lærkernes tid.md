@@ -4,7 +4,7 @@ tekst: "Ludvig Holstein, 1903"
 melodi: "Thorvald Aagaard, 1927"
 nummer_v18:: "268"
 nummer_v19: "289"
-tema: "Året - tidligt forår"
+tema: "Året – tidligt forår"
 ---
 
 1\.\

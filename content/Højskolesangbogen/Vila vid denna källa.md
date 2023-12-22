@@ -4,7 +4,7 @@ tekst: "Carl Michael Bellman, 1790"
 melodi: "Carl Michael Bellman, 1790"
 nummer_v18: "411"
 nummer_v19: "439"
-tema: "Norden - Sverige"
+tema: "Norden – Sverige"
 ---
 *Noter:*
 
@@ -59,8 +59,7 @@ bepryds av blommor tusen slag,\
 \- - - av blommor tusen slag!
 
 ### Ordforklaringer
-
-1.1 *vila vid denna källa*: (Lad os) hvile ved denne kilde\
+1.1   *vila vid denna källa*: (Lad os) hvile ved denne kilde\
 1.2   *frukost*: (her) det tidlige måltid ved nitiden om formiddagen\
 1.5   *buteljer*: flasker\
 1.6   *korgar*: kurve\
