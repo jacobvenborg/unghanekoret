@@ -3,8 +3,9 @@ title: "The Sound of Silence"
 categories: "Andre sange"
 tekst: "Simon & Garfunkel, 1966"
 melodi: "Simon & Garfunkel, 1966"
+toneart: "C#-mol"
 ---
-*Noter: C#-mol, trestemmigt i omkvæd (TMB)*
+*Noter: trestemmigt i omkvæd (TMB)*
 
 ***
 

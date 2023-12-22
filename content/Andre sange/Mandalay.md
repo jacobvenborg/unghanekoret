@@ -3,10 +3,8 @@ title: "Mandalay"
 categories: "Andre sange"
 tekst: "Four Jacks, 1961"
 melodi: "Four Jacks, 1961"
+toneart: "Bb-mol"
 ---
-*Noter: Bb-mol*
-
-***
 
 1\.\
 Bag den grå Moulmein Pagode\

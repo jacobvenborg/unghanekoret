@@ -2,10 +2,11 @@
 title: "Tit er jeg glad"
 tekst: "B.S. Ingemann, 1812"
 melodi: "Carl Nielsen, 1917"
+toneart: "D-mol"
 nummer_v18: "85"
 tema: "Liv"
 ---
-*Noter: D-mol, andenstemme*
+*Noter: andenstemme*
 
 1\.\
 Tit er jeg glad og vil dog gerne græde,\

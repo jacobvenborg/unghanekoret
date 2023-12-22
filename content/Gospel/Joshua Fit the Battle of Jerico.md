@@ -2,8 +2,9 @@
 title: "Joshua Fit the Battle of Jerico"
 tekst: "Komponeret af slaver i første halvdel af 1800-tallet"
 melodi: "Komponeret af slaver i første halvdel af 1800-tallet"
+toneart: "F-mol"
 ---
-*Noter: F-mol, *OBS: omkvæd mellem 6-7 eller 7-8*
+*Noter: OBS: omkvæd mellem 6-7 eller 7-8*
 
 ***
 

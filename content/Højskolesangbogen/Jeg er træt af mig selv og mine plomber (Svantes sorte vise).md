@@ -2,10 +2,11 @@
 title: "Jeg er træt af mig selv og mine plomber/Svantes sorte vise"
 tekst: "Benny Andersen, 1972"
 melodi: "Benny Andersen, 1972"
+toneart: "B-mol"
 nummer_v18: "136"
 tema: "Liv"
 ---
-*Noter: B-mol, startone F, taktstart 4*
+*Noter: startone F, taktstart 4*
 
 1\.\
 Jeg er træt af mig selv og mine plomber.\
