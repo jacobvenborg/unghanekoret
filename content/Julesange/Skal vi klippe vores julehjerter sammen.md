@@ -42,6 +42,6 @@ så er stemningen vakt, li’ så snart han får det sagt:\
 ”Sku’ vi flette vore julehjerter sammen?\
 kind mod kind, mens julegåsen bæres ind.”
 
-Outro\
+*Outro*\
 ”Sku’ vi flette vore julehjerter sammen?\
 kind mod kind, mens julegåsen bæres ind.”\

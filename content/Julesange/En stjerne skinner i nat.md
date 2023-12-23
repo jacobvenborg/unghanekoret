@@ -51,6 +51,6 @@ synger om fred på vor jord,\
 verden var aldrig helt forladt,\
 en stjerne skinner i nat
 
-Outro\
+*Outro*\
 Verden var aldrig helt forladt,\
 en stjerne skinner i nat.\

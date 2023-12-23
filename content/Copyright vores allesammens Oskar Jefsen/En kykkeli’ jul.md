@@ -3,10 +3,8 @@ title: "En kykkeli’ jul"
 tekst: "Oskar Jefsen, 2017"
 melodi: "Oskar Jefsen, 2017"
 toneart: "F-dur"
+stemmer: "Tre (TMB) i omkvæd"
 ---
-*Noter: trestemmigt omkvæd (TMB)*
-
-***
 
 1\.\
 Vi skal nu til julegilde\
@@ -96,11 +94,11 @@ Vi synger i flok\
 Når vi er nok\
 Nu bli’r det en kykkeli' jul
 
-Sidste *Omkvæd*\
+*Sidste omkvæd*\
 En kykkeli' juuuul\
 En kykkeli' juuuul\
 Vi synger i flok\
 Når vi er nok\
 Nu bli'r det en kykkeli’\
 En uden sidestykkeli’\
-En gløggeli’ og kykkeli’ jul\
+En gløggeli’ og kykkeli’ jul

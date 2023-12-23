@@ -3,10 +3,8 @@ title: "De galende haner"
 tekst: "Oskar Jefsen, 2017"
 melodi: "Oskar Jefsen, 2017"
 toneart: "F-dur"
+stemmer: "Fire i outro"
 ---
-*Noter: 4-stemmig outro*
-
-***
 
 1\.\
 Vi er de galende haner\
@@ -52,7 +50,7 @@ Skaber vi postyr\
 Endnu en gaaaaaang\
 Med vores saaaaaang!
 
-Outro\
+*Outro*\
 Ska’-du-ha-et-stykke meeeeeeeed\
 Ska’-du-ha-et-stykke meeeeeeeed\
 Ska’-du-ha-et-stykke meeeeeeeed\

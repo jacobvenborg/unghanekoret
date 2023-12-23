@@ -93,7 +93,7 @@ Jericho Jericho\
 Joshua fit the battle of Jericho\
 And the walls come tumbling down
 
-Outro\
+*Outro*\
 Joshua fit the battle of Jericho\
 Jericho Jericho\
 Joshua fit the battle of Jericho\

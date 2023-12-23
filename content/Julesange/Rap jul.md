@@ -39,5 +39,5 @@ Og spille andespil og dam\
 Det' mit ønske, du rare julemand (aah-aah)\
 Kærlig hilsen fra Anders And
 
-Outro\
+*Outro*\
 Cha-cha-CHA\

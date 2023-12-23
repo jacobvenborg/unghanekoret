@@ -9,7 +9,7 @@ categories: "Irske sange"
 
 ***
 
-Bro\
+*Bro*\
 I'll tell me Ma when I go home,\
 The boy's won't leave the girls alone.\
 They'll pull my hair, they stole my comb,\
@@ -31,7 +31,7 @@ Rings on her fingers and bells on her toes\
 Ole Jenny Murray says she'll die\
 If you don't get the fella With the roving eye
 
-Bro\
+*Bro*\
 I'll tell me Ma when I go home,\
 The boy's won't leave the girls alone.\
 They'll pull my hair, they stole my comb,\
@@ -53,7 +53,7 @@ She won't tell her Ma when she gets home.\
 Let them all come as they will\
 For it's Albert Mooney she loves still.
 
-Bro\
+*Bro*\
 I'll tell me Ma when I go home,\
 The boy's won't leave the girls alone.\
 They'll pull my hair, they stole my comb,\

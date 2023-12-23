@@ -23,7 +23,7 @@ Lad din stemme blive hørt\
 Hvis du synes politik det er skørt\
 Så lad din stemme blive hørt
 
-Bro\
+*Bro*\
 Det handler ikke om at overdøve\
 Eller om at synge bedst\
 Det’ okay at tvivle eller tøve\
@@ -47,7 +47,7 @@ Lad din stemme blive hørt\
 Hvis du vil med på vognen inden toget er kørt\
 Så lad din stemme blive hørt
 
-Bro\
+*Bro*\
 Det gælder ikke om at råbe højest\
 Eller give hurtigt svar\
 Hvis argumentet sidder lig’ i øjet\
@@ -75,4 +75,4 @@ Så lad din stemme blive hørt
 Lad din stemme - blive hørt\
 Lad din stemme blive hørt\
 Hvis du vil med på vognen inden toget er kørt\
-Så lad din stemme blive hørt\
+Så lad din stemme blive hørt
