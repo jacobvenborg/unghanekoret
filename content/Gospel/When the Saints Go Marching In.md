@@ -1,9 +1,9 @@
 ---
 title: "When the Saints Go Marching In"
-tekst: ""
-melodi: ""
+tekst: "Black spiritual"
+melodi: "Black spiritual"
+stemmer: "Tre (TMB)"
 ---
-*Noter: Synges trestemmigt (TMB)*
 
 1\.\
 Oh when the saints go marching in\
@@ -69,4 +69,4 @@ When the saints go marching in
 When our leaders learn to cry\
 When our leaders learn to cry\
 Oh lord I want to be in that number\
-When the saints go marching in\
+When the saints go marching in

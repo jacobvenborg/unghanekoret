@@ -2,10 +2,8 @@
 title: "Down By The Riverside"
 tekst: "Udgivet i 1918 på ''Plantation Melodies: A Collection of Modern, Popular and Old-time Negro-Songs of the Southland''"
 melodi: "Udgivet i 1918 på ''Plantation Melodies: A Collection of Modern, Popular and Old-time Negro-Songs of the Southland''"
+stemmer: "Tre (TMB)"
 ---
-*Noter: Synges trestemmigt (TMB)*
-
-***
 
 1\.\
 I'm gonna lay down my burden\
@@ -55,4 +53,4 @@ Study war no more\
 Studying war no more\
 I ain't a gonna study war no more\
 Study war no more\
-Studying war no more\
+Studying war no more

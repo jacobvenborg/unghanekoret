@@ -30,17 +30,20 @@ on flow'ry beds of ease.\
 While others strive to win the prize,\
 And sail the bloody seas.
 
-*Through many dangers, toils and snares\
+(5\.)\
+Through many dangers, toils and snares\
 I have already come;\
 'Tis grace has brought me safe thus far\
-And grace will lead me home.\*
+And grace will lead me home.
 
-*The Lord has promised good to me\
+(6\.)\
+The Lord has promised good to me\
 His word my hope secures;\
 He will my shield and portion be,\
-As long as life endures.\*
+As long as life endures.
 
-*Yea, when this flesh and heart shall fail,\
+(7\.)\
+Yea, when this flesh and heart shall fail,\
 And mortal life shall cease,\
 I shall possess within the veil,\
-A life of joy and peace.*
+A life of joy and peace.

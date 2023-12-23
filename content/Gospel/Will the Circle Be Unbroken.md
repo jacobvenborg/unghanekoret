@@ -1,13 +1,12 @@
 ---
 title: "Will the Circle Be Unbroken"
+categories: "Gospel"
 tekst: "Ada R. Habershon, 1907"
 melodi: "Charles H. Gabriel, 1907"
 toneart: "G-dur"
-categories: "Gospel"
+stemmer: "Tre (TMB)"
 ---
-*Noter: 3-stemmigt*
 
-***
 1\.\
 I was standing by my window,\
 On one cold and cloudy day\

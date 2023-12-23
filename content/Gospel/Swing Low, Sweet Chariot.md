@@ -45,5 +45,10 @@ Comin' for to carry me home
 Swing low, sweet chariot\
 Comin' for to carry me home\
 Swing low, sweet chariot\
+Comin' for to carry me home
+
+*Omkvæd*\
+Swing low, sweet chariot\
 Comin' for to carry me home\
-x 2\
+Swing low, sweet chariot\
+Comin' for to carry me home

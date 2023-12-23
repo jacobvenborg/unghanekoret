@@ -33,4 +33,4 @@ Let it Shine, All the time, Let it shine.
 Jesus gave it to me, I'm gonna let it shine.\
 Jesus gave it to me, I'm gonna let it shine.\
 Jesus gave it to me, I'm gonna let it shine.\
-Let it shine, Let it shine, Let it shine.\
+Let it shine, Let it shine, Let it shine.

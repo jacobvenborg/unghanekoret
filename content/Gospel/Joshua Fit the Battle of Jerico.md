@@ -12,8 +12,13 @@ toneart: "F-mol"
 Joshua fit the battle of Jericho\
 Jericho Jericho\
 Joshua fit the battle of Jericho\
-And the walls came tumbling down\
-x 2
+And the walls came tumbling down
+
+*Omkvæd*\
+Joshua fit the battle of Jericho\
+Jericho Jericho\
+Joshua fit the battle of Jericho\
+And the walls came tumbling down
 
 1\.\
 Good morning sister Mary\
