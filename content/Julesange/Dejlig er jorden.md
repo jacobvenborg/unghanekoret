@@ -4,6 +4,7 @@ tekst: "B. S. Ingemann, 1850"
 melodi: "Schlesisk, 18. årh."
 nummer_v18: "72"
 ---
+
 1\.\
 Dejlig er jorden,\
 prægtig er Guds himmel,\
@@ -26,4 +27,4 @@ først for markens hyrder,\
 skønt fra sjæl til sjæl det lød:\
 Fred over jorden!\
 Menneske, fryd dig,\
-os er en evig frelser fød!\
+os er en evig frelser fød!

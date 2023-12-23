@@ -24,6 +24,7 @@ Den drømmer sødt om røget sild med flødeovertræk\
 Så pusler det og pludselig fra musehullet klang\
 En munter lille banjo-sang
 
+*Omkvæd*\
 Skillema-dinka-dinka-du, skillema-dinka-du\
 Hør på Søren Banjomus, han spiller nemlig nu\
 Skillema-dinka-dinka-du, skillema-dinka-du\
@@ -43,7 +44,7 @@ Og lille Tim bandt nissens skæg i missekattens hals\
 Og mens de slæbte bort med ost og julelækkeri\
 Sang alle med på denne melodi:
 
-Omkvæd
+*Omkvæd*\
 Skillema-dinka-dinka-du, skillema-dinka-du\
 Hør på Søren Banjomus, han spiller nemlig nu\
 Skillema-dinka-dinka-du, skillema-dinka-du\

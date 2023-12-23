@@ -4,10 +4,8 @@ categories: "Julesange"
 tekst: "Shu-bi-dua, 1973"
 melodi: "Shu-bi-dua, 1973"
 toneart: "C-dur"
+stemmer: "Tre (TMB) i parenteser"
 ---
-*Noter: trestemmigt i parentes*
-
-***
 
 1\.\
 Se julen fra en ands synspunkt (uh-ah-uh)\

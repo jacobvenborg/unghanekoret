@@ -1,9 +1,10 @@
 ---
 title: "Jeg så julemanden kysse mor"
-tekst: "Tommy Connor, 1952. Dansk tekst ved Susanne Palsbo"
+tekst: "Tommy Connor, 1952. Dansk tekst ved Susanne Palsbo."
 melodi: "Tommy Connor, 1952"
 categories: "Julesange"
 ---
+
 Julen kommer førend vi ved\
 Lille Peter gemmer på en julehemmelighed\
 men lidt må han fortælle, sådan er jo nemlig børn\
@@ -38,4 +39,4 @@ Så, så jeg julemanden kysse mor!\
 Hun blev ikke vred, nej ikke spor,\
 men ih, hvor far dog havde leet\
 hvis han havde stået og set\
-julemanden sådan kysse mor!\
+julemanden sådan kysse mor!

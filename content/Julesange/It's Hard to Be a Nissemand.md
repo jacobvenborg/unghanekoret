@@ -3,9 +3,6 @@ title: "It's Hard to Be a Nissemand"
 tekst: "De Nattergale, 1991"
 melodi: "De Nattergale, 1991"
 ---
-*Noter:*
-
-***
 
 1\.\
 Work work and work the hiele daw.\
@@ -23,6 +20,6 @@ Free båd' from arbejd' and from school.\
 But when you are a nissemand\
 that's simpelthen not noget you can.
 
-Omkvæd
+*Omkvæd*\
 Yeah it's hard to be a nissemand\
 Yeah it's hard to be a nisse.

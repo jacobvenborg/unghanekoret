@@ -4,6 +4,7 @@ tekst: "B. S. Ingemann, 1839"
 melodi: "C. E. F. Weyse, 1841"
 nummer_18: "236"
 ---
+
 1\.\
 Julen har bragt velsignet bud.\
 Nu glædes gamle og unge:\
@@ -32,4 +33,4 @@ vil Jesus for os oplukke.\
 Himmerigs konge blandt os bor,\
 han juleglæden os bringer,\
 han favner hver barnesjæl på jord\
-og lover os englevinger.\
+og lover os englevinger.

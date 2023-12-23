@@ -34,7 +34,7 @@ Når du ser et stjerneskud\
 Da er det et himlens bud\
 Om at du skal vinde hvad du ønsker dig
 
-*A-stykke x 2 med uuuh*
+*A-stykke x 2 (uuuh)*
 
 *B-stykke*\
 Skæbnen selv er da din lykkes smed\
@@ -43,4 +43,4 @@ Den smiler til dig ned fra himlens stjerner
 *A-stykke*\
 Når du ser et stjerneskud\
 Da er det et himlens bud\
-Om at du skal vinde hvad du ønsker nu\
+Om at du skal vinde hvad du ønsker nu

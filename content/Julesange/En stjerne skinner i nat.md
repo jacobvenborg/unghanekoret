@@ -3,11 +3,9 @@ title: "En stjerne skinner i nat"
 tekst: "Eyvind Skele, 1992"
 melodi: "Tore W. Aas, 1992"
 toneart: "E-dur"
+stemmer: "Tre (TMB) i omkvæd"
 categories: "Julesange"
 ---
-*Noter: trestemmigt omkvæd (TMB)*
-
-***
 
 1\.\
 Nu i den hellige time\
@@ -39,7 +37,7 @@ på jordens gule strå.\
 Vi står ved krybben og smiler,\
 for vi er fremme nu.
 
-Omkvæd *(power på)*\
+*Omkvæd (kraftigt)*\
 Her kan vi drømme om den fred,\
 som vi skal eje en gang,\
 for dette barn har himmelen med\

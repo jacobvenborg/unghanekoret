@@ -57,4 +57,4 @@ hvad David dunkelt så og sang.
 Kom, Jesus, vær min hyttegæst,\
 hold selv i os din julefest,\
 da skal med Davidsharpens klang\
-dig takke højt vor nytårssang!\
+dig takke højt vor nytårssang!

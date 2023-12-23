@@ -1,7 +1,7 @@
 ---
 title: "Juletræet med sin pynt"
 tekst: "Mogens Lorentzen, 1939"
-melodi: " Egil Harder, 1940"
+melodi: "Egil Harder, 1940"
 nummer_v18: "259"
 tema: "Året – jul"
 ---
