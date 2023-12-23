@@ -5,6 +5,7 @@ melodi: "Povl Hamburger, 1951"
 nummer_v18: "513"
 tema: "Historien"
 ---
+
 1\.\
 Men det bli'r atter stille efter stormen.\
 Og det bli'r godt at leve her på ny.\
@@ -33,4 +34,4 @@ skal du forkynde, hvad du gemmer der.
 Du hører fugle flyve gennem natten.\
 Du hører regnen falde, og du ved,\
 at rundt omkring i verden spirer blomster\
-af våde graves mørke ensomhed.\
+af våde graves mørke ensomhed.

@@ -5,6 +5,7 @@ melodi: "Waldemar Åhlén, 1933"
 nummer_v18: "306"
 tema: "Året – tidlig sommer"
 ---
+
 1\.\
 Det dufter lysegrønt af græs\
 i grøft og mark og enge.\
@@ -53,4 +54,4 @@ en verden grøn af grøde.\
 Kom, Jesus, snart,\
 og gør det klart:\
 den morgenstund, du kommer,\
-da gryr en evig sommer.\
+da gryr en evig sommer.

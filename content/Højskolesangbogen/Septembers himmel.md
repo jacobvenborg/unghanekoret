@@ -5,6 +5,7 @@ melodi: "Otto Mortensen, 1949"
 nummer_v18: "335"
 tema: "Året – sensommer"
 ---
+
 1\.\
 Septembers himmel er så blå\
 dens skyer lyser hvide\
@@ -53,4 +54,4 @@ kan ingen frugt du give.\
 Hvis modenhedens milde magt\
 af livet selv du lærte\
 da slår bag falmet rosendragt\
-dit røde hybenhjerte\
+dit røde hybenhjerte

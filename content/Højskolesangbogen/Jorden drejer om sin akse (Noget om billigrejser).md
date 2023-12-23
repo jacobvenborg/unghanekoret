@@ -5,6 +5,7 @@ melodi: "Mogens Jermiin-Nissen"
 nummer_v18: "188"
 tema: "Frihed og fællesskab"
 ---
+
 1\.\
 Jorden drejer om sin akse\
 med en masse byer på,\
@@ -63,4 +64,4 @@ ved sin egen vindueskarm.\
 Jorden drejer om sin akse,\
 drejer rundt med muld og vand.\
 Der er langt fra mig til Fakse.\
-Der er langt til Hindustan.\
+Der er langt til Hindustan.

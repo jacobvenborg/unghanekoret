@@ -6,9 +6,6 @@ nummer_v18: "155"
 nummer_v19: "174"
 tema: "Sprog og ånd"
 ---
-*Noter:*
-
-***
 
 1\.\
 Velkommen i den grønne lund,\

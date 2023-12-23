@@ -5,9 +5,6 @@ melodi: "Østen Mikal Ore, 2017"
 nummer_v19: "74"
 tema: "Tro"
 ---
-*Noter:*
-
-***
 
 1\.\
 Min nåde er dig nok\

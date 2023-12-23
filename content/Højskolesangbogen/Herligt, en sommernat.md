@@ -6,9 +6,6 @@ nummer_v18: "319"
 nummer_v19: "338"
 tema: "Året – sommer"
 ---
-*Noter:*
-
-***
 
 1\.\
 Herligt, en sommernat\

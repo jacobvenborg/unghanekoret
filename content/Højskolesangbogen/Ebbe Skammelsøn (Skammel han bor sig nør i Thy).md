@@ -6,9 +6,6 @@ nummer_v18: "458"
 nummer_v19: "489"
 tema: "Folkeviser og ballader"
 ---
-*Noter:*
-
-***
 
 1\.\
 Skammel han bor sig nør i Thy,\

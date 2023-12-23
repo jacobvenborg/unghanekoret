@@ -5,6 +5,7 @@ melodi: "Jørgen Malling, 1866"
 nummer_v18: "473"
 tema: "Historien"
 ---
+
 1\.\
 Sol er oppe, skovens toppe\
 glimre alt som Gimles tag.\
@@ -83,4 +84,4 @@ hanegal om klaren dag.\
 Vågner! vågner, danske helte!\
 springer op og spænder bælte!\
 morgenstund har guld i mund,\
-morgenstund har guld i mund.\
+morgenstund har guld i mund.

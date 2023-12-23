@@ -5,6 +5,7 @@ melodi: "Oluf Ring, 1922"
 nummer_v18: "309"
 tema: "Året – tidlig sommer"
 ---
+
 1\.\
 Når egene knoppes,\
 og granerne duppes,\

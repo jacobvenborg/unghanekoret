@@ -5,6 +5,7 @@ melodi: "Carl Nielsen, 1917"
 nummer_v18: "552"
 tema: "Aften"
 ---
+
 1\.\
 Tunge, mørke natteskyer\
 op ad himlen drager,\

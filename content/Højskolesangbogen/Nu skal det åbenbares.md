@@ -5,6 +5,7 @@ melodi: "J. P. E. Hartmann, 1868"
 nummer_v18: "88"
 tema: "Liv"
 ---
+
 1\.\
 Nu skal det åbenbares,\
 at gammel kærlighed\

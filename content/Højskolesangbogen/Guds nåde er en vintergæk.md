@@ -6,9 +6,6 @@ nummer_v18: "N/A"
 nummer_v19: "276"
 tema: "Året"
 ---
-*Noter:*
-
-***
 
 1\.\
 Guds nåde er en vintergæk\

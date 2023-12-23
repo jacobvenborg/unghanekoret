@@ -6,9 +6,6 @@ nummer_v18: "284"
 nummer_v19: "296"
 tema: "Året"
 ---
-*Noter:*
-
-***
 
 1\.\
 Verden er våd og lys -\

@@ -5,6 +5,7 @@ melodi: "Povl Hamburger, 1937"
 nummer_v18: "254"
 tema: "Vintertid"
 ---
+
 1\.\
 Der er ingenting i verden så stille som sne,\
 når den sagte gennem luften daler,\
@@ -25,4 +26,4 @@ Der er ingenting i verden, der kan mildne som sne.\
 Tys, du lytter, til det tavse klinger.\
 O, så fin en klang,\
 sølverklokkesang\
-inderst inde i dit hjerte ringer\
+inderst inde i dit hjerte ringer.

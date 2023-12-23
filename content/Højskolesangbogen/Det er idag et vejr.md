@@ -33,4 +33,4 @@ Hun kyssede dem alle, hver især,\
 hun bragte dem til den, hun havde kær.\
 Min ven, her kommer jeg med hyacinter!\
 Min ven, nu glemmer vi, at det var vinter!\
-Det er idag et vejr, et solskinsvejr!\
+Det er idag et vejr, et solskinsvejr!

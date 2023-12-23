@@ -5,6 +5,7 @@ melodi: "Benny Andersen, 1973"
 nummer_v18: "21"
 tema: "Morgen"
 ---
+
 1\.\
 Se, hvilken morgenstund!\
 Solen er rød og rund.\
@@ -43,4 +44,4 @@ nøgen, med fugtig hud,\
 kysser mig kærligt og går\
 ind for at re' sit hår.\
 Livet er ikke det værste man har\
-og om lidt er kaffen klar.\
+og om lidt er kaffen klar.

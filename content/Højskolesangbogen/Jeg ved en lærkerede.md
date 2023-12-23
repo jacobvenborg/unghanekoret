@@ -5,6 +5,7 @@ melodi: "Carl Nielsen, 1924"
 nummer_v18: "102"
 tema: "Liv"
 ---
+
 1\.\
 Jeg ved en lærkerede\
 jeg siger ikke mer;\
@@ -33,4 +34,4 @@ og holder på mit vejr.
 For ræven han vil bide\
 og drengen samle bær.\
 Men ingen skal få vide,\
-hvor lærkereden er.\
+hvor lærkereden er.

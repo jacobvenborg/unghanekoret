@@ -6,9 +6,6 @@ nummer_v18: "562"
 nummer_v19: "590"
 tema: "Aften"
 ---
-*Noter:*
-
-***
 
 1\.\
 Nu går solen sin vej\

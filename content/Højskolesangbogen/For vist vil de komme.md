@@ -5,6 +5,7 @@ melodi: "A: Bent Fabricius-Bjerre, 2019 og B: Jens Lysdal, 2019"
 nummer_v18: "000"
 tema: "Nyudgave"
 ---
+
 1\.\
 Med byer der ligger ved hav og ved bugt\
 med blæst mod de græsklædte skrænter\
@@ -53,4 +54,4 @@ og mer’ ikke blot kræver mere –\
 en fremtid der skabes i tæt symbiose\
 med lærker og viber i engdrag og mose\
 for vist vil de komme\
-vil viberne komme igen\
+vil viberne komme igen

@@ -5,6 +5,7 @@ melodi: "J. P. E. Hartmann, 1866"
 nummer_v18: "252"
 tema: "Vintertid"
 ---
+
 1\.\
 I sne står urt og busk i skjul,\
 det er så koldt derude,\
@@ -27,5 +28,4 @@ du skal i sandhed skue.
 Giv tid! og åndens vinterblund\
 skal fly for herlig sommer,\
 giv tid, og bi på herrens stund,\
--- hans skønhedsrige kommer.\
-\
+-- hans skønhedsrige kommer.

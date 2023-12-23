@@ -5,11 +5,9 @@ melodi: "Anne Linnet, 1989"
 toneart: "A-dur"
 nummer_v18: "N/A"
 nummer_v19: "258"
+stemmer: "Tre (TMB) i sidste sætning"
 tema: "Jul"
 ---
-*Noter: tre-stemmigt "Messias"*
-
-***
 
 1\.\
 En stjerne på himlen\

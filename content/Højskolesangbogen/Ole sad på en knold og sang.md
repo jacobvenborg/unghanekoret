@@ -5,6 +5,7 @@ melodi: "Alfred Tofft, 1911"
 nummer_v18: "184"
 tema: "Frihed og fællesskab"
 ---
+
 1\.\
 Ole sad på en knold og sang,\
 *lal-la-la-la-la-la-la-la-la-la!* \
@@ -51,4 +52,4 @@ fårene står der endnu og glor.\
 Ej kan bede og får forstå\
 *lal-la-la-la-la-la-la-la-la-la!* \
 længslers tog over bølger blå.\
-*tral-la-la-la-la-la-la-la!* \
+*tral-la-la-la-la-la-la-la!*

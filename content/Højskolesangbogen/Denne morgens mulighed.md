@@ -5,6 +5,7 @@ melodi: "Mogens Helmer Petersen, 1992"
 nummer_v18: "26"
 tema: "Morgen"
 ---
+
 1\.\
 Denne morgens mulighed.\
 Vi har luft i vore lunger.\

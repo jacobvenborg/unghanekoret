@@ -29,4 +29,4 @@ i det mørke, hvor alt forgår.
 Himmelens stjerner så fjernt over kloden.\
 Vældige verden mens du føler dig lille her.\
 Fuglenes stemmer stiger mod gryet.\
-Sommermorgenen er os nær.\
+Sommermorgenen er os nær.

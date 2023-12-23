@@ -6,9 +6,6 @@ nummer_v18: "411"
 nummer_v19: "439"
 tema: "Norden – Sverige"
 ---
-*Noter:*
-
-***
 
 1\.\
 Vila vid denna källa!\

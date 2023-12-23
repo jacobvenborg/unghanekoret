@@ -6,9 +6,6 @@ nummer_v18: "346"
 nummer_v19: "363"
 tema: "Året – efterår"
 ---
-*Noter:*
-
-***
 
 1\.\
 Oktoberdagens skiften\

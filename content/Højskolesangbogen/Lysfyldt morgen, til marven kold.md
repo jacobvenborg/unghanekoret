@@ -6,9 +6,6 @@ nummer_v18: "263"
 nummer_v19: "indsæt"
 tema: "Året – tidligt forår"
 ---
-*Noter:*
-
-***
 
 1\.\
 Lysfyldt morgen, til marven kold,\

@@ -5,9 +5,6 @@ melodi: "Knud Jeppesen, 1952"
 nummer_v19: "275"
 tema: "Året – tidligt forår"
 ---
-*Noter:*
-
-***
 
 1\.\
 Vintergæk er brudt af mulden,\

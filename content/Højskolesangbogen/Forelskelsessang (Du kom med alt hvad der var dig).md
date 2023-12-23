@@ -1,11 +1,12 @@
 ---
-title: "Forelskelsessang (Du kom med alt hvad der var dig)"
+title: "Forelskelsessang/Du kom med alt hvad der var dig"
 tekst: "Jens Rosendahl, 1981"
 melodi: "Per Warming, 1987"
 nummer_v18: "453"
 nummer_v19: "480"
 tema: "Kærlighed"
 ---
+
 1\.\
 Du kom med alt hvad der var dig\
 og sprængte hver en spærret vej\
@@ -44,4 +45,4 @@ på trods af tvivl og stor besvær\
 på trods af det, der smerter,\
 og kærligheder er og bli’r\
 Og hvad end hele verden si’r\
-Så har den vore hjerter\
+Så har den vore hjerter

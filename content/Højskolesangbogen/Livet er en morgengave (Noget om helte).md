@@ -5,6 +5,7 @@ melodi: "Robert Normann"
 nummer_v18: "187"
 tema: "Frihed og fællesskab"
 ---
+
 1\.\
 Livet er en morgengave, sjælen er et pilgrimskor.\
 Der står krokus i min have, der står øller på mit bord.\
@@ -45,4 +46,4 @@ og vil hell’re slå min plæne, end slå løs på pæne folk.
 Livet er en dejlig gave, jorden er en herlig jord.\
 der er øller i min mave, der står krokus på mit bord.\
 Når reserverne skal stille for at splitte kloden ad\
-skriver jeg med kruspersille verdens mindste heltekvad.\
+skriver jeg med kruspersille verdens mindste heltekvad.

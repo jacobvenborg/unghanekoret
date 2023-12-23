@@ -5,11 +5,13 @@ melodi: "Skotsk folkemelodi"
 nummer_v18: "177"
 tema: "Frihed og fællesskab"
 ---
+
 1\.\
 Should auld acquaintance be forgot\
 And never brought to mind?\
 Should auld acquaintance be forgot,\
-And auld lang syne!\
+And auld lang syne!
+
 *Omkvæd*\
 For auld lang syne, my dear,\
 For auld lang syne,\
@@ -62,4 +64,4 @@ For auld lang syne
 For auld lang syne, my dear,\
 For auld lang syne,\
 We'll take a cup o' kindness yet\
-For auld lang syne\
+For auld lang syne

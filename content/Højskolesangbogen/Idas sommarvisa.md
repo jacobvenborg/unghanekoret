@@ -6,9 +6,6 @@ nummer_v18: "298"
 nummer_v19: "319"
 tema: "Året – sent forår"
 ---
-*Noter:*
-
-***
 
 1\.\
 Du ska inte tro det blir sommar\

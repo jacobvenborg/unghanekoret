@@ -5,6 +5,7 @@ melodi: "Tom Vejslev, 1953"
 nummer_v18: "345"
 tema: "Året – efterår"
 ---
+
 1\.\
 Det løvfald, som vi kom så altfor nær,\
 bedrog os med de ting, vi havde kær:\
@@ -27,4 +28,4 @@ drev mange flere blade end vi så.
 Esbønderup. Det hvide hospital.\
 En fjern og ukendt hanes søndagsgal.\
 Dit blik fik gule marker med sig hjem.\
-Nu ejer du en længsel efter dem.\
+Nu ejer du en længsel efter dem.

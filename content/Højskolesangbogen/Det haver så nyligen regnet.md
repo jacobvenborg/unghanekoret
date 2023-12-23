@@ -5,6 +5,7 @@ melodi: "Dansk folkemelodi"
 nummer_v18: "497"
 tema: "Historien"
 ---
+
 1\.\
 Det haver så nyligen regnet,\
 det har stormet og pisket i vor lund.\
@@ -49,6 +50,6 @@ men endda er vi frejdige i hu;\
 viger ej ud af spor,\
 for vi kender det ord:\
 Det har slet ingen hast for dem, som tror,\
-- viger ej ud af spor,\
+\- viger ej ud af spor,\
 for vi kender det ord:\
-Det har slet ingen hast for dem, som tror.\
+Det har slet ingen hast for dem, som tror.

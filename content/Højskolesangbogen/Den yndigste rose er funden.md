@@ -5,6 +5,7 @@ melodi: "Fra 1500-tallet"
 nummer_v18: "225"
 tema: "Året – jul"
 ---
+
 1\.\
 Den yndigste rose er funden,\
 blandt stiveste torne oprunden,\
@@ -51,4 +52,4 @@ og korset så liflig forsøder.
 Lad verden mig alting betage,\
 lad tornene rive og nage,\
 lad hjertet kun dåne og briste,\
-min rose jeg aldrig vil miste.\
+min rose jeg aldrig vil miste.

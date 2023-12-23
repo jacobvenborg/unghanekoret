@@ -5,6 +5,7 @@ melodi: "W. A. Mozart, 1791"
 nummer_v18: "292"
 tema: "Året – sent forår"
 ---
+
 1\.\
 Kom, maj, du søde, milde!\
 Gør skoven atter grøn,\
@@ -43,4 +44,4 @@ på marken vor springom.\
 Men frem for alt du mange\
 violer tage med,\
 og nattergalesange\
-og kukkeren tag med!\
+og kukkeren tag med!

@@ -7,8 +7,6 @@ nummer_v19: "206"
 tema: "Frihed og fællesskab"
 ---
 
-***
-
 A.\
 What would you think if I sang out of tune\
 Would you stand up and walk out on me?\

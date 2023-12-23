@@ -6,9 +6,6 @@ nummer_v18: "31"
 nummer_v19: "26"
 tema: "Morgen"
 ---
-*Noter:*
-
-***
 
 1\.\
 Vær vågen en tidlig morgen\

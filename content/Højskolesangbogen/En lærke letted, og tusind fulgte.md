@@ -5,6 +5,7 @@ melodi: "Matthias Christensen, 1945"
 nummer_v18: "514"
 tema: "Historien"
 ---
+
 1\.\
 En lærke letted, og tusind fulgte,\
 og straks var luften et væld af sang.\
@@ -29,7 +30,7 @@ hvis navne lever i Danmarks navn,\
 og takken søger til dem, der segned,\
 og dem, der sidder med tunge savn.\
 Gud trøste dem, der har lidt og stridt,\
-til det blev forår - og Danmark frit,\
+til det blev forår -- og Danmark frit,\
 -- og Danmark frit.
 
 4\.\
@@ -39,4 +40,4 @@ dig flyver hjerternes tak i møde.\
 Vor skæbne er i din stærke hånd.\
 Nu er det forår og Danmark frit,\
 velsign det, Herre, fra sund til klit,\
--- fra sund til klit.\
+-- fra sund til klit.

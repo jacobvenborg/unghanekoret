@@ -5,6 +5,7 @@ melodi: "Carl Michael Bellman, 1790"
 nummer_v18: "539"
 tema: "Aften"
 ---
+
 1\.\
 Nu er jord og himmel stille\
 vinden holder tyst sit vejr\
@@ -33,4 +34,4 @@ og for dem, der ligger bag.\
 I det høje lyse fjerne\
 mødes sangen mild og klar\
 med den første aftenstjerne\
-som et kærligt smil til svar.\
+som et kærligt smil til svar.

@@ -5,6 +5,7 @@ melodi: "Carl Nielsen, 1907"
 nummer_v18: "100"
 tema: "Liv"
 ---
+
 1\.\
 Hvem sidder der bag skærmen med klude om sin hånd,\
 med læderlap for øjet og om sin sko et bånd,\
@@ -39,4 +40,4 @@ de bar ham over heden en kold decembernat.
 Der står på kirkegården et gammelt frønnet bræt;\
 det hælder slemt til siden, og malingen er slet.\
 Det er såmænd Jens Vejmands. Hans liv var fuldt af sten,\
-men på hans grav - i døden, man gav ham aldrig én.\
+men på hans grav - i døden, man gav ham aldrig én.

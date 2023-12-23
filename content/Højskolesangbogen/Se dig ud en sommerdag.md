@@ -5,6 +5,7 @@ melodi: "Carl Nielsen, 1917"
 nummer_v18: "323"
 tema: "Året – højsommer"
 ---
+
 1\.\
 Se dig ud en sommerdag,\
 når de bønder tromler:\
@@ -53,4 +54,4 @@ fra dets egne høje:\
 Synet, fjernt af banker lukt,\
 bliver frit mod bælt og bugt\
 stemningsfyldt som hejreflugt\
-om kvæld, når sol går under.\
+om kvæld, når sol går under.

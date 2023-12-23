@@ -7,8 +7,6 @@ nummer_v19: "181"
 tema: "Sprog og ånd"
 ---
 
-***
-
 1\.\
 At lære er at ville\
 befri sin ensomhed,\

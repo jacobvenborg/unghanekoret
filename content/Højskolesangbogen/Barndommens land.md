@@ -5,6 +5,7 @@ melodi: "Benny Andersen, 1981"
 nummer_v18: "134"
 tema: "Liv"
 ---
+
 1\.\
 Barndommens land.\
 Tidens mælketand.\

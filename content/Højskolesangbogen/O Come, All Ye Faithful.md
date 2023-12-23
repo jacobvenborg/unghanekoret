@@ -1,10 +1,11 @@
 ---
 title: "O Come, All Ye Faithful,"
-tekst: "Original på latin,'Adeste Fideles' af John Francis Wade, ???. Dansk tekst af Jørgen Christensen, ???"
+tekst: "Original på latin, 'Adeste Fideles' af John Francis Wade, 1751. Dansk tekst af Jørgen Christensen, ???"
 melodi: "John Reading, ???"
 nummer_v18: "241"
 tema: "Året – jul"
 ---
+
 1\.\
 O come, all ye faithful, joyful and triumphant!\
 O come ye, O come ye, to Bethlehem\

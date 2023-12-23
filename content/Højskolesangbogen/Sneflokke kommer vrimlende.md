@@ -5,6 +5,7 @@ melodi: "Thorvald Aagaard, 1916"
 nummer_v18: "255"
 tema: "Vintertid"
 ---
+
 1\.\
 Sneflokke kommer vrimlende,\
 hen over diger trimlende,\
@@ -33,4 +34,4 @@ og ser forsagt derud,\
 for nu er kålen liggende,\
 og nu står tjørnen stikkende\
 og spidder sne på piggene;\
-og nu kom Kjørmes-knud!\
+og nu kom Kjørmes-knud!

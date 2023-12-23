@@ -5,6 +5,7 @@ melodi: "Carl Nielsen, 1910"
 nummer_v18: "277"
 tema: "Året – påske"
 ---
+
 1\.\
 Påskeblomst! hvad vil du her?\
 Bondeblomst fra landsbyhave\
@@ -99,4 +100,4 @@ på en påskemorgenrøde:\
 Hvad er segl og sværd og skjold\
 mod den herre kæk og bold?\
 Avner kun, når han vil ånde,\
-han, som svor os bod for vånde.\
+han, som svor os bod for vånde.

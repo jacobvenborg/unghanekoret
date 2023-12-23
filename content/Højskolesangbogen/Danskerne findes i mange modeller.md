@@ -5,6 +5,7 @@ melodi: "Ebbe Kløvedal Reich, 1994"
 nummer_v18: "201"
 tema: "Frihed og fællesskab"
 ---
+
 1\.\
 Danskerne findes i mange modeller\
 og stadig kommer der nye til.\
@@ -73,4 +74,4 @@ der rejser sig, nu da det gamle er væk\
 Lad os tale om det frit,\
 lære hvor vi står,\
 blive tvivl og kulde kvit,\
-skabe gyldenår.\
+skabe gyldenår.

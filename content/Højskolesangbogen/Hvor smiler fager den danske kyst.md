@@ -6,9 +6,6 @@ nummer_v18: "374"
 nummer_v19: "400"
 tema: "Danmark"
 ---
-*Noter:*
-
-***
 
 1\.\
 Hvor smiler fager den danske kyst\

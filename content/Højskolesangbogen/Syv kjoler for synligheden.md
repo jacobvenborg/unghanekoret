@@ -5,9 +5,6 @@ melodi: "Janne Mark, 2019"
 nummer_v18: "219"
 tema: "Frihed og fællesskab"
 ---
-*Noter:*
-
-***
 
 1\.\
 Jeg syr en kjole, som kan bæres\

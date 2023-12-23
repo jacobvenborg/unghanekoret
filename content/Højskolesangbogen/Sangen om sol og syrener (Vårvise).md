@@ -43,4 +43,4 @@ Gi' mig kun en sang\
 Så ingen vinter går\
 Uden at den minder os om\
 Hvor dejligt det var\
-Hvor dejlig du var\
+Hvor dejlig du var

@@ -5,6 +5,7 @@ melodi: "Lars Nielsen"
 nummer_v18: "14"
 tema: "Morgen"
 ---
+
 1\.\
 Se, nu stiger solen af havets skød,\
 luft og bølge blusser i brand, i glød,\
@@ -45,4 +46,4 @@ ud hans hånd mig river af dødens garn.
 Se, da stiger solen af hav på ny,\
 alle dødens skygger for evig fly!\
 O, for sejersjubel, for salig lyst:\
-lyset stander stille på livets kyst!\
+lyset stander stille på livets kyst!

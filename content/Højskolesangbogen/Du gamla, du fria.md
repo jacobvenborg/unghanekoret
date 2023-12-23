@@ -7,8 +7,6 @@ nummer_v19: "436"
 tema: "Norden – Sverige"
 ---
 
-***
-
 1\.\
 Du gamla, du fria, du fjällhöga Nord,\
 du tysta, du glädjerika sköna!\

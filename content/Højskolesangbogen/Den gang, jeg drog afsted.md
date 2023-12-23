@@ -5,7 +5,6 @@ melodi: "E. Horneman, 1848"
 nummer_v18: "488"
 tema: "Historien"
 ---
-***
 
 1\.\
 Dengang jeg drog af sted,\
@@ -83,4 +82,4 @@ og ej vil ofre liv og blod for gamle Dannebrog!\
 Men kommer jeg ej hjem til min gamle far og mor,\
 Kong Frederik vil trøste dem med disse hersens ord:\
 "Sit løfte har han holdt, den tapre landsoldat".\
-Hurra, hurra, hurra!\
+Hurra, hurra, hurra!

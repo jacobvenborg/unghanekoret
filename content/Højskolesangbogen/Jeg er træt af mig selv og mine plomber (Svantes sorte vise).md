@@ -6,7 +6,9 @@ toneart: "B-mol"
 nummer_v18: "136"
 tema: "Liv"
 ---
-*Noter: startone F, taktstart 4*
+*Noter: Startone F, optakt på fireslaget*
+
+***
 
 1\.\
 Jeg er træt af mig selv og mine plomber.\

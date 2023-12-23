@@ -6,9 +6,6 @@ nummer_v18: "213"
 nummer_v19: "227"
 tema: "Året – jul"
 ---
-*Noter:*
-
-***
 
 1\.\
 Vær velkommen, Herrens år,\

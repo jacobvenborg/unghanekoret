@@ -5,6 +5,7 @@ melodi: "Folkemelodi"
 nummer_v18: "572"
 tema: "Aften"
 ---
+
 1\.\
 I skovens dybe, stille ro,\
 hvor sangerhære bo,\
@@ -23,4 +24,4 @@ end kvidrer lidt en stund.\
 I mosen kvækker højt en frø,\
 stærkt damper mark og sø,\
 nu klokken tier, - aftnens fred\
-sig stille sænker ned.\
+sig stille sænker ned.

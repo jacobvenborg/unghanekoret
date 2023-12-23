@@ -6,9 +6,6 @@ nummer_v18: "555"
 nummer_v19: "582"
 tema: "Aften"
 ---
-*Noter:*
-
-***
 
 1\.\
 Stille, hjerte, sol går ned,\

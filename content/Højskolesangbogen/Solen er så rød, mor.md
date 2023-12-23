@@ -5,6 +5,7 @@ melodi: "Carl Nielsen, 1923-24"
 nummer_v18: "000"
 tema: "Nyudgave"
 ---
+
 1\.\
 Solen er så rød, mor\
 og skoven bli'r så sort\
@@ -33,4 +34,4 @@ den mjaver og vil ind!\
 Mågerne og ternerne\
 har ingen sted at bo.\
 hør, nu synger stjernerne,\
-og de synger mig til ro!\
+og de synger mig til ro!

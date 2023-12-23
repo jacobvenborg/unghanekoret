@@ -6,9 +6,6 @@ nummer_v18: "indsæt"
 nummer_v19: "437"
 tema: "Norden – Sverige"
 ---
-*Noter:*
-
-***
 
 1\.\
 𝄆 Gubben Noach, gubben Noach\

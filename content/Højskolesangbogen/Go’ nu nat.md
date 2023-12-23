@@ -17,7 +17,6 @@ lurer fristelser på dig\
 go' nu nat\
 og gå nu lige hjem.\
 
-
 2\.\
 Go' nu nat\
 og gå nu lige hjem\
@@ -27,7 +26,6 @@ som en knækket æggeskal\
 … … … (nynnes)\
 go' nu nat\
 og gå nu lige hjem.\
-
 
 3\.\
 Go' nu nat\
@@ -39,8 +37,7 @@ venter på dig nat og da'\
 go' nu nat\
 og gå nu lige hjem.\
 
-
-4.(alternativ)\
+4. *(alternativ melodi)*\
 Vi har sunget\
 vi har grædt, vi har grint.\
 I flere timer har vi haft det smadderfint.\
@@ -49,7 +46,6 @@ nu da timerne bli'r små\
 … … … (nynnes)\
 go' nu nat\
 og gå nu lige hjem.\
-
 
 5\.\
 Go' nu nat\

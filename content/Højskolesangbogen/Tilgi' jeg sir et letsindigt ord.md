@@ -5,6 +5,7 @@ melodi: "Kai Normann Andersen, 1941"
 nummer_v18: "111"
 tema: "Liv"
 ---
+
 1\.\
 Tilgi' jeg sir et letsindigt ord.\
 Det er klogt at De forstår det straks.\
@@ -45,4 +46,4 @@ Hvorfor sove nu\
 i den lyse sommernat...\
 Det haster med det kys.\
 Den kommer, før du tror,\
-den drømmeløse søvn.\
+den drømmeløse søvn.

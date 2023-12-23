@@ -5,6 +5,7 @@ melodi: "Otto Mortensen, 1932"
 nummer_v18: "321"
 tema: "Året – højsommer"
 ---
+
 1\.\
 Du danske sommer, jeg elsker dig\
 skønt du så ofte har sveget mig\
@@ -51,4 +52,4 @@ du lyse nat og du lyse dag!\
 Går tit du kold over landet hen,\
 jeg véd, du kommer dog hed igen\
 Ja, ja, ja,\
-jeg véd, dit hjerte er guld endda.\
+jeg véd, dit hjerte er guld endda.

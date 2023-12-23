@@ -5,6 +5,7 @@ melodi: "Rasmus Skov Borring, 2009"
 nummer_v18: "000"
 tema: "Nyudgave"
 ---
+
 1\.\
 Kloden har mange forskellige slags.\
 Alle må leve og dø.\
@@ -48,4 +49,4 @@ Og vi vandrer med Helios.\
 Gi’ os landet tilbag’.\
 Gi’ tolerancen et nyt folkeslag.\
 Hjertet er åbent og sindet er frit.\
-Sådan er landet, jeg gerne vil kalde for mit\
+Sådan er landet, jeg gerne vil kalde for mit

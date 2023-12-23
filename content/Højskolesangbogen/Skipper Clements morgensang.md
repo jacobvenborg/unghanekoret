@@ -5,6 +5,7 @@ melodi: "Leif Varmark, 1971"
 nummer_v18: "478"
 tema: "Historien"
 ---
+
 1\.\
 Skærm jeres hus med grav og planke\
 Hvæs jeres leer snittende blanke\
@@ -51,4 +52,4 @@ stå nu kun fast for vi er de mange\
 Lad ikke fremtiden sige om os,\
 rigdommen knægted’ os uden at slås.\
 Bønder, tømre, jyske knejte,\
-nu skal vi sejre i grevens fejde\
+nu skal vi sejre i grevens fejde

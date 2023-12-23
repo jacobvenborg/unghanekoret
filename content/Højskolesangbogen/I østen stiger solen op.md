@@ -2,12 +2,10 @@
 title: "I østen stiger solen op"
 tekst: "B.S. Ingemann, 1837"
 melodi: "C.E.F. Weyse, 1837"
-nummer_v18: ""
+nummer_v18: "11"
 nummer_v19: "10"
 tema: "Morgen"
 ---
-
-***
 
 1\.\
 I østen stiger solen op:\

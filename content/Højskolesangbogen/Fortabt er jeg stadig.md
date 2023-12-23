@@ -5,6 +5,7 @@ melodi: "Katrine Muff Enevoldsen, 2019"
 nummer_v18: "000"
 tema: "Nyudgave"
 ---
+
 1\.\
 Vi mødtes i sne.\
 Forblændet af ungdom og uden at se\
@@ -59,4 +60,4 @@ så tag mig for givet det virker så tyst\
 fortabt er jeg stadig trods årenes gang\
 og synger med tak denne kærlighedssang\
 fordi det sku' ske\
-vi mødtes i sne.\
+vi mødtes i sne.

@@ -6,9 +6,6 @@ nummer_v18: "170"
 nummer_v19: "188"
 tema: "Sprog og ånd"
 ---
-*Noter:*
-
-***
 
 1\.\
 Jeg lærte som lille, at tonerne gror\

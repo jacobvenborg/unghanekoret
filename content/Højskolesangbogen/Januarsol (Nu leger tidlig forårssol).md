@@ -5,6 +5,7 @@ melodi: "Jens Nielsen, 2006"
 nummer_v18: "260"
 tema: "Året – tidligt forår"
 ---
+
 1\.\
 Nu leger tidlig forårssol\
 om Sjællands frosne strå.\
@@ -15,7 +16,7 @@ har vasket by og træ’r.\
 Hvor tydelige alle ting.\
 Hvor virkeligt et vejr.
 
-2\
+2\.\
 Et træ står rakt mod rummets dyb\
 med nye skud på spring,\
 forgrenet som et slægtens træ\
@@ -43,4 +44,4 @@ og lusker sig i ly.\
 Men åbent, uforfærdet sind,\
 og udsyn støbt i ord,\
 er stærk som dette klare lys\
-mod denne kolde jord.\
+mod denne kolde jord.

@@ -26,4 +26,4 @@ Et lys, der sænker sig så tavst nu\
 en sol så langsomt på vej\
 En sommernatteblå magi\
 et sind, der åbner sig\
-mens vi fanger stjerner.\
+mens vi fanger stjerner.

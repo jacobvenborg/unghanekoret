@@ -5,6 +5,7 @@ melodi: "Sigurd Barett, 2001"
 nummer_v18: "206"
 tema: "Frihed og fællesskab"
 ---
+
 1\.\
 Hvor du sætter din fod,\
 drysser frø af de drømme du driver imod.\
@@ -51,4 +52,4 @@ er du skabt i et stykke der ikke går op.\
 Hvad du gi'r på din færden\
 mangedobles af verden\
 Dett la'r tro, håb og kærlighed vokse og nå\
-fra din top til din tå.\
+fra din top til din tå.

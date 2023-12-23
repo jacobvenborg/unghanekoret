@@ -6,9 +6,6 @@ nummer_v18: "512"
 nummer_v19: "544"
 tema: "Historien"
 ---
-*Noter:*
-
-***
 
 1\.\
 Det mørkner i vort år.\

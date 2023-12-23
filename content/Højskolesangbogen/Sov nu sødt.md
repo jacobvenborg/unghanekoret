@@ -6,9 +6,6 @@ nummer_v18: "570"
 nummer_v19: "595"
 tema: "Aften"
 ---
-*Noter:*
-
-***
 
 1\.\
 Sov nu sødt\

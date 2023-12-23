@@ -5,6 +5,10 @@ melodi: "Bøhmisk melodi fra tjekkisk sangbog, omkring 1576"
 nummer_v18: "47"
 tema: "Tro"
 ---
+*Noter: Forkortet (!)*
+
+***
+
 1\.\
 Op al den ting, som Gud har gjort,\
 hans herlighed at prise!\
@@ -64,5 +68,3 @@ Op, stemmer alle folk på jord\
 med frydetone sammen:\
 Halleluja, vor Gud er stor!\
 Og himlen svare: Amen!
-
-*PS: Den er forkortet.*

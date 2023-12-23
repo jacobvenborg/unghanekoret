@@ -5,6 +5,7 @@ melodi: "Dansk folkevise"
 nummer_v18: "464"
 tema: "Folkeviser"
 ---
+
 1\.\
 Ramund han var sig en bedre mand,\
 om han havde bedre klæder.\
@@ -59,4 +60,4 @@ den han kaldte Dymlingens dyre.\
 Skilte han kejseren ved hans liv,\
 at hovedet fløj femten mile.\
 "Jeg mente, den ej bed," sagde Ramund.\
-"Dog rinder blodet ned," sagde Ramund den Unge.\
+"Dog rinder blodet ned," sagde Ramund den Unge.

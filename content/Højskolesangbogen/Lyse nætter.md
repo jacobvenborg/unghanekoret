@@ -18,7 +18,7 @@ Men hjertet ved godt, hvad det ønsker sig,\
 at pynte sig for dig.\
 *Du er tilbag', du er hos mig.*
 
-Omkvæd x 2\
+*Omkvæd x 2*\
 *Du er tilbag' med varme dag',*\
 *du er hos mig.*
 
@@ -33,6 +33,6 @@ Men hjertet ved godt, hvad det ønsker sig,\
 at pynte sig for dig.\
 *Du er tilbag', du er hos mig.*\
 
-Omkvæd x ∞\
-*Du er tilbag'med varme dag',*\
+*Omkvæd (gentages ad libitum)*\
+*Du er tilbag' med varme dag',*\
 *du er hos mig.*

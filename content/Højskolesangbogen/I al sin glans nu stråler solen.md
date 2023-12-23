@@ -5,6 +5,7 @@ melodi: "Henrik Rung, 1859"
 nummer_v18: "303"
 tema: "Året – pinse"
 ---
+
 1\.\
 I al sin glans nu stråler solen,\
 livslyset over nådestolen,\
@@ -59,4 +60,4 @@ Da blomstrer rosen i dit rige,\
 som sole vi går op og ned\
 i din enbårnes herlighed,\
 thi du for hjertet, vi gav dig,\
-gav os med ham dit himmerig!\
+gav os med ham dit himmerig!

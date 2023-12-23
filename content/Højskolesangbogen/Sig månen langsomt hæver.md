@@ -30,7 +30,7 @@ Så er vel flere sager,\
 som nu vort hjerte vrager,\
 fordi vi halvt dem skue kun.
 
-4.
+4\.\
 Vi stolte Adams slægter\
 kun såre lidet mægter,\
 og meget ved vi ej.\

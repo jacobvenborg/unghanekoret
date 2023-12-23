@@ -5,9 +5,6 @@ melodi: "Leonard Cohen, 1984"
 nummer_v19: "479"
 tema: "Kærlighed"
 ---
-*Noter:*
-
-***
 
 1\.\
 Now I've heard there was a secret chord\
@@ -53,6 +50,6 @@ And even though it all went wrong\
 I'll stand before the Lord of Song\
 With nothing on my tongue but Hallelujah
 
-Omkvæd x ∞\
+*Omkvæd (gentages ad libitum)*\
 Hallelujah, hallelujah\
 Hallelujah, hallelujah

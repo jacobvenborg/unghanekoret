@@ -6,9 +6,6 @@ nummer_v18: "N/A"
 nummer_v19: "468"
 tema: "Kærlighed"
 ---
-*Noter:*
-
-***
 
 1\.\
 Så tag mit hjerte i dine hænder,\

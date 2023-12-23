@@ -5,6 +5,7 @@ melodi: "Erik Sommer, 1989"
 nummer_v18: "122"
 tema: "Liv"
 ---
+
 1\.\
 Med store undrende øjne går jeg,\
 hvor anemonerne lyser hvidt.\
@@ -63,4 +64,4 @@ Den mindste enhed. Den største kraft.
 Hør blæsten synger din sang, veninde !\
 Se, træet blomstre på barnets bud !\
 Jeg tror der lever et barn dybt inde,\
-en kraft, som aldrig kan drives ud.\
+en kraft, som aldrig kan drives ud.

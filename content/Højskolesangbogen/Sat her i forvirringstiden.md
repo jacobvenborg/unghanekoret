@@ -6,9 +6,6 @@ nummer_v18: "indsæt"
 nummer_v19: "148"
 tema: "Liv"
 ---
-*Noter:*
-
-***
 
 1\.\
 Sat her i forvirringstiden\

@@ -5,6 +5,7 @@ melodi: "Thomas Laub, 1914"
 nummer_v18: "253"
 tema: "Vintertid"
 ---
+
 1\.\
 Det er hvidt herude,\
 kyndelmisse slår sin knude\
@@ -43,4 +44,4 @@ efter vår, men vintren strænges,\
 atter vinden om til nord!\
 Kom, sydvest, som frosten tvinger,\
 kom med dine tågevinger,\
-kom og løs den bundne jord!\
+kom og løs den bundne jord!

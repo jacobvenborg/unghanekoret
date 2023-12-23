@@ -5,6 +5,7 @@ melodi: "C. E. F. Weyse, 1826"
 nummer_v18: "1"
 tema: "Morgen"
 ---
+
 1\.\
 Den signede dag med fryd vi ser\
 af havet til os opkomme,\
@@ -59,4 +60,4 @@ der ligger ej dag i dvale,\
 der stander en borg så prud og grand\
 med gammen i gyldne sale,\
 så frydelig dér til evig tid\
-med venner i lys vi tale!\
+med venner i lys vi tale!

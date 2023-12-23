@@ -5,6 +5,7 @@ melodi: "Hans Ulrik, 2005"
 nummer_v18: "150"
 tema: "Liv"
 ---
+
 1\.\
 Dåser rasler i morgengry vender han hjem\
 Godt med vinden i håret og vaklende ben\
@@ -17,11 +18,11 @@ Det er kun et par skridt det er værd\
 At få gjort at gå bort helt i sort hvis du kan\
 Langt bort herfra lille mand
 
-*B:\
+*B-stykke*\
 Vent og se hvad du finder på det sted du nu går hen\
 Ku’ det ske at du vinder over sortsynet igen\
 Og ved du så hvad du drømte der\
-Og om drømmen var din ven\*
+Og om drømmen var din ven
 
 3\.\
 Han som går imod strømmen og vinder sig selv\
@@ -35,8 +36,8 @@ De ka’ flakse som lys i det sorteste sind\
 Selv hvor alt synes visnet og dødt\
 Lander de fugle så blødt
 
-*B:\
+*B-stykke*\
 Vent og se hvad du finder på det sted du nu går hen\
 Ku’ det ske at du vinder over sortsynet igen\
 Og ved du så hvad du drømte der\
-Og om drømmen var din ven\*
+Og om drømmen var din ven

@@ -43,8 +43,9 @@ men hjemm ve hweranner di lo da.\
 som fahr di had gjow, i de båreste lønng:\
 *𝄆 La la luh -- la la lih -- kom! så skal a bih!𝄇*
 
-> Kon koltringsknæjt = ung knøs (dreng) \
-> Vien = vidjer \
-> Liim = riskost \
-> Hwell = råbe højt (gale) \
-> Stonthos = strømpe uden fod
+### Ordforklaringer
+1.1   *kon koltringsknæjt*: ung knøs (dreng) \
+1.4   *vien*: vidjer \
+1.5   *liim*: riskost \
+1.6   *hwell*: råbe højt (gale) \
+2.1   *stonthos*: strømpe uden fod

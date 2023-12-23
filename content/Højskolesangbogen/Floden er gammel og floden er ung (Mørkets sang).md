@@ -5,6 +5,7 @@ melodi: "Benny Andersen, 1980"
 nummer_v18: "133"
 tema: "Liv"
 ---
+
 1\.\
 Floden er gammel og floden er ung.\
 Byen er sorgfuld og munter.\
@@ -63,4 +64,4 @@ Der vil jeg synge og være.\
 Ånd på mit hjerte og tæl så til ti.\
 Hør, hvor det vågner af glæde.\
 Vis mig dit ansigt før alt er forbi,\
-så er vi alle til stede.\
+så er vi alle til stede.

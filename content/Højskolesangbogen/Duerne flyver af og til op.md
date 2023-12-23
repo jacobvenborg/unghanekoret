@@ -6,8 +6,6 @@ nummer_v18: "126"
 tema: "Liv"
 ---
 
-***
-
 Duerne flyver af og til op\
 ingen ved rigtigt hvorfor.\
 Duerne flyver af og til bort\
@@ -27,4 +25,4 @@ er to hvide duer på vej.
 
 Duerne flyver henover by'n\
 Flyver de hen til dig ?\
-Til dig?\
+Til dig?

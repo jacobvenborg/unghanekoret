@@ -6,9 +6,6 @@ nummer_v18: "425"
 nummer_v19: "448"
 tema: "Kærlighed"
 ---
-*Noter:*
-
-***
 
 1\.\
 Jag vet en dejlig rosa\

@@ -6,9 +6,6 @@ nummer_v18: "N/A"
 nummer_v19: "401"
 tema: "Danmark"
 ---
-*Noter:*
-
-***
 
 1\.\
 Færdsel er en fin balancekunst\

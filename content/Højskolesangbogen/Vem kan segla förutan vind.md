@@ -6,9 +6,6 @@ nummer_v18: "426"
 nummer_v19: "449"
 tema: "Kærlighed"
 ---
-*Noter:*
-
-***
 
 1\.\
 Vem kan segla förutan vind?\

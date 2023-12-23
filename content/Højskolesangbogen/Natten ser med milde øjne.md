@@ -5,6 +5,7 @@ melodi: "Keld Telén, 1993"
 nummer_v18: "328"
 tema: "Året – højsommer"
 ---
+
 1\.\
 Natten ser med milde øjne\
 ned på marker, ned på skov\
@@ -45,4 +46,4 @@ krydderduftende kulør.
 Ligger atter med fornyet\
 styrke til at synke ned.\
 Og et sted i morgengryet\
-rider nattens drøm af sted.\
+rider nattens drøm af sted.

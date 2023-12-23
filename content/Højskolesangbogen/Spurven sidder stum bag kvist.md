@@ -54,4 +54,4 @@ og "al hans nådegave"\
 Lul-lul! rokken står!\
 Med dens nyn og sange\
 vemodsfuldt mod hjertet går,\
-når kvældene bli´r lange.\
+når kvældene bli´r lange.

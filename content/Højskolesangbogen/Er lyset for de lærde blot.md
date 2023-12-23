@@ -5,6 +5,7 @@ melodi: "Thomas Laub, 1919"
 nummer_v18: "89"
 tema: "Liv"
 ---
+
 1\.\
 Er lyset for de lærde blot\
 til ret og galt at stave?\
@@ -53,4 +54,4 @@ oplysningen om livet;\
 den springer ud af folkedåd\
 og vokser, som den vugges,\
 den stråle i vort folkeråd,\
-til aftenstjernen slukkes!\
+til aftenstjernen slukkes!

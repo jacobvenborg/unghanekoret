@@ -5,6 +5,7 @@ melodi: "H. E. Krøyer, 1835"
 nummer_v18: "347"
 tema: "Danmark"
 ---
+
 1\.\
 Der er et yndigt land,\
 det står med brede bøge\
@@ -47,4 +48,4 @@ sin top i bølgen blå.\
 Vort gamle Danmark skal bestå,\
 så længe bøgen spejler\
 sin top i bølgen blå,\
-sin top i bølgen blå.\
+sin top i bølgen blå.

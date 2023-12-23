@@ -6,8 +6,6 @@ nummer_v18: "442"
 nummer_v19: "464"
 tema: "Kærlighed"
 ---
-*Noter:*
-***
 
 1\.\
 Den milde dag er lys og lang\

@@ -2,13 +2,10 @@
 title: "Kærlighedssang ved et tab"
 tekst: "Jens Rosendal, 2001"
 melodi: "Per Warming/Christian Dyrst, 2001"
-nummer_v18: ""
+nummer_v18: "454"
 nummer_v19: "481"
 tema: "Kærlighed"
 ---
-*Noter:*
-
-***
 
 1\.\
 Som solskin over mark og hav\

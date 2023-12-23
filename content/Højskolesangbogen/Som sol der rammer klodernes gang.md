@@ -5,6 +5,7 @@ melodi: "John Høybye, 2005"
 nummer_v18: "20"
 tema: "Morgen"
 ---
+
 1\.\
 Som sol der rammer klodernes gang\
 og henter dem ind i dagen\
@@ -43,4 +44,4 @@ der løfter sig højt en lærke.\
 Jeg ser det hele og jeg tror\
 den glæde er nær\
 som løfter os her.\
-Den bærer livets mærke\
+Den bærer livets mærke

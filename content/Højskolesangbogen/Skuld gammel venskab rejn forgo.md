@@ -15,7 +15,7 @@ med dem daw så læng, læng sind?\
 *Di skjønne ungdomsdaw, å ja,\
 de daw så svær å find!\
 Vi'el løwt wor kop så glådle op\
-for dem daw så læng, læng sind!\*
+for dem daw så læng, læng sind!*
 
 2\.\
 Og gi så kuns de glajs en top\
@@ -25,7 +25,7 @@ for dem swunden gammel daw.\
 *Di skjønne ungdomsdaw, å ja,\
 de daw så svær å find!\
 Vi'el løwt wor kop så glådle op\
-for dem daw så læng, læng sind!\*
+for dem daw så læng, læng sind!*
 
 3\.\
 Vi tow -- hwor hår vi rend om kap\
@@ -35,7 +35,7 @@ hår nu gjord æ bjenn lidt tång.\
 *Di skjønne ungdomsdaw, å ja,\
 de daw så svær å find!\
 Vi'el løwt wor kop så glådle op\
-for dem daw så læng, læng sind!\*
+for dem daw så læng, læng sind!*
 
 4\.\
 Vi wojed sammel i æ bæk\
@@ -45,9 +45,9 @@ Så kam den haw og skil wos ad.\
 *Di skjønne ungdomsdaw, å ja,\
 de daw så svær å find!\
 Vi'el løwt wor kop så glådle op\
-for dem daw så læng, læng sind!\*
+for dem daw så læng, læng sind!*
 
-5.
+5\.\
 Der er mi hånd, do gamle swend!\
 Ræk øwer og gi mæ dind.\
 Hwor er æ skjøn å find en ven,\
@@ -55,4 +55,4 @@ en håj mist for læng, læng sind!\
 *Di skjønne ungdomsdaw, å ja,\
 de daw så svær å find!\
 Vi'el løwt wor kop så glådle op\
-for dem daw så læng, læng sind!\*
+for dem daw så læng, læng sind!*

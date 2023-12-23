@@ -5,9 +5,6 @@ melodi: "Sigurd Barrett, 2015"
 nummer_v19: "557"
 tema: "Historien"
 ---
-*Noter:*
-
-***
 
 1\.\
 Når en stemme bli'r hørt, bli'r et menneske set\

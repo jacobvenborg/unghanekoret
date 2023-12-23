@@ -2,12 +2,10 @@
 title: "Ack, Värmeland, du sköna"
 tekst: "Anders Fryxell, 1814"
 melodi: "Svensk folkemelodi"
-nummer_v18: "indsæt"
+nummer_v18: "412"
 nummer_v19: "440"
 tema: "Norden – Sverige"
 ---
-*Noter:*
-***
 
 1\.\
 Ack, Värmeland, du sköna, du härliga land!\

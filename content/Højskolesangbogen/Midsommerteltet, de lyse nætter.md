@@ -5,6 +5,7 @@ melodi: "Åge Nielsen, 1971"
 nummer_v18: "317"
 tema: "Året – midsommer"
 ---
+
 1\.\
 Midsommerteltet, de lyse nætter,\
 står tjældet over de danske sletter.\
@@ -43,4 +44,4 @@ dit timeglas er i takt med kloder.\
 Dit sommerblus, som kun stakket blænder,\
 er ild af altets, der aldrig ender.\
 Se, skov og eng står igen i flor:\
-Velsign din sol og velsign din jord!\
+Velsign din sol og velsign din jord!

@@ -5,6 +5,7 @@ melodi: "Pia Raug, 1980"
 nummer_v18: "192"
 tema: "Frihed og fællesskab"
 ---
+
 1\.\
 Så dyrker de korn på et alter i Chile.\
 Så hælder de mælk i en gammel kanon.\
@@ -27,4 +28,4 @@ Så brænder de rubler og dollars og franc.
 Så synger de sange om folkenes lykke.\
 Så synger de sange om folkenes sorg.\
 Så blæser de alle partier et stykke\
-og vælter den sidste papirtigers borg.\
+og vælter den sidste papirtigers borg.

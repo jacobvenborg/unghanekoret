@@ -6,9 +6,6 @@ nummer_v18: "410"
 nummer_v19: "438"
 tema: "Norden – Sverige"
 ---
-*Noter:*
-
-***
 
 1\.\
 Fjäriln vingad syns på Haga\

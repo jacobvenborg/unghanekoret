@@ -5,6 +5,7 @@ melodi: "Willy Egmose, 1990"
 nummer_v18: "27"
 tema: "Morgen"
 ---
+
 1\.\
 Solen begynder at gløde.\
 Mærket i verden har tabt.\
@@ -39,4 +40,4 @@ morgenenes første: "Jeg vil!"
 Her på den dugvåde klode\
 Gud i sin glæde har skabt,\
 vil vi i dag kun det gode.\
-Mørket i verden har tabt.\
+Mørket i verden har tabt.

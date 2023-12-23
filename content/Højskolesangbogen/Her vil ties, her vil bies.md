@@ -5,6 +5,7 @@ melodi: "A. P. Berggreen, 1854"
 nummer_v18: "48"
 tema: "Tro"
 ---
+
 1\.\
 Her vil ties, her vil bies,\
 her vil bies, o svage sind!\
@@ -51,4 +52,4 @@ lad dig skue med olieblad!\
 Se! nu er stunden næsten oprunden,\
 næsten oprunden, som gør dig glad!\
 Kom, min due, lad dig skue,\
-lad dig skue med olieblad!\
+lad dig skue med olieblad!

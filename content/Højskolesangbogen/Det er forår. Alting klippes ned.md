@@ -55,4 +55,4 @@ at forstå, at Alt og Intet er os givet.\
 Og en gang går solen sin\
 runde uden mig,\
 men når forårssolen skinner,\
-lever jeg!\
+lever jeg!

@@ -5,6 +5,7 @@ melodi: "P. E. Lange-Müller, 1885"
 nummer_v18: "316"
 tema: "Året – midsommer"
 ---
+
 1\.\
 Vi elsker vort land,\
 når den signede jul\

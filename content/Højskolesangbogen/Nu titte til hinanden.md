@@ -5,6 +5,7 @@ melodi: "C. E. F. Weyse, 1837"
 nummer_v18: "13"
 tema: "Morgen"
 ---
+
 1\.\
 Nu titte til hinanden de favre blomster små,\
 de muntre fugle kalde på hverandre.\
@@ -33,4 +34,4 @@ men børnene leged ham ved barmen.
 O du, som os velsigned og tog i favn de små,\
 en morgen se vi dig i paradiset!\
 Du lærte os til Gud vore øjne opslå,\
-evindelig være du lovpriset!\
+evindelig være du lovpriset!

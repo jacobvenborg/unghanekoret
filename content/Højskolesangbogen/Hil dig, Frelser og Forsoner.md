@@ -5,6 +5,7 @@ melodi: "C. C. Hoffmann, 1878"
 nummer_v18: "279"
 tema: "Året – påske"
 ---
+
 1\.\
 Hil dig, frelser og forsoner!\
 verden dig med torne kroner,\
@@ -66,4 +67,4 @@ Ja, jeg tror på korsets gåde,\
 gør det, Frelser, af din nåde.\
 Stå mig bi, når fjenden frister!\
 ræk mig hånd, når øjet brister!\
-sig: vi gå til Paradis!\
+sig: vi gå til Paradis!

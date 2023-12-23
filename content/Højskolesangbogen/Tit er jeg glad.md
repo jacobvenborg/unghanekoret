@@ -3,10 +3,10 @@ title: "Tit er jeg glad"
 tekst: "B.S. Ingemann, 1812"
 melodi: "Carl Nielsen, 1917"
 toneart: "D-mol"
+stemmer: "To (MB)"
 nummer_v18: "85"
 tema: "Liv"
 ---
-*Noter: andenstemme*
 
 1\.\
 Tit er jeg glad og vil dog gerne græde,\
@@ -36,4 +36,4 @@ for at udtømme det beklemte bryst.
 O du, som ene dele kan min glæde!\
 Du ved hvis barm jeg turde frit udgræde!\
 O, hvis du kendte, hvis du elsked' mig,\
-jeg kunne være, som jeg er - hos dig.\
+jeg kunne være, som jeg er - hos dig.

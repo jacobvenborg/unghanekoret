@@ -5,6 +5,7 @@ melodi: "Egil Harder, 1945"
 nummer_v18: "262"
 tema: "Året – tidligt forår"
 ---
+
 1\.\
 Hvad var det dog, der skete?\
 Mit vinterfrosne hjertes kvarts\
@@ -58,4 +59,4 @@ Så bøjer jeg mig da mod jord\
 og stryger ømt dit silkeflor,\
 en flig af nådens trone.\
 Du lille anemone,\
-hvor er vor skaber stor!\
+hvor er vor skaber stor!

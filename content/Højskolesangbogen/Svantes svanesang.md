@@ -5,9 +5,6 @@ melodi: "Benny Andersen, 1972"
 nummer_v19: "132"
 tema: "Liv"
 ---
-*Noter:*
-
-***
 
 1\.\
 Timerne føles så korte,\
