@@ -5,7 +5,7 @@ melodi: "Gammel negroid spirituel sang"
 toneart: "G-dur"
 ---
 
-Omkvæd\
+*Omkvæd*\
 Swing low, sweet chariot\
 Comin' for to carry me home\
 Swing low, sweet chariot\
@@ -17,7 +17,7 @@ Comin' for to carry me home\
 A band of angels comin' after me\
 Comin' for to carry me home
 
-Omkvæd\
+*Omkvæd*\
 Swing low, sweet chariot\
 Comin' for to carry me home\
 Swing low, sweet chariot\
@@ -29,7 +29,7 @@ Comin' for to carry me home\
 Tell al my friends that I'm a comin' too\
 Comin' for to carry me home
 
-Omkvæd\
+*Omkvæd*\
 Swing low, sweet chariot\
 Comin' for to carry me home\
 Swing low, sweet chariot\
@@ -41,7 +41,7 @@ Comin' for to carry me home\
 But still my soul feels heavenly bound\
 Comin' for to carry me home
 
-Omkvæd\
+*Omkvæd*\
 Swing low, sweet chariot\
 Comin' for to carry me home\
 Swing low, sweet chariot\

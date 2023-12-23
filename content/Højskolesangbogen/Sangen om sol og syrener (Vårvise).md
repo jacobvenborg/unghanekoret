@@ -12,7 +12,7 @@ Våren i eksplosion\
 Alt hvad som lever og forener\
 Os i en egen komposition
 
-Omkvæd\
+*Omkvæd*\
 Gi' mig kun en sang\
 Så ingen vinter går\
 Uden at den minder os om\
@@ -25,7 +25,7 @@ Midt i den lyse vår\
 Jeg var som i konstant narkose\
 Elskede dig med hud og hår
 
-Omkvæd\
+*Omkvæd*\
 Gi' mig kun en sang\
 Så ingen vinter går\
 Uden at den minder os om\
@@ -38,7 +38,7 @@ Er vi så langt på vej\
 Tiden har lagt helt andre planer\
 Her har du min forglemmigej
 
-Omkvæd\
+*Omkvæd*\
 Gi' mig kun en sang\
 Så ingen vinter går\
 Uden at den minder os om\

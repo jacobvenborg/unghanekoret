@@ -12,7 +12,7 @@ men min skat, Du kan stole på mig.\
 Det er fuldstændig sandt, når jeg siger,\
 at mit hjerte kun banker for Dig.
 
-Omkvæd\
+*Omkvæd*\
 Og lidt for Susanne, Birgitte og Hanne,\
 og Tove og Anne og Lizzie og Kiss.\
 Foruden Agnete, Elisa og Grethe,\
@@ -24,7 +24,7 @@ Du skal vide - om natten, når jeg\
 står ved roret og ser på en stjerne,\
 er jeg altid i tanken hos Dig.
 
-Omkvæd\
+*Omkvæd*\
 Og lidt hos Susanne, Birgitte og Hanne,\
 og Tove og Anne og Lizzie og Kiss.\
 Foruden Agnete, Elisa og Grethe,\
@@ -36,7 +36,7 @@ Du skal se, når jeg kommer i havn,\
 på min arm er jeg smukt dekoreret,\
 med et hjerte, og der står dit navn.
 
-Omkvæd\
+*Omkvæd*\
 Ved siden af Susanne’s, Birgitte og Hanne’s,\
 og Tove og Anne’s og Lizzie og Kiss.\
 Foruden Agnete’s, Elisa og Grethe’s,\

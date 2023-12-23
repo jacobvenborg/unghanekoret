@@ -8,7 +8,7 @@ toneart: "F-mol"
 
 ***
 
-Omkvæd\
+*Omkvæd*\
 Joshua fit the battle of Jericho\
 Jericho Jericho\
 Joshua fit the battle of Jericho\
@@ -27,7 +27,7 @@ He was the son of Nun\
 He never stopped his work until\
 Until the work was done
 
-Omkvæd\
+*Omkvæd*\
 Joshua fit the battle of Jericho\
 Jericho Jericho\
 Joshua fit the battle of Jericho\
@@ -45,7 +45,7 @@ He marched with spear in hand\
 Go blow them ram horns, Joshua cried\
 'Cause the battle is in my hands
 
-Omkvæd\
+*Omkvæd*\
 Joshua fit the battle of Jericho\
 Jericho Jericho\
 Joshua fit the battle of Jericho\
@@ -69,7 +69,7 @@ Salvation in his hand\
 Go blow them ram horns Joshua cried\
 'Cause the devil can't do you no harm
 
-Omkvæd\
+*Omkvæd*\
 Joshua fit the battle of Jericho\
 Jericho Jericho\
 Joshua fit the battle of Jericho\
@@ -87,7 +87,7 @@ The trumpets began to sound\
 Old Joshua shouted glory\
 And the walls came tumblin' down
 
-Omkvæd\
+*Omkvæd*\
 Joshua fit the battle of Jericho\
 Jericho Jericho\
 Joshua fit the battle of Jericho\

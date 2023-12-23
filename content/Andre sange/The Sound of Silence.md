@@ -4,10 +4,8 @@ categories: "Andre sange"
 tekst: "Simon & Garfunkel, 1966"
 melodi: "Simon & Garfunkel, 1966"
 toneart: "C#-mol"
+stemmer: "Tre (TMB) i omkvæd"
 ---
-*Noter: trestemmigt i omkvæd (TMB)*
-
-***
 
 1\.\
 Hello darkness, my old friend\
@@ -36,7 +34,7 @@ People writing songs that voices never share\
 No one dare\
 Disturb the sound of silence
 
-4.*synges stille*\
+4\. *(synges stille)*\
 "Fools" said I, "You do not know\
 Silence like a cancer grows\
 Hear my words that I might teach you\

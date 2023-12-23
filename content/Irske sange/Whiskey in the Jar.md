@@ -14,7 +14,7 @@ I met with captain Farrell and his money he was counting\
 I first produced me pistol and then produced me rapier\
 Saying "Stand and deliver" for he were a foul deceiver
 
-Omkvæd\
+*Omkvæd*\
 Mush-a ring dum-a do dum-a da\
 Whack for me daddy-o.\
 Whack for me daddy-o\
@@ -26,7 +26,7 @@ I put it in me pocket and I took it home to Jenny\
 She sighed and she swore that she never would deceive me\
 But the devil take the women for they never can be easy
 
-Omkvæd\
+*Omkvæd*\
 Mush-a ring dum-a do dum-a da\
 Whack for me daddy-o.\
 Whack for me daddy-o\
@@ -38,7 +38,7 @@ I dreamt of gold and jewels and for sure 't was no wonder\
 But Jenny drew me charges and she filled them up with water\
 Then sent for captain Farrell to be ready for the slaughter
 
-Omkvæd\
+*Omkvæd*\
 Mush-a ring dum-a do dum-a da\
 Whack for me daddy-o.\
 Whack for me daddy-o\
@@ -50,7 +50,7 @@ Up comes a band of footmen and likewise captain Farrell\
 I first produced me pistol for she stole away me rapier\
 I couldn't shoot the water, so a prisoner I was taken
 
-Omkvæd\
+*Omkvæd*\
 Mush-a ring dum-a do dum-a da\
 Whack for me daddy-o.\
 Whack for me daddy-o\
@@ -62,7 +62,7 @@ robbin' Captain Farrell of the Gilgarra Mountains\
 But they didn't take me fists and I knocked the jailor down\
 And a bit a petty farewell to the high fisted town
 
-Omkvæd\
+*Omkvæd*\
 Mush-a ring dum-a do dum-a da\
 Whack for me daddy-o.\
 Whack for me daddy-o\
@@ -74,7 +74,7 @@ If I can find his station in Cork or in Killarney\
 And if he'll go with me, we'll go rovin' through Killkenny\
 And I'm sure he'll treat me better than me own a-sporting Jenny
 
-Omkvæd\
+*Omkvæd*\
 Mush-a ring dum-a do dum-a da\
 Whack for me daddy-o.\
 Whack for me daddy-o\
@@ -86,7 +86,7 @@ and others take delight in the hurling and the bowling\
 but I take delight in the juice of the barley\
 and courting pretty fair maids in the morning bright and early
 
-Omkvæd\
+*Omkvæd*\
 Mush-a ring dum-a do dum-a da\
 Whack for me daddy-o.\
 Whack for me daddy-o\

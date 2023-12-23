@@ -3,13 +3,11 @@ title: "All You Need Is Love"
 tekst: "The Beatles, 1967"
 melodi: "The Beatles, 1967"
 toneart: "G-dur"
+stemmer: "Tre (TMB)"
 categories: "Andre sange"
 ---
-*Noter: 3-stemmigt*
 
-***
-
-Intro\
+*Intro*\
 Love, love, love\
 Love, love, love\
 Love, love, love
@@ -26,18 +24,18 @@ No one you can save that can't be saved\
 Nothing you can do but you can learn how to be you in time\
 It's easy
 
-Omkvæd\
+*Omkvæd*\
 All you need is love\
 All you need is love\
 All you need is love, love\
 Love is all you need
 
-Mellemspil\
+*Mellemspil*\
 Love, love, love\
 Love, love, love\
 Love, love, love
 
-Omkvæd\
+*Omkvæd*\
 All you need is love\
 All you need is love\
 All you need is love, love\
@@ -49,13 +47,13 @@ Nothing you can see that isn't shown\
 Nowhere you can be that isn't where you're meant to be\
 It's easy
 
-Omkvæd\
+*Omkvæd*\
 All you need is love\
 All you need is love\
 All you need is love, love\
 Love is all you need
 
-Omkvæd\
+*Omkvæd*\
 All you need is love\
 All you need is love\
 All you need is love, love\

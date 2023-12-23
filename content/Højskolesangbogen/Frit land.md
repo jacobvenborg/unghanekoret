@@ -17,7 +17,7 @@ Over landets grænser, ind i stuen, i mit hjem\
 Vi ska' kaste os i bølgerne, der slår mod kysten ind\
 Frit land, frit for os selv
 
-Omkvæd\
+*Omkvæd*\
 Sommeren var gået, da jeg rev mig på din torn\
 Alt det smukkeste gør ondt\
 Fra myggestik ved søerne til trådene i bølgerne\
@@ -37,7 +37,7 @@ Hvordan ska' jeg ku' bære hele kloden på mit skød?\
 Hele verdens smerte kommer ikke mine ved\
 Frit land, frit land, mit sted
 
-Omkvæd\
+*Omkvæd*\
 Sommeren var gået, da jeg rev mig på din torn\
 Alt det smukkeste gør ondt\
 Fra myggestik ved søerne til trådene i bølgerne\

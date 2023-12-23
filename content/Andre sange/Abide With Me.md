@@ -5,8 +5,6 @@ melodi: "Eventide (William Henry Monk)"
 categories: "Andre sange"
 ---
 
-***
-
 1\.\
 Abide with me, fast falls the eventide\
 The darkness deepens Lord, with me abide\

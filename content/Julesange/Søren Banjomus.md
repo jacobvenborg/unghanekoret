@@ -4,7 +4,7 @@ tekst: "Otto Brandenburg, 1969"
 melodi: "Skiddy-mer-rink-a-doo"
 ---
 
-Omkvæd\
+*Omkvæd*\
 Skillema-dinka-dinka-du, skillema-dinka-du\
 Hør på Søren Banjomus, han spiller nemlig nu\
 Skillema-dinka-dinka-du, skillema-dinka-du\

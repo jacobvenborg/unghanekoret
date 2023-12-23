@@ -15,7 +15,7 @@ and could wander wild and free\
 There was always a longing in my mind\
 to follow the call of the sea
 
-Omkvæd\
+*Omkvæd*\
 So I'll sing farewell to Carlingford\
 and farewell to Grenore\
 and I'll think of you both day and night\
@@ -28,7 +28,7 @@ I have sailed before the mast\
 and on every voyage that I took\
 I would swear t'would be me last!
 
-Omkvæd\
+*Omkvæd*\
 So I'll sing farewell to Carlingford\
 and farewell to Grenore\
 and I'll think of you both day and night\
@@ -41,7 +41,7 @@ and she lives in Grenore\
 and the foremost thought within her mind\
 was to keep me safe on shore
 
-Omkvæd\
+*Omkvæd*\
 So I'll sing farewell to Carlingford\
 and farewell to Grenore\
 and I'll think of you both day and night\
@@ -54,14 +54,14 @@ He can go, or he can stay\
 But once the sea gets in his blood\
 When she calls, he must obey!
 
-Omkvæd\
+*Omkvæd*\
 So I'll sing farewell to Carlingford\
 and farewell to Grenore\
 and I'll think of you both day and night\
 until I return once more\
 until I return once more
 
-Sidste omkvæd\
+Sidste *Omkvæd*\
 Yes  I'll sing farewell to Carlingford\
 and farewell to Grenore\
 and I'll think of you both day and night\

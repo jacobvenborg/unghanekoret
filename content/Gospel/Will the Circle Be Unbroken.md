@@ -14,7 +14,7 @@ On one cold and cloudy day\
 When I saw that hearse come rolling\
 For to carry my mother away
 
-Omkvæd\
+*Omkvæd*\
 Will the circle be unbroken\
 by and by, Lord, by and by\
 There's a better home a-waiting\
@@ -26,7 +26,7 @@ undertaker please drive slow\
 for this lady you are carrying\
 Lord, I hate to see here go
 
-Omkvæd\
+*Omkvæd*\
 Will the circle be unbroken\
 by and by, Lord, by and by\
 There's a better home a-waiting\
@@ -38,7 +38,7 @@ Tried to hold up and be brave\
 But I could not hide my sorrow\
 When they laid her in the grave
 
-Omkvæd\
+*Omkvæd*\
 Will the circle be unbroken\
 by and by, Lord, by and by\
 There's a better home a-waiting\
@@ -50,7 +50,7 @@ missed my mother, she was gone\
 all my brothers, and sisters crying\
 what a home so sad and lone
 
-Omkvæd\
+*Omkvæd*\
 Will the circle be unbroken\
 by and by, Lord, by and by\
 There's a better home a-waiting\
@@ -62,7 +62,7 @@ Hymns of faith that made us strong\
 Ones that Mother Maybelle taught us\
 Hear the angels sing along
 
-Omkvæd\
+*Omkvæd*\
 Will the circle be unbroken\
 by and by, Lord, by and by\
 There's a better home a-waiting\

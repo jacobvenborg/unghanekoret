@@ -17,7 +17,7 @@ For you stole Trevelyan's corn,\
 So the young might see the morn.\
 Now a prison ship lies waiting in the bay
 
-Omkvæd\
+*Omkvæd*\
 Low lie the fields of Athenry\
 Where once we watched the small free birds fly\
 Our love was on the wing, we had dreams and songs to sing\
@@ -31,7 +31,7 @@ Against the famine and the Crown,\
 I rebelled, they put me down.\
 Now you must raise our child with dignity
 
-Omkvæd\
+*Omkvæd*\
 Low lie the fields of Athenry\
 Where once we watched the small free birds fly\
 Our love was on the wing, we had dreams and songs to sing\
@@ -45,7 +45,7 @@ Sure she'll wait and hope and pray,\
 For her love in Botany Bay\
 It's so lonely 'round the fields of Athenry
 
-Omkvæd\
+*Omkvæd*\
 Low lie the fields of Athenry\
 Where once we watched the small free birds fly\
 Our love was on the wing, we had dreams and songs to sing\
@@ -63,7 +63,7 @@ Where once we watched the small free birds fly\
 Our love was on the wing, we had dreams and songs to sing\
 It's so lonely 'round the fields of Athenry
 
-Omkvæd\
+*Omkvæd*\
 Low lie the fields of Athenry\
 Where once we watched the small free birds fly\
 Our love was on the wing, we had dreams and songs to sing\

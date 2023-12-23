@@ -17,7 +17,7 @@ Men folkestyret hele året rundt\
 En enkelt tur til urnen det er ingen sag\
 Det holder vores samfund sundt
 
-Omkvæd\
+*Omkvæd*\
 (så) Lad din stemme - blive hørt\
 Lad din stemme blive hørt\
 Hvis du synes politik det er skørt\
@@ -41,7 +41,7 @@ Hvis vi taler i munden på hinand’\
 Stille lytten er intet nederlag\
 Men bevis på at du har forstand
 
-Omkvæd\
+*Omkvæd*\
 Lad din stemme - blive hørt\
 Lad din stemme blive hørt\
 Hvis du vil med på vognen inden toget er kørt\
@@ -65,13 +65,13 @@ Tal med din bedste ven\
 Rejs dig fra sofaen, kom så en-to-tre\
 Der går nok fire år igen
 
-Omkvæd\
+*Omkvæd*\
 (så) Lad din stemme - blive hørt\
 Lad din stemme blive hørt\
 Hvis du synes politik det er skørt\
 Så lad din stemme blive hørt
 
-Omkvæd\
+*Omkvæd*\
 Lad din stemme - blive hørt\
 Lad din stemme blive hørt\
 Hvis du vil med på vognen inden toget er kørt\

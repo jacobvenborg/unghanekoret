@@ -12,7 +12,7 @@ I saw a horse outside the door where my old horse should be\
 Well, I called me wife and said to her: Will you kindly tell to me\
 Who owns that horse outside the door where my old horse should be?
 
-Omkvæd\
+*Omkvæd*\
 Ah, you're drunk,\
 you're drunk you silly old fool,\
 still you can not see\
@@ -26,7 +26,7 @@ I saw a coat behind the door where my old coat should be\
 Well, I called me wife and said to her: Will you kindly tell to me\
 Who owns that coat behind the door where my old coat should be
 
-Omkvæd\
+*Omkvæd*\
 Ah, you're drunk,\
 you're drunk you silly old fool,\
 still you can not see\
@@ -40,7 +40,7 @@ I saw a pipe up on the chair where my old pipe should be\
 Well, I called me wife and said to her: Will you kindly tell to me\
 Who owns that pipe up on the chair where my old pipe should be
 
-Omkvæd\
+*Omkvæd*\
 Ah, you're drunk,\
 you're drunk you silly old fool,\
 still you can not see\
@@ -54,7 +54,7 @@ I saw two boots beneath the bed where my old boots should be\
 Well, I called me wife and said to her: Will you kindly tell to me\
 Who owns them boots beneath the bed where my old boots should be
 
-Omkvæd\
+*Omkvæd*\
 Ah, you're drunk,\
 you're drunk you silly old fool,\
 still you can not see\
@@ -68,7 +68,7 @@ I saw a head upon the bed where my old head should be\
 Well, I called me wife and said to her: Will you kindly tell to me\
 Who owns that head upon the bed where my old head should be
 
-Omkvæd\
+*Omkvæd*\
 Ah, you're drunk,\
 you're drunk you silly old fool,\
 still you can not see\
@@ -82,7 +82,7 @@ I saw two hands upon her breasts where my old hands should be\
 Well, I called me wife and said to her: Will you kindly tell to me\
 Who owns them hands upon your breasts where my old hands should be
 
-Omkvæd\
+*Omkvæd*\
 Ah, you're drunk,\
 you're drunk you silly old fool,\
 still you can not see\
@@ -96,7 +96,7 @@ I saw a thing in her thing where my old thing should be\
 Well, I called me wife and said to her: Will you kindly tell to me\
 Who owns that thing in your thing where my old thing should be
 
-Omkvæd\
+*Omkvæd*\
 Ah, you're drunk,\
 you're drunk you silly old fool,\
 still you can not see\

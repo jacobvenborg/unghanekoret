@@ -12,7 +12,7 @@ tema: "Året – sensommer"
 høsten går ind.\
 Går igennem skoven ganske alene,\
 stille i sind.\
-Omkvæd\
+*Omkvæd*\
 Gyldne farver og sensommerbrise\
 fylder hjertet med vemodig musik,\
 går og nynner en sensommervise\
@@ -23,7 +23,7 @@ Sommerbrisen danner krusning på søen,\
 mystisk og sort.\
 Stæreflokke svæver højt over øen -\
 snart tager de bort.\
-Omkvæd\
+*Omkvæd*\
 Gyldne farver og sensommerbrise\
 fylder hjertet med vemodig musik,\
 går og nynner en sensommervise\
@@ -34,7 +34,7 @@ Duft af brænderøg blandt brunlige bregner,\
 blåsorte bær.\
 Stille summen mellem blade som blegner -\
 af’tnen er nær...\
-Omkvæd\
+*Omkvæd*\
 Gyldne farver og sensommerbrise\
 fylder hjertet med vemodig musik,\
 går og nynner en sensommervise\
@@ -45,7 +45,7 @@ Modne rønnebær bag dybgrønne grene\
 rødt titter frem -\
 Går igennem skoven ganske alene -\
 nu må jeg hjem!\
-Omkvæd\
+*Omkvæd*\
 Gyldne farver og sensommerbrise\
 fylder hjertet med vemodig musik,\
 går og nynner en sensommervise\

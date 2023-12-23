@@ -4,6 +4,7 @@ categories: "Andre sange"
 tekst: "Four Jacks, 1958"
 melodi: "Four Jacks, 1958"
 ---
+
 1\.\
 Langøret æsel trækker sin herre\
 hjem i en hoppende, slingrende kærre\

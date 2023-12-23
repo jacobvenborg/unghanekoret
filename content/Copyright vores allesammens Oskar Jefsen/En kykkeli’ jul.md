@@ -23,7 +23,7 @@ Men når ovnen er tændt\
 Og der lugter lidt brændt\
 Så bli’r det en kykkeli' jul
 
-Omkvæd\
+*Omkvæd*\
 En kykkeli’ juuuul\
 En kykkeli’ juuuul\
 Ja, når ovnen er tændt\
@@ -45,7 +45,7 @@ Så håber vi på\
 At i år vi kan få\
 En rigtig hvid og kykkeli' jul
 
-Omkvæd\
+*Omkvæd*\
 En kykkeli' juuuul\
 En kykkeli' juuuul\
 Ja, så håber vi på\
@@ -67,7 +67,7 @@ Et par vin fra Loire\
 Og så er den klar\
 Sikke dog en gløggeli’ jul
 
-Omkvæd\
+*Omkvæd*\
 En gløggeli’ juuuul\
 En gløggeli’ juuuul\
 Et par vin fra Loire\
@@ -89,14 +89,14 @@ Vi synger i flok\
 Når vi er nok\
 Nu bli’r det en kykkeli' jul
 
-Omkvæd\
+*Omkvæd*\
 En kykkeli' juuuul\
 En kykkeli' juuuul\
 Vi synger i flok\
 Når vi er nok\
 Nu bli’r det en kykkeli' jul
 
-Sidste omkvæd\
+Sidste *Omkvæd*\
 En kykkeli' juuuul\
 En kykkeli' juuuul\
 Vi synger i flok\

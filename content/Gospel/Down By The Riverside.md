@@ -16,7 +16,7 @@ I'm gonna lay down my burden,\
 Down by the riverside,\
 Studying war no more
 
-Omkvæd\
+*Omkvæd*\
 I ain't a gonna study war no more\
 Study war no more\
 Studying war no more\
@@ -32,7 +32,7 @@ I'm gonna put on my long white robe (where?)\
 Down by the riverside\
 Studying war no more
 
-Omkvæd\
+*Omkvæd*\
 I ain't a gonna study war no more\
 Study war no more\
 Studying war no more\
@@ -49,7 +49,7 @@ I'm gonna lay down my sword and shield (a-ha!)\
 Down by the riverside\
 Studying war no more
 
-Omkvæd\
+*Omkvæd*\
 I ain't a gonna study war no more\
 Study war no more\
 Studying war no more\

@@ -14,7 +14,7 @@ That caused me to stray from the land\
 Far away from me friends and relations\
 To follow the black velvet band
 
-Omkvæd\
+*Omkvæd*\
 Her eyes they shone like the diamonds\
 You'd think she was queen of the land\
 And her hair hung over her shoulders\
@@ -30,7 +30,7 @@ And slipped it right into me hand\
 Then the law came and put me in prison\
 Bad luck to her black velvet band
 
-Omkvæd\
+*Omkvæd*\
 Her eyes they shone like the diamonds\
 You'd think she was queen of the land\
 And her hair hung over her shoulders\
@@ -46,7 +46,7 @@ You're goin' to Van Dieman's land\
 Far away from your friends and relations\
 To follow the black velvet band
 
-Omkvæd\
+*Omkvæd*\
 Her eyes they shone like the diamonds\
 You'd think she was queen of the land\
 And her hair hung over her shoulders\

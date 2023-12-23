@@ -15,7 +15,7 @@ Hvisker palmesuset ikke\
 Synger templets klokker ej:\
 Kom igen, soldat fra England, kom igen til Mandalay!
 
-Omkvæd\
+*Omkvæd*\
 Kom igen til Mandalay, ad flotillens gamle vej\
 Husker du pagajens dunken fra Rangoon til Mandalay?\
 Oh, den vej til Mandalay, fuld af flyvefisk i leg\
@@ -31,7 +31,7 @@ Stavn mod stavn\
 Laste teaktræ favn på favn\
 I den sjip-sjap-våde havn
 
-Omkvæd\
+*Omkvæd*\
 Kom igen til Mandalay, ad flotillens gamle vej\
 Husker du pagajens dunken fra Rangoon til Mandalay?\
 Åh den vej til Mandalay fuld af flyvefisk i leg\
@@ -46,7 +46,7 @@ Hør nu kalder templets klokker\
 Og jeg ønsker kun, jeg lå\
 Bag den grå Moulmein Pagode med mit blik mod havets blå
 
-Omkvæd\
+*Omkvæd*\
 Kom igen til Mandalay, ad flotillens gamle vej\
 Husker du pagajens dunken fra Rangoon til Mandalay?\
 Åh den vej til Mandalay fuld af flyvefisk i leg\

@@ -13,7 +13,7 @@ Work work and work there's nok to lawe.\
 No food, no hvil, no noget som helst\
 I think it is a little trælst.
 
-Omkvæd\
+*Omkvæd*\
 Yeah it's hard to be a nissemand\
 Yeah it's hard to be a nisse.
 

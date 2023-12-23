@@ -5,8 +5,6 @@ melodi: "Sebastian, 1987"
 categories: "Andre sange"
 ---
 
-***
-
 1\.\
 Nana, Nana\
 Har du hørt om Nana?\
@@ -18,7 +16,7 @@ Dufter af parfume\
 Hun løfter op i skørtene\
 Så man kan se det ny kostume
 
-Omkvæd\
+*Omkvæd*\
 Nana, jeg elsker dig\
 Du ved, jeg står på pinde\
 Men jeg kan hverken gi' dig eller finde\
@@ -36,7 +34,7 @@ Hun er noget særligt\
 Helt sig selv og dødsensærlig\
 Si'r nogen ting, der' helt forfærd'lig
 
-Omkvæd\
+*Omkvæd*\
 Nana, jeg elsker dig\
 Du ved, jeg står på pinde\
 Men jeg kan hverken gi' dig eller finde\
@@ -50,7 +48,7 @@ Og er lige ved og tude\
 Erle, perle, snip-snap-snude\
 Jeg er dum, så jeg er ude
 
-Omkvæd\
+*Omkvæd*\
 Nana, jeg elsker dig\
 Du ved, jeg står på pinde\
 Og jeg tror, du med tiden selv vil finde\

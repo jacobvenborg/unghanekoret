@@ -18,7 +18,7 @@ Vi følger med herhjemmefra\
 Når fløjten går så er vi klar\
 Moskva skal hør’ os når vi synger sammen
 
-Omkvæd\
+*Omkvæd*\
 Vi galer for Danmark\
 Vi synger i flok\
 I rød-hvide farver\
@@ -35,7 +35,7 @@ Vi følger med herhjemmefra\
 Når fløjten går så er vi klar\
 Putin skal hør’ os når vi synger sammen
 
-Omkvæd\
+*Omkvæd*\
 Vi galer for Danmark\
 Vi synger i flok\
 I rød-hvide farver\

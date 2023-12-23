@@ -5,8 +5,6 @@ melodi: "Mogens Jermiin Nissen, 1948"
 categories: "Andre sange"
 ---
 
-***
-
 1\.\
 Nu tændes der stjerner på himlens blå,\
 halvmånen løfter sin sabel.\

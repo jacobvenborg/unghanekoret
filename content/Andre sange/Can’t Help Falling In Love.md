@@ -3,7 +3,9 @@ title: "Can’t Help Falling In Love"
 categories: "Andre sange"
 tekst: "Elvis Presley, 1961"
 melodi: "Elvis Presley, 1961"
+stemmer: "Tre (TMB)"
 ---
+
 Wise men say\
 Only fools rush in\
 But I can't help falling in love with you\

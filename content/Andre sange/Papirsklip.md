@@ -1,9 +1,10 @@
 ---
 title: "Papirsklip"
 categories: "Andre sange"
-tekst: "Kim Larsen, 1983, på albummet Midt om natten"
-melodi: "Kim Larsen, 1983, på albummet Midt om natten"
+tekst: "Kim Larsen, 1983"
+melodi: "Kim Larsen, 1983"
 ---
+
 1\.\
 Når nu min verden bliver kold og forladt\
 Finder jeg trøst i min kæreste skat\
@@ -16,7 +17,7 @@ De som gav mig til denne jord\
 Kærlige kys og en duft af jasmin\
 Altid solskin og sødeste min
 
-Omkvæd\
+*Omkvæd*\
 Livet er langt, lykken er kort\
 Salig er den, der tør give det bort
 
@@ -26,11 +27,11 @@ Utallige klip går igen og igen\
 Et aldrig færdigt eller fuldendt motiv\
 Sort silhouet af kvinden i mit liv
 
-Omkvæd\
+*Omkvæd*\
 Livet er langt, lykken er kort\
 Salig er den, der tør give det bort
 
-C-stykke\
+*C-stykke*\
 Domine et sanctus\
 Domine et sanctus\
 Domine et sanctus\
@@ -44,7 +45,7 @@ Finder jeg trøst i min kæreste skat\
 Klipper motiver med drømme og saks\
 Papirsilhouetter af den fineste slags
 
-Omkvæd\
+*Omkvæd*\
 Livet er langt, lykken er kort\
 Salig er den, der tør give det bort\
 Livet er langt, lykken er kort\

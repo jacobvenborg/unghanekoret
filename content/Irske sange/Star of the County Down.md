@@ -15,7 +15,7 @@ She looked so sweet fronn her two bare feet\
 To the sheen of her nut brown hair\
 Such a winsome elf, sure I shook myself\
 For to see I was really there\
-Omkvæd\
+*Omkvæd*\
 From Bantry Bay up to Derry Quay and\
 From Galway to Dublin Town\
 No maid I've seen like the brown cailín\
@@ -30,7 +30,7 @@ He smiled at me and he says's, say's he\
 "That's the gem of Ireland's crown\
 It's Rosie McCann from the banks of the Bann\
 She's the star of the County Down"\
-Omkvæd\
+*Omkvæd*\
 From Bantry Bay up to Derry Quay and\
 From Galway to Dublin Town\
 No maid I've seen like the brown cailín\
@@ -45,7 +45,7 @@ At the Lammas dance I was in the trance\
 As she whirled with the lads of the town\
 And it broke my heart just to be apart\
 From the star of the County Down\
-Omkvæd\
+*Omkvæd*\
 From Bantry Bay up to Derry Quay and\
 From Galway to Dublin Town\
 No maid I've seen like the brown cailín\
@@ -60,7 +60,7 @@ No pipe I'll smoke, no horse I'll yoke\
 Till my plough tu-urns rust coloured brown\
 Till a smiling bride, by my own fireside\
 Sits the star of the County Down\
-Omkvæd\
+*Omkvæd*\
 From Bantry Bay up to Derry Quay and\
 From Galway to Dublin Town\
 No maid I've seen like the brown cailín\

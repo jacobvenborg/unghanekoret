@@ -14,7 +14,7 @@ Lad os ta’ til barnetroens drømmeland,\
 og hvis du drømme kan,\
 så vil jeg hviske, når vi er der:
 
-Omkvæd\
+*Omkvæd*\
 ”Skal vi klippe vore julehjerter sammen?\
 i en præstegård med rigtig julesne.\
 Jeg kan tyd’ligt høre lænkehundens glammen,\
@@ -32,7 +32,7 @@ Og når mor skal til at koge risengrød\
 og brygge nissemjød,\
 så hvisker alle pi’r og drenge:
 
-Omkvæd\
+*Omkvæd*\
 ”Skal vi klippe vore julehjerter sammen?”\
 Det er lige sjovt for kvinden og for mand’n.\
 For ved juletid er alting fryd og gammen,\

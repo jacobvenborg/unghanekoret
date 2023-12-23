@@ -16,7 +16,7 @@ som de tapre tinsoldater\
 som den lille, store Claus\
 klapper vi med hatten, DAVS!
 
-Omkvæd\
+*Omkvæd*\
 Vi er røde, vi er hvide\
 Vi står sammen, side om side.\
 Vi er røde, vi er hvide\
@@ -28,13 +28,13 @@ når han ser en rød-hvid trøje.\
 Vi må kæmpe for det land,\
 der er boldens H.C. And.
 
-4\. *Dodo Gad*\
+4\. *(Dodo Gad)*\
 Moder Danmark elsker alle\
 danske drenge, der kan knalde\
 bolden ud til verdens skue,\
 som en lille ny havfrue.
 
-Omkvæd\
+*Omkvæd*\
 Vi er røde, vi er hvide\
 Vi står sammen, side om side.\
 Vi er røde, vi er hvide\
@@ -42,7 +42,7 @@ Vi står sammen, side om side.
 
 *Hallo? Hallo?!*
 
-Breakdown\
+*Breakdown*\
 Vi' humør og støvlekrudt\
 Vi er nederlag forbudt\
 Vi' kulør og glade fans\
@@ -50,19 +50,19 @@ Vi' de danske roligans
 
 *Guitarsolo*
 
-Breakdown *(Dodo Gad)*\
+*Breakdown (Dodo Gad)*\
 Vi' humør og støvlekrudt\
 Vi er nederlag forbudt\
 Vi' kulør og glade fans\
 Vi' de danske roligans
 
-Omkvæd\
+*Omkvæd*\
 Vi er røde, vi er hvide\
 Vi står sammen, side om side.\
 Vi er røde, vi er hvide\
 Vi står sammen, side om side.
 
-Omkvæd *(med andenstemme)*\
+*Omkvæd (med andenstemme)*\
 Vi er røde, vi er hvide\
 Vi står sammen, side om side.\
 Vi er røde, vi er hvide\

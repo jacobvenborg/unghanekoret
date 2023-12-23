@@ -15,7 +15,7 @@ And I've spent all my money on whiskey and beer\
 And now I'm returning with gold in great store,\
 And I never will play the wild rover no more
 
-Omkvæd\
+*Omkvæd*\
 And it's no, nay, never\
 No, nay, never, no more\
 Will I play the wild rover\
@@ -27,7 +27,7 @@ And I told the landlady my money was spent\
 I asked her for credit, she answered me "nay,\
 Such a custom like yours I can have any day"
 
-Omkvæd\
+*Omkvæd*\
 And it's no, nay, never\
 No, nay, never, no more\
 Will I play the wild rover\
@@ -39,7 +39,7 @@ And the landlady's eyes opened wide with delight\
 She said "I have whiskeys and wines of the best,\
 And the words that I told you were only in jest"
 
-Omkvæd\
+*Omkvæd*\
 And it's no, nay, never\
 No, nay, never, no more\
 Will I play the wild rover\

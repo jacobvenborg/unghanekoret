@@ -15,7 +15,7 @@ står vi i stjerneskær,\
 og hører klokkerne kime\
 for nu er julen her
 
-Omkvæd\
+*Omkvæd*\
 Englene synger højt i kor,\
 synger om fred på vor jord,\
 verden var aldrig helt forladt,\
@@ -27,7 +27,7 @@ nu er guds himmel nær,\
 vor lange vandring er over,\
 stjernen er standset her.
 
-Omkvæd\
+*Omkvæd*\
 Englene synger højt i kor,\
 synger om fred på vor jord,\
 verden var aldrig helt forladt,\
@@ -45,7 +45,7 @@ som vi skal eje en gang,\
 for dette barn har himmelen med\
 og jorden fyldes med saa-aang.
 
-Omkvæd\
+*Omkvæd*\
 Englene synger højt i kor,\
 synger om fred på vor jord,\
 verden var aldrig helt forladt,\

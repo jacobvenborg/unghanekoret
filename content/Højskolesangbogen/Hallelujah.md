@@ -17,7 +17,7 @@ It goes like this, the fourth, the fifth\
 The minor fall, the major lift\
 The baffled king composing Hallelujah
 
-Omkvæd\
+*Omkvæd*\
 Hallelujah, hallelujah\
 Hallelujah, hallelujah
 
@@ -29,7 +29,7 @@ She tied you to a kitchen chair\
 She broke your throne, and she cut your hair\
 And from your lips she drew the Hallelujah
 
-Omkvæd\
+*Omkvæd*\
 Hallelujah, hallelujah\
 Hallelujah, hallelujah
 
@@ -41,7 +41,7 @@ There's a blaze of light in every word\
 It doesn't matter which you heard\
 The holy or the broken Hallelujah
 
-Omkvæd\
+*Omkvæd*\
 Hallelujah, hallelujah\
 Hallelujah, hallelujah
 
