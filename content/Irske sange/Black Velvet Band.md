@@ -4,6 +4,7 @@ tekst: "The Irish Rovers, 1971 (The Unicorn)"
 melodi: "The Irish Rovers, 1971 (The Unicorn)"
 categories: "Irske sange"
 ---
+
 1\.\
 In a neat little town they called Belfast\
 Apprentice to trade I was bound\
@@ -62,7 +63,7 @@ For they'll fill you with whisky and porter\
 And the very next thing that you know, me lads\
 You've landed in Van Dieman's land
 
-Omkvæd x2\
+*Omkvæd (x 2)*\
 Her eyes they shone like the diamonds\
 You'd think she was queen of the land\
 And her hair hung over her shoulders\

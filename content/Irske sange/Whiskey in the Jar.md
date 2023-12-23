@@ -2,11 +2,9 @@
 title: "Whiskey in the Jar"
 tekst: "Gjort populær af The Dubliners, 1960’erne"
 melodi: "Gjort populær af The Dubliners, 1960’erne"
+toneart: "D-dur"
 categories: "Irske sange"
 ---
-*Noter: D dur*
-
-***
 
 1\.\
 As I was a goin' over the far famed Kerry mountains\

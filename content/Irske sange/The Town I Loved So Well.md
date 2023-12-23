@@ -4,9 +4,6 @@ tekst: "Phil Coulter"
 melodi: "The Dubliners, 1973"
 categories: "Irske sange"
 ---
-*Noter:*
-
-***
 
 1\.\
 In my memory I will always see\

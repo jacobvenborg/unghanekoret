@@ -3,11 +3,9 @@ title: "The Fields of Athenry"
 tekst: "Pete St. John, 1970’erne"
 melodi: "Ukendt"
 toneart: "F-dur"
+stemmer: "Tre (TMB) i omkvæd"
 categories: "Irske sange"
 ---
-*Noter: trestemmig i a capella omkvæd (TMB)*
-
-***
 
 1\.\
 By a lonely prison wall,\
@@ -51,13 +49,13 @@ Where once we watched the small free birds fly\
 Our love was on the wing, we had dreams and songs to sing\
 It's so lonely 'round the fields of Athenry
 
-Omkvæd *(her kommer overstemmen på)*\
+*Omkvæd (her kommer overstemmen på)*\
 Low lie the fields of Athenry\
 Where once we watched the small free birds fly\
 Our love was on the wing, we had dreams and songs to sing\
 It's so lonely 'round the fields of Athenry
 
-Omkvæd *(a capella)*\
+*Omkvæd (a capella)*\
 Low lie the fields of Athenry\
 Where once we watched the small free birds fly\
 Our love was on the wing, we had dreams and songs to sing\

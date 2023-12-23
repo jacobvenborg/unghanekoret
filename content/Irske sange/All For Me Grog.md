@@ -5,7 +5,7 @@ melodi: "The Dubliners, 1967"
 toneart: "G-dur"
 categories: "Irske sange"
 ---
-*Noter: 2 og 2 skiftes til at synge 1 vers (fraset 1. vers)*
+*Noter: To og to skiftes til at synge ét vers (fraset 1. vers)*
 
 ***
 
@@ -87,13 +87,12 @@ Me noggin', noggin' bed\
 It's all sold for beer and tobacco\
 You see I sold it to the girls\
 Until the springs were all in twirls\
-And the sheets they're lookin' out for better weather\
-*Omkvæd*\
+And the sheets they're lookin' out for better weather
 
+*Omkvæd (gentages ad libitum)*\
 And it's all for me grog\
 Me jolly, jolly grog\
 All for my beer and tobacco\
 Well, I spent all me tin\
 With the ladies drinkin' gin\
-Far across the Western Ocean I must wander\
-x ∞
+Far across the Western Ocean I must wander

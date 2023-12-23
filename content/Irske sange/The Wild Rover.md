@@ -3,11 +3,9 @@ title: "The Wild Rover"
 tekst: "Ukendt, 1500-tallet"
 melodi: "muligvis The Dubliners, 1964"
 toneart: "F-dur"
+stemmer: "Tre (TMB) i omkvæd"
 categories: "Irske sange"
 ---
-*Noter: trestemmigt omkvæd (TMB)*
-
-***
 
 1\.\
 I've been a wild rover for many's a year,\
@@ -51,7 +49,7 @@ And I'll ask them to pardon their prodigal son\
 And when they’ve caressed me as oft’ times before,\
 Then I never will play the wild rover no more
 
-Omkvæd x 2\
+*Omkvæd (x 2)*\
 And it's no, nay, never\
 No, nay, never, no more\
 Will I play the wild rover\

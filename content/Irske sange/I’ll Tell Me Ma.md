@@ -3,11 +3,9 @@ title: "I’ll Tell Me Ma"
 tekst: "Ukendt"
 melodi: "Ukendt"
 toneart: "F-dur"
+stemmer: "Tre (TMB) i omkvæd"
 categories: "Irske sange"
 ---
-*Noter: trestemmigt omkvæd (TMB)*
-
-***
 
 *Bro*\
 I'll tell me Ma when I go home,\
@@ -59,7 +57,7 @@ The boy's won't leave the girls alone.\
 They'll pull my hair, they stole my comb,\
 Well that's alright till I go home.
 
-Omkvæd \
+*Omkvæd*\
 She is handsome. She is pretty.\
 She is the bell of Dublin City.\
 She is courtin' one, two, three.\

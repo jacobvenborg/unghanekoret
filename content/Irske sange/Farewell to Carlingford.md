@@ -1,13 +1,11 @@
 ---
 title: "Farewell to Carlingford"
-tekst: "Spørg Niels Vilhelm"
-melodi: "Spørg Niels Vilhelm"
+tekst: "Tommy Makem, 1968"
+melodi:  "Tommy Makem, 1968"
 toneart: "C-dur"
+stemmer: "Tre (TMB) i omkvæd"
 categories: "Irske sange"
 ---
-*Noter: trestemmigt omkvæd*
-
-***
 
 1\.\
 When I was young and in my prime\

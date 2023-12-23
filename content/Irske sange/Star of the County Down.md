@@ -4,7 +4,6 @@ tekst: "Skrevet imellem 1866-1927"
 melodi: "Folkemelodi"
 categories: "Irske sange"
 ---
-***
 
 1\.\
 In Banbridge Town in the County Down\
@@ -14,7 +13,8 @@ And she smiled as she passed me by\
 She looked so sweet fronn her two bare feet\
 To the sheen of her nut brown hair\
 Such a winsome elf, sure I shook myself\
-For to see I was really there\
+For to see I was really there
+
 *Omkvæd*\
 From Bantry Bay up to Derry Quay and\
 From Galway to Dublin Town\
@@ -29,7 +29,8 @@ And I say's, say's I, to a passer-by\
 He smiled at me and he says's, say's he\
 "That's the gem of Ireland's crown\
 It's Rosie McCann from the banks of the Bann\
-She's the star of the County Down"\
+She's the star of the County Down"
+
 *Omkvæd*\
 From Bantry Bay up to Derry Quay and\
 From Galway to Dublin Town\
@@ -44,7 +45,8 @@ As she lilted an Irish tune\
 At the Lammas dance I was in the trance\
 As she whirled with the lads of the town\
 And it broke my heart just to be apart\
-From the star of the County Down\
+From the star of the County Down
+
 *Omkvæd*\
 From Bantry Bay up to Derry Quay and\
 From Galway to Dublin Town\
@@ -59,7 +61,8 @@ For a smile from my nut brown rose\
 No pipe I'll smoke, no horse I'll yoke\
 Till my plough tu-urns rust coloured brown\
 Till a smiling bride, by my own fireside\
-Sits the star of the County Down\
+Sits the star of the County Down
+
 *Omkvæd*\
 From Bantry Bay up to Derry Quay and\
 From Galway to Dublin Town\
