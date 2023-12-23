@@ -6,7 +6,7 @@ toneart: "B-mol"
 nummer_v18: "136"
 tema: "Liv"
 ---
-*Noter: Startone F, optakt på fireslaget*
+*Noter: Startone F, start/optakt på fireslaget*
 
 ***
 
