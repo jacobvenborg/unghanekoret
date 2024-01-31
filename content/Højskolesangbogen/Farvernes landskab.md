@@ -1,7 +1,7 @@
 ---
 title: "Farvernes landskab"
-tekst: "Valdemar Rasmussen, 1995"
-melodi: "Jens Rosendahl, 1994"
+tekst: "Jens Rosendahl, 1994"
+melodi: "Valdemar Rasmussen, 1995"
 toneart: "D-dur"
 nummer_v18: "383"
 tema: "Danmark"

@@ -24,5 +24,5 @@ men glemmer aldrig, ah, at det er dit.
 
 4\.\
 Det var så stærkt og så stolt, mit hjerte,\
-det sov og drømte i lyst og leg, leg,\
+det sov og drømte i lyst og leg,\
 nu kan det knuses, ah, men kun af dig.
