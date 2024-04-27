@@ -3,7 +3,7 @@ title: "Farewell to Carlingford"
 tekst: "Tommy Makem, 1968"
 melodi:  "Tommy Makem, 1968"
 toneart: "C-dur"
-stemmer: "Tre (TMB) i omkvæd"
+stemmer: "To (TM) i omkvæd"
 categories: "Irske sange"
 ---
 

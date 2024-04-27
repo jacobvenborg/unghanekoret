@@ -1,47 +1,52 @@
 ---
-title: "O Come, All Ye Faithful,"
-tekst: "Original på latin, 'Adeste Fideles' af John Francis Wade, 1751. Dansk tekst af Jørgen Christensen, ???"
-melodi: "John Reading, ???"
+title: "O Come, All Ye Faithful"
+tekst: "Efter latinsk forlæg (Adeste, Fideles), oversat af Fr. Oakeley, 1841"
+melodi: "John Francis Wade, 1751"
 nummer_v18: "241"
+nummer_v19: "252"
 tema: "Året – jul"
 ---
 
 1\.\
-O come, all ye faithful, joyful and triumphant!\
+O come, all ye faithful,\
+Joyful and triumphant,\
 O come ye, O come ye, to Bethlehem\
 Come and behold Him\
-Born the King of Angels\
-O come, let us adore Him\
-O come, let us adore Him\
-O come, let us adore Him\
-Christ the Lord!
+Born the King of Angels:\
+*O come, let us adore Him*\
+*O come, let us adore Him*\
+*O come, let us adore Him*\
+*Christ the Lord!*
 
 2\.\
-God of God, Light of Light\
-Lo, He abhors not the Virgin's womb\
-Very God\
-Begotten, not created\
-O come, let us adore Him\
-O come, let us adore Him\
-O come, let us adore Him\
-Christ the Lord!
+God of God,\
+Light of Light\
+Lo! He abhors not the Virgin's womb,\
+Very God,\
+Begotten, not created:\
+*O come, let us adore Him*\
+*O come, let us adore Him*\
+*O come, let us adore Him*\
+*Christ the Lord!*
 
 3\.\
-Sing, choirs of angels, sing in exultation\
-Sing, all ye citizens of heaven above!\
+Sing, choirs of angels,\
+Sing in exultation,\
+Sing, all ye citizens of heaven above,\
 Glory to God\
-All glory in the highest\
-O come, let us adore Him\
-O come, let us adore Him\
-O come, let us adore Him\
-Christ the Lord!
+In the highest:\
+*O come, let us adore Him*\
+*O come, let us adore Him*\
+*O come, let us adore Him*\
+*Christ the Lord!*
 
-4.\.\
-Yea, Lord, we greet Thee, born this happy morning\
-Jesus, to Thee be glory given\
-Word of the Father\
-Now in flesh appearing\
-O come, let us adore Him\
-O come, let us adore Him\
-O come, let us adore Him\
-Christ the Lord!
+4\.\
+O, Yea, Lord we greet thee,\
+Born this happy morning,\
+Jesu, to thee be glory given\
+Word of the father,\
+Now in flesh appearing:\
+*O come, let us adore Him*\
+*O come, let us adore Him*\
+*O come, let us adore Him*\
+*Christ the Lord!*
