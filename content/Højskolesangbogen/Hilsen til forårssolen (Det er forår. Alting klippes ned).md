@@ -1,9 +1,10 @@
 ---
-title: "Det er forår. Alting klippes ned"
+title: "Hilsen til forårssolen (Det er forår. Alting klippes ned)"
 tekst: "Benny Andersen, 1981"
 melodi: "Povl Dissing, 1981"
 toneart: "G-dur"
 nummer_v18: "285"
+nummer_v19: "308"
 tema: "Året – sent forår"
 ---
 

@@ -2,8 +2,8 @@
 title: "Se, det summer af sol over engen"
 tekst: "Holger Drachmann, 1897"
 melodi: "Stephen C. Foster, 1856"
-nummer_v18: "320"
 nummer_v18: "295"
+nummer_v19: "320"
 tema: "Året – sent forår"
 ---
 

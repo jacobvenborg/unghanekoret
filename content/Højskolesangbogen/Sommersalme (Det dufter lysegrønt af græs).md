@@ -1,8 +1,9 @@
 ---
-title: "Det dufter lysegrønt af græs"
+title: "Sommersalme (Det dufter lysegrønt af græs)"
 tekst: "På dansk ved Johannes Johansen, 1985"
 melodi: "Waldemar Åhlén, 1933"
 nummer_v18: "306"
+nummer_v19: "325"
 tema: "Året – tidlig sommer"
 ---
 
