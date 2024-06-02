@@ -13,7 +13,7 @@ kækt erantis trodser kulden.\
 Spurven solforrykt i sind\
 tjipper i en nøgen lind.\
 Solet smiler husfacader\
-gennem lange, lyse gader.\
+gennem lange, lyse gader.
 
 2\.\
 Blussende som hyacinter,\

@@ -27,10 +27,10 @@ vel også kanefarter\
 på landet hid og did.
 
 3\.\
-Men når sig lærker svinge\
-mod sky med lifligt slag,\
-på engen om at springe\
-det er en anden sag!\
+Men når så lærken svinger\
+sig op med muntert slag,\
+og vi på engen springer,\
+er det en anden sag!\
 Men nu min kæphest rolig\
 i krogen hist må stå,\
 thi uden for vor bolig\
